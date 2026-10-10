@@ -1,0 +1,99 @@
+plugins {
+	id 'net.fabricmc.fabric-loom' version "${loom_version}"
+}
+
+loom {
+	splitEnvironmentSourceSets()
+
+	mods {
+		"skyfriends" {
+			sourceSet sourceSets.main
+			sourceSet sourceSets.client
+		}
+	}
+
+	runs {
+		configureEach {
+			// ./gradlew runClientGameTest -PskyTests=Cirri runs only the named client tests.
+			if (project.hasProperty('skyTests')) {
+				vmArg "-Dskyfriends.tests=${project.property('skyTests')}"
+			}
+			// -PskyFilm also films the Cirri in flight (frames for tools/film.py).
+			if (project.hasProperty('skyFilm')) {
+				vmArg "-Dskyfriends.film=true"
+			}
+			if (project.hasProperty('testHeap')) {
+				vmArg "-Xmx${project.property('testHeap')}"
+			}
+		}
+	}
+}
+
+fabricApi {
+	configureTests {
+		// Client game tests drive the real game and save screenshots: gradlew runClientGameTest
+		createSourceSet = true
+		modId = "skyfriends-gametest"
+		enableGameTests = false
+		enableClientGameTests = true
+		eula = true
+	}
+}
+
+// gradlew runClientGameTest -PcompatMods=<folder> also loads the mod jars in <folder> (e.g. the
+// Village Friends instance's mods folder) so the tests run inside the real modpack. Fabric API and
+// this mod's own jar are skipped; the dev build of this mod is used instead.
+def gameTestMods = rootProject.file('build/run/clientGameTest/mods')
+tasks.named('runClientGameTest') {
+	doFirst {
+		def mods = gameTestMods
+		delete(fileTree(mods) { include '*.jar' })
+		if (project.hasProperty('compatMods')) {
+			copy {
+				from(project.property('compatMods')) {
+					include '*.jar'
+					exclude 'fabric-api*', 'sky-friends*'
+				}
+				into mods
+			}
+			println "Compat run with: " + fileTree(mods).files*.name.sort()
+		}
+	}
+}
+
+dependencies {
+	minecraft "com.mojang:minecraft:${project.minecraft_version}"
+	implementation "net.fabricmc:fabric-loader:${project.loader_version}"
+	implementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
+
+	testImplementation "org.junit.jupiter:junit-jupiter:5.11.4"
+	testRuntimeOnly "org.junit.platform:junit-platform-launcher"
+}
+
+processResources {
+	def version = project.version
+	inputs.property "version", version
+
+	filesMatching("fabric.mod.json") {
+		expand "version": version
+	}
+}
+
+tasks.withType(JavaCompile).configureEach {
+	it.options.release = 25
+}
+
+java {
+	sourceCompatibility = JavaVersion.VERSION_25
+	targetCompatibility = JavaVersion.VERSION_25
+}
+
+test {
+	useJUnitPlatform()
+}
+
+jar {
+	from("LICENSE") {
+		rename { "${it}_skyfriends" }
+	}
+}

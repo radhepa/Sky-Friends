@@ -1,0 +1,184 @@
+{
+  "cirri.female.hum": {
+    "sounds": [
+      "skyfriends:cirri/female_hum_1",
+      "skyfriends:cirri/female_hum_2",
+      "skyfriends:cirri/female_hum_3",
+      "skyfriends:cirri/female_hum_4",
+      "skyfriends:cirri/female_hum_5"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.female.hum"
+  },
+  "cirri.male.hum": {
+    "sounds": [
+      "skyfriends:cirri/male_hum_1",
+      "skyfriends:cirri/male_hum_2",
+      "skyfriends:cirri/male_hum_3",
+      "skyfriends:cirri/male_hum_4",
+      "skyfriends:cirri/male_hum_5"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.male.hum"
+  },
+  "cirri.child.hum": {
+    "sounds": [
+      "skyfriends:cirri/child_hum_1",
+      "skyfriends:cirri/child_hum_2",
+      "skyfriends:cirri/child_hum_3",
+      "skyfriends:cirri/child_hum_4"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.child.hum"
+  },
+  "cirri.female.greet": {
+    "sounds": [
+      "skyfriends:cirri/female_greet_1",
+      "skyfriends:cirri/female_greet_2",
+      "skyfriends:cirri/female_greet_3"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.female.greet"
+  },
+  "cirri.male.greet": {
+    "sounds": [
+      "skyfriends:cirri/male_greet_1",
+      "skyfriends:cirri/male_greet_2",
+      "skyfriends:cirri/male_greet_3"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.male.greet"
+  },
+  "cirri.child.greet": {
+    "sounds": [
+      "skyfriends:cirri/child_greet_1",
+      "skyfriends:cirri/child_greet_2",
+      "skyfriends:cirri/child_greet_3"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.child.greet"
+  },
+  "cirri.female.hurt": {
+    "sounds": [
+      "skyfriends:cirri/female_hurt_1",
+      "skyfriends:cirri/female_hurt_2",
+      "skyfriends:cirri/female_hurt_3"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.female.hurt"
+  },
+  "cirri.male.hurt": {
+    "sounds": [
+      "skyfriends:cirri/male_hurt_1",
+      "skyfriends:cirri/male_hurt_2",
+      "skyfriends:cirri/male_hurt_3"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.male.hurt"
+  },
+  "cirri.child.hurt": {
+    "sounds": [
+      "skyfriends:cirri/child_hurt_1",
+      "skyfriends:cirri/child_hurt_2",
+      "skyfriends:cirri/child_hurt_3"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.child.hurt"
+  },
+  "cirri.female.death": {
+    "sounds": [
+      "skyfriends:cirri/female_death"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.female.death"
+  },
+  "cirri.male.death": {
+    "sounds": [
+      "skyfriends:cirri/male_death"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.male.death"
+  },
+  "cirri.child.death": {
+    "sounds": [
+      "skyfriends:cirri/child_death"
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.child.death"
+  },
+  "cirri.sleep": {
+    "sounds": [
+      {
+        "name": "skyfriends:cirri/sleep_1",
+        "volume": 0.5
+      },
+      {
+        "name": "skyfriends:cirri/sleep_2",
+        "volume": 0.5
+      },
+      {
+        "name": "skyfriends:cirri/sleep_3",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.skyfriends.cirri.sleep"
+  },
+  "wind_harp.play": {
+    "sounds": [
+      "skyfriends:harp/play_1",
+      "skyfriends:harp/play_2",
+      "skyfriends:harp/play_3",
+      "skyfriends:harp/play_4",
+      "skyfriends:harp/play_5",
+      "skyfriends:harp/play_6"
+    ],
+    "subtitle": "subtitles.skyfriends.wind_harp.play"
+  },
+  "windsong_flute.play": {
+    "sounds": [
+      "skyfriends:flute/play_1",
+      "skyfriends:flute/play_2",
+      "skyfriends:flute/play_3",
+      "skyfriends:flute/play_4",
+      "skyfriends:flute/play_5",
+      "skyfriends:flute/play_6"
+    ],
+    "subtitle": "subtitles.skyfriends.windsong_flute.play"
+  },
+  "wind_chime.ring": {
+    "sounds": [
+      "skyfriends:chime/ring_1",
+      "skyfriends:chime/ring_2",
+      "skyfriends:chime/ring_3",
+      "skyfriends:chime/ring_4",
+      "skyfriends:chime/ring_5"
+    ],
+    "subtitle": "subtitles.skyfriends.wind_chime.ring"
+  },
+  "wind_stone.lift": {
+    "sounds": [
+      "skyfriends:wind/lift_1",
+      "skyfriends:wind/lift_2",
+      "skyfriends:wind/lift_3"
+    ],
+    "subtitle": "subtitles.skyfriends.wind_stone.lift"
+  },
+  "cloud_whale.song": {
+    "sounds": [
+      "skyfriends:whale/song_1",
+      "skyfriends:whale/song_2",
+      "skyfriends:whale/song_3",
+      "skyfriends:whale/song_4"
+    ],
+    "subtitle": "subtitles.skyfriends.cloud_whale.song"
+  },
+  "cloud_whale.hurt": {
+    "sounds": [
+      "skyfriends:whale/hurt_1",
+      "skyfriends:whale/hurt_2"
+    ],
+    "subtitle": "subtitles.skyfriends.cloud_whale.hurt"
+  },
+  "cloud_whale.death": {
+    "sounds": [
+      "skyfriends:whale/death"
+    ],
+    "subtitle": "subtitles.skyfriends.cloud_whale.death"
+  },
+  "cloud_koi.flutter": {
+    "sounds": [
+      "skyfriends:koi/flutter_1",
+      "skyfriends:koi/flutter_2",
+      "skyfriends:koi/flutter_3"
+    ],
+    "subtitle": "subtitles.skyfriends.cloud_koi.flutter"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "skyfriends:block/wind_harp"
+    },
+    "facing=east": {
+      "model": "skyfriends:block/wind_harp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "skyfriends:block/wind_harp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "skyfriends:block/wind_harp",
+      "y": 270
+    }
+  }
+}

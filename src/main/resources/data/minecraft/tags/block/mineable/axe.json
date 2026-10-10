@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "skyfriends:skywood_log",
+    "skyfriends:skywood",
+    "skyfriends:skywood_planks",
+    "skyfriends:skywood_stairs",
+    "skyfriends:skywood_slab",
+    "skyfriends:skywood_fence",
+    "skyfriends:skywood_fence_gate",
+    "skyfriends:wind_harp"
+  ]
+}

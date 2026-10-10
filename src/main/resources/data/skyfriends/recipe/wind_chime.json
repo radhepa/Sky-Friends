@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": "skyfriends:skywood_slab",
+    "N": "minecraft:string",
+    "G": "minecraft:gold_nugget",
+    "I": "minecraft:iron_nugget"
+  },
+  "pattern": [
+    " S ",
+    "N N",
+    "GIG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "skyfriends:wind_chime"
+  }
+}

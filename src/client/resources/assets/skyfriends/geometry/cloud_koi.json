@@ -1,0 +1,298 @@
+{
+ "texture": [
+  64,
+  32
+ ],
+ "parts": [
+  {
+   "name": "body",
+   "parent": "",
+   "pivot": [
+    0,
+    19,
+    0
+   ],
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "cubes": [
+    {
+     "uv": [
+      14,
+      0
+     ],
+     "from": [
+      -2.5,
+      -2.5,
+      -1
+     ],
+     "size": [
+      5,
+      5,
+      6
+     ],
+     "inflate": 0.0,
+     "mirror": false
+    }
+   ]
+  },
+  {
+   "name": "head",
+   "parent": "body",
+   "pivot": [
+    0,
+    0,
+    -1
+   ],
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "cubes": [
+    {
+     "uv": [
+      46,
+      0
+     ],
+     "from": [
+      -2,
+      -2,
+      -3
+     ],
+     "size": [
+      4,
+      4,
+      3
+     ],
+     "inflate": 0.0,
+     "mirror": false
+    },
+    {
+     "uv": [
+      42,
+      15
+     ],
+     "from": [
+      -1,
+      -0.5,
+      -4
+     ],
+     "size": [
+      2,
+      1.5,
+      1
+     ],
+     "inflate": 0.0,
+     "mirror": false
+    }
+   ]
+  },
+  {
+   "name": "dorsal",
+   "parent": "body",
+   "pivot": [
+    0,
+    -2.5,
+    0
+   ],
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "cubes": [
+    {
+     "uv": [
+      36,
+      0
+     ],
+     "from": [
+      0,
+      -3,
+      0
+     ],
+     "size": [
+      0,
+      3,
+      5
+     ],
+     "inflate": 0.0,
+     "mirror": false
+    }
+   ]
+  },
+  {
+   "name": "tail",
+   "parent": "body",
+   "pivot": [
+    0,
+    0,
+    5
+   ],
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "cubes": [
+    {
+     "uv": [
+      0,
+      15
+     ],
+     "from": [
+      -1.5,
+      -1.5,
+      0
+     ],
+     "size": [
+      3,
+      3,
+      4
+     ],
+     "inflate": 0.0,
+     "mirror": false
+    }
+   ]
+  },
+  {
+   "name": "tail2",
+   "parent": "tail",
+   "pivot": [
+    0,
+    0,
+    4
+   ],
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "cubes": [
+    {
+     "uv": [
+      14,
+      15
+     ],
+     "from": [
+      -1,
+      -1,
+      0
+     ],
+     "size": [
+      2,
+      2,
+      3
+     ],
+     "inflate": 0.0,
+     "mirror": false
+    }
+   ]
+  },
+  {
+   "name": "fluke",
+   "parent": "tail2",
+   "pivot": [
+    0,
+    0,
+    3
+   ],
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "cubes": [
+    {
+     "uv": [
+      0,
+      0
+     ],
+     "from": [
+      0,
+      -4,
+      0
+     ],
+     "size": [
+      0,
+      8,
+      7
+     ],
+     "inflate": 0.0,
+     "mirror": false
+    }
+   ]
+  },
+  {
+   "name": "right_fin",
+   "parent": "body",
+   "pivot": [
+    -2.5,
+    1.5,
+    0
+   ],
+   "rotation": [
+    0,
+    0,
+    0.35
+   ],
+   "cubes": [
+    {
+     "uv": [
+      24,
+      15
+     ],
+     "from": [
+      -5,
+      0,
+      -1
+     ],
+     "size": [
+      5,
+      0,
+      4
+     ],
+     "inflate": 0.0,
+     "mirror": false
+    }
+   ]
+  },
+  {
+   "name": "left_fin",
+   "parent": "body",
+   "pivot": [
+    2.5,
+    1.5,
+    0
+   ],
+   "rotation": [
+    0,
+    0,
+    -0.35
+   ],
+   "cubes": [
+    {
+     "uv": [
+      24,
+      15
+     ],
+     "from": [
+      0,
+      0,
+      -1
+     ],
+     "size": [
+      5,
+      0,
+      4
+     ],
+     "inflate": 0.0,
+     "mirror": true
+    }
+   ]
+  }
+ ]
+}

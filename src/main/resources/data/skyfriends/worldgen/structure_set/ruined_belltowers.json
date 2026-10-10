@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "skyfriends:ruined_belltower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 14,
+    "salt": 588102774,
+    "exclusion_zone": {
+      "other_set": "skyfriends:sky_villages",
+      "chunk_count": 4
+    }
+  }
+}

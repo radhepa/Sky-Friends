@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "skyfriends:skystone_stairs",
+    "skyfriends:skystone_brick_stairs",
+    "skyfriends:polished_skystone_stairs",
+    "skyfriends:skywood_stairs"
+  ]
+}

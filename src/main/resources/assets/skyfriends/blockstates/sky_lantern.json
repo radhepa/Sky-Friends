@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "skyfriends:block/sky_lantern"
+    },
+    "hanging=true": {
+      "model": "skyfriends:block/sky_lantern_hanging"
+    }
+  }
+}

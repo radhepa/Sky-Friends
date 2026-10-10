@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "skyfriends:block/polished_skystone",
+    "top": "skyfriends:block/polished_skystone",
+    "side": "skyfriends:block/polished_skystone"
+  }
+}

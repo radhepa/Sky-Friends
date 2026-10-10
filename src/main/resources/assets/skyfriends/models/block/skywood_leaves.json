@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "skyfriends:block/skywood_leaves"
+  }
+}

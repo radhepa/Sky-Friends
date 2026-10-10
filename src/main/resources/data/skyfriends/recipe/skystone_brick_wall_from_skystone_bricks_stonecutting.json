@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "skyfriends:skystone_bricks",
+  "result": {
+    "count": 1,
+    "id": "skyfriends:skystone_brick_wall"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": "skyfriends:white_veilcloth",
+    "S": "skyfriends:sky_scale",
+    "R": "skyfriends:rose_veilcloth",
+    "M": "minecraft:phantom_membrane"
+  },
+  "pattern": [
+    "W W",
+    "WSW",
+    "RMR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "skyfriends:cirrus_veil"
+  }
+}

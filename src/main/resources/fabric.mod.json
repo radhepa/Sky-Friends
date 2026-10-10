@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "skyfriends",
+	"version": "${version}",
+	"name": "Sky Friends",
+	"description": "A people of the high sky: the Cirri, who fly on long veils of woven cloud and never set foot on the ground.",
+	"authors": ["minal"],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["dev.skyfriends.SkyFriends"],
+		"client": ["dev.skyfriends.client.SkyFriendsClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

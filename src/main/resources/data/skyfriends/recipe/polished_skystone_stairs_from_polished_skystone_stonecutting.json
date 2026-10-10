@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "skyfriends:polished_skystone",
+  "result": {
+    "count": 1,
+    "id": "skyfriends:polished_skystone_stairs"
+  }
+}

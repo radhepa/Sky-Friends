@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "skyfriends:wind_shrine",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 36,
+    "separation": 12,
+    "salt": 734019287,
+    "exclusion_zone": {
+      "other_set": "skyfriends:sky_villages",
+      "chunk_count": 4
+    }
+  }
+}

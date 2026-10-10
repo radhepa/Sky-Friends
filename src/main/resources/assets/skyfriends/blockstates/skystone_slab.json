@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "skyfriends:block/skystone_slab"
+    },
+    "type=double": {
+      "model": "skyfriends:block/skystone"
+    },
+    "type=top": {
+      "model": "skyfriends:block/skystone_slab_top"
+    }
+  }
+}

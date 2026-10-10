@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "skyfriends:block/skywood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "skyfriends:block/skywood"
+    },
+    "axis=z": {
+      "model": "skyfriends:block/skywood_horizontal",
+      "x": 90
+    }
+  }
+}

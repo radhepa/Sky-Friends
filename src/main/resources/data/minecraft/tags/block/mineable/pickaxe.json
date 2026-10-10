@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "skyfriends:skystone",
+    "skyfriends:skystone_stairs",
+    "skyfriends:skystone_slab",
+    "skyfriends:skystone_bricks",
+    "skyfriends:skystone_brick_stairs",
+    "skyfriends:skystone_brick_slab",
+    "skyfriends:skystone_brick_wall",
+    "skyfriends:polished_skystone",
+    "skyfriends:polished_skystone_stairs",
+    "skyfriends:polished_skystone_slab",
+    "skyfriends:gilded_skystone",
+    "skyfriends:skystone_pillar",
+    "skyfriends:wind_chime",
+    "skyfriends:sky_lantern",
+    "skyfriends:wind_stone"
+  ]
+}

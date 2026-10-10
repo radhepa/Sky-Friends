@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "skyfriends:block/sky_veilcloth"
+  }
+}

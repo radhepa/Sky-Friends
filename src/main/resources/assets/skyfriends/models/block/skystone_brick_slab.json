@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "skyfriends:block/skystone_bricks",
+    "top": "skyfriends:block/skystone_bricks",
+    "side": "skyfriends:block/skystone_bricks"
+  }
+}

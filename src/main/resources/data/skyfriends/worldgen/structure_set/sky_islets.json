@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "skyfriends:sky_islet",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 13,
+    "separation": 4,
+    "salt": 1027741935,
+    "exclusion_zone": {
+      "other_set": "skyfriends:sky_villages",
+      "chunk_count": 3
+    }
+  }
+}
