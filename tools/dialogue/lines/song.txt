@@ -1,0 +1,258 @@
+# "Sing me something": a Cirri sings or hums a little. The line is what they say and sing.
+# Verses are original, in single quotes. Pools: song.general, song.<personality>, song.evensong, song.night,
+# song.weather.<rain|thunder|snow>, song.harpist.
+
+## song.general
+'Aure for the morning, Sefa for the noon, Vell to sing the evening, Borre for the moon.' The first rhyme anyone learns up here. Children fly in a ring while they sing it.
+Mm, here's one for peaches: 'Soft on the branch and softer in the hand, the best ones drop to the walkers' land.' It's a warning, really. Pick them early.
+'Little cloud, little cloud, where will you go? Down to the walkers, to water their row.' The children sing it at the rim and wave goodbye to the weather.
+Hmm-mmm, hmmm-mmmm. That's how the whales sound, near enough. Low as the bottom of the sky. You feel it in your veils more than your ears.
+A song? Here: 'Keep your veil whole and your heart light, and fly home singing every night.' It's an old saying with a tune hung on it, really.
+'One clap for the bell, two claps for the bridge, three for the walker who stands on the edge!' Now you clap. Go on, nobody's watching. Well, the koi are.
+'Up goes the nest-cloth, in comes the wind, out go the crumbs and the yesterday's din!' The tidying song. Every nest sings it at dawn, all at once. Very noisy.
+'One peach, two peach, three peach, four, a koi stole one and I've none more.' I made that up when I was small. It's still true.
+'I'd tie my veil to yours, love, and never mind the weather.' A courting song. Don't look at me like that, you asked for something.
+La... no, too high. 'Cloud below and blue above, everything I'm fondest of.' There. Short and sweet, like a peach that's gone too quickly.
+The weavers hum this at the loom: 'Over the cloud and under the gold, a veil for the young and a veil for the old.' Over, under. You can hear the comb in it.
+'Walker, walker, heavy feet, where's the sky you'll never meet?' The children sing it at the Lift Dock. It's meant kindly. Mostly.
+This one's about a whale that breathed in a cloud and sneezed out the rain. It goes on for ages. 'Achoo, said the Old Singer, and the walkers all got wet.' Best verse.
+Hmm, hm-hm, hmmm. I don't know the words. Nobody does. The tune is older than the words were, and the words wandered off somewhere.
+'Fair wind, fair wind, wherever you blow, carry my friends and bring them back slow.' A farewell song. You sing it at the rim when someone's off on a long flight.
+'Bees fly down and bees fly back, with a bit of the ground on every back.' The honey song. We think bees are terribly brave.
+It's a round. I start, then you come in: 'Pick one, eat one, save one for the koi...' Now you! No? Then I'll be both of us.
+'Higher than the lantern, higher than the bell, higher than the swallow, and I'm flying well!' A boasting song. Children sing it when they've just managed their first loop.
+There's an old song about the sunken bells: 'Iron on iron and stone on stone, the island went down and the sky went on.' We sing it so we remember to build light.
+'Rain goes down, but we stay up, we drink the cloud from a peach-skin cup.' Nonsense, mostly. A sky peach makes a dreadful cup. I've tried.
+{wind} has the sky today, so it ought to be {wind}'s song. Mm, hmm-hm, hmmm... I always forget the middle. The wind never minds.
+We sing to the koi when we feed them: 'Gold fin, silver fin, come up and see, a crumb for you and a crumb for me.' They come. Whether for the song or the crumbs, who can say.
+'Lantern, lantern, light the way, the night's come up to end the day.' The lamplighters sing it from bridge to bridge at dusk. You'll hear it later.
+Oh, I've a silly one. 'My veil got caught in a skywood tree; the tree said, keep it, it looks good on me.' The Cloud Garden's trees are terrible thieves.
+'Down in the deep where the walkers go, there's dark and stone and things we don't know.' That's from the game where you mustn't touch the clouds. Touch one and you're out.
+Mmm-mm-hmmm. That's it. That's the whole song. Some songs are only one breath long.
+A courting song, then. 'Fly beside me, fly the long way round, we'll find the place where the sky comes down.' They say there is no such place. That's the point of the song.
+I learned one from a traveller, from the bell-villages below. Something about a pumpkin and a cart? 'Hmm hmm pumpkin, hmm hmm cart.' I've lost the rest. It sounded jolly.
+'Sky Scale, Sky Scale, silver and small, the luck of a koi is the best luck of all.' You hum it when you give one away, so the luck goes along with it.
+'Sky peach, sky peach, round as the sun, one for the morning and one for the fun.' Children's song. We sang it with our mouths full.
+The children say the Evensong backwards is the Morningsong. 'Up, day, up, sing the day up...' It doesn't work. The sun comes up whether we sing or not.
+'Over the Veil Court and under the moon, I lost my slipper and found a tune.' We don't wear slippers. That's what makes it funny.
+A walking song, for you. I made it up just now. 'Step, and step, and another step, and...' How do you bear it? It never gets anywhere.
+This one's for mending: 'Thread of moth and thread of string, a torn veil's a sorry thing; stitch it close and stitch it fine, and up you go on the wind's long line.'
+'The swallows think they own the sky; we let them think it, you and I.' We look down on birds, you know. Kindly, but down.
+There's a song that's only everyone's names, one after another, the whole village. Mine comes near the end. 'And {name}, and the wind.' I like being last but one.
+An old riddle-song: 'What's lighter than a feather and older than the bell? Sing it and it's gone, but you know it very well.' The answer's a song. It's always a song.
+'Sefa, Sefa, lazy and sweet, blow me a peach that's ready to eat.' You sing it at noon on warm days with your hands held out. It works more often than you'd think.
+I know a whale-greeting. You sing it as one passes: 'Old Singer, Old Singer, the clouds on your back, we'll keep the sky open till you come back.'
+'Into the blue and past the blue and further than the blue goes...' That's a sad one. I'll stop there. You don't sing it on a nice day.
+Mm-hmm-hmm, hm. That's the tune the chimes play under the Bell Pagoda when Aure comes through. I learned it curled up awake as a little one, listening.
+A guest song, for whoever comes up the Wind Stone: 'Up from the ground on the breath of the stone, welcome, walker, you're not alone.' The windkeepers sing it. Badly, usually.
+'Tip of the veil is the colour of dawn, root of the veil is the sky I was born.' Hmm, that last bit never scans. We sing it anyway.
+Sing into a cloud and the song comes back softer, they say, because the cloud keeps a little of it. 'Hel-lo!' ...There. Somewhere in that one is a bit of my hello.
+Here's one for the Lengthening: 'Short veil, short veil, soon you'll be long, soon you'll be lifted by the whole of the song.' Every child hears it on their big day.
+'Glow berry, glow berry, light on the vine, one for the lantern and one to be mine.' Half of them get eaten before the lantern ever sees them.
+My grandparents sang the bell like this: 'Dong for the dawn and dong for the dusk, and a long, long peal when the storm comes to us.' Not much of a rhyme. Bells don't care.
+'Honey on my fingers and honey on my veil, and that's why the weavers sigh when they see me sail.' True story. The verse came after.
+Promise not to clap until the end. 'Mm, hmm, the cloud is a pillow, the sky is a bed, and the stars are the thoughts that drift over my head.' ...Now you may clap.
+Walkers sing standing still, I'm told, with their feet on the ground. Do the songs come out heavier? Here's a light one: 'Hum-a-hey, hum-a-ho.' See? Floats right off.
+'Wake, little nest, the bell's at the door; there's dew on the cloud and peaches galore.' A getting-up song. Children hate it. That's how you know it works.
+Mm-hm-hmm... sorry. I always start that one too high and run out of sky before the end.
+The bridge-counting song, for little ones: 'Bridge to the Garden, bridge to the Hall, bridge to the Spire, and that is them all.' It isn't all of them. Children don't care.
+Mm, the market song. 'Veilcloth and lanterns and peaches for sale, come up, walker, come up on the gale!' The Skymerchant wrote it. You can tell.
+'Aure blushes, Sefa yawns, Vell sighs and Borre roars.' You make the noises. The yawn is the hardest; everyone ends up really yawning.
+There's a song for losing something over the rim: 'Fall, little bead, fall far and free, and land where a walker can find you for me.' Found a bead lately? It might be mine.
+A sleepy noon song for Sefa days: 'Mmm, warm, mmm, slow...' A walker told me it sounds like a cat in the sun. I've never met a cat. I like to think it's true.
+The Courtesy song, about the first windkeeper, who set a stone on the ground and sang the wind into it. 'Up, little wind, and carry them high...' It's how you came up, you know.
+'Rose for the morning and gold for the noon, white for the evening and blue for the moon.' The colour song. The weavers sing it to choose their thread.
+A dipping song. Walkers skip, I'm told; we dip. 'Dip for the cloud and dip for the bell...' You dip on every 'dip'. Bob your knees, walker. That counts.
+'Up and down the Lift Dock goes the wind, up and down, and it never gets tired.' The windkeepers' song. Watch them sing it; they bob along without noticing.
+
+## song.dreamer
+'The stars are the lanterns of someone up higher, who flies all night long and never grows tired...' Do you think there is someone higher? I always lose the song when I wonder that.
+Mm, hmm... sorry, I was humming the sound clouds make when they part. You can't hear it. I can't either, really. I'm guessing.
+'If I drifted down past the cloud and the green, would the ground hold me gently, the way the sky has been?' I wonder that sometimes. Then I stop wondering, quickly.
+Listen: 'Far, far, far...' That's the whole song. It's meant to go on as long as the distance does. I usually drift off around the fortieth far.
+I've been setting the moon to music. It goes slowly, like this: mmm... mmmmm... It's a waning song, so it gets quieter. Then it's gone. Then it comes back.
+A song about the sea? I've only heard of it from walkers. 'Blue below, like the sky turned over, and the whales down there must be, must be...' I never get any further.
+The tune I hum is the one the light makes coming through a veil at dawn. Rose, then gold, then white. Hmm-hm-hmmm. Can you hear the gold part?
+'Where does the wind go when it's done with the day? It folds itself small and it drifts...' Oh. I was singing to a cloud. Hello. Did you want the rest?
+
+## song.merry
+'Oh the walker, the walker, they walk all day, and they end up exactly where they started, hooray!' Don't look at me like that. It's a compliment. Nearly.
+Here's a loop song. You sing 'up and over' and loop on the 'over'. 'Up and OVER!' Whee! ...You didn't loop. You have to loop, walker, it's the rules.
+'Peaches for breakfast, peaches for tea, peaches for {friend} and none left for me!' Because {friend} ate them all. True song. Every word.
+'Bong! went the bell, and the bellkeeper jumped, and the jump was so high that the lantern got bumped!' Every dawn. Every single dawn they jump.
+I'll sing, but you do the whale part. When I point, you go 'hooommm'. Ready? 'Out in the blue where the big clouds roam...' Now! ...That was a very small whale.
+This one's a race. Whoever sings it fastest wins: 'Aure-Sefa-Vell-Borre-Aure-Sefa-Vell-Borre!' I win. You didn't even start.
+'Who tied a knot in the windkeeper's veil? Who hid a berry in the gardener's pail?' I'll give you three guesses, and every one of them is me.
+Sing along, it's easy, there's only one word and it's 'wheee'. Wheeeee! You've got it. That's the whole songbook of every child in {village}.
+
+## song.gentle
+You look tired. I'll sing the quiet one. 'Rest your feet, walker, the sky will keep; the clouds are soft and the wind's asleep.' There. Even heavy feet need rest.
+Mm, something soft. 'Hush now, the dew is coming down, hush now, and smooth out your frown.' It was sung to me in my nest. Now I sing it to whoever needs it.
+Here's one for mending people, not veils. 'Little hurts and little aches, the wind carries off what the morning takes.' It works better with a peach after.
+I'll hum. Humming is gentler than words. Mmm, hmm-mmm... Did your shoulders drop a little? They did. Good.
+'Whoever you are and wherever you've been, there's room in the sky and a place in between.' I sing it to guests. You're a guest. So, there.
+A small one, like a feather: 'Light as a feather and soft as a sigh, I'll keep you company, walker, close by.' That's all. Small songs are for close by.
+'Mend, mend, everything mends: torn veils, bruised peaches, quarrelling friends.' I sing it when someone's had a hard day. Have you had one? I'll sing it again.
+Would you like a song for the walk home? 'Step soft, walker, the ground is kind, and a friend in the sky keeps you in mind.' Sing it to yourself on the way down.
+
+## song.shy
+Oh. Me? I only know... well. 'Little veil, little veil...' That's... that's as far as I go with someone listening.
+I could hum it. Hmm-hm, hmmm... sorry. It sounds better when I'm alone at the rim. The wind doesn't stare.
+'Soft, soft, the cloud comes by...' Um. The rest is about a koi. It isn't very good. I wrote it.
+You really want...? All right. Quietly. Mm-mm, hmm. That's the quiet part of the Evensong. The part I can sing without everyone hearing.
+I sing to the koi, mostly. They don't mind if I get it wrong. Would you... turn round? Just while I sing?
+'If I said hello, would you say it too, and would the sky be a little more blue...' Oh. Not that one. That one's private. Forget it, if that's all right.
+Mmm... I'll hum. Words are harder. Humming is like hiding inside a song.
+I don't sing in front of people. Not usually. But you're... one line, then. 'Peach in the morning, peach at the noon...' There. My face has gone all warm.
+
+## song.proud
+You want a song? Then have the oldest song in {village}. 'We built it light and we built it high, so the bells would never fall from the sky.' Our founders sang that. We still mean it.
+Listen properly, walker, this is a Cirri song, not a ground ditty. 'Veil and wind and the gold between, the finest sky that was ever seen.' That's {village}, in case you wondered.
+No walker can sing this one, I'm afraid. The high notes need open sky under you. But I'll grant you a hum. Hmmm-mmm. Magnificent, wasn't it?
+In {village} we sing in five parts. Five! I'll take the top one. Imagine the other four. 'Aaah-hah, ah...' You're imagining them badly, I can tell.
+'Rise, little lanterns, rise with the tune; {village} is singing and here comes the moon.' Our own verse. Other villages haven't one. I shouldn't gloat. I'm gloating.
+I'll sing you the weavers' boast: 'No veil frays that our looms have made, no wind's too wild and no gold will fade.' Every word true. I'd stake my own veils on it.
+A song for a walker? Very well. I composed it myself. 'Heavy of foot but light of heart, the walker came up and played their part.' You may thank me. Most walkers bow.
+You've earned a proper song, friend, not a hum. 'Sky over sky and the clouds for a floor, and a walker I'd welcome back through the door.' The last line's new. Just for you.
+
+## song.restless
+'Over the rim and away, away, past the last cloud at the end of the day.' I sing it with my veils already twitching. One day I'll just go.
+A song? I'll sing while I circle. 'Round the Spire, round the Pagoda, round...' Keep up, walker! Songs are better moving.
+There's a song for every sky I've never seen. The red sky over the far sands. The grey sky over the cold sea. I only know their first notes. Mm, hmm. I'll learn the rest there.
+'Borre's road goes north and Sefa's road goes south, and I want the taste of every wind in my mouth.' I've only tasted two properly. The other two keep leaving.
+The whales sing the longest song in the world. It goes all the way round. I'd follow one, if it would let me. Hooommm. That's the bit I heard as one left.
+I hum a travelling song all day. It has no end, so I never have to stop. Hmm-hm, hmm-hm, hmm-hm... You see? Still going.
+'Fly me out where the cloud runs thin, and the sky goes on, and nobody's been.' Is there such a place? You've been about. Tell me there is.
+Short one, I'm off soon. 'Go, go, the wind won't wait!' That's it. That's my whole philosophy, in a song.
+
+## song.busy
+Sing? While I... yes, fine. 'Comb the cloud and fold the thread' (hold this) 'and the veil's done before the bed' (thank you). Work song. Very efficient.
+I'll hum while I count. Hmm-hm, one, hm-hmm, two... You've made me lose count. Hm-hm, one...
+Work songs only, I've no time for the long ones. 'Up, up, the day's begun, and the faster you fly, the sooner it's done.'
+'Peaches to the market, lanterns to the rail, berries for the children and string for the veil.' My list, set to a tune, so I don't forget. I always forget.
+Here, you sing the low part while I do the top and we'll be done in half the time. No? Fine. Mmm-hmm. Done. Next!
+One verse, then I'm off. 'Busy as the bees in the Cloud Garden's bloom, busy as the comb going over the loom...' And that's me needed elsewhere. Fair wind!
+'Bell, then the lanterns, then the Evensong, then the nest,' sung to the tune of the dawn bell. Not much of a song. It gets everything done.
+Hum-hm-hm. That's my sorting hum. Ripe, hum. Soft, hm. Green, hmm. Every peach gets its note. Saves my thinking for something else.
+
+## song.wise
+Before the bells there were the Old Singers, and before the Old Singers there was the song. 'In the first sky, a single note, and the clouds came up to hear it.' That is how it begins.
+My teacher sang me this, as their teacher sang it to them: 'Hold the tune lightly, it was never yours; you only carry it a while, the way the wind carries cloud.'
+'Never trust a still day,' we say. There is a song to it, slow and low: never... trust... a still... day. The quieter you sing it, the truer it gets.
+Old songs are like old veils: frayed at the tips, strong at the root. This one has lost its ending. 'When the last bell sank, the sky said nothing...' Perhaps that is the ending.
+I'll sing you the oldest song I know. It has no words, only the sound the wind made round the first nests. Hooo, hooo. Older than {village}. Older than me, even.
+'The sky is wide enough for everyone.' The old ones sang it as a round, so no voice ever had to sing alone. Take the second part with me. Softly.
+When I was young I thought songs were for the singer. Now I know they are for the sky. Mm-mmm. There. It has gone up. It does not need us any more.
+A song for the living and the gone at once: 'Up past the blue, and fair wind, fair wind.' Only that, over and over, until it feels like enough. It never quite does.
+
+## song.curious
+I'll sing if you sing one back. Agreed? 'Hmm-mm, the whale goes by...' Now yours! What do walkers sing about? Feet? Holes?
+Is it true walkers sing to their animals? Do the cows sing back? I tried singing to a bee once: 'Bzz, little gold one...' It didn't answer either.
+What does a song sound like underground? Does it echo off the stone? Here: 'Ho!' ...Up here it just flies off. I'd love to hear one bounce.
+I learned a walker song from a traveller. I think. 'Dig, dig, dig in the deep, dig all day and then go to sleep.' Was it right? It was a very strange song.
+Mm-hm, mmm. That's the tune the harps played when the walker with borrowed wings swooped in last moon. I made a song of it. Shall I do the landing? It's the loud bit.
+Can you whistle? A walker whistled at the dock once and every Cirri in {village} came to look. We can't do it. Our songs are all hums and air. Show me, would you?
+Do you know any songs about caves? Or the hot red place under everything? I'll make one up and you tell me if it's right. 'Down where it's hot, and the rocks all glow...'
+'What's below the cloud, what's below the green, what's below the deepest place a walker's ever been?' A child's song. Nobody up here knows the answer. Do you?
+
+## song.evensong
+'Sing the day down, sing it down slow, gold into rose and rose into low.' That's how the Evensong starts. The harpists give the first note and we all come in.
+Hear that? The harps have started in the Hall of Echoes. Come to the Veil Court! 'Down, day, down, the lanterns are lit...' Hurry, I hate missing the first verse.
+We gather in a ring over the Veil Court, veil touching veil, and sing. 'Thank you, sun, for the long gold road.' That line always catches in my throat.
+Vell carries the Evensong, they say, all the way to the next village. Some nights you can hear theirs coming back. Listen... mm. Not tonight. Sing ours louder.
+There's a verse for each of the Four Winds, and whichever had the sky gets sung last. Tonight that's {wind}. 'And {wind}, and {wind}, go gently to bed.'
+The children sing the high part. It's meant to sound like the first star. 'Ting, ting, there you are.' They never get it in tune, and it's perfect every time.
+I missed the Evensong once, for a whale. Only once. I felt hungry all night, in the strangest way. Mm, 'down, day, down.' I'll not miss it tonight.
+The last note is held until the sun is fully gone. Nobody breathes. Then the bell, and everyone laughs, because nobody's breathed. Hmmmmmm. Like that, but longer.
+Walkers may sing too. That's the Courtesy. You'll stand on the court and we'll hover over you. Just hum. 'Mm, mm, the day is done.' Nobody minds the low notes.
+'Gold on the Spire and rose on the veil, the day's gone over the edge like a sail.' I don't know what a sail is. It's in the old verse. Something walkers have, on the water?
+Every Evensong one verse is new: someone makes it up that day. Tonight's is mine, if I'm brave. 'The koi were sulking and the wind was kind...' It needs work.
+The harpists tune to Vell before the Evensong, whatever wind had the day. Vell is the evening wind. You can hear the strings shift, like a sigh. Mm-hmmm.
+Sing the day down, we say, as if the day were a child who won't go to sleep. 'Down you go, day, down you go...' And it always does, in the end.
+When someone has gone up past the blue, we leave a gap in the ring where they used to fly, and sing round it. You can hear the gap. That's the gentlest part of the song.
+There's a silly verse the children added years ago: 'Goodnight, peaches, goodnight, koi, goodnight to the bellkeeper, oh what a joy.' The elders pretend to hate it. They sing it loudest.
+At the Evensong you can't tell one voice from another. That's the point. 'One sky, one song.' Even a walker's voice goes in, and comes out sky.
+Hmm, I'm warming up. The Evensong is long and I always run out of breath in the middle, in the long part about the whales. 'Old Singers, Old Singers, rest on the blue...'
+I'll teach you the last line, so you can sing it with us. 'And the day is down, and we are up.' Say it with me. Good. Now you're a little bit Cirri.
+The lamplighter lights the great lantern on the very last word. Exactly on it. If they're late, everyone sings the last word twice, very loudly, and stares at the Spire.
+On storm nights there's no Evensong in the open. We hum it in our nests instead, every nest at once. You can hear it through the thunder all over {village}.
+Tonight brings a {moon}, so the Evensong ends on the moon verse: 'Come up, come up, we've kept you a place.' And the moon always does come up. Very obliging.
+The bellkeeper rings once to begin the Evensong and once to end it. In between, the bell hums along, very quietly, if you lay a hand on it. Mm, like that. Try it tonight.
+There's a part for everyone: the high for the children, the long for the old, and the middle for whoever's in love. Guess which part I sing. Mm-hm. No, guess properly.
+'Here comes the dark, and here is the song, and here are we all, and the day's been long.' The verse everyone sings loudest. Tired people sing very loud, it turns out.
+
+## song.night
+Shh, quietly, the little ones are sleeping. 'Curl up, little veil, the cloud is your bed, and the moon's a ripe peach hanging over your head.' Mm. Still asleep. Good.
+A night song, very soft: 'Stars to the left of me, stars to the right, nothing below but the cloud and the night.' Sleep well down there, walker, on your heavy ground.
+The nest-song. Every Cirri was sung to sleep with it, curled over the cushion. 'Round and soft and round and still, the wind sleeps too, and so you will.'
+Hmmm... that's the hum the wind makes in the nest-cloth at night. We hum it back to the wind. Then everyone sleeps, the wind too.
+'Moon on the pool and moon on the koi, moon at the window of every nest...' The last line doesn't rhyme. Sleepy people don't mind.
+A whisper-song. You sing it so quietly that the night doesn't wake. 'Mmm, sleep, mmm, sleep.' ...Did you hear it? Good. Then the night didn't either.
+'Sleep in the cloud and sleep in the blue, the bell will wake you when the night is through.' The bellkeeper's lullaby. Bellkeepers sing it a little loud. Habit.
+Under a {moon}, you sing slowly. The moon likes slow. 'Mmm, mmm, moon...' That's as much as I've got in me. It's very late.
+Shh. 'The night-moths fly but they won't come near, for the bell is watching and the song is here.' We sing that to children who are frightened of phantoms. It helps. A little.
+A song for not sleeping: 'Count the stars, and count the koi, and count the peaches ripe for morning.' Nobody's ever reached the peaches. I never get past the stars.
+Mm... the night-hum. It has no words. Words would wake the babies. Hmmm, hmmmm. That's it. That's all night long, in some nests.
+Sing it quietly with me, it's the dew song: 'Aure's coming, Aure's coming, still far off, still far off.' It means the night will end. Children like to know that.
+This is what we sing to a little one who's dreamed of falling: 'You're up, little one, you're up and you're held; the sky has you safe and the wind holds you well.'
+Shh... I'll only hum, or I'll wake {neighbour}. Hmm-mm, hmm-mm. That's the one about the whale that sleeps on the wind. You'll have to imagine the words.
+At night the songs go small, so they fit in the nest. 'Little and low, little and low, the stars are all out and there's nowhere to go.' A happy thought, that. Nowhere to go.
+'Goodnight to Aure, who'll wake us all; goodnight to Borre, who isn't to call.' We say goodnight to every wind, but we ask Borre, very politely, to stay away.
+Do walkers have lullabies? Sing me one some night. Ours go like this, soft as cloud: 'Mm-hmm, the nest is warm, mm-hmm, the night is long.'
+The night is for the quiet songs. The loud ones are asleep. That's a saying, but I like singing it: 'the loud ones are asleep, the loud ones are asleep...'
+When I couldn't sleep as a small one, my parents hummed the long hum, the one that lasts as long as you need it. Hmmmmmm... I'm still humming it. Just in case.
+'Sleep, little sky, the stars are your sheep...' No, that's wrong, we haven't any sheep. Walkers have sheep. 'Sleep, little sky, the stars are your koi.' Better.
+Shh. This is the one we sing to the koi at night, so they keep to the pool and don't drift off with the clouds. 'Stay, little gold, stay where it's deep.'
+The lamplighter's night round has a song, sung under the breath, bridge to bridge. 'Still lit, still lit, all's well, still lit.' Mm. Still lit.
+'The night is a veil that the sky pulls up, and the stars are the gold where it's woven...' I've forgotten how it ends. I always fall asleep at that bit.
+It's too late for loud songs. I'll hum the yawning one. Hmmm-aaah-hmmm. There, see, now you're yawning. It never fails.
+
+## song.weather.rain
+'Pitter on the cloud and patter on the veil, the rain's going down to the walkers' trail.' We sing it to wish the rain a good fall. It has such a long way to go.
+Rain-songs are drip-songs. Listen: 'Drip... drop... drip.' You sing a note each time a drop hits the awning. The only song the weather writes for us.
+Hum with me under the awning, it's lovely in the rain. Mm-mm, mm-mm. The veilcloth drums along. It's the rain's own harp.
+'Wet veil, wet veil, heavy and slow, wring it out quick or down you'll go!' Silly, but true. Wet veils drag. That's why we're all hiding under the eaves.
+We sing a thank-you to the rain. It's going down to feed the walkers' fields. 'Go well, go down, and come back up as cloud.' Everything comes back up, in the end.
+This is the song the whales sing when they make rain, or so the old ones say. Hoooom, hoom. Low and wet. Can you feel it in the drops?
+Rain! Every child in {village} is out singing 'catch a drop on your tongue', and nobody's caught one yet. It falls past too fast. Come and try.
+A soggy song for a soggy day: 'Mm, mm, the cloud came to visit and forgot to go home.' That's all rain is, really. A cloud that's stayed too long.
+
+## song.weather.thunder
+Shh, come in close, under the eaves. We hum through thunder. 'Mm, mm, it's only Borre, mm, mm, it's only noise.' Keep humming with me. It helps the children. It helps me.
+When it thunders we hum the stone song, the low one, so the children can't hear the sky cracking. Hmmmm. Lower. That's it. Keep going till it stops.
+'Borre's in a temper, Borre's at the door, but the nest is snug and the song is warm, and Borre's been before.' The storm always goes. It always goes.
+I can't sing, my voice keeps jumping at every crack. You sing. Anything. Walkers aren't so frightened of lightning, are they? Hum something heavy and safe. I'll listen.
+Count with the song: 'One koi, two koi...' and when the thunder comes, see how far you got. Five koi means the storm's moving off. Three means hold on.
+Hmm-hmm-hmm, faster, faster, the storm song speeds up the closer it gets, so you can't hear the... oh! That one was close. Hmm-hmm-hmm.
+The bell rang the long peal this morning, so we knew. Now everyone's in their nests, humming. Listen between the thunder: the whole village is humming the same tune.
+'Lightning's a lantern that somebody dropped, and the thunder's the bang when it finally stopped.' That's what we tell the little ones. It isn't true. It makes it smaller.
+
+## song.weather.snow
+'Snow on the peach tree, snow on the bell, snow on my veil and on my nose as well!' A children's song. They sing it with their tongues out.
+Snow falls so quietly that you have to sing quietly too, or it's rude. Mm, hm. Like that. The snow likes it.
+Borre's song is the snow song. Cold and sharp, but beautiful: 'Ooo-hooo, the white comes down.' Borre isn't all storms. Sometimes Borre just wants to show you something.
+We sing to the flakes as they fall past, wishing them a soft landing. 'Down you go, gently as you can, onto the walkers, onto the land.'
+Hum with me, it keeps the cold out of your chest. Hmmm. Warmer? The weavers say a good hum is worth a second stole.
+The flakes go down through the clouds and turn the walkers' world white. What a thing. 'White below and white above...' I'd love to see their faces in the morning.
+Snow sticks to the veils and makes them heavy, so we fly low and sing low. 'Shake, shake, shake the white off...' And shake! There. Light again.
+There's a whale song for snowy days. The Old Singers sing the snow into being, the old ones say. High and thin, like this: eeee-ooo. Listen. Can you hear one out there?
+
+## song.harpist
+Every morning I tune the harps to whichever wind has the sky. Today it's {wind}, so the strings sit differently. Listen: mm. You can hear {wind} in the low string.
+A wind harp isn't played so much as listened to. I pluck, but the wind finishes the note. Half the music in the Hall of Echoes isn't mine.
+Aure's tuning is bright and thin, Sefa's is warm and lazy, Vell's is all sighs, and Borre's... we bring the harps indoors when Borre's tuning comes round.
+The secret of the Evensong is the first note. If I give it wrong, the whole village sings wrong all evening, very beautifully. It's happened. Nobody said a word.
+Strings go out of tune in the damp. After rain I spend the whole morning chasing them back. Pluck, hmm, turn. Pluck, hmm, turn. Like teaching koi to sit.
+In the Hall of Echoes a note rings on for a long breath after you stop. I write songs with gaps in them, so the hall can join in.
+Do you hear that hum under everything? The harps in the next room, playing on their own. When the wind's right, the Hall plays all night. We've never quite managed to hush it.
+A good harpist listens more than plays. My first year I only listened. My teacher wouldn't let me touch a string till I could hum back what the wind did.
+I'm working on a new piece. It's meant to sound like a whale passing: a long low note that starts before you hear it and ends after it's gone. The trouble is the start.
+Gold for the high strings, spider string for the low. Walkers bring the string up and the market buys all it can. Your string might be in half the harps in {village}.
+The best sound a harp makes is the one just before it plays: the wind leaning on the strings, deciding. Hmm. There. Did you hear it decide?
+A chord in Vell's tuning sounds like someone saying goodbye kindly. That's why the Evensong is in it. You can't sing the day down in a happy key; it won't go.
+You know you've played well when the koi come to the edge of the pool. They like the middle strings. They don't care for my high notes at all. Critics, koi.
+We keep a harp for each wind in the Hall, and one for no wind at all, that nobody plays. It's for still days. We hope never to hear it. Never trust a still day.
+I can tell who's crossing the bridge by how the harps answer. Cirri make no sound at all. Walkers make the low strings shiver. You made them shiver.
+Children always want to pluck the longest string first. Then they hear it and hide behind me. The long string sounds like a whale clearing its throat.
+A harp's frame is skywood, and skywood remembers. Play one tune on it for years and it starts humming that tune by itself. Mine knows the Evensong by heart.
+Every wind wants its own touch on the strings. Aure likes fingertips, Sefa the whole hand, Vell the thumb. Borre? Borre wants nobody touching anything.

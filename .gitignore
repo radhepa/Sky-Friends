@@ -20,3 +20,4 @@ tools/sounds/out/
 tools/animations/out/
 tools/dialogue/out/
 build-*.log
+tools/gui/out/

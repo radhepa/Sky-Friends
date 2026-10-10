@@ -1,0 +1,539 @@
+# "How's your day?" from a grown-up Cirri: a thought, a bit of their day, an opinion, a small story, a joke, a confession.
+# chat.<personality> in each personality's own voice; chat.general for anyone; chat.new / chat.friendly / chat.close by
+# how well they know the walker. Every line stands alone and fits any hour and any weather.
+
+## chat.dreamer
+Do you think the clouds remember where they've been? The one I slept above last night smelled of salt and far-off places.
+How far down does the ground go, do you think? All the way to the other side of the sky?
+Sometimes I fly so high the blue goes thin as old veilcloth, and I can almost see the stars through it at noon.
+If you sang a song off the edge of the Lift Dock, would it reach the ground? Or would the clouds keep it for themselves?
+I was going to tell you something about the koi. It was lovely. It's gone now, like breath on glass.
+The stars must be very far away. Or very small and very near, and shy. I change my mind every night.
+I dreamt I had feet, and they kept wanting to stop. Isn't that strange? Do yours want things?
+Where does Vell go when the Evensong ends? Somewhere quiet, I hope, with nobody asking it for songs.
+That hour when the clouds below turn gold and the ground disappears: I love it. As if the ground were only ever a rumour.
+Every raindrop that falls past us is going somewhere I've never been. I wave to them sometimes.
+Mm? Sorry. I was counting the colours in a cloud. There were more than there ought to be... where was I?
+If the Old Singers sing the weather into being, who taught them the tune?
+Last night I tried to follow a star home. It kept the same distance the whole way, very politely.
+My veils were full of dew when I woke, every thread a tiny lamp. I lay very still so I wouldn't spill them.
+What colour is your favourite silence? Mine is the one just after the dusk bell. A sort of pale gold.
+Do you think the ones who went up past the blue can see the ground from there? I hope someone tells them about it.
+Isn't it strange that shadows fall? Mine drops all that way and lands in someone's field, and I'll never meet it.
+I named a cloud after you today. It's drifting south now. I hope it finds somewhere nice to rain.
+The wind harps hummed all through my sleep. I dreamt I was one long note, held for a very long time.
+Somewhere below us, someone is looking up right now and wondering about us. Hello, someone.
+I've been thinking about edges. The ground has them, doesn't it? Places where it simply stops and the sky begins?
+I lost a whole afternoon today. I think it went off with a skein of geese. They looked very pleased with themselves.
+Distances are odd. The Spire is a breath away, the horizon is a lifetime, and both of them are only sky.
+Have you ever wanted to be rain? Just for a little while. To fall, and not be frightened of it.
+If I wove a veil from starlight, would it carry me upward, or only sideways through the night?
+Clouds pass under the village all day like slow white thoughts. I try to think as slowly. I never quite manage.
+Have you heard the hush before snow? I think it's the sky holding its breath, deciding.
+In my dream the ground floated up to visit us. It was very polite about it, and very heavy, and it couldn't stay.
+Does the ground get lonely, do you think, with everyone always walking on it and nobody stopping to talk?
+...Sorry, I was halfway to the horizon in my head. It's lovely there. Rather far.
+Where do the colours go when dusk is finished? I like to think the lamplighter folds them up and keeps them in a jar.
+I counted the blues in the sky today and stopped at forty. The forty-first was too shy to be counted.
+Sometimes, drifting, I forget which way is up. Then a peach falls and reminds me. Peaches are very sure of themselves.
+If the moon is a stone, what holds it up? If it's a lantern, who lit it? If it's a Cirri, it's a very patient one.
+Maybe the sea looks up at the sky and thinks: there, that's what I would be, if I were braver.
+
+## chat.merry
+I tied a tiny bell to {neighbour}'s veil while they napped. They've been jingling all afternoon and can't work out why.
+Race you to the Lantern Spire! Oh. Walking. Right. I'll count to a hundred. Slowly. Twice.
+Eleven loops before breakfast and I only bumped the Bell Pagoda once. A personal best!
+Want a riddle? Why did the walker cross the bridge? Because the sky wouldn't let them! ...I'm still working on it.
+I've been teaching the koi to follow my finger. They follow it, then they find a petal and forget I ever existed. Rude.
+Hide-and-seek is hard in a cloud village. Everyone hides in a cloud. Then the cloud leaves.
+I hung upside down from the Market Pavilion awning and told the Skymerchant the prices looked much better this way up.
+You walk so seriously! Every step as if you mean it. Try a little skip. For me? Ha! There it is.
+Guess what I found in my nest? A whole sky peach with one bite out of it. I don't remember biting it. Mysteries!
+Raced a swallow today! The swallow won, but my loop at the end was much better, so I'm calling it a draw.
+Somebody braided gold thread into the windkeeper's hair while they dozed at the dock. Not me. Almost certainly not me.
+Watch this: I can spin so fast my veils knot themselves. ...And untying them takes the rest of the day. Worth it!
+I told the children walkers wear boots so they don't float away. Now they keep peering at yours. Wave at them.
+My new game is called Catch the Petal. You drop a petal off the rim, and whoever catches it wins. Nobody has ever won.
+The bellkeeper says I laugh louder than the dawn bell. I've been practising, so now it's true.
+A dab of honey on the nose is good luck. I've just decided that. I've been very lucky all day.
+I bet you a peach I can fly round {village} backward before you cross one bridge. Go on, start walking!
+Ever tried sneaking up on a Cloud Whale? Very hard. It's the size of a village, and I sneezed.
+Three loops, a twirl and a dive. I've named it after you. It's called The Walker, and it ends with a bump.
+{wind} keeps blowing my hair into my mouth. I've decided it's a game. I'm losing.
+Ha! You blinked. I win. You didn't know we were playing? That's the very best way to win.
+I balanced a peach on my head through the whole of the Evensong. Not one note missed, not one bruise. Applause, please.
+Somebody painted a little face on the underside of the bell. I'm not saying who. It's smiling at you right now.
+The gardeners chased me out of the Cloud Garden for juggling peaches. I only dropped one. Into the koi pool. Twice.
+Guess how many bridges there are in {village}. Wrong! You didn't even guess. I wanted you to guess.
+Straight lines! I tried flying one for a whole minute. Terrible. I don't know how anyone bears it.
+A walker gave us a chair once. Lovely thing. We still argue about which end goes up.
+Tickle a koi under the chin and it wiggles all the way round the pool. Don't tell the gardeners I know that.
+I've been practising my most solemn face for the Evensong. Look. ...No, don't laugh, it took me all day!
+The windkeeper nodded off on duty, so I stood guard and welcomed a goose. Very polite goose. Didn't stay for supper.
+Life's far too long to fly straight and far too short for just one loop. Three, at least. Watch!
+I hid in a cloud to surprise the weavers, and the cloud drifted off with me in it. I surprised some geese instead. They took it badly.
+The little ones dared me to fly through the Loom House without touching a thread. I did! Mostly. The weavers have asked me to stay out until next season.
+Today's rule: whoever frowns flies a loop. The bellkeeper owes me fourteen.
+Peach-stone flicking! I hit the bell from clear across the Veil Court. It went ting. Best sound in the sky.
+
+## chat.gentle
+You've been on your feet all day, haven't you? Rest them a moment. I'll keep the wind off you.
+There's dust from the ground on your sleeve. No, leave it. It looks as if it's come a long way with you.
+Your shoulders are carrying something. You needn't tell me what. Just let them drop a little while you're here.
+I left a peach on the bridge rail for whoever crossed next. I hope it was someone who needed it.
+Have you had water today? The air up here is dry, and walkers dry out like peach stones.
+I sat with one of the little ones today while they cried over a torn veil-tip. It mended. So did they.
+You look tired around the eyes. Is the ground hard to sleep on? The Cloud Garden is quiet under the skywoods, if you want to rest.
+Yesterday I kept the bellkeeper company while they rang dusk. They said nobody had ever thought to. I'll go again.
+Afternoons, I watch the Lift Dock, in case someone comes up shaky. The first rise frightens most walkers.
+If you scrape yourself on all that ground, come to me. A little honey keeps a cut clean; the gardeners swear by it.
+I hum to the koi when they won't eat. It works more often than it should. I could hum for you, if you're low.
+Take the slow way across the bridges. They're steadier than they look, and nothing up here is in a hurry.
+The weavers had words with each other today. I brought them each a peach and said nothing at all. That's half of mending.
+When did you last eat something sweet? Walkers forget, I think. All that walking.
+Some days are heavy. If today was one of yours, you're welcome to leave a little of it up here.
+Do you miss someone below, while you're up here? I'd understand. The sky makes a person think of people.
+Folded in my nest there's a spare stole. It's for whoever needs it. You'd be surprised who does.
+A child dropped a Sky Scale through the clouds today. I told them the ground would keep it safe for someone. I hope that's true.
+You needn't say anything. We can just be here a while. I'll hover, you'll stand. That's company enough.
+I wrapped the windkeeper's hands in a warm cloth this morning. Borre gets into the knuckles.
+If the height ever makes your head spin, look at the Bell Pagoda, not down. That's what we tell the little ones.
+I spent the afternoon untangling a little one's veils. Patience is only love that's willing to wait, I think.
+A walker came up the Wind Stone once, shaking so hard the dock rattled. I held their hand till the Evensong. They came back every year after.
+You laugh with your eyes before your mouth. Did you know? It's a nice way to laugh.
+Have you someone to sing you to sleep, down there? Everyone should have someone.
+When Borre blows I check the nests on the windward side. Everyone's nearly always fine. Nearly always is enough to keep checking.
+I gave my Sky Scale to a child who'd lost theirs. I'll find another. Or I won't, and that will be all right too.
+Your boots must pinch after all those bridges. Take them off on the Veil Court if you like. Nobody will mind.
+The koi always drift toward whoever has been sad. I watch where they go. Then I go there too.
+I saved you the last of the honey. I hope you like honey. If not, I'll save you something else.
+You look after everyone you meet, I think. Who looks after you?
+It's been a slow, soft sort of day. I wanted to share a little of it with someone. You'll do very nicely.
+The lamplighter was low today, so I flew the bridges with them, lantern to lantern, saying nothing. By the last one they were humming.
+Are your hands cold? Walkers' hands go pale at the tips up here. Hold them near my stole. It's warm from the sun.
+Nobody minds if you take your time. Up here, a slow walker is only someone who's looking properly.
+
+## chat.shy
+...Oh. My day? It was... quiet. I liked it.
+I fed the koi. They don't mind if I don't talk. ...You don't either, do you?
+...Too many voices at the Market Pavilion today. I hid behind an awning. Then I came out. ...That's something.
+Mm. I mended a little tear in my veil. By myself. Nobody saw. ...That's how I like it.
+...You can stand a bit closer, if you like. Or not. Either is... fine.
+At the Evensong I hummed. Not loudly. ...Someone hummed back, I think.
+...Sorry. I'm not very good at days. At talking about them, I mean.
+There's a spot under the Bell Pagoda's eaves where the wind can't reach. I go there. ...You could too. Sometimes.
+...I picked you a flower. Then I got nervous and gave it to a koi. It ate it. ...Sorry.
+Today I said good morning to the bellkeeper. Out loud. ...It went well, I think.
+...The clouds were very soft today. That's all. That's my news.
+The hour before dawn is my favourite. Nobody needs anything from you then. ...Not that you do. I didn't mean...
+...I wove a tiny star from a spare thread. It's for... nobody. Well. Maybe you. If that's all right.
+...Loops aren't for me. Everyone watches when you fly loops.
+Mm. Good, actually. ...I'm just not used to being asked.
+...Walkers are very loud. Oh. Not you. You're a... quiet kind of loud.
+Once, I watched a walker cross the long bridge without holding the rail. ...I thought about it for days.
+...The little ones asked me for a story. I told half, then hid. ...They liked the half.
+Veil-tips are rose all the time, so nobody can tell when I'm blushing. ...That's the best thing about them.
+...I saw a Cloud Whale today. Far off. I didn't tell anyone. I wanted it to be mine, for a little while.
+I practised saying hello to you. In my nest. ...Many times. It went better there.
+...Sorry, did you ask something? I was listening to the chimes. They say things I can't.
+...The Evensong is easier. Everyone sings together, so nobody hears just you.
+Mm. I carried string to the Loom House. Thirty skeins. ...Didn't drop one. I'm a little proud.
+...Do you get nervous? Down there? With so many people walking at you?
+There's a quiet side of the Cloud Garden, where the moss is. ...I could show you. Another day. Maybe.
+...Thank you for asking. Hardly anyone does. It was a good day. I think it was.
+The koi have a shy one too. Pale, with a grey fin. It hides under the lily pads. ...We understand each other.
+...I'm better with the winds than with people. The winds don't wait for an answer.
+...There was dew on the bridge rail, so I wrote a little word in it. Aure dried it before anyone saw. ...It was a nice word.
+...Sometimes I hide behind a cloud so nobody can see me. Then I worry nobody can see me. ...It's complicated.
+A bird landed on my shoulder today. I didn't move for an hour. ...It was worth it.
+...You know what I like about walkers? You can hear them coming. It gives me time to be brave.
+I swept the long bridge this morning. For guests. For anyone. ...Not for you especially. Well.
+...Can I stay here a little? Next to you? It's quieter where you are.
+
+## chat.proud
+No village in the high sky rings a truer dawn bell than {village}. Ask anyone. Ask the bell.
+Our veils are woven from the cirrus itself, walker. Not wool. Not silk. Cloud. Think on that.
+Some of the harps in our Hall of Echoes are older than any village you've ever walked through. They still play true.
+A Cirri needs no bridge, you understand. We built them for guests. The Courtesy is the Courtesy, and we keep it handsomely.
+I flew the long circuit of {village} twice today, and twice I thought: there is nothing finer under the stars.
+A Cirri never lands. Not to rest, not for rain, not for anything. We've kept to the air since the first dawn.
+Walkers build with stone so that it lasts. We build light so that we last. There's a difference.
+The Loom House turned out forty lengths of veilcloth this season. Forty! I'd like to see a bell-village weave one.
+Every lantern on our bridges is lit by hand at dusk. Every one. We could find an easier way. We would rather not.
+I'll grant you this: walkers are sturdy. A Cirri couldn't carry half what you carry. We'd never want to, but still.
+I've seen other sky villages, you know. Very fine. Not this fine. I say so kindly.
+Our koi pool holds more Cloud Koi than any from here to Borre's own cradle. I've counted. Twice. For accuracy.
+When the Old Singers pass over {village}, they sing a little longer. They don't do that everywhere. So I'm told.
+My veils were woven by the finest weaver in the high sky. They've carried me through two storms and a whale's wake.
+Do the bell-villages below have an Evensong? No? Something with drums, I expect. Charming, I'm sure.
+A Cirri's word is like a veil-thread: fine to look at, and far stronger than it has any right to be.
+The Ruined Belltowers grew heavy with pride in stone. Our pride is lighter. We carry it ourselves.
+I'll admit I was wrong about walkers. About some of you. One or two. You, possibly.
+Our little ones can name the Four Winds before they can name their own toes. Can walker children do that?
+Look at those roofs: tiers and domes and gold, and not an ounce heavier than they need to be. That's craft.
+Never in all its dawns has {village} missed an Evensong. We sang through hail once. Borre was very embarrassed.
+We have no use for stairs, but we built you some anyway. Mind them. They're beautiful stairs.
+Some say the Cirri are vain. We prefer "well-veiled".
+You may call our village beautiful. You were going to anyway. I'm only saving you the trouble.
+Any walker can climb a mountain. Only the Courtesy can lift you above the clouds. Do remember who lifted you.
+Those awnings on the Market Pavilion were woven from cloud that drifted in off a whale's back. You won't find that below. You won't find that anywhere.
+A child asked me whether a walker could ever learn the Evensong. I said yes. You'd be the first. No pressure.
+A good veil is a family's whole history. Mine carries a thread from every Lengthening in my line. Six of them, sewn in.
+I've no quarrel with the ground. It's very useful. Something has to be underneath.
+Skywood is the lightest timber under the sun and the strongest above it. We'd build with nothing else.
+When I was small I flew out and touched a Cloud Whale's fin. The others were too frightened. I wasn't. Ask anyone.
+Walkers come from three valleys away just to ride the Wind Stone up and stare at us. Three valleys! On foot! I'd stare too.
+There's a right way to greet each wind. We bow to Aure, raise a peach to Sefa, sing to Vell and stand firm for Borre.
+I've been told my bow is the most elegant in the village. By myself, mostly. But I'm very well informed.
+You're improving, walker. Your bridge-walking is almost dignified now. Almost.
+
+## chat.restless
+I flew out past the last islet today until {village} was a speck. Then I came back. I always come back. I don't know why.
+Borre comes from somewhere. Nobody's ever followed it to the end. I'd like to be the first.
+Have you seen the skies over the deserts? The air must taste of sand and sun. I'd give my best veil to know.
+Hovering still is a trick I never learned. Even at the Evensong my veils are halfway to somewhere else.
+The whales go somewhere when they leave our sky. One day I'll follow one, just a breeze behind. Just to see.
+Every cloud that passes under us is going somewhere. And here I am. Again.
+Do walkers ever just keep going? Past the last village, past the last road? What's out there? Has anyone said?
+There are skies over the sea that have never seen a Cirri. I think about that at night.
+I asked the windkeeper where Sefa goes in winter. They said "south." Just "south"! That isn't an answer, it's a direction.
+Three loops round the Spire and I'm still twitchy. Something's coming on the wind. Or I want it to be.
+My veil-tips are fraying again. The weavers say I fly too far. I say they weave too short.
+If I had your feet I'd walk to the edge of everything. Then I'd fly off it.
+The Evensong's lovely. It's only... the same sky, every dusk. I want to sing down a sky I've never seen.
+I flew with a flock of geese until they turned toward the sea. I nearly turned too. I nearly did.
+A village is a lovely thing. So is a road. I wish I could be both.
+I've been planning a journey since my Lengthening. It's very well planned by now. I'll go any dawn. Any dawn now.
+Aure wakes up somewhere east of the world. I've always wanted to be there when it does.
+Don't mind me circling. If I stop, my thoughts catch up with me, and they're full of horizons.
+I flew so far today the bell was only a whisper. That's the best sound a bell can make, I think.
+There's a ruined belltower three winds west of here. I've seen it once. I want to see the next. And the one after.
+Have you a map, walker? Show me where it runs out. I want the edges.
+Vell carries songs from villages we've never met. I listen for words I don't know. Last night there was one.
+I'm not unhappy here. I'm only pointed somewhere else.
+Every storm Borre brings has been somewhere first. I ask the hail where. It never says.
+The windkeeper says the sky goes on past the last cloud. I believe it. I'd just like to check.
+I dropped down through the clouds once, all the way to where the birds fly low. Everything smelled green. I've not been the same since.
+One more loop, then I'll listen properly. ...One more. There. What were you saying?
+Sefa smells of peaches from somewhere warmer than here. I'd like to find the tree it steals them from.
+I keep a list of skies I mean to see. The list is long. My veils are longer. We'll manage.
+Today was just like yesterday. Yesterday was lovely. I want a different lovely.
+I envy the clouds. Nobody expects them home for the Evensong.
+Somewhere there's a sky with two moons, or none, or a moon made of something else. I'd go just to look.
+Have you stood on a mountain top? Is the sky closer there? Does it feel as if you could step off and keep going?
+The bridges all lead back to the Veil Court. Every one. Sometimes I wish just one of them went somewhere else.
+Once I followed Vell till the Evensong was out of earshot. Then I lost my nerve and raced home for the last verse. Next time I won't.
+
+## chat.busy
+Can't stop long: three baskets of peaches for the Market Pavilion and only two hands. Here, hold one. ...No? Fair.
+Today? A blur. Four lanterns hung, the court swept, and a koi found in a bucket. Don't ask about the koi.
+Sorry, I'm counting chimes. Thirty-one, thirty-two... no, that one's a lantern. Start again.
+Fine, all fine! The weavers want string, the gardeners want baskets, and I want a third arm.
+Talk while I sweep, would you? The Bell Pagoda's eaves won't clear themselves. Well, Borre tries.
+Up before the bell, me. Before the bellkeeper, even. Somebody has to wake the bellkeeper.
+Hold that end. No, the other end. There! A whole length of veilcloth folded, and not one walker's footprint on it.
+Good, if a little hectic. Two guests came up the Wind Stone at once and everyone wanted to say hello. Lovely. Very slow.
+You've caught me between the Loom House and the Cloud Garden, which is where I live now, apparently.
+I've a list as long as my veil today. I've done the root end. The tips can wait.
+Peaches sorted, honey jars counted, a small child returned to the right nest. Not a bad start.
+Everything's on time. Nearly everything. One thing's late. It's me.
+If you find a basket of glow berries on a bridge rail, it's mine. I set it down for one breath and forgot where.
+Mending, sorting, carrying, fetching. Somebody asked me what I do. I said "yes."
+Let me just tie this chime. And that one. And... right! Now. Where were we?
+Busy is happy, I always say. Mind you, I only ever say it while busy, so I've never stopped to check.
+The gardeners lent me a basket, the weavers borrowed it, and now someone owes me a basket. That was my whole morning.
+Today I've carried cloud, string, honey and a sleeping child. The child was the heaviest. Don't tell them.
+No time to talk, which is why I'm talking quickly. You may answer slowly. I'll catch up.
+Anyone who tells you a Cirri is idle, send them to me. I'll give them something to carry.
+The koi pool needs skimming, the bridges need sweeping and my veil needs mending. In that order. Veils are patient.
+I'll tell you about my day when it's finished. Which might be dawn. Tomorrow's.
+Don't let me forget: string, petals, the bell rope, the third lantern on the long bridge. ...There. Now you'll remember for me.
+A walker! Splendid. Have you any string? The weavers are begging for it. No? Never mind, I like you anyway.
+I tidied my nest so fast the cushion's still spinning.
+There's a heap of windfall peaches that won't sort itself. I've told it so, firmly. It's thinking it over.
+Brisk day. Brisk, brisk, brisk. The kind I like. Talk to me while I count these, would you? It keeps me honest.
+The little ones helped me today. Everything took twice as long and was twice as nice. Don't repeat that; I've a reputation.
+Somebody left a ladder on the Market Pavilion steps. Who even uses... oh. Walkers. Was it yours?
+Can't stop, can't stop. Well. I can stop for you. For a light breeze. Go on, quickly.
+Three nests to air, two bridges to sweep and one Evensong to be on time for. I've never once been on time. This dusk, I will be.
+Half the lantern wicks want trimming before dusk. I've done the bridges. The Spire can look after itself.
+Everyone wants a hand today. I've given out both of mine and borrowed one from the windkeeper.
+If I stop moving, I start noticing how much is left. So I don't stop. Shall we talk on the way?
+Busy? Me? Only from bell to bell. In between I'm very relaxed. ...There isn't an in between.
+
+## chat.wise
+The old ones say a cloud is only a thought the sky hasn't finished yet. Most of mine are the same.
+In the oldest story, the first Cirri wove their veils from the mist over a waterfall, and fell twice before they learned to trust them.
+A heavy heart sinks a light village. That's why we sing every dusk: to set it down.
+Each bell in the Ruined Belltowers was cast a little heavier than the last. That is how pride works. One more bell at a time.
+The winds are like neighbours. Aure is kind, Sefa is lazy, Vell is a gossip and Borre is honest. A village needs all four.
+My elders used to say: the sky gives to those who leave room. A full nest catches no breeze.
+Count your dawns, the old saying goes, but count them on your fingers and not in your worries.
+The first windkeepers set the Wind Stones before any walker asked for them. A welcome is best given before it's needed.
+Never weave a veil in anger. It holds, but it carries you somewhere you didn't mean to go.
+They say the Old Singers sang the first cloud, then sang a second so the first wouldn't be lonely. That's why clouds never come alone.
+Long ago, before the bridges, walkers who came up were carried over the court in veil-slings. To carry a guest was the highest honour there was.
+Rain falls past us all day long. The trick is to let it.
+A walker once asked me why we never land. I said: what would the ground do with us? It has enough to hold.
+Young ones fly fast to get somewhere. Old ones fly slowly because they're already there.
+There was a village once called Halvenne that rang its bell so loud it frightened off the whales. They never came back. After a while, neither did the rain.
+A torn veil can be mended. A torn word, less easily. Mind your words; they fly further than you do.
+Do you know how the Evensong began? As an answer. A whale sang across the dusk, a child sang back, and the village joined in. We've been answering ever since.
+Patience is a cloud's whole art. It never hurries, and it crosses the world.
+They say if you sing to a koi every dawn for a year, it will give you a scale. I sang for three years. It gave me a look.
+Be kind to the ground, walker. It is old and patient, and it has carried you all this way without once complaining.
+Grief is heavy, so we fly it high. That's why we say "up past the blue." Everything is lighter up there.
+My harp teacher used to say: play the wind you have, not the wind you wish for. I've found it true of nearly everything.
+At every Lengthening, the weavers leave one thread loose at the tip. It reminds you that you're still being woven.
+The oldest saying I know has no words in it. It's the hum we give the little ones when Borre is loud. Everyone knows what it means.
+Long ago a village tried to catch a Cloud Whale in a net of veilcloth. The whale sang once, softly, and every thread came undone. Some songs aren't for keeping.
+A good host gives the guest the bridge and keeps the sky. A good guest never asks for both.
+When I was young I thought wisdom was knowing things. Now I think it's knowing which things to let blow away.
+An old riddle: what goes up the Wind Stone heavy and comes down light? A walker who stayed for the Evensong.
+Sky peaches ripen from the top down, the way good things do. Take the one that falls to you, not the one you reach for.
+The bell is iron, and still we keep it. Every village needs one heavy thing to remind it what heavy is.
+A whale once passed so low over my nest I could hear it breathing, like the whole sky sighing. I've forgotten a great deal, but never that.
+Winds change, clouds change, even koi change. The Evensong doesn't. That's what it's for.
+{day} dawns this world has seen, they tell me. Every one came up whether anyone was watching or not. Remember that on low days.
+Before the Wind Stones, there was one lonely walker at the foot of a mountain, waving up at the sky. Some say that's how the Courtesy began.
+Never trust a still day, they say. I'd add: never trust a still koi either. It's planning something.
+
+## chat.curious
+What does the ground feel like? Is it warm? Does it push back? Does it mind?
+How do you sleep lying down? Doesn't the ground get in the way of your dreams?
+Do your feet get tired, or only bored? I'd think bored. Left, right, left, right, all day long.
+Walkers climb stairs so quickly. Who teaches you stairs? Is there a stair teacher? Is it hard?
+What's a cave like? Is it a sky with a lid on?
+When you trip, does the ground catch you every time? Is it always there? Every single time?
+Tell me about rivers. Are they rain that decided to lie down for a while?
+Do walkers ever look up and wish? What do you wish for, when you look up?
+Is it true you build houses out of the ground itself? Dig it up and stack it? Doesn't it want to go back?
+How do you know which way to go when there's no wind to tell you?
+What do your boots smell like? No, truly. I have a theory, and I need evidence.
+I've heard some walkers go under the ground on purpose, with little lights. Is that true? Why would anyone?
+Walkers jump, don't they? Up, and then... back down. Every time? Doesn't that feel like a broken promise?
+What's mud? The gardeners say it's ground that's been rained on. Is it nice? It sounds nice.
+Does the ground have weather of its own, underneath? Little storms down in the dark?
+If you stood still for a very long time, would you grow roots? The trees did, didn't they?
+How many steps from where you were born to here? Roughly. Hundreds? Thousands? More than there are stars?
+Do walkers sing while they walk, to keep the rhythm? We sing to keep the wind.
+What's it like in a house with a ceiling? Doesn't it feel as if the sky's been folded down on top of you?
+When it rains down there, where do you go? Under things? What things? Are there enough things for everyone?
+Does snow stay where it lands, down on the ground? We only ever see it going past.
+Is the sea really bigger than the sky? The windkeeper says so. I don't believe it. Has anyone measured?
+Have you ever stood in fog? The windkeeper says it's a cloud that came down to visit walkers. Is it friendly?
+Do you like walking? Truly? Or did nobody ever tell you there was another way?
+How do you carry so much? Is it the feet? Are the feet strong? Could I see them? ...No? Fair.
+What do the bell-villages talk about all day? Have they an Evensong of their own? What do they sing about? Fields?
+Why do walkers need doors? We put them in for you, but I've never understood. Is it to keep the inside in?
+I keep a list of walker words. Tunnel. Puddle. Gravel. Tell me a new one. A good one.
+When you dream, do you dream of falling or of flying? We dream of standing. It's terrifying.
+Is it true some walkers keep animals that walk along beside them? On purpose? Friends with four feet?
+You eat things that have been in a fire. On purpose! Does it taste of smoke? Is it very brave of you?
+What's sand like? I picture it like cloud, only it stays where you put it.
+Do you ever lie on your back and look up at us? What do we look like from down there? Small? Silly? Be honest.
+How did it feel, the Wind Stone lifting you? Like being picked up? Did your stomach stay on the ground?
+Does the ground hum? We hear the wind hum all day. Surely the ground hums too, slowly, under everything?
+
+## chat.general
+Nearly ripe, the peaches on the old skywood by the koi pool. Everyone is pretending not to watch them.
+I slept so soundly I drifted out of my nest and woke over the Veil Court. Nobody mentioned it. Everybody noticed.
+The gardeners moved the koi to the far side of the pool. The koi moved themselves back. The koi won.
+Peach at dawn, whale on the horizon, and nobody's veil caught in a door. That's a full day for a Cirri.
+Our bellkeeper rang the dawn bell a breath early and half the village woke up cross. The other half woke up early, which is worse.
+One of the little ones lay down on the long bridge to find out what floors feel like. They said "hard" and floated off, very pleased.
+New awnings on the Market Pavilion, rose and sky. The weavers hung them yesterday. It looks as if dawn decided to stay.
+A good nest is all cushion and no corners. Mine has one corner. I bump it every night. I wouldn't change it.
+There's a skywood in the Cloud Garden with a branch shaped like a harp. The harpists swear it hums when Vell blows.
+Yesterday the lamplighter lit the bridge lanterns early, and it felt like dusk all afternoon. Nobody minded. A lovely muddle.
+My veil picked up a burr on a wild islet. Ground things get everywhere, don't they? Even up here.
+We had melon for supper. Melon is very hard to eat gracefully at height. Very hard. Ask my stole.
+Somebody left a honey jar open in the Loom House and now the cloud is sticky. The weavers are not high today.
+I flew too near the Lantern Spire and singed one thread of my veil. Just one. I've given lanterns a wide berth since.
+Somebody found a Sky Scale on the Veil Court, nowhere near the pool. Everyone is claiming it was a gift meant for them.
+Did you hear? The Old Singers passed far off yesterday. Everyone stopped to listen. Even the koi went still.
+I spent an hour lying on the wind over the Cloud Garden, doing nothing at all. It's an art. Some would say my best one.
+Peach stones go in the pot by the Cloud Garden, not over the rim. Somebody down below has been getting very surprised.
+A baby sneezed during the Evensong last night. Perfect pitch. We've decided they'll be a harpist.
+Not much today. A long glide, a peach, a nap in the sun. Sometimes not much is the whole point.
+I hung a wind chime inside my nest. It rang every time I turned over. It's back outside now, and my dreams are quieter.
+Do you know how long it takes to untangle two veils that knotted in a hug? Most of an afternoon. Worth it.
+Our little ones have a game where they hold their breath and drop through a cloud. The grown-ups have a game where we catch them.
+The bellkeeper polishes the bell every dawn. I asked why. They said, "So it can see itself." I didn't ask again.
+Glow berries by the nest at night: a lantern you can eat, with no flame in it. The only kind of light I trust indoors.
+Once a walker left a pair of boots at the Lift Dock. We hung them in the Market Pavilion. Visitors still bow to them.
+I lost a gold bangle through the clouds. Somewhere down there someone has found treasure in a field. I hope they wear it.
+That cloud under the Loom House hasn't moved in three days. The weavers say it's listening. They've started singing to it.
+Borre and the wind harps argued all night. By dawn they'd made it up. You could hear it.
+We had a visitor from another sky village who said our peaches were small. We said their manners were. Then we all laughed and shared peaches.
+I helped the weavers card cloud all afternoon. My hands smell of rain now. Not unpleasant.
+You can read a Cirri's mood in their veils. Mine have been flicking all day. That means it's been a good one.
+Under the Lift Dock someone has hung a lantern, so walkers coming up can see the end of the climb. Little kindnesses.
+A lark followed me round the village all day. I think it took me for a very large lark. I didn't correct it.
+There was a Lengthening yesterday. The new veils were so long the youngster tangled in them twice before reaching the court. Everyone cheered anyway.
+Last night's Evensong ran long. Vell wouldn't let it go. Some nights the wind wants another verse.
+I found a feather from a bird I've never seen, grey with a gold edge. I keep wondering what sky it came from.
+Our nests are sky blue and rose inside. Falling asleep in one is like falling asleep inside a dawn.
+There's a crack in the third step of the Bell Pagoda. No Cirri uses the steps, so no Cirri has mended it. Mind it, walker.
+Someone keeps leaving flowers in the Hall of Echoes. The harpists blame the wind. The wind says nothing and looks very pleased.
+I flew under the village today, through the hanging roots. It's dim and damp under there and smells of the ground. Lovely, in small breezes.
+The Skymerchant traded a lantern for a bag of feathers and looked as pleased as if they'd sold the moon.
+Tidying my nest, I found three peach stones, a ribbon and a song I never finished. One for each of my moods.
+We had a cloud whale of our own today: the little ones made it. It drifted off, and they waved goodbye as if it were the real thing.
+Have you met the koi that only swims backward? It's everyone's favourite. Nobody knows why it does it.
+Last night a phantom came sniffing round the bridge lanterns. The lamplighter shooed it off with a broom. A broom!
+Up on a breeze came the smell of hay from the bell-villages below. Everyone stopped to sniff. Very good smell, hay.
+I learned a new knot for tying veils back in a high wind. It holds beautifully. I can't untie it.
+My nest faces east, so Aure comes in first thing and wakes me with a damp nose. I complain every dawn, and I'd never move.
+Sky peaches are best eaten with the sun on them. A peach from the shade tastes of almost nothing. Everyone knows that.
+A lantern slipped over the rim in the wind and floated down for ages. Somewhere a walker saw a small star landing.
+The bridges are for walkers, but the children use them as a racecourse. Underneath. Upside down.
+There's a skywood on the north islet that has leaned away from Borre for a hundred dawns. It has an opinion.
+Honey and glow berries: the best breakfast in the sky. Nine dawns running and I'm still not tired of it.
+Somebody sang off-key at the Evensong, and the whole village went with them to be kind. Now it's a harmony. We're keeping it.
+A child flew their very first loop today and then hiccupped for an hour. Still counts.
+Sefa had the sky yesterday and the harpists tuned to it, so everything sounded sleepy. Even the bell yawned.
+Fog days are the hardest. The whole village goes quiet and everyone flies slowly, calling to each other like geese.
+After rain, the Cloud Garden smells of wet petals and peach skin. Every Cirri knows that smell. It means home.
+According to the weavers, a veil remembers every wind it has flown in. Mine must be getting very crowded.
+A thrush built a nest under the Loom House eaves. The weavers are making it a tiny veilcloth curtain. Nobody has told the thrush.
+We have three words for the clouds below and only one for the ground. It's just "down". That seems unfair, now I've met you.
+When the bell rope frayed today, the bellkeeper rang dusk with a ribbon. It sounded exactly the same. Bells don't care.
+My cushion is filled with cloud, and every so often it tries to float off. I hold on to it in my sleep.
+Market day was busy. Walkers want veilcloth, Cirri want amethyst, and everyone wants to admire the flutes without paying.
+Every nest in {village} has its chimes, and they talk to each other in the wind. We like a chatty sky.
+Four of us drifted on a warm current all afternoon, saying nothing. Best conversation I've had in a while.
+They say the great lantern can be seen from the bell-villages below. I like to think they wave up at it.
+A gust snatched my sash today and I chased it halfway to the next sky. Caught it, too. Nobody saw. That's the sad part.
+We hang wet veilcloth on the bridges to dry. That's the real reason we built them. Don't tell the walkers. ...Oh.
+Somebody is always humming in {village}. If it ever went quiet, I think we'd all wake up worried.
+Under the clouds, I told a child, are fields and walkers and cows. They didn't believe in cows.
+Today a raindrop hit my nose from a cloud above us. Above us! I'd forgotten that could happen.
+If you're ever lost here, follow the smell of peaches to the Cloud Garden. Then follow the singing to everyone else.
+The night-moths were out in numbers last night. One tore a veil-tip on its way past. It's mended already, with phantom membrane, which hardly seems fair on the phantoms.
+On a clear day you can see three bell-villages below, ringing their bells at once. Tiny, tiny bells.
+I helped the Skymerchant weigh amethyst. So heavy, for something so pretty. Like a lot of things walkers love.
+There's a patch of the court where the wind always swirls. The children call it the kettle. Not one of them has ever seen a kettle.
+Your first year, you learn to eat a peach upside down. Your fortieth, you learn to do it tidily.
+Below us yesterday a rainbow formed, a whole ring round the village's shadow. Everyone came out to look down at it.
+A whale passed so low yesterday it shook the little clouds off its back, and they snowed on the Cloud Garden. Snow on peach blossom. Lovely.
+Guess what the Wind Stone brought up today? Half the village came to look. It was a goat. Nobody knows how.
+Rules of the air: pass the Bell Pagoda on the left, never fly over someone's nest, and always, always wave at whales.
+I flew backward into the Loom House doorway today. The only door I've ever used. I don't recommend it.
+I tied ribbons in my hair for the Evensong. Borre took them. I tied more. Borre took those too. Borre has a lot of ribbons now.
+Every floor up here is for walkers, you know. Cirri have cushions and air. There are fewer floors than you'd think.
+Geese pass under the village honking up at us. I think it's a greeting. I honk back. They seem to take it well.
+Someone left a note at the Wind Stone that just said thank you. The windkeeper keeps it in a pocket and pretends not to.
+The harpist two nests over plays the same three notes when they're thinking. All day today. Something big on their mind.
+I made a garland of peach blossom for the Veil Court. Borre came through, and now the garland is a rumour.
+A good day is three things: a whole veil, a ripe peach and someone to hover with. I've had the first two.
+A little one woke last night sure they were falling. Their whole nest hummed till they slept. Then the next nest hummed too, to be safe.
+We tried teaching a koi to jump through a ring of string. One did. Once. We're calling it history.
+My stole came unpinned in a dive and spent the afternoon on a skywood branch. The birds made it very welcome.
+The windkeeper tells every walker who comes up the same joke. The walkers always laugh. The Cirri gave up years ago.
+All morning a cloud was snagged on the Lantern Spire like a scarf on a nail. It took a good gust to free it.
+The gardeners found a koi asleep among the lily pads, fins folded. Everyone flew past on tiptoe. Well. On veil-tip.
+{wind} has the sky today, and everyone's flying a little differently for it. You can always tell whose wind it is by the veils.
+{friend} and I raced the length of the Veil Court backward. We both lost. Nobody's sure how.
+{partner} has rearranged our nest cushions again. I can't find my side. I suspect that was the point.
+
+## chat.new
+Welcome to {village}, walker. Forgive me for staring. We don't see many feet up here.
+The Wind Stone brought you up, I take it? It's an old kindness. I'm glad it still works.
+I hope the bridges are to your liking. We built them for guests, and so few guests come.
+It's an honour to have a walker in {village}. If you need anything, please ask. The Courtesy is more than a stone.
+Forgive me, I don't know walker manners. Do you bow? Wave? We usually fly a small loop.
+My day has been ordinary, thank you for asking. Ordinary for a Cirri, that is. I suspect it would seem odd to you.
+You've come a long way up. Is the air thin for you? Tell me if you feel faint. Walkers sometimes do.
+Pardon me, but are those boots heavy? I've always wondered, and I've never met a walker I could ask.
+The last walker who came up stayed a whole day and wept at the Evensong. I hope you'll stay too. The weeping is optional.
+I'm {name}, by the way. I should have said so first. Walkers like names first, don't they?
+Is it very strange, being so high? You're bearing it well. Most walkers hold the rails at first.
+If you'd like to see the village properly, start at the Veil Court. It's the heart. Everything else is a bridge away.
+Please don't mind the children. They've only ever heard of feet in stories.
+Our customs are simple: be kind, mind the koi, and never bring fire. I'm sure you wouldn't.
+If I may ask, what holds you to the ground? Is it the boots? Is it something you learn?
+Some walkers try to climb up by the hanging roots. Please don't. The roots aren't for climbing, and the clouds aren't for catching.
+Have you come far, walker? From the bell-villages? Further? You needn't say, of course.
+A pleasant day, thank you. A peach, a glide, a chat at the Veil Court. And now a walker to talk with. That's rare.
+Forgive the faces at the nest windows. Every walker is news. You'll be in a dozen conversations by dusk.
+Please mind the edges. Everything up here ends rather suddenly, and you've no veils to argue with it.
+Do walkers have a word for hello? We say "fair wind". You're welcome to borrow it.
+Our village is small, but we hope it's kind. If anyone is unkind to you, tell me. It won't happen twice.
+I've heard walkers can carry their own weight in stone. Is that true? You needn't show me. Please don't show me.
+What do you make of us, if I may ask? Honestly. We're so rarely seen by anyone who isn't us.
+Take your time here, walker. Nothing up here hurries but Borre, and Borre has no manners at all.
+Do you have a nest down there? A house, I mean. I'm told they have roofs on purpose.
+You must be hungry after the rise. The Skymerchant has peaches. Say I sent you; it won't make them cheaper, but they'll smile.
+You're very welcome here. I hope that doesn't sound stiff. I practised it, in case a walker ever came.
+Should I call you {player}, or walker? I'm not sure which is politer, where you come from.
+We've watched walkers from above all our lives, you see. Never this close. Never talking back.
+
+## chat.friendly
+Back again! The windkeeper said someone was coming up the Stone. I hoped it was you.
+You're getting good at the bridges. You barely touch the rail now. Almost graceful. For a walker.
+I saved you a peach. Not the best one; the second best. I ate the best one. I'm only Cirri.
+The children have named the long bridge after you. They won't tell me the name. I think it's a bit rude. Fondly rude.
+My day's been lovely, and now there's a walker in it. That's a good sign.
+I told {partner} about you. They want to know if your feet are really that big. I said bigger.
+The koi know your step now. They crowd to the near side of the pool when you're about. Nobody taught them that.
+Every time you come up the Wind Stone, the windkeeper looks a little smug. As if they'd invented you.
+Tell me something from the ground today. Anything. A smell, a stone, a bird you saw from underneath.
+I tried walking on the long bridge yesterday, to see how you do it. Three steps. Exhausting. How do you manage all day?
+You've a bit of the sky in you now, I think. You look up before you look down.
+I've started glancing at the Lift Dock whenever I pass. Not on purpose. My eyes just go there.
+Sing with us at the Evensong one of these dusks? Off-key is fine. Vell carries everything.
+The windkeeper and I made a bet on whether you'd come back. I won a peach. So, thank you.
+Here's a secret: the Skymerchant gives you better prices than the last walker. They'd never admit it.
+I've been collecting walker words from you. "Ow" is my favourite. You say it on the stairs.
+You've stopped flinching when we swoop past. Took you long enough. Now we'll have to find new ways to startle you.
+The little ones ask after "the walker" now. Not "a walker". You've earned a "the". That's something.
+I saw a walker far below today, from the Lift Dock, and waved before I could think. It wasn't you. I hope they didn't mind.
+You look more at home up here every visit. Don't let it go to your head. Your feet are still very much feet.
+It's good to see you, {player}. The sky is more interesting with you under it.
+Did you ever find what you were looking for, down there? Walkers always seem to be looking for something.
+We talked about you at the Market Pavilion today. Only nice things. Mostly about your boots.
+I've got used to the sound of you, clonk, clonk, across the bridges. I think I'd miss it.
+Friends bring each other news, so: the koi have fry, the bellkeeper sneezed mid-ring, and you're here. Big day.
+Come for a glide with me sometime. I'll go slowly. You can walk underneath and wave.
+If anyone up here gives you trouble, tell me. I have a very sharp look. Ask the koi.
+You're the only walker I know by name. I say it to myself sometimes, to practise. {player}. There.
+I've been teaching {child} to wave at walkers properly. They practise on you from the nest. You've been waved at a great deal.
+Next time you come up, bring me something from below. A pebble. A leaf. Anything that's never been this high.
+
+## chat.close
+You're nearly one of us now, you know. All you're missing is a veil and the good sense never to land.
+I'll tell you something I've told nobody: I'm afraid of the dark under the clouds. Not the night. The under.
+When you're down on the ground, I catch myself looking over the rim, as if I could see you from here. I can't. I look anyway.
+If I'm ever grounded, truly grounded, I'd want it to be near you. You'd know what to do with a pair of feet.
+I've asked the weavers to keep one thread aside for you. Just one. For when you come to your senses and grow veils.
+Do you know what you are to us now? A walker who belongs. There isn't a word for that. We're making one.
+I sang your name at the Evensong last night, under my breath. Vell carried it off somewhere. I hope you didn't mind.
+Whenever you're gone a long while I get heavy. Not grounded. Just heavy. Then you come up the Stone and I'm high as the bell.
+My {spouse} says I talk about you more than the weather. From a Cirri, that's the highest praise there is.
+Here's a secret: the best peaches grow on the tree behind the Loom House. Nobody checks there. Now you know. Now you're Cirri.
+Shall we do the thing? You walk, I hover beside you at your pace, and we both pretend it's normal. I love the thing.
+I've told {child} you're family. Not walker family. Our family. They've started saving shiny pebbles for you.
+I've never been below the clouds. Not once. Will you tell me what it's really like down there? Not the nice version. The real one.
+You and your stairs. You'll be climbing stairs up past the blue, you know. And I'll be floating beside you, laughing.
+You probably don't remember your first rise up the Stone. I do. You looked like a goat that had just been told a secret.
+When Borre storms and we're all humming in our nests, I hum one verse for you. Wherever you are.
+I trust you with the koi. That's the most a Cirri can trust anyone. Don't let it go to your feet.
+The bell rings a little louder when you're here. The bellkeeper denies it. I've listened.
+Sometimes I wonder what I'd be if I'd been born a walker. Probably your friend anyway. Just slower.
+There's a scuff on the long bridge where you always stop to look down. I won't let anyone sand it away.
+Promise me you'll be here when the Old Singers next pass. I want to see your face when they sing.
+I told you once I wasn't afraid of the edge. I lied. I'm afraid of it for you. You haven't any veils.
+"Walker", when I say it to you now, doesn't mean walker at all. It just means you.
+The children call you Clonk. It's affectionate. I started it. I'm sorry. I'm not sorry.
+Some days I'm low and don't let it show. Today was one. Then you came up the Stone. That's my whole day, really.
+If you ever wanted to stay, there's an empty nest by the Cloud Garden. It has a floor now. I put the floor in. For no reason.
+I'm proud of you. That's all. No reason. A Cirri is allowed to be proud of a walker, in private.
+Tell me honestly: do you dream of flying? I dream of walking beside you. We meet somewhere in the middle.
+I've been saving a Sky Scale for you. I keep nearly giving it to you, then keeping it one more day, so I'll still have that to look forward to.
+A confession: I was the one who named the long bridge after you. Everyone thinks it was the children. Let them.
+I've stopped thinking of you as a walker. I think of you as a Cirri who is very, very bad at flying.
+Of all the walkers the Courtesy could have lifted, it lifted the right one.
+When I go up past the blue, a long, long time from now, I'll tell everyone there about you. They'll never believe the boots.
+I cried at the Evensong last night, and my first thought was: I must tell my walker. So. I'm telling you.
+{player}, if you ever stop coming up, I'll come down. Through the clouds and everything. Don't make me.

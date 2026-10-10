@@ -4,7 +4,14 @@ import dev.skyfriends.SkyEntities;
 import dev.skyfriends.SkySounds;
 import dev.skyfriends.block.WindHarpBlock;
 import dev.skyfriends.flight.Glide;
+import dev.skyfriends.life.Chronicle;
+import dev.skyfriends.life.Emote;
+import dev.skyfriends.life.VillageLife;
+import dev.skyfriends.talk.Conversation;
+import dev.skyfriends.talk.Manner;
+import dev.skyfriends.talk.TalkState;
 import java.util.List;
+import java.util.Locale;
 import java.util.Optional;
 import java.util.UUID;
 import net.minecraft.core.BlockPos;
@@ -15,6 +22,7 @@ import net.minecraft.network.syncher.EntityDataAccessor;
 import net.minecraft.network.syncher.EntityDataSerializers;
 import net.minecraft.network.syncher.SynchedEntityData;
 import net.minecraft.server.level.ServerLevel;
+import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.util.Mth;
 import net.minecraft.world.DifficultyInstance;
@@ -22,6 +30,7 @@ import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResult;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.AgeableMob;
+import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EntitySpawnReason;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.LivingEntity;
@@ -61,23 +70,30 @@ import org.jspecify.annotations.Nullable;
  * ahead; going somewhere in its village (its bed, its work, the court) it follows a flying path.
  *
  * <p><b>Life.</b> Women and men (and their children), each with a name, a look (one of three
- * complexions and four outfits) and a voice: hums, a greeting, cries when hurt. In a sky village
- * ({@link #settle}) they keep a day: at night they sleep floating over the cushions of their nests;
- * by day they work (harpists play the harps, the bellkeeper rings the bell at dawn and dusk), soar
- * round the village and gather at the court. Children keep close to their mothers. Now and then at
- * dawn a couple has a baby, while the village has room. The Skymerchant trades with guests.
+ * complexions and four outfits), a voice and a personality. In a sky village ({@link #settle}) they keep
+ * a day: at night they sleep floating over the cushions of their nests; by day they work (harpists play
+ * the harps, the bellkeeper rings the bell at dawn and dusk), soar round the village and gather at the
+ * court, and (arranged by {@link VillageLife}) stop to chat in pairs, gather to sing the Evensong at dusk,
+ * fly out to swim beside a passing Cloud Whale, shelter in their nests from thunder, and bring a close
+ * friend a little present. Children keep close to their mothers and play tag. Now and then at dawn a couple
+ * has a baby, while the village has room. The Skymerchant trades with guests.
  *
- * <p>The client reads only the look and whether it is asleep or working; how hard it is flying,
- * banking and climbing ({@link #flight}, {@link #bank}, {@link #climb}) is worked out on each client
- * from how it actually moves.
+ * <p><b>Talk.</b> Right-click to talk ({@link Conversation}); while you talk they hover in front of you by
+ * their manner ({@link TalkState}).
+ *
+ * <p>The client reads the look, whether it is asleep or working, and its job and manner (for the animations);
+ * how hard it is flying, banking and climbing ({@link #flight}, {@link #bank}, {@link #climb}) is worked out on
+ * each client from how it actually moves.
  */
 public class Cirri extends AgeableMob implements Merchant {
-    public enum Mode { SOAR, HOVER, WATCH, FLEE, SLEEP, WORK, GATHER, FOLLOW }
+    public enum Mode { SOAR, HOVER, WATCH, FLEE, SLEEP, WORK, GATHER, FOLLOW, TALK, CHAT, EVENSONG, ESCORT, PLAY, SHELTER, BRING }
 
     public static final byte AWAKE = 0, SLEEPING = 1, WORKING = 2;
     /** bit 0 female, bits 1-2 complexion, bits 3-4 outfit, bit 7 chosen. */
     private static final EntityDataAccessor<Byte> LOOK = SynchedEntityData.defineId(Cirri.class, EntityDataSerializers.BYTE);
     private static final EntityDataAccessor<Byte> STATE = SynchedEntityData.defineId(Cirri.class, EntityDataSerializers.BYTE);
+    /** "job|manner|routine", for the client's animations. */
+    private static final EntityDataAccessor<String> MOTION = SynchedEntityData.defineId(Cirri.class, EntityDataSerializers.STRING);
 
     /** Blocks per tick: cruising, and fleeing. */
     static final double CRUISE = 0.3, FLEE_SPEED = 0.55;
@@ -85,21 +101,24 @@ public class Cirri extends AgeableMob implements Merchant {
     static final double TURN = 0.055, ACCEL = 0.012, CLIMB = 0.02;
     /** How far from home a Cirri soars (in the wild, and in its village), and the height band it keeps. */
     static final int ROAM = 40, VILLAGE_ROAM = 30;
-    static final double LOW = 7.0, HIGH = 20.0, CLEARANCE = 3.0, WATCH_DISTANCE = 5.5;
-    /** The night, in ticks of the day, when settled Cirri sleep. */
-    static final int NIGHT_START = 13000, NIGHT_END = 23300;
+    // watching you, they hover close enough to talk to (within reach of a right-click)
+    static final double LOW = 7.0, HIGH = 20.0, CLEARANCE = 3.0, WATCH_DISTANCE = 3.0;
+    /** The night, in ticks of the day, when settled Cirri sleep; the Evensong is sung just before it. */
+    public static final int NIGHT_START = 13000, NIGHT_END = 23300, EVENSONG_START = 11800, EVENSONG_END = 12900;
     /** How many Cirri a village holds before its couples stop having babies. */
     static final int VILLAGE_CAPACITY = 24;
 
-    private Mode mode = Mode.SOAR;
+    private Mode mode = Mode.SOAR, beforeTalk = Mode.HOVER;
     private @Nullable Vec3 target;
-    private int modeTicks, targetTicks, watchCooldown, blockedTicks, workTicks;
+    private int modeTicks, targetTicks, watchCooldown, blockedTicks, workTicks, loopTicks, loopTimer;
     private @Nullable BlockPos home, bed, work;
     private String job = "";
-    private @Nullable UUID mother;
-    private boolean settled;
+    private @Nullable UUID mother, partner;
+    private boolean settled, chasing;
     private long lastDay = -1;
     private @Nullable Player watched;
+    /** Who they're with: a neighbour they chat with or play tag with, the whale they escort, the friend they bring a present to. */
+    private @Nullable Entity companion;
     private @Nullable Path path;
     private @Nullable BlockPos pathGoal;
     private int pathAge;
@@ -108,6 +127,7 @@ public class Cirri extends AgeableMob implements Merchant {
     private @Nullable Vec3 lastGoal;
     private double bestDistance = Double.MAX_VALUE;
     private int stuckTicks;
+    private final TalkState talk = new TalkState(this);
 
     // -- client animation state: smoothed from the Cirri's real motion (0..1 flight, -1..1 bank and climb) --
     public float flight, flightO, bank, bankO, climb, climbO;
@@ -130,6 +150,7 @@ public class Cirri extends AgeableMob implements Merchant {
         super.defineSynchedData(builder);
         builder.define(LOOK, (byte) 0);
         builder.define(STATE, AWAKE);
+        builder.define(MOTION, "");
     }
 
     @Override
@@ -189,8 +210,29 @@ public class Cirri extends AgeableMob implements Merchant {
         return state() == SLEEPING;
     }
 
+    /** "job|manner|routine" as the client knows it, for the animations. */
+    public String motion() {
+        return entityData.get(MOTION);
+    }
+
     public String job() {
         return job;
+    }
+
+    /** Their job as shown under their name. */
+    public String title() {
+        if (isBaby()) return "Child";
+        if (job.isEmpty()) return "Villager";
+        return Character.toUpperCase(job.charAt(0)) + job.substring(1);
+    }
+
+    /** Their name (a Cirri has just the one). */
+    public String firstName() {
+        return hasCustomName() ? getCustomName().getString() : "Cirri";
+    }
+
+    public String villageName() {
+        return settled || mother != null ? CirriKin.villageName(home()) : "the open sky";
     }
 
     public Mode mode() {
@@ -216,6 +258,23 @@ public class Cirri extends AgeableMob implements Merchant {
 
     public @Nullable UUID mother() {
         return mother;
+    }
+
+    /** The one they share a nest with, if anyone. */
+    public @Nullable UUID partner() {
+        return partner;
+    }
+
+    public void setPartner(@Nullable UUID partner) {
+        this.partner = partner;
+    }
+
+    public TalkState talk() {
+        return talk;
+    }
+
+    public boolean isMerchant() {
+        return "skymerchant".equals(job) && !isBaby();
     }
 
     /** Soar round this point from now on. */
@@ -262,6 +321,9 @@ public class Cirri extends AgeableMob implements Merchant {
         if (!isBaby() && mother != null && level() instanceof ServerLevel s) {
             Cirri m = mum(s);
             settle(home(), m != null && m.bed != null ? m.bed.above() : null, null, "");
+            talk.grewUp();
+            Chronicle.report(s, home(), dayNumber(), "grew_up", firstName(), "");
+            Emote.SPARKLE.show(this, 0);
         }
     }
 
@@ -276,20 +338,30 @@ public class Cirri extends AgeableMob implements Merchant {
     protected void customServerAiStep(ServerLevel level) {
         super.customServerAiStep(level);
         if (!isNoGravity()) setNoGravity(true);
+        talk.tick();
         dawn(level);
         plan(level);
         fly(level);
         unstick(level);
         entityData.set(STATE, mode == Mode.SLEEP && arrived(bedSpot(), 0.9) ? SLEEPING
                 : mode == Mode.WORK && work != null && arrived(spot(work), 1.2) ? WORKING : AWAKE);
+        if (tickCount % 20 == 0) {
+            String motion = job + "|" + talk.manner().name().toLowerCase(Locale.ROOT) + "|" + routineTag();
+            if (!motion.equals(entityData.get(MOTION))) entityData.set(MOTION, motion);
+        }
     }
 
-    private long dayTime(Level level) {
-        return level.getOverworldClockTime();
+    /** The time of day on the overworld clock, 0-23999 (and the day number). */
+    public long dayTime() {
+        return Math.floorMod(level().getOverworldClockTime(), 24000L);
+    }
+
+    public long dayNumber() {
+        return Math.floorDiv(level().getOverworldClockTime(), 24000L);
     }
 
     private boolean night(Level level) {
-        long t = dayTime(level) % 24000;
+        long t = dayTime();
         return t >= NIGHT_START && t < NIGHT_END;
     }
 
@@ -298,6 +370,31 @@ public class Cirri extends AgeableMob implements Merchant {
         this.mode = mode;
         this.modeTicks = ticks;
         if (mode != Mode.WATCH) watched = null;
+        if (mode != Mode.CHAT && mode != Mode.PLAY && mode != Mode.ESCORT && mode != Mode.BRING) companion = null;
+    }
+
+    /** What they were doing, for what they say ("work", "gather", "evensong"... children: "play", "follow"...). */
+    public String routineTag() {
+        Mode m = mode == Mode.TALK ? beforeTalk : mode;
+        if (isBaby()) {
+            return switch (m) {
+                case PLAY -> "play";
+                case FOLLOW -> "follow";
+                case EVENSONG -> "evensong";
+                case SHELTER -> "shelter";
+                default -> "idle";
+            };
+        }
+        return switch (m) {
+            case WORK -> "work";
+            case GATHER -> "gather";
+            case SOAR, FLEE -> "soar";
+            case CHAT -> "chat";
+            case EVENSONG -> "evensong";
+            case ESCORT -> "escort";
+            case SHELTER -> "shelter";
+            default -> "idle";
+        };
     }
 
     private void plan(ServerLevel level) {
@@ -310,11 +407,25 @@ public class Cirri extends AgeableMob implements Merchant {
             away = away.lengthSqr() < 1.0E-4 ? new Vec3(random.nextDouble() - 0.5, 0, random.nextDouble() - 0.5) : away;
             target = position().add(away.normalize().scale(24)).add(0, 10, 0);
             stopTrading();
+            talk.stop();
             setMode(Mode.FLEE, 100);
             return;
         }
         if (mode == Mode.FLEE) {
             if (modeTicks == 0) routine(level);
+            return;
+        }
+        // talking: they keep to you until the conversation ends
+        if (talk.talking()) {
+            if (mode != Mode.TALK) {
+                beforeTalk = mode;
+                setMode(Mode.TALK, 0);
+                loopTimer = 120 + random.nextInt(120);
+            }
+            return;
+        }
+        if (mode == Mode.TALK) {
+            routine(level);
             return;
         }
         if (tradingPlayer != null) {
@@ -329,7 +440,8 @@ public class Cirri extends AgeableMob implements Merchant {
             return;
         }
         // night: to bed (villagers, and any child following its mother home)
-        boolean sleepy = night(level) && (settled || (isBaby() && mother != null));
+        boolean villager = settled || (isBaby() && mother != null);
+        boolean sleepy = night(level) && villager;
         if (sleepy && mode != Mode.SLEEP) {
             setMode(Mode.SLEEP, 0);
             return;
@@ -338,7 +450,16 @@ public class Cirri extends AgeableMob implements Merchant {
             routine(level);
             return;
         }
+        // thunder: everyone home to their nest, awake, till it passes
+        if (villager && level.isThundering() && mode != Mode.SLEEP && mode != Mode.SHELTER) {
+            setMode(Mode.SHELTER, 0);
+            Emote.SWEAT.show(this, random.nextInt(20));
+            return;
+        }
         switch (mode) {
+            case SHELTER -> {
+                if (!level.isThundering()) routine(level);
+            }
             case HOVER, WORK, GATHER -> {
                 if (modeTicks == 0) routine(level);
                 else if (mode != Mode.WORK) lookForCompany(level, 80);
@@ -346,6 +467,48 @@ public class Cirri extends AgeableMob implements Merchant {
             }
             case FOLLOW -> {
                 if (modeTicks == 0 || mum(level) == null) routine(level);
+            }
+            case CHAT -> {
+                if (modeTicks == 0 || !(companion instanceof Cirri other) || !other.isAlive() || other.mode != Mode.CHAT || other.companion != this) {
+                    routine(level);
+                } else if (modeTicks % 70 == 35 && getId() < other.getId()) {
+                    VillageLife.chatter(this, other);
+                }
+            }
+            case EVENSONG -> {
+                long t = dayTime();
+                if (t < EVENSONG_START || t >= EVENSONG_END) routine(level);
+                else if (random.nextInt(140) == 0) VillageLife.singOut(this);
+            }
+            case ESCORT -> {
+                if (modeTicks == 0 || !(companion instanceof CloudWhale whale) || !whale.isAlive()
+                        || whale.distanceToSqr(Vec3.atCenterOf(home())) > 170 * 170) {
+                    routine(level);
+                } else if (random.nextInt(200) == 0) {
+                    VillageLife.singOut(this);
+                }
+            }
+            case PLAY -> {
+                if (modeTicks == 0 || !(companion instanceof Cirri other) || !other.isAlive() || other.mode != Mode.PLAY) {
+                    routine(level);
+                } else if (chasing && distanceToSqr(other) < 1.7 * 1.7) {
+                    // tag! now the other one chases (after counting to three)
+                    chasing = false;
+                    other.chasing = true;
+                    other.modeTicks = Math.min(other.modeTicks, modeTicks);
+                    other.loopTicks = 30;
+                    Emote.NOTE.show(this, 0);
+                    Emote.EXCLAIM.show(other, 4);
+                    target = null;
+                }
+            }
+            case BRING -> {
+                if (modeTicks == 0 || !(companion instanceof ServerPlayer p) || !p.isAlive() || p.isSpectator()) {
+                    routine(level);
+                } else if (distanceToSqr(p) < 2.6 * 2.6) {
+                    VillageLife.present(this, p);
+                    watch(p, 100);
+                }
             }
             case SOAR -> {
                 targetTicks++;
@@ -392,6 +555,50 @@ public class Cirri extends AgeableMob implements Merchant {
         return e instanceof Cirri c && c.isAlive() && distanceToSqr(c) < 64 * 64 ? c : null;
     }
 
+    /** Free for village life to ask something of: awake, not talking, working, fleeing, sheltering or already busy with someone. */
+    public boolean free() {
+        return isAlive() && !talk.talking() && tradingPlayer == null && switch (mode) {
+            case SOAR, HOVER, GATHER, FOLLOW, WATCH -> true;
+            default -> false;
+        };
+    }
+
+    // -- village life (arranged by VillageLife) ------------------------------------------------------
+
+    /** Hover facing a neighbour and chat for a while (they do the same). */
+    public void chatWith(Cirri other, int ticks) {
+        setMode(Mode.CHAT, ticks);
+        companion = other;
+    }
+
+    /** Join the Evensong: circle over the Veil Court with the village, singing the day down. */
+    public void joinEvensong() {
+        setMode(Mode.EVENSONG, 0);
+        target = null;
+    }
+
+    /** Fly out and swim alongside a passing Cloud Whale for a while; {@code slot} keeps escorts apart. */
+    public void escort(CloudWhale whale, int slot, int ticks) {
+        setMode(Mode.ESCORT, ticks);
+        companion = whale;
+        targetTicks = slot;
+        Emote.EXCLAIM.show(this, random.nextInt(10));
+    }
+
+    /** Play tag with another child: one chases, the other flees. */
+    public void play(Cirri other, boolean chaser, int ticks) {
+        setMode(Mode.PLAY, ticks);
+        companion = other;
+        chasing = chaser;
+        target = null;
+    }
+
+    /** Fly over to a close friend with a little present. */
+    public void bring(ServerPlayer player) {
+        setMode(Mode.BRING, 400);
+        companion = player;
+    }
+
     /** Sometimes stop to watch a player nearby (1 in {@code chance} each tick). */
     private void lookForCompany(ServerLevel level, int chance) {
         if (watchCooldown > 0 || random.nextInt(chance) != 0) return;
@@ -407,10 +614,11 @@ public class Cirri extends AgeableMob implements Merchant {
         if (!already && !level().isClientSide()) playSound(greetSound(), getSoundVolume(), getVoicePitch());
     }
 
-    /** Someone is playing music for it (a wind harp, a flute): come and listen, unless asleep. */
+    /** Someone is playing music for it (a wind harp, a flute): come and listen, unless asleep or busy with someone. */
     public void listen(Player player, int ticks) {
-        if (mode == Mode.SLEEP || mode == Mode.FLEE) return;
+        if (mode == Mode.SLEEP || mode == Mode.FLEE || mode == Mode.TALK || mode == Mode.SHELTER) return;
         watch(player, ticks);
+        Emote.NOTE.show(this, random.nextInt(16));
     }
 
     /** Stop and hover here for a while. */
@@ -474,9 +682,11 @@ public class Cirri extends AgeableMob implements Merchant {
      */
     private void unstick(ServerLevel level) {
         if (tickCount % 20 != 0) return;
-        boolean going = mode == Mode.SOAR || mode == Mode.WORK || mode == Mode.GATHER || mode == Mode.SLEEP || mode == Mode.FLEE;
-        Vec3 goal = mode == Mode.SLEEP ? bedSpot() : mode == Mode.WORK && work != null ? spot(work) : target;
-        if (!going || goal == null || arrived(goal, 1.5)) {
+        boolean going = mode == Mode.SOAR || mode == Mode.WORK || mode == Mode.GATHER || mode == Mode.SLEEP || mode == Mode.FLEE
+                || mode == Mode.SHELTER || mode == Mode.EVENSONG;
+        Vec3 goal = mode == Mode.SLEEP || mode == Mode.SHELTER ? bedSpot() : mode == Mode.WORK && work != null ? spot(work)
+                : mode == Mode.EVENSONG ? Vec3.atCenterOf(home()).add(0, 6, 0) : target;
+        if (!going || goal == null || arrived(goal, mode == Mode.EVENSONG ? 16 : 1.5)) {   // in the ring is there
             stuckTicks = 0;
             lastGoal = null;
             return;
@@ -493,8 +703,11 @@ public class Cirri extends AgeableMob implements Merchant {
         stuckTicks = 0;
         lastGoal = null;
         path = null;
-        if (level.getNearestPlayer(getX(), getY(), getZ(), 24.0, p -> !p.isSpectator()) != null) return;
-        if ((mode == Mode.SLEEP || mode == Mode.WORK) && d < 48) {
+        // only unseen: a player close by who can see them (not one out in the court while they're in their nest)
+        for (Player p : level.players()) {
+            if (!p.isSpectator() && p.distanceToSqr(this) < 24 * 24 && p.hasLineOfSight(this)) return;
+        }
+        if ((mode == Mode.SLEEP || mode == Mode.SHELTER || mode == Mode.WORK) && d < 48) {
             snapTo(goal.x, goal.y, goal.z, getYRot(), 0.0F);
             return;
         }
@@ -536,7 +749,9 @@ public class Cirri extends AgeableMob implements Merchant {
             target = position().add(dir.scale(18)).add(0, 4, 0);
         }
         BlockPos goalCell = BlockPos.containing(target);
-        if (path == null || !goalCell.equals(pathGoal) || path.isDone() || ++pathAge > 80) {
+        // a path is kept until its goal really moves (the way out of a house shifts a little as they go, the
+        // Evensong ring turns slowly): re-planning every tick, they'd never get past the first step
+        if (path == null || pathGoal == null || pathGoal.distSqr(goalCell) > 16 || path.isDone() || ++pathAge > 80) {
             path = getNavigation().createPath(goalCell, 1);
             if (path == null && target != goal) path = getNavigation().createPath(goalCell.above(6), 2);
             pathGoal = goalCell;
@@ -557,7 +772,7 @@ public class Cirri extends AgeableMob implements Merchant {
     /** At work: harpists play the harp by their spot now and then; the bellkeeper rings at dawn and dusk. */
     private void work(ServerLevel level) {
         if (work == null || !arrived(spot(work), 1.2) || ++workTicks % 20 != 0) return;
-        long t = dayTime(level) % 24000;
+        long t = dayTime();
         if ("harpist".equals(job) && random.nextInt(5) == 0) {
             BlockPos harp = find(level, work, s -> s.getBlock() instanceof WindHarpBlock);
             if (harp != null) WindHarpBlock.play(level, harp, null);
@@ -579,23 +794,85 @@ public class Cirri extends AgeableMob implements Merchant {
         Vec3 here = position();
         double[] want;
         boolean open = true;      // out in the open sky: keep clear of the ground and of what's ahead
+        Entity facing = null;     // who they turn to face, if anyone
         switch (mode) {
             case HOVER -> want = new double[] {0, Mth.sin(tickCount * 0.05F) * 0.02, 0};
             case WATCH -> {
-                Vec3 eye = watched.getEyePosition();
-                Vec3 from = here.subtract(eye).multiply(1, 0, 1);
-                from = from.lengthSqr() < 1.0E-4 ? new Vec3(1, 0, 0) : from.normalize();
-                Vec3 spot = eye.add(from.scale(WATCH_DISTANCE)).add(0, 0.6, 0);
-                want = Glide.toward(arr(here), arr(spot), 0.18, 4.0);
+                want = Glide.toward(arr(here), arr(before(watched, WATCH_DISTANCE, 0.6)), 0.18, 4.0);
                 open = false;
+                facing = watched;
+            }
+            case TALK -> {
+                ServerPlayer p = talk.partner();
+                want = p == null ? new double[] {0, 0, 0} : Glide.toward(arr(here), arr(talkSpot(p)), 0.22, 2.0);
+                open = false;
+                facing = loopTicks > 0 ? null : p;
+            }
+            case CHAT -> {
+                if (companion instanceof Cirri other) {
+                    Vec3 from = here.subtract(other.position()).multiply(1, 0, 1);
+                    from = from.lengthSqr() < 1.0E-4 ? new Vec3(1, 0, 0) : from.normalize();
+                    double gap = isBaby() || other.isBaby() ? 1.8 : 2.4;
+                    Vec3 spot = other.position().add(from.scale(gap));
+                    spot = new Vec3(spot.x, (here.y + other.getY()) / 2 + Mth.sin(tickCount * 0.05F) * 0.08, spot.z);
+                    want = Glide.toward(arr(here), arr(arrived(spot, 6) ? spot : waypoint(spot)), 0.2, 2.0);
+                    facing = other;
+                } else {
+                    want = new double[] {0, 0, 0};
+                }
+                open = false;
+            }
+            case EVENSONG -> {
+                // a slow ring over the Veil Court, each at their own height and distance
+                long seed = getUUID().getLeastSignificantBits();
+                double radius = (isBaby() ? 4.0 : 6.0) + Math.floorMod(seed, 5);
+                double angle = (tickCount + Math.floorMod(seed >> 8, 400)) * 0.008 * (Math.floorMod(seed, 2) == 0 ? 1 : -1);
+                Vec3 c = Vec3.atCenterOf(home());
+                Vec3 spot = new Vec3(c.x + Math.cos(angle) * radius, c.y + 6.0 + Math.floorMod(seed >> 4, 3) + Mth.sin(tickCount * 0.04F) * 0.4,
+                        c.z + Math.sin(angle) * radius);
+                boolean near = arrived(spot, 12);
+                want = Glide.toward(arr(here), arr(arrived(spot, 20) ? spot : waypoint(spot)), near ? 0.16 : 0.3, 3.0);
+                open = false;
+            }
+            case ESCORT -> {
+                if (companion instanceof CloudWhale whale) {
+                    double rad = whale.heading() * Mth.DEG_TO_RAD;
+                    Vec3 ahead = new Vec3(-Math.sin(rad), 0, Math.cos(rad)), side = new Vec3(ahead.z, 0, -ahead.x);
+                    int slot = targetTicks;
+                    double out = (slot % 2 == 0 ? 1 : -1) * (whale.getBbWidth() * 0.9 + 2.5 + slot);
+                    Vec3 spot = whale.position().add(side.scale(out)).add(ahead.scale(slot - 1.0)).add(0, whale.getBbHeight() * 0.5 + Mth.sin(tickCount * 0.06F + slot), 0);
+                    want = Glide.toward(arr(here), arr(spot), 0.42, 5.0);
+                } else {
+                    want = new double[] {0, 0, 0};
+                }
+            }
+            case PLAY -> {
+                if (loopTicks > 0) {
+                    loopTicks--;           // counting to three before giving chase
+                    want = new double[] {0, Mth.sin(tickCount * 0.3F) * 0.03, 0};
+                } else if (chasing && companion instanceof Cirri other) {
+                    want = Glide.toward(arr(here), arr(other.position()), 0.3, 1.0);
+                } else {
+                    if (target == null || arrived(target, 2.0)) {
+                        Vec3 c = Vec3.atCenterOf(home());
+                        target = new Vec3(c.x + (random.nextDouble() - 0.5) * 20, c.y + 3 + random.nextDouble() * 5, c.z + (random.nextDouble() - 0.5) * 20);
+                    }
+                    want = Glide.toward(arr(here), arr(waypoint(target)), 0.27, 2.0);
+                }
+                open = false;
+            }
+            case BRING -> {
+                want = companion instanceof Player p ? Glide.toward(arr(here), arr(before(p, 1.8, 0.4)), 0.3, 2.0) : new double[] {0, 0, 0};
+                open = false;
+                facing = companion;
             }
             case FLEE -> {
                 boolean in = indoors();
                 want = Glide.toward(arr(here), arr(in ? waypoint(target) : target), in ? 0.3 : FLEE_SPEED, 2.0);
                 open = !in;
             }
-            case SLEEP, WORK -> {
-                Vec3 goal = mode == Mode.SLEEP ? bedSpot() : work != null ? spot(work) : null;
+            case SLEEP, WORK, SHELTER -> {
+                Vec3 goal = mode == Mode.WORK ? work != null ? spot(work) : null : bedSpot();
                 if (goal == null) {
                     want = new double[] {0, 0, 0};
                 } else if (arrived(goal, 1.0)) {
@@ -652,23 +929,63 @@ public class Cirri extends AgeableMob implements Merchant {
         }
         if (isInWater() || isInLava()) want[1] = 0.3;
 
-        double turn = mode == Mode.FLEE ? TURN * 2 : mode == Mode.SOAR ? TURN : TURN * 2.5;
-        double[] nv = Glide.steer(arr(v), want, turn, mode == Mode.FLEE ? ACCEL * 2 : ACCEL * 1.5, CLIMB * 1.5);
+        double turn = mode == Mode.FLEE ? TURN * 2 : mode == Mode.SOAR || mode == Mode.ESCORT ? TURN : TURN * 2.5;
+        double[] nv = Glide.steer(arr(v), want, turn, mode == Mode.FLEE || mode == Mode.PLAY ? ACCEL * 2 : ACCEL * 1.5, CLIMB * 1.5);
         setDeltaMovement(nv[0], nv[1], nv[2]);
 
-        // the body faces where it flies; hovering, working or watching, it turns slowly to where it looks
+        // the body faces where it flies; with someone (watching, talking, chatting), it turns to them
         double speed = Math.hypot(nv[0], nv[2]);
-        if (mode == Mode.WATCH && watched != null) {
-            getLookControl().setLookAt(watched, 30.0F, 30.0F);
-            Vec3 to = watched.position().subtract(here);
+        if (facing != null && speed < 0.12) {
+            getLookControl().setLookAt(facing, 30.0F, 30.0F);
+            Vec3 to = facing.position().subtract(here);
             float face = (float) (Mth.atan2(to.z, to.x) * Mth.RAD_TO_DEG) - 90.0F;
-            setYRot(Mth.rotLerp(0.08F, getYRot(), face));
+            setYRot(Mth.rotLerp(0.1F, getYRot(), face));
         } else if (speed > 0.06) {
             setYRot((float) (Mth.atan2(nv[2], nv[0]) * Mth.RAD_TO_DEG) - 90.0F);
         } else if (mode != Mode.SLEEP) {
             setYRot(Mth.rotLerp(0.05F, getYRot(), yHeadRot));
         }
         yBodyRot = getYRot();
+    }
+
+    /** A spot {@code distance} in front of someone (on the side the Cirri is on), {@code lift} above their eyes less a Cirri's eye height. */
+    private Vec3 before(Entity who, double distance, double lift) {
+        Vec3 eye = who.getEyePosition();
+        Vec3 from = position().subtract(eye).multiply(1, 0, 1);
+        from = from.lengthSqr() < 1.0E-4 ? who.getLookAngle().multiply(1, 0, 1) : from;
+        from = from.lengthSqr() < 1.0E-4 ? new Vec3(1, 0, 0) : from.normalize();
+        return eye.add(from.scale(distance)).add(0, lift - getEyeHeight() * 0.9, 0);
+    }
+
+    /**
+     * Where to hover while you talk, by their manner: close in front of you at about your eye level; the shy a
+     * little further (and further still if you crowd them); the restless drift round you; the flighty now and
+     * then dart up into a quick loop and come straight back.
+     */
+    private Vec3 talkSpot(ServerPlayer p) {
+        Manner manner = talk.manner();
+        double dist = manner == Manner.SHY ? (distanceToSqr(p) < 3.0 * 3.0 ? 4.6 : 4.0) : isBaby() ? 2.2 : 2.6;
+        Vec3 eye = p.getEyePosition();
+        Vec3 from = position().subtract(eye).multiply(1, 0, 1);
+        from = from.lengthSqr() < 1.0E-4 ? p.getLookAngle().multiply(1, 0, 1) : from;
+        from = from.lengthSqr() < 1.0E-4 ? new Vec3(1, 0, 0) : from.normalize();
+        if (manner == Manner.RESTLESS) {
+            double a = Mth.sin(talk.ticks() * 0.02F) * 0.035;      // a slow sway round you, a little each tick
+            from = new Vec3(from.x * Math.cos(a) - from.z * Math.sin(a), 0, from.x * Math.sin(a) + from.z * Math.cos(a));
+        }
+        // eyes a little above yours: a Cirri floats, feet clear of whatever you stand on
+        Vec3 spot = eye.add(from.scale(dist)).add(0, -getEyeHeight() + (isBaby() ? 0.4 : 0.6) + Mth.sin(tickCount * 0.06F) * 0.12, 0);
+        if (manner == Manner.FLIGHTY) {
+            if (loopTicks > 0) {
+                double a = (40 - --loopTicks) / 40.0 * Math.PI * 2;
+                Vec3 side = new Vec3(from.z, 0, -from.x);
+                spot = spot.add(0, (1 - Math.cos(a)) * 1.6, 0).add(side.scale(Math.sin(a) * 1.3));
+            } else if (--loopTimer <= 0) {
+                loopTimer = 160 + random.nextInt(140);
+                loopTicks = 40;
+            }
+        }
+        return spot;
     }
 
     /** Is there something solid 1-3 blocks ahead (at the feet, the middle or the head)? */
@@ -727,8 +1044,8 @@ public class Cirri extends AgeableMob implements Merchant {
     // -- dawn: restocking, and now and then a baby --------------------------------------------------
 
     private void dawn(ServerLevel level) {
-        long time = dayTime(level), day = time / 24000;
-        if (day == lastDay || time % 24000 > 3000) return;
+        long time = level.getOverworldClockTime(), day = Math.floorDiv(time, 24000L);
+        if (day == lastDay || Math.floorMod(time, 24000L) > 3000) return;
         boolean first = lastDay < 0;
         lastDay = day;
         if (offers != null) offers.forEach(MerchantOffer::resetUses);
@@ -747,9 +1064,16 @@ public class Cirri extends AgeableMob implements Merchant {
         BlockPos centre = home();
         List<Cirri> village = level.getEntitiesOfClass(Cirri.class, new AABB(centre).inflate(64), c -> c.isAlive() && centre.equals(c.home));
         if (village.size() >= VILLAGE_CAPACITY) return null;
-        boolean husband = village.stream().anyMatch(c -> !c.isBaby() && !c.female() && c.bed != null && c.bed.distSqr(bed) < 8 * 8);
+        Cirri husband = village.stream().filter(c -> !c.isBaby() && !c.female() && (getUUID().equals(c.partner)
+                || c.getUUID().equals(partner) || partner == null && c.partner == null && c.bed != null && c.bed.distSqr(bed) < 8 * 8))
+                .findFirst().orElse(null);
         long mine = village.stream().filter(c -> c.isBaby() && getUUID().equals(c.mother)).count();
-        if (!husband || mine >= 2) return null;
+        if (husband == null || mine >= 2) return null;
+        if (partner == null) {
+            // a couple from before nests were shared by name: they are partners now
+            partner = husband.getUUID();
+            husband.partner = getUUID();
+        }
         Cirri baby = SkyEntities.CIRRI.create(level, EntitySpawnReason.BREEDING);
         if (baby == null) return null;
         Vec3 at = spot(bed).add(0.5, 0.4, 0.5);
@@ -762,30 +1086,72 @@ public class Cirri extends AgeableMob implements Merchant {
         level.addFreshEntity(baby);
         level.sendParticles(ParticleTypes.HEART, at.x, at.y + 0.6, at.z, 5, 0.5, 0.4, 0.5, 0.0);
         playSound(greetSound(), getSoundVolume(), getVoicePitch());
+        Chronicle.report(level, centre, dayNumber(), "born", baby.firstName(), firstName());
+        Emote.SPARKLE.show(this, 0);
+        Emote.HEART.show(husband, 8);
         return baby;
     }
 
     // -- people -----------------------------------------------------------------------------------
 
-    /** Right-click: the Skymerchant trades; anyone else (awake) turns to you and says hello. */
+    /** Right-click: talk (the Skymerchant's wares are a button in the conversation). */
     @Override
     protected InteractionResult mobInteract(Player player, InteractionHand hand) {
+        if (hand != InteractionHand.MAIN_HAND) return InteractionResult.PASS;
         if (level().isClientSide()) return InteractionResult.SUCCESS;
-        if (asleep() || mode == Mode.FLEE) return InteractionResult.PASS;
-        if ("skymerchant".equals(job) && !isBaby() && tradingPlayer == null && !getOffers().isEmpty()) {
-            setTradingPlayer(player);
-            watch(player, 400);
-            openTradingScreen(player, getDisplayName(), 1);
-        } else {
-            watch(player, 200);
+        if (mode == Mode.FLEE || !isAlive()) return InteractionResult.PASS;
+        if (!(player instanceof ServerPlayer sp)) return InteractionResult.PASS;
+        if (talk.talking() && !talk.isTalkingTo(player)) {
+            sp.sendOverlayMessage(Component.literal(firstName() + " is talking with someone else."));
+            return InteractionResult.SUCCESS;
         }
+        Conversation.open(sp, this);
         return InteractionResult.SUCCESS;
+    }
+
+    /** The conversation has started: they turn to you (and, woken, wake). */
+    public void beginTalk(ServerPlayer player) {
+        if (mode != Mode.TALK) beforeTalk = mode == Mode.SLEEP ? Mode.HOVER : mode;
+        playSound(greetSound(), getSoundVolume(), getVoicePitch());
+    }
+
+    /** The conversation is over. */
+    public void endTalk() {
+        talk.stop();
+    }
+
+    /** The Skymerchant opens their wares. */
+    public void openTrade(Player player) {
+        if (!isMerchant() || getOffers().isEmpty()) return;
+        setTradingPlayer(player);
+        watch(player, 400);
+        openTradingScreen(player, getDisplayName(), 1);
+    }
+
+    @Override
+    public boolean hurtServer(ServerLevel level, DamageSource source, float damage) {
+        if (source.getEntity() instanceof ServerPlayer player && !player.isCreative()) {
+            var bond = talk.bond(player);
+            bond.today(dayNumber());
+            bond.points = Math.max(0, bond.points - 15);
+            bond.hurtUntil = level.getGameTime() + 6000;
+            bond.grudge = Math.min(dev.skyfriends.talk.Bond.MAX_GRUDGE, bond.grudge + 1);
+            talk.tale(player).remember(dayNumber(), "You struck " + firstName() + ".");
+            if (talk.isTalkingTo(player)) talk.stop();
+            if (settled || mother != null) Chronicle.report(level, home(), dayNumber(), "struck", firstName(), player.getName().getString());
+            Emote.ANGER.show(this, 2);
+        }
+        return super.hurtServer(level, source, damage);
     }
 
     @Override
     public void die(DamageSource source) {
         setNoGravity(false);   // the veils give out
         stopTrading();
+        talk.stop();
+        if (level() instanceof ServerLevel level && (settled || mother != null)) {
+            Chronicle.report(level, home(), dayNumber(), "passed", firstName(), "");
+        }
         super.die(source);
     }
 
@@ -794,7 +1160,8 @@ public class Cirri extends AgeableMob implements Merchant {
     @Override public boolean onClimbable() { return false; }
     @Override public boolean removeWhenFarAway(double distSqr) { return false; }
     @Override public int getMaxHeadXRot() { return 40; }
-    @Override public boolean isPushable() { return !asleep(); }
+    /** Asleep, or holding their place in the air while you talk, they aren't shoved about. */
+    @Override public boolean isPushable() { return !asleep() && mode != Mode.TALK; }
 
     // -- trading (the Skymerchant) ---------------------------------------------------------------------
 
@@ -847,7 +1214,9 @@ public class Cirri extends AgeableMob implements Merchant {
         if (bed != null) output.store("Bed", BlockPos.CODEC, bed);
         if (work != null) output.store("Work", BlockPos.CODEC, work);
         if (mother != null) output.store("Mother", net.minecraft.core.UUIDUtil.CODEC, mother);
+        if (partner != null) output.store("Partner", net.minecraft.core.UUIDUtil.CODEC, partner);
         if (offers != null && !offers.isEmpty()) output.store("Offers", MerchantOffers.CODEC, offers);
+        talk.save(output);
     }
 
     @Override
@@ -861,13 +1230,15 @@ public class Cirri extends AgeableMob implements Merchant {
         bed = input.read("Bed", BlockPos.CODEC).orElse(null);
         work = input.read("Work", BlockPos.CODEC).orElse(null);
         mother = input.read("Mother", net.minecraft.core.UUIDUtil.CODEC).orElse(null);
+        partner = input.read("Partner", net.minecraft.core.UUIDUtil.CODEC).orElse(null);
         Optional<MerchantOffers> saved = input.read("Offers", MerchantOffers.CODEC);
         offers = saved.orElse(null);
+        talk.load(input);
     }
 
     // -- voices: wordless humming, like Village Friends villagers ------------------------------------------
 
-    private SoundEvent greetSound() {
+    public SoundEvent greetSound() {
         return isBaby() ? SkySounds.CIRRI_CHILD_GREET : female() ? SkySounds.CIRRI_FEMALE_GREET : SkySounds.CIRRI_MALE_GREET;
     }
 
@@ -887,7 +1258,8 @@ public class Cirri extends AgeableMob implements Merchant {
         return isBaby() ? SkySounds.CIRRI_CHILD_DEATH : female() ? SkySounds.CIRRI_FEMALE_DEATH : SkySounds.CIRRI_MALE_DEATH;
     }
 
-    @Override public int getAmbientSoundInterval() { return asleep() ? 160 : 320; }
+    /** At the Evensong they hum far more often. */
+    @Override public int getAmbientSoundInterval() { return asleep() ? 160 : mode == Mode.EVENSONG ? 90 : 320; }
     @Override public float getVoicePitch() { return 0.94F + random.nextFloat() * 0.12F; }
     @Override protected float getSoundVolume() { return asleep() ? 0.35F : 0.8F; }
 }

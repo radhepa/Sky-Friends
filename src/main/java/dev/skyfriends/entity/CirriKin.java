@@ -28,6 +28,21 @@ public final class CirriKin {
     public static final int COMPLEXIONS = 3, PALETTES = 4;
     public static final List<String> PALETTE_NAMES = List.of("dawn", "dusk", "noon", "storm");
 
+    /** Sky villages' names; a village's comes from where it stands, so it never changes. */
+    public static final List<String> VILLAGES = List.of("Aelmere", "Highveil", "Cirrhaven", "Windmere", "Sefa's Rest", "Aurelune",
+            "Vellhollow", "Brightdrift", "Cloudholm", "Featherfall", "Lantern Reach", "Skyrest", "Dawnspire", "Thistledown", "Silverbreeze",
+            "Mistmantle", "Rosecloud", "Goldveil", "Whisperwind", "Halcyon Isles", "Bellmere", "Driftwhistle", "Starhollow", "Peachveil",
+            "Ilvarren", "Lumenreach", "Stillwater Air", "Highcourt", "Seraphel", "Cirrusmoor", "Aure's Cradle", "Vellsong", "Borrewatch",
+            "Nimbus Isle", "Saffron Air", "Echoveil", "Kitehaven", "Swiftmere", "Lullabreeze", "Opalcloud");
+
+    public static String villageName(net.minecraft.core.BlockPos home) {
+        long x = home.asLong() * 0x9E3779B97F4A7C15L;
+        x ^= x >>> 29;
+        x *= 0xBF58476D1CE4E5B9L;
+        x ^= x >>> 32;
+        return VILLAGES.get((int) Math.floorMod(x, (long) VILLAGES.size()));
+    }
+
     public static String name(boolean female, RandomSource random) {
         List<String> pool = female ? WOMEN : MEN;
         return pool.get(random.nextInt(pool.size()));

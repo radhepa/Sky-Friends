@@ -1,0 +1,464 @@
+# What a grown-up Cirri notices about you: player.<how you look or what you're doing>, held.<what you hold>.
+# Used in greetings and in chat, so every line has to stand on its own.
+
+## player.hurt
+You're hurt. Oh, walker, look at you. Who let you get so scraped?
+That bruise is the colour of a storm cloud. Does it ache, or only look as if it should?
+Tell me it wasn't one of our bridges that did that. They're meant to be kind to guests.
+A Cirri with a torn veil flies slowly for a few days. You should walk slowly for a few, too.
+You look as if you lost an argument with a cliff. Did the cliff at least apologise?
+Rest a breath. Nobody here will hurry you; the sky has all day.
+Breathe, {player}. In with Aure, out with Vell. Slowly, slowly.
+Was it the night-moths? They always go for the tired ones first.
+Walkers carry every hurt on their feet. No wonder you limp. Let them rest a while.
+Blood on your sleeve! Please don't drip on the veilcloth. Sorry. I mean, please be all right.
+
+## player.hungry
+Your stomach just rang louder than the dawn bell. When did you last eat?
+You look hollow as a reed. Eat something before Sefa blows you off the bridge.
+A peach, a berry, a spoon of honey? Anything? You look as if you'd take all three.
+Hungry walkers get grumpy, the Skymerchant says. I can see it starting in your eyebrows.
+The Cloud Garden has peaches going soft on the branch. Go and rescue one.
+You're looking at that koi as if it were supper. Please don't. It has a name.
+We nibble all day long: a peach here, a sip of nectar there. Walkers seem to save it all up and then forget.
+Hunger makes you heavy inside, and heavy is the last thing anyone wants to be up here.
+That look! I've seen it on the children just before the Evensong honey comes round.
+Honey's sweetest at noon, when the bees are warm. Go and find some. You've gone pale.
+
+## player.wet
+You're dripping! Did you fly through a raincloud? Oh. You walked under one.
+Rain only ever falls past us. You let it land on you? All of it?
+You smell like the bottom of a cloud. Not unpleasant. Just very, very damp.
+Shake yourself off like a koi after a leap. No? Only me, then.
+Stand in the wind a while. Sefa would dry you in a breath; Borre would only make you shiver.
+I can hear your boots squelch from here.
+Is that what swimming does to a walker? You don't look as if you enjoyed it much.
+Drops on your nose, drops on your sleeves. You're carrying half a cloud about.
+The weavers would have you wrung out and pegged on the loom before you could argue.
+Down below you only get the rain at the end of its long fall, tired and heavy. No wonder it soaks you.
+
+## player.fire
+You're on fire! Roll! Walkers roll, don't they? Roll!
+Smoke! There's smoke coming off you! Away from the veilcloth, please, please!
+Water! Somebody fetch a bucket, the walker's burning!
+Not near the Loom House! You're smouldering!
+Fire is the one thing the sky fears, and you're wearing it.
+You're alight! Find a puddle, find a cloud, find anything wet!
+Oh, that smell. Put yourself out before the bridges catch, I beg you.
+Don't come near my veils! I'm sorry, I'm sorry, but don't!
+Get down and roll on the ground, you're the only one of us who can!
+Your sleeve is flaming like a lantern wick, and that is not where lanterns go!
+
+## player.dark
+Out under the stars without a lantern? The night-moths will find you.
+It's dark, walker. Can you even see where the islands end?
+This is the hour for curling up in a nest. Where's yours?
+The {moon} is out, and so are you. Neither of you should be wandering.
+Can walkers see in the dark? I can't, and I've had a whole life of stars to practise on.
+The lanterns on the bridges are lit for you, you know. Keep to them.
+Shh. Half the village is asleep over their cushions. Tread softly.
+Stars above, clouds below, and you in the middle in the dark. Brave, or lost?
+If you hear a whir of wings in the dark, that isn't us. Get somewhere with a roof.
+You're up later than the lamplighter. That's saying something.
+
+## player.unarmored
+No armour? You go about the world as soft as we fly through it.
+Nothing on but cloth! You're dressed almost like one of us. Where are your veils?
+You look lighter today. Did you leave all your iron somewhere?
+Without your shell you look like a walker I could actually hug.
+No plates, no mail. Good. Heavy things sink islands, you know.
+Bare as a sparrow, and you walk about down there like that? The ground isn't kind to the soft.
+You've taken off your iron. Does that mean you're staying a while?
+Cloth suits you better than metal. Ask any weaver.
+Unguarded and unhurried. That's how we like our guests.
+All soft edges today. Mind the skeletons when you go back down.
+
+## player.diamond
+That chestplate! How do you even stand up in it?
+You're wearing a whole mountain on your chest. Please don't lean on the railings.
+Diamond, or something darker from deeper down? Either way, far too heavy for clouds.
+Look at the shine on that. The children will follow you about all day, I warn you.
+All that weight, and still you came up to visit. The island creaked when you stepped on it, I swear.
+You look like a treasure chest with legs. I mean that kindly.
+Hard as stone and twice as heavy. I'd sink straight through the clouds in that.
+The Ruined Belltowers piled on metal like that. Look what became of them.
+We dodge. You just... clang. I'll never understand armour.
+Splendid, grand and terrifying. Please stay off the little bridges.
+
+## player.golden
+Gold! You're shining like a veil's edge at dawn.
+A golden chestplate? You'll match the windkeeper's circlet.
+The weavers thread a little gold through every veil. You've gone and threaded yourself.
+Very grand. Very bright. Does it actually stop anything?
+You look like the Lantern Spire just before dusk.
+Gold is soft, you know. Pretty, but soft. Like a peach with ideas.
+I could see you glinting from three islands away.
+Gold on a walker! Now I've seen everything. Almost everything.
+Are you off to a celebration? Or does the sun just follow you about?
+Stand by the koi pool in that. They'll think you're the biggest koi that ever lived.
+
+## player.elytra
+You've borrowed wings! From whom? No, don't tell me, I'll only be jealous.
+A walker who borrowed wings. The oldest joke in the sky, and here it is, standing in front of me.
+Those don't flap, do they? Then you fly more like us than like the birds.
+Do you glide in those, or plummet with great dignity?
+I'd love to see you take off. I'd love it even more to see you land.
+Be gentle with those. The wind doesn't know they're borrowed.
+Look at you, half a Cirri already. Now where are your veils?
+They say elytra come from the end of everything, off strange ships. Did you take yours from a ship?
+Wings on a walker! My old teacher would have fainted clean out of the air.
+Fly with me sometime? I'll go slow. Mostly.
+
+## player.veil
+You're wearing a veil! Oh, {player}. Oh, that's lovely.
+A Cirrus Veil, a little crooked. No, leave it. It suits you crooked.
+A walker in a veil. The children will talk of nothing else for a week.
+Who wove that for you? It's good work. Better than you deserve. I'm teasing!
+I think you've got it on backwards. Or forwards. Walkers have so many sides.
+Mind the tips, they fray if you drag them. You do drag them. Everyone does at first.
+A veil on your shoulders. Now you're one of us, or a little piece of one of us at least.
+It catches the wind the way it should. Do you feel it tug, just a little, upward?
+Keep your veil whole and your heart light. That was only ours to say, and now it's yours too.
+I can't stop smiling. Sorry. A walker in a veil. It's just very sweet.
+
+## player.flying
+You're up! You're really up! Don't look down. No, do, it's lovely.
+Level, walker, fly level! Oh, you're doing it. Well flown!
+Look at you, wobbling across the sky like a fledgling.
+Lean into the turn, not away from it. There!
+The sky's wide enough for everyone, even walkers. Especially walkers, today.
+Watch the bridges! Those railings come up fast.
+You fly like a dropped kite. A brave, determined dropped kite.
+Is it everything you hoped? Wind in your face and nothing under your feet?
+Keep moving! That's the first lesson. The second is landing, and we'll get to that.
+Higher! No, not that high. Oh, now you're showing off.
+
+## player.edge
+Careful! There's nothing under that edge but cloud, and cloud won't catch you.
+Step back, walker. Please. My heart's in my mouth.
+Don't lean! You haven't got veils!
+You know how far down that is? Far enough to finish a song on the way.
+The edge is where we leap from. It's where walkers fall from. Step back.
+Look down if you must, but hold on to something. There's nothing to hold on to. Step back, then.
+I'd catch you if you fell. I'd try. I'm not very strong. Step back anyway.
+From there you can see the Wind Stone, tiny as a seed. Strange how far away it is, isn't it?
+The windkeeper says walkers feel a pull at the edges. Don't listen to it.
+One more step and you'd be a story the children tell. Come away from there.
+
+## player.pumpkin
+Why is there a pumpkin on your head?
+You've a face carved over your face. Two faces! Which one do I talk to?
+Can you see out of that? It looks to me as if it would do the opposite of helping.
+Hello, pumpkin. Is the walker inside well?
+The children will either scream or love you. Possibly both at once.
+Is this a walker festival? Do you all wear vegetables on special days?
+You look like a lantern someone forgot to light.
+I won't ask. I want to ask. I won't.
+The tall dark ones don't like being looked in the eye, I'm told. Is that what the pumpkin's for?
+Seeds in your hair, I'll bet. You'll be sprouting vines by dawn.
+
+## held.weapon
+Put the blade away, please. Nobody up here has ever needed one.
+That {item} looks sharp enough to cut a cloud in two.
+We dodge and you swing. That's the whole difference between us, I think.
+Careful near the veils! One slip and somebody's grounded for a month.
+A weapon. You must have come up through some dangerous air.
+The night-moths should fear that. I hope that's all it's for.
+You can lower that. The only thing that bites up here is Borre.
+
+## held.pickaxe
+A pickaxe! Please don't dig. The island is thinner than you'd think.
+Is that for going further down? I can't imagine wanting to go further down.
+Don't chip at the skystone. It's holding us all up, and it's shy about it.
+A miner! You must know every colour the dark comes in.
+Bring me a bit of amethyst next time you're deep? The harps love it.
+That {item} looks as if it's eaten half a mountain.
+You break stone for a living? Up here, everything you broke would fall on someone.
+
+## held.tool
+Building something? Ask before you build on our islands, please. They're particular.
+That {item} looks useful. For what, I couldn't begin to guess.
+Walkers have a tool for everything. We have hands and a good wind.
+Mind the skywood. The gardeners count every branch.
+Busy hands! The busy ones always come back with the best stories.
+You carry tools the way we carry songs: everywhere, just in case.
+If that's an axe, please, please, not the peach trees.
+
+## held.fishing_rod
+Fishing? Not in our koi pool, I hope!
+The koi would leap right over that hook and laugh at you.
+Walkers catch fish from the water. We catch songs from the wind. Both take patience.
+There are no fish up here, only koi, and the koi are family.
+Don't cast that near the Cloud Garden. The gardeners have very sharp eyes.
+What do you catch, down there? Boots? Treasure? Bad moods?
+You could fish for clouds off the bridge. You'd catch nothing, but you'd look lovely doing it.
+
+## held.map
+A map! Is our village on it? Show me where we are.
+Do walker maps show the sky? No? Half the world, missing.
+Find {village} on that, I dare you. You'd need a map of the air.
+A map is only the ground, flattened out. I'd draw the winds instead.
+All those lines! Rivers? Roads? I could stare at it all morning.
+How do you mark a floating island? A circle with a little cloud under it?
+Is there another sky village on there? We'd love to know. We've lost touch with a few.
+
+## held.spyglass
+A spyglass! Look straight up. Now straight down. Which is farther?
+Point that at an Old Singer. You'll see the little clouds napping on its back.
+Can you see the ground from here with that? Is it as busy as it looks?
+We just fly closer. Walkers have to pull the far things in to their eyes.
+Don't look at the sun with it! Even the koi know that much.
+May I? Oh, oh, the bell-village below. I can see the washing on the lines!
+Spyglass at the ready. Looking for something, or someone?
+
+## held.book
+A book! Walkers write everything down. We just sing it until it sticks.
+What's in it? Not the Evensong, I hope. That's not for paper.
+Read me something. Anything. I like how walker words sound all in a row.
+The wise ones say a song kept on paper forgets how to fly. I'm not sure I agree.
+Did you write that? Put me in it. Put the koi in it too.
+Pages flutter like little veils. Mind Borre doesn't steal them.
+Your {item} looks well loved. The corners have gone soft.
+
+## held.flower
+A flower, from down there? It smells like the ground. In a good way!
+Is that for me? No? I'll pretend it is, just for a moment.
+The gardeners will want to know where you picked that.
+Flowers grow best in the Cloud Garden, but don't tell the ones below.
+Drop a petal in the koi pool and watch. They think it's a treat.
+A little colour in your hand. It suits you.
+We sip nectar straight from the blossom, hovering. You'd need a ladder.
+
+## held.emerald
+Emeralds! The Skymerchant will smell those from across the court.
+Green as a peach leaf. What will you buy with it?
+The merchants love a walker with emeralds. They'll sell you anything. Even a veil.
+We used to trade in songs. Green stones are easier to carry, I'll admit.
+Don't drop it. It's a very long way down to pick it up.
+Bright as new leaves. The bell-villages below must adore you.
+Put that in the Market Pavilion's hands and see what comes back.
+
+## held.diamond
+A diamond! Like a bit of frozen sky.
+Where do diamonds come from? Deep down? How deep? No, don't tell me.
+It catches the light like dew on a veil at dawn.
+That's very heavy for something so small, isn't it?
+Walkers dig for days for those, I hear. All that dark for one bright thing.
+Turn it toward the light. Oh. Oh, look at that.
+Put it away before the children see. They'll want to hang it over the koi pool.
+
+## held.gold
+Gold! The weavers thread it through our veils. Only a little; it's heavy.
+Pretty, but heavy. Like all the best things from below.
+Our circlets are gold, did you know? Just a thin band. You've a whole lump.
+Gold catches the dusk beautifully. Bring it to the Evensong and watch.
+Too much gold sank the Belltowers, the old ones say. Careful how much you bring up.
+Your {item} glows like the Lantern Spire at dusk.
+The Skymerchant would like a word with you and your pockets.
+
+## held.fire
+Put that away! Put it away right now!
+Fire? Here? Among the veilcloth and the skywood? Have you lost your mind?
+Please, walker, no. Fire is the one thing the sky fears.
+Take that {item} back down. Down, down, all the way down.
+One spark in the Loom House and a year of weaving goes up in smoke.
+My veils! Stay over there. Further. Further than that.
+I don't care how careful you are. Fire doesn't care either.
+
+## held.lantern
+A lantern! The lamplighter would approve. Keep it lit.
+Light in your hand, like a little piece of the Lantern Spire.
+A lantern is the only fire we trust, and only behind glass.
+You'll be easy to find at night. Good. Walkers get lost at night.
+Hang that from a bridge post and you'll be one of us.
+Lanterns keep the night-moths honest.
+It's warm, I can feel it from here. Like a pocket of Sefa.
+
+## held.bucket
+A bucket? Of what? Not for the koi pool, please.
+Walkers carry water about in tins. We just wait for a cloud.
+If that's milk, don't tell me where it comes from. I've heard, and I'd rather not.
+Keep that full, will you? A useful thing to have about, should anyone catch fire.
+Don't empty it over the edge. Someone down there will think it's raining.
+Is there a fish in there? Not one of ours, I hope. Let me count.
+Carrying water up into the sky. That's like bringing a breeze to Borre.
+
+## held.food
+Was that cooked? Over fire? I'll try not to think about it.
+You eat sitting down, I've heard. Just sitting there, on purpose.
+Smells strong. Everything walkers eat smells strong.
+Your {item} smells very... sturdy. I'll keep to peaches, thank you.
+Eat that up here and the crumbs will fall halfway to the ground.
+Good. You should eat. You walk such a lot.
+Food from below always looks so solid. Do you have to chew it for a long time?
+
+## held.peach
+A sky peach! Is it ripe? Press it gently. Gently!
+That's one of ours! Did a gardener give it to you, or did you pick it yourself?
+Eat it in the air, if you can. They taste best with your feet off the ground. Oh. Sorry.
+The best ones grow on the very top branches, where Sefa sleeps.
+Don't let the koi see that. They'll sulk all afternoon.
+Peach juice down your chin. That's the proper way to eat one.
+A peach in a walker's hand. That's how friendships start up here.
+
+## held.treat
+Something sweet! Is it for the Evensong? Everything sweet is for the Evensong.
+Is that honey? Oh, please say it's honey.
+The children would follow you all the way to the ground for that.
+That {item} smells like a festival.
+Sweets are the one thing from below I'd fly all the way down for.
+You're holding a treat and talking to me as if it's nothing. Cruel.
+Keep that out of Sefa's way. The south wind steals sweets; everyone knows that.
+
+## held.music
+Music! Do you play it, or just carry it about hoping?
+Play that {item}! Play it at the Evensong!
+Walker music comes in boxes and discs. Ours comes on the wind. Both are good.
+The harpists will want to hear whatever that does.
+If that's a disc, does it really sing when it spins? How strange and how lovely.
+Music from below always has more drum in it. I like the drum.
+Careful with that horn. Loud noises frighten the koi, and the whales answer back.
+
+## held.flute
+A Windsong Flute! Play something. Anything. We'll all come.
+That's one of ours, from the Market Pavilion. Do you know how to hold it?
+Breathe into it slowly, the way Vell comes in at dusk.
+Play that and half the village flies over to listen. It's a promise and a warning.
+A walker with a Windsong Flute. The harpists will be thrilled and a little jealous.
+The flute sounds different from the ground, I've heard. Lower. Heavier.
+You're holding it like a stick. Hold it like a bird. Lighter.
+
+## held.harp
+Carrying a wind harp about! It's heavier than it looks, isn't it?
+Set that down somewhere windy and it'll play itself.
+A harp and no veils. That's a whole riddle in one walker.
+The Hall of Echoes would want that strung tight before dusk.
+Tune it to {wind}. That's who has the sky today.
+Pluck one string. Just one. There, see? Everyone turned round.
+Who are you going to play for? Oh, tell me it's the Evensong.
+
+## held.veil
+You're holding a veil like a washcloth. It's a veil! Drape it!
+A Cirrus Veil folded up in your hand. Wear it, walker. It wants the wind.
+Is that for you, or for someone special? Either way, it's well made.
+Shake it out. Go on. Watch how it floats.
+Don't let it trail on the ground. The weavers would weep.
+A walker with a veil in hand. I'd heard of it. I never quite believed it.
+Put it on before you go near the edge. It'll catch you if your feet don't.
+
+## held.scale
+A Sky Scale! Where did you get that? Who gave it to you?
+Keep that close. It's luck, real luck. The koi don't give them up lightly.
+Oh, it's a pretty one. Pink at the edge, like the dawn.
+Some keep their scale for life. Some give it away. Both are right.
+Lose it, and the luck goes to whoever finds it. So don't.
+Carry a Sky Scale and you're a friend of the koi, whether you like it or not.
+That shimmer! It changes colour when you breathe on it. Try.
+
+## held.feather
+A feather! The Skymerchant buys those, you know.
+From a chicken? They can't even fly. Poor feather.
+Feathers are what birds have instead of veils. Clumsy, but they work.
+Tickle the koi with it. They pretend to hate it.
+Hold it up and let go. See how slowly it falls? That's how falling ought to feel.
+A quill for writing, or a feather for luck? Down below I suppose it's both.
+I keep a little jar of feathers in my nest. Don't laugh.
+
+## held.membrane
+A night-moth's wing. Ugh. And also, thank you. We mend our veils with those.
+You fought a night-moth? You're braver than you look.
+The weavers will want that. There are always torn veils.
+It smells of the night and bad dreams. Wrap it up, please.
+The worst creature in the sky gives the best mending. The sky has a sense of humour.
+Take that to the Market Pavilion. You'll leave richer.
+Don't wave it at me! I know it's dead, but still.
+
+## held.string
+String! The weavers mend veils with string and membrane.
+Walkers tie everything up. We tie nothing down. Interesting, isn't it?
+From a spider? Spiders spin better than our newest weavers.
+A good handful. Bring it to the Loom House.
+You could string a harp with that. Badly, but you could.
+The children play string games in the air, upside down. You'd lose.
+The Skymerchant buys string, if you're looking to part with it.
+
+## held.amethyst
+Amethyst! The harpists tune by it. It sings when the wind is right.
+From a geode, underground? It looks like a frozen bell.
+Purple and clear, like the sky just after the Evensong.
+Up here amethyst is worth more than gold. Take it to the Market Pavilion.
+Tap it. Listen. Hear that little ring? That's why we love it.
+So the earth makes music too, deep in its rock. I never knew.
+Hold it up to {wind} and listen. Some say it hums.
+
+## held.elytra
+Wings, in your hand! Put them on. Go on.
+Elytra. So that's what walkers borrow. I'd always wondered.
+Those came from very far away, didn't they? From the end of everything.
+Folded up like a sleeping bat. Unfold them!
+The weavers have always wanted a proper look at a pair. Would you show them?
+So light! You'd never think they could hold a walker up.
+Wings you have to carry. That's a walker idea if ever I heard one.
+
+## held.firework
+Is that a firework? Put it down. Slowly. Very slowly.
+No, no, no. Not here. Not anywhere, but especially not here.
+Loud, dangerous and rude. Fireworks are everything the sky hates.
+Gunpowder. I can smell it from here. Take it back down.
+If that goes off, the koi will hide for a week and the children for two.
+That {item} is going straight back down, isn't it? Say yes.
+A walker set one off up here once. The bell rang by itself, and no whale came near for a season.
+
+## held.breeze
+Is that wind? In your hand? Bottled up?
+It's humming. It wants to be let go.
+Where did you find a wind that small? Was it lonely?
+Let me see. Oh, it's spinning. It's alive, in its way.
+Walkers have caught the wind. I don't know how I feel about that. Amazed. Worried. Mostly amazed.
+Don't throw it at me. Throw it up. Watch where it goes.
+Does Borre know you have that? Don't tell Borre.
+
+## held.cloud
+A piece of cloud! You're carrying a piece of cloud about!
+Is it soft? It's soft. I know it's soft. Let me touch it.
+That's from our Skymerchant. Don't squeeze it, it'll sulk.
+Clouds are for floating on, not for keeping in your pocket.
+Put it down somewhere and see if it stays. They usually do.
+You're holding that cloud like a loaf of bread. It's not bread!
+A little cloud of your own. Every walker should have one.
+
+## held.sapling
+A sapling! Plant it somewhere with plenty of sky over it.
+Skywood? It'll grow peaches one day, if you're patient.
+Down on the ground, roots go into the dirt. Up here they dangle. Both are fine.
+The gardeners will want to know where you're planting that.
+Little tree, little tree, grow tall and stay light.
+Plant it near water. Everything grows better near water, even us.
+That {item} will be taller than you one day. Then you'll be the one looking up.
+
+## held.potion
+What's in the bottle? It's glowing. Should it glow?
+A potion! Walker magic. Is it for flying? Please say it's for flying.
+Slow falling, I hope. Every walker up here should carry one.
+Whatever that is, don't drink it near the edge.
+That {item} looks like a thunderstorm in a bottle.
+The bell-villages below have brewers, I hear. We only have honey.
+Colours in a bottle. Like a sunset you can carry about.
+
+## held.totem
+What a strange little doll. It's looking at me.
+A totem, isn't it? A walker's way of not going up past the blue too soon.
+Hold on to that. Truly. The sky is wide and the ground is hard.
+I've heard of those. They bring you back. Is it true?
+Green eyes and gold. It looks like it's keeping a secret.
+We keep Sky Scales for luck. Walkers keep these. Yours looks stronger.
+Keep it close when you're near the rim. Please.
+
+## held.pet
+A lead! Where's your friend? Did you leave them on the ground?
+A name tag? Who are you naming? A koi? Please let it be a koi.
+A saddle! What do walkers ride? Everything?
+That {item}: is it for a horse, a wolf, or something stranger?
+Don't put a lead on a koi. They won't stand for it.
+If you ever saddle a Cloud Whale, I want to be there to see it.
+Walkers name everything. I like that. It means you remember.

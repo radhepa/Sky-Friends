@@ -1,0 +1,117 @@
+# Offers: a grown-up Cirri notices you need something and offers to help. Each can come up once a day when its
+# conditions hold. The accept answer carries the effect; the other answer turns it down kindly.
+
+! blossom_salve | when: hurt job:gardener
+Q: You're hurt! Come over by the koi pool. I keep a pot of peach-blossom salve for exactly this.
+Q: Hold out your arm. A gardener always has something soothing growing nearby.
+- Yes, please :: Still now. It smells of blossom and stings for one breath, then nothing at all. There. {heal} [HEART]
+- I'll be all right :: Then at least keep it clean. Dirt from below gets into everything. [DOTS]
+
+! gentle_hands | when: hurt personality:gentle|personality:wise
+Q: Oh, you're hurt. Let me see. I've mended worse tears than that.
+Q: Hold still a moment. Let me help with that, gently.
+- Thank you :: There. Slowly, slowly. Breathe the way Aure blows, soft and early. Better? {heal} [HEART]
+- It's nothing :: Nothing, the hurt ones always say. I'll be here when it turns into something. [DOTS]
+
+! friend_patches | when: hurt level:4
+Q: Look at the state of you. Come here before you fall apart on our bridges.
+- All right :: Hold still, hold still. I've seen koi braver than you. There. Whole again. {heal} [NOTE]
+- I'll manage :: You always manage. I still worry. That's what friends are for, walker: the worrying. [GLOOM]
+
+! harp_mends | when: hurt job:harpist
+Q: You're hurt. Let me play you something. Music mends more than people think.
+- Please do :: Close your eyes. Listen to the low string, and the next one. Feel it? The hurt goes where the music goes. {song} [NOTE]
+- Not now :: Not now. Then I'll hum it later, out of earshot, and hope it finds you anyway. [DOTS]
+
+! peaches_for_you | when: hungry
+Q: You look hollow, walker. Have a peach, or two. We've more than enough.
+Q: When did you last eat? Here, take some peaches before you wilt.
+- Thank you :: Eat them slowly. Well, eat them however walkers eat. With both hands, it looks like. {peach} [HEART]
+- I'm not hungry :: Not hungry, with that face? Then I'll keep them warm for you. [NOTE]
+
+! top_branch_peaches | when: hungry job:gardener
+Q: The top branches are heavy with peaches this week. Take a couple. I insist, and so does the tree.
+- Gladly :: Here, two of the sweetest, from up where Sefa sleeps. Juice down your chin is allowed. {peach} [HEART]
+- Save them :: Save them? For whom? The koi? They'd eat them, you know. [QUESTION]
+
+! warm_gust | when: wet
+Q: You're soaked through! Stand still and let me send a warm gust round you.
+- Yes, please :: Arms out. A little more. There, feel it? Warm as an afternoon. Now you're only damp. {dry} [NOTE]
+- I like being wet :: You like it? Then you're stranger than a cloud. Drip happily, walker. [QUESTION]
+
+! borrow_sefa | when: wet wind:sefa
+Q: Sefa has the sky today, warm and lazy. Shall I borrow a breath of it for you? You're dripping.
+- Please do :: There. Sefa's breath smells of peaches, did you notice? Stay a while, until you've stopped steaming. {dry} [HEART]
+- I'll dry on my own :: On your own, slowly, in wet boots. The ground is so patient. [DOTS]
+
+! night_lantern | when: dark
+Q: It's dark and you've no light. Take a sky lantern, please. The night-moths hate them.
+Q: Wandering about in the dark? Here, take one of our lanterns.
+- Thank you :: Hold it high, not low. Light should come from above. That's how the sky does it. {lantern} [HEART]
+- I can see fine :: Fine, until a night-moth finds you. Keep to the bridge lanterns, then. [SWEAT]
+
+! lamplighter_spare | when: evening job:lamplighter
+Q: I always light one lantern too many. Would you take the spare off my hands before dark?
+- I'd love one :: There. Freshly lit. It'll last you all the way down and back up again. {lantern} [SPARKLE]
+- Keep it lit here :: Then I'll hang it on the bridge by the Lift Dock and call it yours. [NOTE]
+
+! edge_breath | when: edge !veil
+Q: You're at the edge without a veil! Let me wrap a breath of wind round you, just in case.
+Q: Step back! Or at least let me tie a little wind round you first.
+- Yes, please :: There. If you fall now, you'll float down slow as a feather. Still, don't fall. {slowfall} [NOTE]
+- I won't fall :: Everyone who ever fell was sure they wouldn't. Please step back. [SWEAT]
+
+! windkeeper_wrap | when: edge !veil job:windkeeper
+Q: Keeping the wind is my work, and I'd rather not keep it under you. Let me tie some round you.
+- Go ahead :: Done. You'll drift like a dandelion seed for a minute. Don't waste it on falling. {slowfall} [NOTE]
+- I trust my feet :: Feet are for the ground, and you're not on the ground. Step back, please. [ANGER]
+
+! mend_borrowed_wings | when: held:elytra damaged job:weaver
+Q: Your borrowed wings are fraying. Let me look. I mend veils every day; wings can't be much harder.
+- Please :: A little membrane, a little thread, a lot of patience... there. Not new, but better. {mend_held} [NOTE]
+- They'll hold :: They'll hold until they don't. Bring them back before that, please. [SWEAT]
+
+! mend_frayed_veil | when: held:veil damaged job:weaver
+Q: That veil's frayed at the tips. Hand it here; I can mend it in a breath.
+- Thank you :: Membrane at the tear, string through the weave, and a little gold if I had it. There. Whole again. {mend_held} [HEART]
+- I like it frayed :: Frayed like an old soul's. All right, I won't fuss. Much. [BLUSH]
+
+! weaver_fixes | when: damaged job:weaver level:3
+Q: That {item} of yours is worn thin. Let me see what a weaver's hands can do with it.
+- Go on, then :: It isn't cloth, but a tear is a tear. There. It'll last a little longer now. {mend_held} [NOTE]
+- It's fine as it is :: As it is, then. Use it gently. Things wear out fast for walkers; you lean on them so. [DOTS]
+
+! wind_stone_way | when: newcomers
+Q: You're new here, aren't you? Do you know where the Wind Stone is, for getting back down?
+- Tell me :: Here, I'll tell you exactly where. Remember it; walkers forget which way the wind goes. {lift} [NOTE]
+- I know the way :: Then you're quicker than most. Fair wind going down. [NOTE]
+
+! windkeeper_welcome | when: newcomers job:windkeeper
+Q: Welcome up! Keeping the Wind Stone is my work. Shall I tell you how to find it again?
+- Yes, please :: Here's where it stands. On the dock, step into the shaft and crouch, and the wind lowers you gently. {lift} [HEART]
+- I'll find it :: Good. And if you can't, ask anyone. The Courtesy is everyone's promise. [NOTE]
+
+! dusk_song | when: evening
+Q: The day's going down. Shall I sing you a bit of the Evensong, just us, before the others start?
+- Please sing :: Listen. Here's where Vell comes in, and here the harps, and there. You'll feel lighter for a while. {song} [NOTE]
+- Save it for later :: Later, then, with everyone. It's better with the whole village anyway. [HEART]
+
+! keepsake_scale | when: level:7
+Q: I've been keeping something for you. A Sky Scale, from our koi. Will you take it?
+- I'd be honoured :: Keep it near. It's luck, and it's a little bit of me. That's how scales work. {scale} [HEART]
+- Keep your luck :: Keep my luck? You're the only walker who'd say that. That's why I wanted you to have it. [BLUSH]
+
+! merchant_tip | when: level:7 job:skymerchant
+Q: You've been good for trade and better company. Here, take this emerald. Never argue with a merchant.
+- Thank you :: A good merchant knows when to give. Spend it somewhere that makes you happy. {emerald_tip} [SPARKLE]
+- I can't take that :: You can't? Then I'll put it toward your first veil. You can't argue with that either. [NOTE]
+
+! quill_feathers | when: held:book level:2
+Q: Is that a book? Walkers write with feathers, don't they? I've a few spare, if you'd like them.
+- Yes, please :: Three good ones. Write something about the sky in it, would you? Something kind. {feather} [NOTE]
+- I've got plenty :: Plenty! Then you've been writing a lot. I'd love to read it someday. [IDEA]
+
+! garden_flower | when: job:gardener level:3 day
+Q: The Cloud Garden's blooming. Let me pick you something. Which one? No, I'll choose. I'm the gardener.
+- I'd love that :: This one. It grows best where it can see the sky. Like someone I know. {flower} [HEART]
+- Leave it growing :: Leave it growing? That's a gardener's answer. You'd make a good one. [BLUSH]

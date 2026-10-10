@@ -1,6 +1,9 @@
 package dev.skyfriends.client.render;
 
 import com.mojang.blaze3d.vertex.PoseStack;
+import com.mojang.blaze3d.vertex.VertexConsumer;
+import dev.skyfriends.client.EmoteBubbles;
+import dev.skyfriends.client.anim.Life;
 import dev.skyfriends.SkyFriends;
 import dev.skyfriends.client.model.CirriModel;
 import dev.skyfriends.client.model.Geometry;
@@ -28,6 +31,8 @@ import net.minecraft.world.phys.Vec3;
  * the living eyes looking back at a camera close in front of it, as Village Friends residents do.
  */
 public class CirriRenderer extends MobRenderer<Cirri, CirriRenderState, CirriModel> {
+    /** Set while the conversation window draws a portrait: no bubble over its head there (the window shows its own). */
+    public static boolean portrait;
     private final CirriModel woman, man, child;
     private final Map<String, Identifier> textures = new HashMap<>();
     private final Map<String, RenderType> glows = new HashMap<>();
@@ -54,6 +59,44 @@ public class CirriRenderer extends MobRenderer<Cirri, CirriRenderState, CirriMod
     public void submit(CirriRenderState state, PoseStack poseStack, SubmitNodeCollector collector, CameraRenderState camera) {
         this.model = modelFor(state);
         super.submit(state, poseStack, collector, camera);
+        if (state.bubble != null && state.distanceToCameraSq < 40 * 40) submitBubble(state, poseStack, collector, camera);
+    }
+
+    /** The emote bubble, as a card facing the camera above the head (and above the name, when shown). */
+    private static void submitBubble(CirriRenderState state, PoseStack pose, SubmitNodeCollector collector, CameraRenderState camera) {
+        var bubble = state.bubble;
+        float age = state.bubbleAge;
+        float scale = EmoteBubbles.scale(bubble, age);
+        if (scale <= .01F) return;
+        var anchor = state.nameTagAttachment;
+        double y = state.nameTag != null && anchor != null ? anchor.y + .78 : state.boundingBoxHeight + .32;
+        pose.pushPose();
+        pose.translate(anchor == null ? 0 : anchor.x, y, anchor == null ? 0 : anchor.z);
+        pose.rotate(camera.orientation);
+        float pixel = .019F * scale;
+        pose.scale(pixel, -pixel, pixel);
+        float bob = EmoteBubbles.bob(age);
+        int shape = EmoteBubbles.shape(bubble.emote()), symbol = EmoteBubbles.symbol(bubble.emote(), age);
+        float[] motion = EmoteBubbles.symbolMotion(bubble.emote(), age);
+        collector.submitCustomGeometry(pose, RenderTypes.text(EmoteBubbles.SHEET), (p, vc) -> {
+            quad(p, vc, -16, -32 + bob, 32, 32, 0, shape * 32, 0, 0, 0);
+            // the symbol sits in the middle of the bubble's body, a hair closer to the camera
+            float cx = motion[0], cy = -19 + bob + motion[1], half = 7.5F * motion[2];
+            quad(p, vc, cx - half, cy - half, half * 2, half * 2, 32 + symbol / 8 * 16, symbol % 8 * 16, 16, .3F, motion[3]);
+        });
+        pose.popPose();
+    }
+
+    /** One textured square in sheet pixels ({@code row} down, {@code column} across), optionally turned. */
+    private static void quad(PoseStack.Pose p, VertexConsumer vc, float x, float y, float w, float h, int row, int column, int size, float z, float degrees) {
+        int cell = size == 0 ? 32 : size;
+        float u0 = column / 128F, v0 = row / 128F, u1 = (column + cell) / 128F, v1 = (row + cell) / 128F;
+        float cx = x + w / 2, cy = y + h / 2, cos = Mth.cos(degrees * Mth.DEG_TO_RAD), sin = Mth.sin(degrees * Mth.DEG_TO_RAD);
+        float[][] corners = {{x, y, u0, v0}, {x, y + h, u0, v1}, {x + w, y + h, u1, v1}, {x + w, y, u1, v0}};
+        for (var c : corners) {
+            float dx = c[0] - cx, dy = c[1] - cy;
+            vc.addVertex(p, cx + dx * cos - dy * sin, cy + dx * sin + dy * cos, z).setColor(0xFFFFFFFF).setUv(c[2], c[3]).setLight(0xF000F0);
+        }
     }
 
     /** The child's model is drawn at its own size (the geometry's scale), not vanilla's baby scale. */
@@ -85,6 +128,11 @@ public class CirriRenderer extends MobRenderer<Cirri, CirriRenderState, CirriMod
         state.texture = cirri.isBaby() ? "cirri_child_" + (state.female ? "f" : "m") + "_" + cirri.complexion()
                 : "cirri_" + (state.female ? "f" : "m") + "_" + cirri.complexion() + "_" + CirriKin.PALETTE_NAMES.get(cirri.palette());
         state.motionSeed = LivingFace.seed(cirri.getUUID());
+        Life.fill(cirri, state.pose, delta);
+        state.bubble = portrait ? null : EmoteBubbles.get(cirri.getId());
+        // the conversation window already shows their name: no floating label behind the portrait
+        if (Minecraft.getInstance().gui.screen() instanceof dev.skyfriends.client.screen.TalkScreen) state.nameTag = null;
+        state.bubbleAge = state.bubble == null ? 0 : state.bubble.age(delta);
         state.feminine = state.female;       // as in Village Friends: women wear the feminine details, men never
         // eye contact, as a Village Friends resident makes it: only with a camera close by and already in front of the face
         state.eyeLookX = state.eyeLookY = state.attention = 0;

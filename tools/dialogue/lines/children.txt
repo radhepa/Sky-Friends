@@ -1,0 +1,998 @@
+# Cirri children: everything the little ones say (baby.* pools). Voice: a child of about six to ten, funny and sweet,
+# never baby-talk. They call the player a walker or a groundling, brag about loops, mix up long words and long for
+# their Lengthening. Callbacks to the children's questions are in remember-children.txt.
+
+## baby.greet
+Fair wind, groundling! I'm {name}, and I can do a loop. Want to see? Too late, I already did one.
+A walker! A real one, with feet and everything! Fair wind!
+Hello! Are you lost? Walkers always look a bit lost up here. It's the not-flying.
+Don't mind my veils, they're short because I'm still little. For now. Fair wind!
+Hi, groundling! Did you come up the Wind Stone? Did you hold your breath the whole way?
+Fair wind, walker! I was just about to get bored, so you came at exactly the right time.
+Oh! You're the walker. Everyone's been talking about your feet.
+I'm not allowed near the edge, but you're allowed near me. So that works. Hello!
+Fair wind, {player}! I remembered your name. I said it forty times so it would stick.
+Hi! Quick, ask me how many loops I did today. Nineteen! You didn't even have to ask.
+Hello, groundling. Your boots are very loud on the bridge. I heard you from the koi pool.
+Is it true walkers have to stand up the whole time? Even when you're tired? Fair wind, by the way!
+Hello! I'm on a very important errand. It was important, anyway. I forgot what it was. Hi!
+Fair wind! Hold still, I want to see if you're taller than the Bell Pagoda door. ...Nearly!
+Your shadow's bigger than mine, walker. That's not fair. Fair wind anyway.
+Fair wind and hello, and are you staying for the Evensong? Say yes.
+Hi! I saw you come up the wind. You held on to nothing and looked very worried.
+Mum says I'm to be courteous to walkers. Ahem. Fair wind, honoured guest. Was that courteous?
+Hello, walker. I'm {name}, the second-best looper in {village}. The best one cheats.
+Fair wind! Ooh, you smell like the ground. What does the ground smell like? Like you, I suppose.
+Hi! Don't step on the squeaky plank. Actually, do. It's funny.
+Can walkers wave? You can! Hello! You're good at it!
+Fair wind, groundling. Are you here to see the koi? I'll show you the grumpy one.
+Hello! I wasn't hiding behind that lantern. I was guarding it.
+Guess how old I am. No, higher. No, lower. Nearly! Fair wind!
+Hi, hi, hi! Sorry. I'm very high today. That means happy. Grown-ups say it, so I say it.
+I've been practising my welcome face for when a walker came. This is it. Do you like it?
+Fair wind! You're upside down. Oh, no, I am. Hold on. There. Hello!
+A groundling at the Veil Court! Wait till I tell everyone. Hello first, though.
+Hello! My veils are short but they're very fast. Want to race? Oh. You'd have to walk.
+Fair wind, walker! Did you bring anything sticky? Honey counts.
+Hello, {player}! I hoped you'd come back. I saved you a cloud. It blew away, but I saved it.
+Hi! Can I touch your boots? Just the toe. Thank you! They're so hard!
+Hello, groundling! Mum said walkers were big. Mum was right.
+Fair wind! I've got a wobbly tooth and a wobbly loop. One of them will get better.
+{wind} has the sky today and I'm allowed out till the bell. Hello!
+Oh! A walker! Don't fall off. That's the first rule. Hello is the second rule.
+I know all about walkers. You eat cooked things and sleep lying down. Is it true? Hello, I mean.
+Did you come all the way up just to see me? You can say yes.
+Hello, walker! I was counting koi. I got to nine and you made me forget. Hello anyway.
+Nobody gave me the job of saying hello to walkers today. I took it. Hello!
+Hello! Did you have to learn walking? I had to learn flying. I bumped into the Loom House twice.
+Come quick, the koi are swimming in a circle! Oh. They stopped. Hello, then.
+Fair wind, walker! You came at a good time. I've just finished being in trouble.
+If anyone asks, I've been near the nest all day. Hello!
+Fair wind! You're the first walker I've said hello to in nine dawns. The last one had wings. Borrowed ones.
+Ooh, hello! Bend down a bit. No, more. There. Now we're the same size. Fair wind!
+Hello! I've got peach on my chin. Don't look at it. Look at my loop instead!
+Fair wind, groundling! Mind your feet. Mind my veils. Mind everything. Hello!
+Hi! You're so tall I can hover right in front of your face. Hello, face!
+
+## baby.chat
+My veils tied themselves in a knot today. The loop was that tight. Mum had to untie me over the koi pool.
+The gardener says I'm not to chase the koi. I'm not chasing them. I'm flying behind them very fast.
+There are nineteen bridges in {village}. Or twenty-two. I counted twice and got two different numbers.
+Bridge rails aren't for children, Mum says. I wasn't on them. I was hovering one finger above them.
+When I'm Lengthened I'll have veils so long they'll touch two clouds at once.
+The weavers let me hold the comb today. It was full of cirrus. It felt like holding a sneeze.
+A koi bumped my nose this morning. The gardener says that means it likes me. Or it was hungry.
+Never eat a sky peach upside down. The juice goes up your nose. I'm telling you so you don't have to find out.
+The bell is so loud up close it makes your teeth hum. I know because I put my teeth near it.
+Today was my first time past the Bell Pagoda all by myself. Fast. But by myself.
+Dad says the Old Singers sing the weather. I sang at a cloud for ages and nothing happened. I need practice.
+Is this your feather? It was on the bridge. Do walkers have feathers? Under the coat, maybe?
+Harpist, that's what I'll be. Or a koi. I haven't decided.
+Grown-ups say "a light breeze" when they mean a little while, but it's always a long while.
+Nobody found me in the Loom House. I was in a basket of cloud. Then I fell asleep, and everybody found me.
+Cloud tastes of nothing. I've checked. Lots of times. Lots of clouds.
+The Skymerchant gave me a peach for carrying a lantern. I carried it so carefully. I only dropped it a bit.
+When I grow up I'll fly to the other side of the sky and wave back at here.
+My veil-tips are getting rosier. That means I'm growing! Dad says it means I've been rubbing them with peaches. Only once.
+My new loop is called the Upside-Down Peach. You have to see it to understand.
+Grown-ups talk about the wind all day. Which wind, where it's going, what it smells of. It's wind!
+Everyone says Sefa smells of peaches. I think it's because everyone has peaches in their pockets.
+Clouds don't like jars. I borrowed one from the Market Pavilion to keep a cloud in, and the cloud got straight out.
+Wuffle. That's my word. Nobody else knows it. It's when a koi blows a bubble at you.
+The windkeeper let me look down the lift shaft. The ground is so far! It's all green and wiggly.
+Last Evensong I fell asleep right there in the air. I woke up and everyone had gone home except Dad.
+The Ruined Belltowers sank because they got too heavy. I've stopped keeping stones in my sash, just in case.
+Do walkers have koi? I'd miss the koi if I was a walker. And the flying. Mostly the flying.
+Fair wind, honoured guest, please mind the edge. That's the Courtesy. I practise it on the koi. They never listen.
+The harpist said I've got a good ear. I've got two! Both good!
+My best loop ever was in the rain. The drops went round with me.
+{friend} told me night-moths are as big as a nest. I don't believe it. I believe it a little.
+Thank you for squeaking the third plank on the long bridge. Only walkers can make it squeak. I love that squeak.
+When I'm in trouble I'm not allowed past the Lantern Spire. Dad calls it staying close. {friend} called it being grounded, and got told off too.
+Holding my breath all the way through a cloud is easy. From one side to the other. Big ones too.
+The koi pool's deeper than it looks. I put my arm in up to the shoulder and never touched the bottom.
+Today I'm going to find a Sky Scale. Yesterday I was going to as well. Tomorrow too, probably.
+My cushion's got a koi stitched on it. I curl round it at night like a cloud round a hill.
+Is it true walkers sleep lying down flat? Doesn't your back get bored?
+The honey's on the top shelf in the Market Pavilion. Walkers think high shelves are hard. Ha!
+"Not yet," the bellkeeper said, when I asked to ring the bell. Not yet is a grown-up word for no.
+The moon was in the koi pool last night, so I tried to catch it. I caught a koi instead. It wasn't pleased.
+My friend and I are going to fly to the moon one day. We've packed peaches. Two each.
+With my eyes shut I can still tell the winds apart. Aure is wet, Sefa is warm, Vell hums and Borre bites.
+Today I helped the gardener. I held the watering can. Then I held it upside down. Then I went home.
+Did you see our lantern from the ground? The big one on the Spire? You did? That's ours!
+"Keep your veil whole and your heart light," the grown-ups say. My heart's very light. It's only small.
+When the whale came, Dad held on to my veil the whole time. I wasn't going to swim off with it. Much.
+If I was a walker, I'd have the biggest boots in the world and squeak every bridge in the sky.
+The flowers in the Cloud Garden all taste different. The blue ones taste like morning.
+Magnificent. That's my new word. Everything's magnificent now. That peach. Your boots. My loop.
+Sometimes I lie on my back in the air and pretend the sky is the ground. Then I fall up. Not really.
+There's a list in my nest of every walker I've met. You're on it. You're number two.
+Grown-ups never do loops. Dad says long veils get tangled. I think grown-ups just forgot how.
+There's a cloud under the Lift Dock shaped like a koi. It's been there all day. It's waiting for something.
+Don't tell the gardener, but I've named the koi. The slow one is called Pudding.
+I'd like to see the ground up close. Not touch it. Just look, with my nose nearly on it.
+My veils were in a tangle this morning. Mum says I curl up too tight at night. I think I dream in loops.
+I left a peach stone at the Wind Shrine. The wind should have something too.
+Honey is slower than peach juice. I raced them down my arm. Honey lost, but it was very sticky about it.
+The weavers say my old veil scraps will go into a lantern shade. A bit of me is going to glow!
+When I grow up I'll have the longest veils in {village}. And the fastest. And the shiniest.
+The Old Singers are as big as a whole village, Dad says. I think they're as big as two.
+Sometimes I hum the Evensong in the morning. It's the wrong time. The sky doesn't seem to mind.
+Clouds are made of wet! I flew into one and came out soaking. Nobody told me!
+Birds have to flap. All the time! I've been watching them. Poor birds.
+What's the Wind Stone made of, I asked the windkeeper. Stone. That's why it's called that. I felt a bit silly.
+I'm brave about everything except night-moths and fireworks and the long peal of the bell.
+A walker gave me an apple once. It was crunchier than a peach. I said thank you twice.
+I can hover with my eyes shut. I bumped into the bell once. Only once. It said bong.
+My shadow lands on the clouds sometimes. It's very small, and it waves when I wave.
+I'm making a koi out of veilcloth scraps. It's only got one eye because I ran out.
+Walkers have such heavy feet. I think that's where you keep all your brave.
+I flew round the Lantern Spire nine times without stopping. Then I stopped. For quite a long time.
+Grown-ups worry about the weather. Children worry about the peaches running out. Ours is more important.
+Did you know there's a whole world under the clouds? You did? Oh, you live there. I forgot.
+Humming makes skywood saplings grow faster. Mine grew. A tiny bit. I'm taking that as a yes.
+The lamplighter says sky lanterns are little bits of sunset kept in paper. I'm going to keep one in my nest.
+My friend says I talk too much. I said I'm only saying everything once. There's just a lot of everything.
+Once a whole school of koi followed me home. Well, three koi. Well, one koi, and it was going that way anyway.
+
+## baby.playful
+Tag! You're it! ...Oh, you can't reach me. Then I'm it. Got you! Your turn. This game's harder with walkers.
+New game: hold your breath every time a koi jumps. I'm very bad at it. I'm very purple.
+Want to see a trick? Watch my veils. Watch them... now they're behind me! Magic!
+Bet you can't hop on one foot. ...You can! Hop higher! Hop to the clouds!
+Bobbing is very hard work. I've been bobbing up and down since breakfast. It's called practising.
+Say "skywood squeaky plank" five times fast. Skywood squeaky plunk. Skyweed... you win.
+See the bellkeeper's veil? There's a petal stuck on it. That was me. Nobody's said. Don't you say either.
+Spin with me! Spin! Oh, walkers can spin! You're dizzy! Ha! Me too!
+I'm a cloud. Don't look at me, clouds don't do anything. ...Boo! Clouds can do that.
+Race you to the lantern! Ready, go! ...I'll wait for you there. I'll wait for ages.
+The best game is Koi Says. The koi do something and you copy. Mostly they just swim, so mostly I just wiggle.
+Whirr! That's my veils going round like a windmill. Do walkers have windmills? You do? I knew it!
+If you sneeze, I'll do a loop. That's the rule now. Go on. Sneeze! Please?
+I hid a peach somewhere on this islet. Warmer... warmer... no, colder. You're a terrible finder, walker.
+Let's pretend you're a whale and I'm the little cloud on your back. Walk slowly. Slower! Whales are slow.
+
+## baby.shy
+I made you a... no, never mind. It's only a peach stone. It's not really a present. Unless you want it.
+Loops are easier when nobody's watching. Don't watch. ...You're watching.
+The koi don't ask questions. That's why I like them. You don't ask too many either. That's nice.
+At the Evensong I sing very quietly. Nobody hears. It still counts... doesn't it?
+Sometimes I hide behind Mum's veils when walkers come. Not from you. You're... all right.
+My friend does all the talking and I do the nodding. We're a good team, I think.
+Your boots are nice. That's all. I just wanted to say. ...They're very sturdy.
+The grown-ups say I'll talk more after my Lengthening. I don't know if I want to. Maybe a little more.
+Every koi in the pool has a name, and I know all of them. I've never told anyone. I might tell you. One day.
+If you stay very still, the koi come right up to you. People do too, sometimes. Like me.
+I wrote your name on a leaf. Not for anything. It's just a nice name to write.
+Is it all right if I just hover here? You don't have to say anything. I like the quiet bits.
+The bell scares me a little when I'm close to it. Don't tell anyone. ...You won't, will you?
+Once I said fair wind to a walker and they didn't hear. You heard. Thank you for hearing.
+My veil-tips go pink when I'm embarrassed. ...They're always pink, actually. Don't look at them.
+
+## baby.curious
+Why do walkers have knees? What are knees for? Bend one! ...Do it again!
+What's under the ground? More ground? How far down does it go? Does it ever stop?
+Do you tell your feet to walk, or do they just go? Do they ever go the wrong way?
+Walker fish live in the sea, Dad says, with no pool round them at all. How do they know where the edge is?
+How heavy are you? Heavier than the bell? Lighter than a bridge? I'm working out if you'd sink a village.
+Where does the wind go when it stops? Is there a nest for winds?
+What's fire like, up close? Does it really bite? I'm not allowed near the lantern flames.
+If you dig a hole in the ground, what comes out? Worms? Water? Very small walkers?
+Why are walker houses so heavy? Do the walls keep the ground from getting in?
+How many stairs is too many stairs? Is there a top? What's at the top of stairs? More stairs?
+When you jump, you come back down. Every time? Doesn't that get tiresome? Why do you keep doing it?
+What do clouds look like from underneath? Flat? Lumpy? I've only ever seen the tops!
+How do you know which way is up when you're asleep lying down? Do you wake up muddled?
+Can walkers see the stars from under the clouds? Are they the same stars? Are they smaller?
+What's a cave? Ground with a hole in it? Who made the hole? Did they say sorry to the ground?
+
+## baby.cheeky
+Your boots are so loud the koi think it's thunder. Stomp, stomp! I'm only teasing. Mostly.
+Three loops round your head while you weren't looking. Four now. Five!
+Bet I can fly upside down longer than you can stand up. ...Oh. You win. Rematch!
+Walkers are so slow. It's sweet. Like a whale with legs.
+I told the little ones you're secretly a very tall koi. They believed me. Swim for them, go on.
+Dad says I'm cheeky. I say I'm quick. Quick with loops and quick with my mouth.
+If you fall off the edge I'll catch you. Probably. I'll try. I'll wave, at least.
+During the slow bit of the Evensong I tied a harpist's veils in a bow. Don't tell. Do tell. It was a very good bow.
+From up here I can see the top of your head. There's a leaf in your hair. Two leaves. A twig. Is there a whole tree up there?
+Want to know a secret? I'm the best at everything. That's not the secret. The secret is I said it first.
+You walked here? All the way? With your feet? That's the funniest thing I've heard all day.
+I told the Skymerchant that walkers pay double for peaches. Did you pay double? Sorry. A bit.
+Grown-ups say never trust a still day. I say never trust a walker who says they can fly. Can you fly? Ha, I knew it.
+The gardener's got a secret name for the grumpy koi. It's not a nice name. I'll tell you for a peach.
+My loop's better than yours. You haven't got one? Then it's much, much better.
+
+## baby.dreamy
+Sometimes I think the clouds are the sky's thoughts... what was I saying? Oh. Hello.
+I dreamed I was a sky peach and someone was about to eat me, and then I woke up very hungry.
+Do you think the stars are just very far-away lanterns? Who lights them? Do they get tired of flying up?
+When the whales sing, I think the clouds listen. I listen too. I listen like... this...
+A veil made of evening, that's what I'd like. The bit where it goes purple. The weavers say you can't comb purple.
+If I fell asleep on a cloud, would it carry me somewhere? Somewhere with more koi, maybe...
+Round and round the koi went, and my thoughts went round and round with it.
+The moon looked like a peach stone last night. Or the night before. One of the nights.
+I wonder what the ground dreams about. Being up here, I expect. Everyone does.
+Sometimes I sing to the wind. It never sings the same song back twice.
+Mum says I've got my head in the clouds. I said where else would it be? We live here.
+When I'm Lengthened I'll fly so high the sky goes dark blue in the daytime... ooh, a feather.
+Mum's veil has more gold threads than there are stars. I tried to count them and lost count at the bit where it was pretty.
+Do you think the Old Singers remember every cloud they've carried? I'd forget. I forget lots of things.
+I had a thought about rain, but it floated off. It was a very nice thought. It had a rainbow in it.
+
+## baby.fidgety
+Can we talk while I fly in circles? I think better in circles. Even better in loops.
+I've been still for ages. Seven heartbeats. That's my best ever. Now I need eleven loops.
+My veils itch when I stay in one place. Do your feet itch? Walk somewhere! Quick!
+The Evensong's hard for me. You have to hover still for ages. I hover still on the inside.
+Did you see that koi? And that cloud? And that bird? And... what was I telling you?
+I've been to the Cloud Garden, the Loom House, the Lift Dock and back. Twice. Shall we go again?
+Mum says I've got Borre in my veils. That means I can't settle. Borre never settles either.
+Hold this for me. No, I'll hold it. No, put it back. Can we go somewhere?
+I tried to nap in the afternoon. I did nine loops instead. Now I'm very, very awake.
+Quick question! Which koi's your favourite? You haven't met them? I'll bring one! ...I can't bring one.
+I'm in the middle of three games at once: tag, hide and seek, and how far I can spit a peach stone.
+You talk slowly. That's all right! I'll fly round you while you talk. It's like listening twice.
+The weavers won't let me in the Loom House any more. I was only helping. Very fast. Into the cloud baskets.
+My legs keep kicking even when I hover. Dad says they're walking in their sleep. Walking! Me!
+Wait here. No, come with me. No, wait here. I'll be back in a light breeze! A tiny one!
+
+## baby.play
+Tag! I'm it. No, you're it. No, the koi's it. Go!
+Hide and seek! Close your eyes and count to twenty. No peeking! ...Found me already? I was in plain sky.
+Throw a peach stone off the bridge and I'll catch it before it reaches the clouds. Ready? ...Throw!
+Race to the Lantern Spire! I'll go the long way round so it's fair. And I'll still win.
+Koi-chasing! You go round that side of the pool, I'll go round this side, and we'll meet in the middle. Don't fall in!
+Cloud-diving! I go down into the cloud and out the bottom, and you count how long. Don't worry if I'm gone a bit.
+Statues! You'll be good at it. You've got feet. Feet are made for standing still.
+A game for walkers! You walk, and I fly upside down above you and copy everything. Go!
+Echoes! Shout something at the Hall of Echoes and I'll shout it back louder. Ready... go!
+Weather game! I'm Borre and I'm going to blow you over! Whoooo! ...You're very hard to blow over.
+Lantern-tag! Whoever touches the most lanterns before the bell wins. You can only reach the low ones. That's fair, I think.
+Courtesy! You're a walker coming up the Wind Stone and I'm the windkeeper. Fair wind, honoured guest! Now you say something grand.
+Shadow-catch! I fly over and you try to stand on my shadow. Missed! Missed again!
+Stillest wins! I'll lose. I always lose. Start... now. ...I lost.
+Peach thief! I'm the gardener, you're the thief. Sneak! Crouch down low! Oh, you're good at that.
+Bridge-bells! Every time you step on a squeaky plank I ring a pretend bell. Ding! Ding! You've found them all!
+Follow the leader! I'm the leader. Do a loop. ...Well, do a jump, then. A spinny one!
+Lift Dock! You stand still and I'm the wind pushing you up. Hnnnng! You're very heavy wind-work.
+Riddle game! What has two veils and no feet and is the best at loops? Me! Your turn.
+Borre's Coming! When I shout it, everyone hides. Borre's coming! ...You're still standing there!
+Let's make you a nest out of veilcloth scraps. Walkers need nests too. Get in. Not like that! Curl up!
+I'll drop this petal and you catch it before it lands. Walkers are good at things that land.
+I spy with my little eye something beginning with C. Cloud. It's always cloud up here.
+You be a Wind Shrine and I'll leave you presents. Here's a leaf. Here's another leaf. You're a very rich shrine.
+Night-Moths! I'm a night-moth and I'm coming to get you! ...You're supposed to run! Run, walker!
+Let's sing the day UP instead of down! La la LA! See, it's getting brighter. Sort of.
+I'll fly round you as fast as I can and you tell me when you're dizzy. You don't get dizzy? I do!
+Lengthening game! You're the weaver. Pretend to weave my long veils. Pull them out. Longer! Longer!
+Race the koi! Well, you can race the koi's shadow. On the ground. If you can find it.
+I'll be a sky lantern and you be the lamplighter. Light me! Whoosh. I'm glowing. I'm floating off. Bye!
+Whale spotting! First one to see an Old Singer wins a peach. I see... nothing. Keep looking.
+Upside-Down Day! You stand on your head and I'll fly feet first. ...You can't stand on your head? Try!
+Bellkeeper! When I shout "Dawn!" you go "Bong!" Dawn! ...Louder! You're a very quiet bell.
+Cloud shapes! That one's a koi. That one's a nest. That one's you! See the boots?
+Let's find the windiest spot on the islet. Arms out! Feel it? That's {wind}! Say fair wind to it.
+Clap-and-Loop! I clap, you clap, I loop, you... jump. That'll do. Again!
+Play Market with me. I'm the Skymerchant, and everything costs one hug. Or a peach. Hugs are cheaper.
+Sky Scale hunt! Look under the lily pads. Look under the benches. Look under your boot!
+Let's play Keep It Up. We have to keep this feather in the air. Blow! Harder! Walkers blow so well!
+Copy-cat! Everything you do, I do. Walk. ...I'm walking on air! Look! Wave. Jump. Ha, I jumped higher.
+Let's be grown-ups. Ahem. Fair wind, walker, the wind is very windy today, very windy indeed. Your turn to be dull!
+Musical clouds! When I stop humming, you freeze and I freeze. Hmm hmm hmm... stop!
+Treasure hunt! I hid a peach on each of three islets. You'll have to take the bridges. I'll fly beside you and say warmer.
+Rain game! I'm the rain and I'm falling... on you! Pat pat pat. You're wet now. Pretend wet.
+Fly-by! I zoom past as close as I can and you try not to blink. Zoom! You blinked!
+Let's make up a dance for the Evensong. Arms out like this. Spin. Now you do a stamp. The grown-ups will love it.
+Peekaboo is for babies. Let's play Peekacloud. I hide in a cloud and pop out. Peekacloud! Very grown-up.
+Let's sing to the koi until one comes up. You first. ...They're shy. Sing softer.
+Let's play Groundlings. I'll be the walker. Look at me. Clomp. Clomp. Oof, my heavy feet. Is that right?
+A walker game: you lie on your back and tell me what you can see. I'll be the thing you see!
+When the bell rings we both have to be touching something gold. Your boots aren't gold! Quick, find something!
+Peach juggling! I throw, you catch. Don't eat them! Don't eat... you ate one.
+Bubble-koi! Blow out your cheeks like a koi. Bigger. Now swim. You're the best walker-koi I've ever seen.
+Let's play Thunder and Lantern. When I say thunder, hide. When I say lantern, come out. Lantern! Thunder! Thunderlantern!
+Old Singers' choir! Hum the lowest hum you can. Lower. Lower! The bridge is shaking. Is it? It might be.
+Peach-stone skipping! Can you skip it off the cloud tops? It just goes in. Every time. Again!
+Hold your arms out like veils and I'll tow you along by the sleeve. Wheee! Oh. You're not moving. You're very anchored.
+Ring-round-the-lantern! We hold hands and go round. You go round on the ground and I go round in the air. Faster!
+Hide the scale! I hide my Sky Scale and you find it. It's not in my sash. It's not in my sash at all.
+Let's play Who Said It. I say something and you guess, koi or grown-up. "Mind the edge." Grown-up! "Blub." Koi!
+
+## baby.sky
+The sky goes on upward forever. I flew up once until my ears popped, and it still kept going.
+Clouds are softer from underneath. I flew under one. It's like a ceiling made of breath.
+When it rains, I watch the drops fall past the village. They never stop to say hello.
+Our stars are bigger than walker stars, because they're closer. Probably.
+I saw an Old Singer once. It was so big I couldn't see both ends at once. The little clouds on its back waved at me.
+Dad says the whales herd the clouds. If I herded clouds, I'd make them all into koi.
+Aure, Sefa, Vell and Borre. Borre's my favourite. Don't tell anyone, Borre's the naughty one.
+Some days the sky's so blue you could drink it. I tried. You can't.
+A rainbow came out under the village once. Under! I looked down on it. Walkers only ever see them from underneath, I suppose.
+I want to fly up to the moon and knock on it. Gently. In case it's sleeping.
+When the sun goes down, the clouds under us go pink and gold, like the tips of my veils.
+The sky's got bumps in it. Air bumps. You fly through one and your insides go hup!
+Aure brings the dew. In the morning my veils are all sparkly with it, like I've been sugared.
+Vell carries the songs. When I sing in the evening, it's Vell who takes my song off to the other villages.
+When Borre's coming, the bell does the long peal and everybody hurries home. Even the koi hide.
+Sefa is warm and lazy and makes the peaches smell twice as peachy. Sefa days are slow-loop days.
+There are other villages in the sky! Far, far off. At night I can see their lanterns, tiny as glow berries.
+I think the Cloud Koi were little clouds once that learned to swim.
+Falling stars are just stars that tried a loop and couldn't hold it. Like me, my first go.
+Up top, the sky's bluer than down low. I can tell. I've been in both.
+Thunderclouds look like big grey whales, but they don't sing. They grumble.
+My veils are woven from cirrus. That's the highest cloud there is. So a bit of me is the very top of the sky.
+Inside a cloud it's all white and wet and quiet, and you can't even see your own feet. Not that I use them.
+The sky is wide enough for everyone, the grown-ups say. Even walkers. Even very wide walkers.
+When there's no wind at all, everyone gets twitchy. Never trust a still day. I don't even trust a still minute.
+The best bit of the sky is just under the clouds, where walkers can't see you. Shh.
+I followed a feather all the way down to the cloud tops once. Mum had to come and fetch me.
+Night sky's the best sky. The lanterns come on and the stars come on, and it's like being inside a jar of glow berries.
+The sky's got layers, like a peach. The warm bit, then the windy bit, then the cold high bit where you shiver.
+When the whales sing it goes right through you. Your veils shiver. I think weather is just whale song you can see.
+From the top of the Lantern Spire I can see the edge of the world curving. Or a hill. It might be a hill.
+When people go up past the blue, they become part of the sky. So the sky's full of old Cirri. That's why it's so wise.
+Under the village the clouds are a floor that isn't. You can see the green through the gaps.
+I like watching cloud shadows crawl over the ground. They're the only things down there faster than walkers.
+A bird flew right under me today. I looked down at it. It looked up at me. We were both very surprised.
+Above the great lantern on the Spire, that's the highest I've ever been. It was cold and I was very proud.
+Thunder sounds closer up here because it is closer. That's the worst thing about the sky.
+Morning sky is pink, noon sky is blue, evening sky is gold, and night sky is every colour pretending to be black.
+Sometimes a little cloud gets caught on our islet. I let it stay. It's a guest. That's the Courtesy.
+The moon's the same moon over every village. I asked {friend}. We checked at the same time.
+I'm saving a flower for the Wind Shrine. It's for {wind}, because {wind} has the sky today and was nice to me.
+The Old Singers carry little clouds on their backs. I'm small enough to ride on one. Nobody will let me.
+When it snows, the snow starts above us and falls past us. I catch the flakes before the walkers get them. Sorry.
+The best thing in the sky is shooting through a cloud fast and coming out the other side all damp and shiny.
+If the sky had a door, I'd knock and say fair wind and ask to see the stars getting ready.
+
+## baby.ground
+Have you really touched the ground? With your actual feet? Is it warm? Does it tickle?
+I think the ground is soft like a cushion and walkers bounce a little at every step. Do you bounce?
+{friend} says the ground goes all the way down to the bottom of the world. What's under the bottom?
+Is the ground the same everywhere, or are there squashy bits? I'd want the squashy bits.
+I've never touched the ground. Not even a toe. One day I might. With a very long stick.
+Does the ground move? It looks still, but things that look still are always up to something.
+Do walkers get stuck to the ground? Is that why you can't fly? Is it like honey?
+The ground is where the rain goes when it's finished. It must be very wet down there. Do you have to wring your feet out?
+Fire lives in the ground, I heard. Do you have to keep stepping so your feet don't get hot?
+If I touched the ground, would I be grounded forever? Mum says no. Mum's never tried it.
+What colour is the ground up close? From here it's green and brown and sometimes white. Is it stripy?
+I bet the ground smells like the inside of a flower pot.
+What do worms do all day? Are they sad they can't fly? Are you?
+How do you know where the ground stops and the sea starts? Do you just fall in?
+Walkers live on the ground so they don't fall off. But what if the ground falls off?
+I dropped a peach once and it went all the way down. Did you find it? It was a good one.
+Trees just stand there on the ground. Like walkers! Are trees walkers that stopped?
+The ground has holes in it called caves. What's in the holes? More ground? Ground that's hiding?
+Is it true the ground's so big you can walk for days and not reach the end? Days! On feet!
+If I touched the ground I'd feel heavy, I think. Like after eleven peaches.
+From up here the ground looks like a quilt. Is it stitched? Who stitched it?
+Do walker houses sit right on the ground? Doesn't the ground mind them sitting there?
+Does the ground make noises? Grown-ups say it rumbles sometimes. Is it hungry?
+The bell-villages down there have iron bells and stone houses, and they don't sink, because the ground holds them up. Clever ground.
+Do you sleep right on the ground? Flat on it? Do the worms tuck you in?
+Do walker babies fall over? We never fall over. We fall down sometimes, but never over.
+The ground's where all the heavy things go. Bells and stones and walkers. No offence.
+If I ever went down to the ground, I'd take a peach, in case it was hungry.
+Is mud the ground melting? Does it turn back into ground afterwards?
+Our bridges go squeak. What noise does the ground make when you walk on it? Thump? Crunch? Hello?
+I saw sheep down there once. They looked like little clouds that fell down. Did they hurt themselves?
+The ground holds everyone up all day long. I said thank you to it once. Loudly. From here.
+Is it dark under the ground? Darker than night? Do they have lanterns under there?
+If there's a ground at the bottom, is there a ceiling at the top? Who walks on that?
+I think the ground is just a very big, very slow cloud that got tired and lay down.
+Water down there stays still in big puddles called seas. Up here water never stays anywhere. It's much better behaved on the ground.
+Does sand taste like sugar? It looks like sugar. Somebody should check. You check.
+What's a hill? Is it ground that's trying to fly?
+Snow lands on the ground and just stays there? Doesn't it want to go anywhere?
+Our islets have roots hanging out of the bottom. I think they're reaching for the ground. I think they miss it.
+Do you ever wish the ground would let go of you? Just for a bit? I'd wish that, if I were you.
+Is the ground hard or soft? Both? It can't be both. ...It can? The ground is very confusing.
+When walkers dig a hole, does the ground grow back over it? Or is there a hole forever?
+Grown-ups say walkers are sturdy. I think it's because the ground pushes back on you all day, like a hug that never stops.
+A walker told me the ground goes all the way down to a place made of fire. I'm never going there. Not even for a whale.
+
+## baby.song
+'Koi, koi, round you go, fast as Sefa, slow as snow.' I made that up. Snow isn't slow, really, but it rhymes.
+'Aure in the morning, Vell at night, keep your veil whole and your heart light.' Half of it's mine and half's the grown-ups'.
+'Walker, walker, heavy feet, stomp across the bridge and squeak!' Don't be sad, it's a nice song. The squeak's the best bit.
+'One loop, two loops, three loops, four, Mum says no more, so I do one more.' That one's true.
+'Borre, Borre, go away, come back on a sunny day.' We sing it when the bell does the long peal.
+'Little cloud upon the whale, where are you going? Tell the tale!' The whales never answer. They're busy.
+'Ding dong, the bellkeeper's late, the dawn's come early and has to wait.' Don't sing it near the Bell Pagoda.
+'Lantern, lantern, up so high, you're the littlest star in the sky.' I sing it to the sky lanterns so they don't feel small.
+'Lengthen me, lengthen me, weave my veils as long as the sky!' It doesn't rhyme yet. It's not finished. Neither am I.
+'Who's the fastest in the sky? Not the whale and not the fly. ME!' You have to shout the me.
+'Honey's slow and peaches sweet, glow berries are the night-time treat.' The gardener taught me. I added the night bit.
+'Hush, little koi, the thunder's away, Borre's gone off to grumble and play.' Mum hums it in storms. I sing it to the koi.
+'Fair wind here and fair wind there, fair wind tangled in my hair!' I sing it when my veils blow in my face.
+'Ground, ground, way down low, what you're like I'll never know.' It's a sad one. I sing it fast so it isn't.
+'One for Aure, one for Sefa, one for Vell and one for Borre... Borre, sorry!' Borre's hard to rhyme, so I say sorry.
+'Old Singer, Old Singer, hum me a cloud, a small one, a soft one, not one that's loud.' It hasn't hummed me one yet.
+'Up past the koi, up past the bell, up past the Spire, and I'm up there as well!' You sing it higher and higher. Your voice too.
+'Mend my veil with moth and thread, then off to the nest and off to bed.' The weavers sing it. I sing it faster.
+'Dawn, dawn, the comb goes through, cirrus white and cirrus blue.' It's the weavers' song. I'm allowed to borrow it.
+'Raindrops falling past my nose, where they're going, nobody knows.' Walkers know. Where do they go? On you?
+'Sky peach, sky peach, soft and round, please don't fall down to the ground!' I sing it to the peaches on the tree. So far it's working.
+'Whale goes by and the sky goes hum, koi go round and here I come!' That's my going-somewhere song.
+'Never trust a still, still day, the wind's just hiding round the bay.' What's a bay? I don't know. It rhymed.
+'Clap for the morning, clap for the bell, clap for the walker who walks so well!' That's for you. Take a bow. A walker bow.
+'Hop, skip, loop the loop, catch a cloud in a honey scoop.' A honey scoop is the spoon thing. It goes very sticky in a cloud.
+'Sing the day down, gold and red, the sun's going under the clouds to bed.' The sun sleeps under the clouds. It's always there in the morning, so it must.
+'Sky Scale, Sky Scale, shiny and small, I'll find you one day if I look at all.' I've looked at all. Not yet.
+'Thunder's loud but the nest is warm, I'm not afraid of a silly old storm.' I am. A bit. The song helps.
+'Glow berry, glow berry, light up my nose, now I can see where everybody goes.' You eat one and pretend your nose glows. It doesn't. It should.
+'Lift me, Wind Stone, lift me high, bring me a walker up to the sky!' I sang it at the Lift Dock, and then you came! Eventually.
+
+## baby.song.night
+'Curl up small, curl up tight, cushion below and stars alight.' ...That's the whole song. I'm too sleepy for another verse.
+'Hush now, veils, stop your flutter, the moon's come up like a pat of butter.' Dad says butter's a walker food. Is it yellow? Is it round?
+'Lantern low and lantern dim, the night-moths can't get in.' Mum sings it. Then I check under the cushion anyway.
+'Goodnight, Aure, goodnight, Sefa, goodnight, Vell, goodnight...' Mm. I forgot the last one. The cold one. Night.
+'Sleep, little cloud, float, little cloud...' I can't remember the rest. Oh, I'm yawning in the middle of it.
+'The koi are asleep in the pool, the bell is asleep in the tower...' Shh. Now I'm meant to be asleep too.
+'Over the cushion, under the stars, no one's as sleepy as we are.' I'm not sleepy. I'm only singing about sleepy.
+'Hum, hum, the whale goes by, carrying dreams across the sky.' Mum says the whales bring the dreams. Mine had peaches in it.
+'One last loop and then to bed...' Can I do the loop? Just the one? There. That was it. Night.
+'Soft as cirrus, light as down, sleep up high and never come down.' The grown-ups sing it to babies. I'm not a baby. I still like it.
+'Hush-a-bye, the bell's asleep, the gardener's counting koi like sheep.' Walkers count sheep, Dad says. I count koi. I get to four.
+'Moon, moon, look at me, sleeping as high as high can be.' The {moon} looked. I saw it look.
+'Vell takes the songs and carries them far, past every lantern and every star.' Will Vell carry mine? It's very small. I'm singing it small.
+'Drift, drift, drift...' Did I fall asleep? I think I fell asleep in the air for a bit. That's allowed.
+'Night-night, nest, night-night, peach, night-night everything I can reach.' Then you touch everything. I can reach a lot.
+
+## baby.secret
+Promise not to tell? The koi with the bent fin is my favourite. It's slower than the others, so I always beat it in races. That's not why. That's a bit why.
+The long peal of the bell scares me. Not anything else. Just that. That's the secret.
+There's a sky peach right at the top of the tallest skywood tree that nobody's noticed. It's mine. I'm waiting for it to be perfect.
+The bellkeeper hums when nobody's listening. Very badly. I listen.
+The windkeeper falls asleep in the wind column sometimes. Just floating up and down, snoring. I've seen it.
+The weavers keep a basket of the very softest cloud for Lengthenings. I touched it once. With one finger.
+{friend} can't do a loop yet. They do a turn and shout "loop!" Don't say anything.
+Once, in the snow, I licked the bridge rail and stuck to it. Mum doesn't know. I got unstuck by myself. Mostly.
+There's a gap under the Market Pavilion where you can hide and hear everything the Skymerchant says to walkers. They say "splendid" a lot.
+My veil's got a little tear at the tip. I hide it in my sash. If the weavers find it they'll mend it with night-moth.
+When I'm Lengthened I'm going to ask for one more gold thread than anybody else. Just one. Nobody will notice.
+It's not the dark that scares me. It's what the dark might be thinking.
+Grown-ups think we're all asleep by the end of the Evensong. Some of us are. I just shut my eyes and listen to the low notes.
+The lamplighter lets me light one lantern every evening. The little one by the koi pool. That's my lantern.
+Dad can't reach the high part of the Evensong. Dad just opens and shuts and hopes. I've seen.
+There's a little cloud that keeps coming back to our islet. I call it Wisp. I think it comes back for me.
+There's a honeycomb hidden in a basket in the Loom House. I put it there a while ago. It might be a problem now.
+The koi in the far pool have a leader. It's the white one with the gold patch. It told me. Not with words.
+When I fly very high on my own, I shout my name at the sky. It never shouts back, but I like it.
+Mum and Dad still hold veil-tips at the Evensong. They think nobody sees. Everybody sees.
+Under my cushion there's a pot of shiny things. Three buttons, a scale off a koi and a walker's key. Is it your key?
+There's a Wind Shrine nobody else knows about. Far away. I'll show you when we're Veil-Kin.
+Sometimes I eat a glow berry under my cushion at night so my nest glows.
+The gardener talks to the skywood trees. I asked what the trees say back. "Patience," apparently.
+Everybody wants to be a harpist. Not me. I want to be a windkeeper. I haven't told anyone. Now I've told you.
+One of the Old Singers winked at me. Nobody believes whales can wink, so now it's a secret.
+Nobody's as brave as they say. That's the real secret. Everyone's a bit pretend.
+The Skymerchant keeps a special peach behind the lanterns. I know because I had a bite. A small one.
+When the grown-ups talk about the Ruined Belltowers they go quiet. I think somebody's great-great-somebody lived there.
+I practise walking. In the air. Like this. One, two. It's very hard. Don't tell anyone a Cirri was walking.
+My first word was "peach". Mum says it was "Mum". It was peach.
+The bell's got a crack, a tiny one, on the inside. The bellkeeper says it makes it sing truer. I'm the only child who knows.
+Sometimes I fly under the islet and hang off the roots. You can see everything from under there. I'm not supposed to.
+I've got a secret name for you. A nice one. Mostly nice. I'll tell you when you've earned it.
+I'm the one who let the koi into the wrong pool. It was an accident. A big accident. They seem happy.
+If you put your ear to the harp when nobody's playing, you can hear the wind thinking.
+{neighbour} sings to their peaches to make them sweeter. It works. I've tried them. Several times.
+I mix up the winds sometimes. So I just say fair wind to all of them and hope.
+Don't tell the grown-ups, but I think walkers are the most interesting thing in the sky. More than whales. Nearly.
+I told the little ones the bell is alive. It's not. It might be.
+
+## baby.family
+Our nest is the one with rose veilcloth over the door. Not that we use the door. That's for you.
+There's Mum, Dad, me and the koi cushion in our nest. The koi cushion counts. It's family.
+At night we all curl up in the air over our cushions. Dad snores, Mum hums, and I count both.
+When I'm Lengthened I'll still sleep in our nest. Until I'm very grown. Then nearby. Then probably still in it.
+Our nest smells of peaches and veilcloth. Every nest smells a bit different. Ours is the best.
+Mum and Dad met at an Evensong when their veils got tangled. That's the whole story. They tell it every single time.
+My family's been in {village} since forever. Since before the bell, Dad says. That's very forever.
+In our nest, whoever wakes first opens the round window and says good morning to the wind.
+We sing the Evensong in a row, all of us. I'm in the middle so I don't drift.
+Mum says I've got Dad's laugh and Mum's veils. My loops are my own, though. Nobody gave me those.
+My grandparents went up past the blue before I was born. Mum says they're in the high wind now. I wave at it.
+When there's thunder, the whole family squashes into the nest and hums. It gets warm, but nobody minds.
+Every morning Mum and Dad say "fair wind" to me like I'm a guest. I say it back like I'm a guest too.
+Every family has its own song. Ours goes hmm-hmm-hmmmm. How it ends is a family secret.
+I've got a cousin in a village far away. We've never met. I wave at their lanterns, in case.
+I'm the littlest in my nest, so I get the last peach. The last one's always the ripest. Being littlest is good.
+Families keep their old veil scraps in a box. Ours has a bit of everyone. Mine are the shortest.
+When Mum and Dad are busy, the whole village keeps an eye on me. That's how it works up here. Everyone's a bit everyone's.
+Our nest's on the windiest islet. Dad says it keeps us lively. Mum says it keeps us awake.
+If I'm not home by the dusk bell, Mum calls my name across the whole village. That's why everyone knows my name.
+Do walkers have nests? Have you got a Mum and Dad? Do they worry about you coming up here?
+Our nest is very messy. Mum says nests are meant to be messy. Dad says not that messy.
+My family all have jobs. Mine's being the child. It's a very busy job.
+Breakfast in our nest is peaches, in the air. Then more peaches. Sometimes berries, for a change.
+There might be a baby in our nest one day. I'm going to teach it everything. Loops first. Then manners.
+
+## baby.family.mum
+Mum's name is {mother}. Everyone knows {mother}, and {mother} knows everyone. It takes ages to get anywhere.
+{mother} can do the slowest, most beautiful turn in the sky. Everyone stops to watch. I'm going to learn it.
+If you see {mother}, don't say I was near the edge. {mother} has very good ears and very long veils.
+Every dawn {mother} combs my veils. They're still short, but they're the tidiest short veils in {village}.
+When {mother}'s cross, there's humming. When {mother}'s happy, there's singing. Today it's been humming. I'd better be good.
+When I had a bad dream, {mother} said the whales would carry it off on their backs. They did.
+I was born at dawn while Aure was blowing, {mother} says. That's why I'm always awake so early.
+Nobody makes honey peaches like {mother}. No cooking. Just peaches with honey. That's the whole recipe.
+{mother} says I'm the light of the nest. {mother} also says I'm the noise of the nest. I think I'm both.
+{mother} lets me ride on the end of a veil when we fly home. It's like being a little cloud on a whale.
+When I was a baby I tried to eat my own veil, {mother} says. I don't believe it. I believe it a little.
+If you want {mother} to like you, bring flowers. Any flowers. Even ground ones. Especially ground ones.
+When the bell does the long peal, {mother} pulls me close and hums. I pretend it's for me. I think it's for both of us.
+{mother} always finds me. I hid inside a cloud once and {mother} just said "{name}, out." Like that. Out.
+One day I'll be as tall as {mother}. Then taller. Then I'll comb {mother}'s veils for a change.
+
+## baby.family.dad
+Dad's name is {father}. {father} can whistle with no hands. Dad says that's not a trick. It is.
+Nobody in {village} tells worse jokes than {father}. What do you call a koi with no fins? I don't know. {father} never finishes it.
+{father} took me out to see an Old Singer once. We flew beside it till my veils went cold. I'm not allowed to tell Mum how far.
+Every night {father} snores like the long peal of the bell. The koi wake up.
+When I'm tired, {father} lets me hold a veil and tows me home like a little boat. What's a boat? A walker thing, {father} says.
+The first time I flew, I went backwards, straight into the koi pool. {father} laughed for a whole day.
+{father} is brave about everything except night-moths. When one comes, {father} waves a cushion at it.
+If you ask {father} about the big storm, you'll be there till dawn. It gets bigger every time.
+The low part of the Evensong is what {father}'s teaching me. I go "hmmm" and it comes out "meep".
+Once I fell asleep at the Evensong and started drifting off, and {father} caught me by the veil like a kite.
+Peach stones are for planting, {father} says, so we plant them. None have grown. Skywood is patient, apparently. I'm not.
+{father} says I've got the fastest veils in the nest. Mum says that's only so I'll fly to bed fast.
+{father} and I have a secret signal. Two waves and a loop means "I'm all right." One wave means "peach, please."
+When {father} laughs, both veils shake. I make {father} laugh on purpose so I can watch.
+{father} is the best at hide and seek. I've never found {father}. Mum says that's because {father} goes home to nap.
+
+## baby.weather.clear
+Not a cloud above us. They're all underneath, like a big white floor. Perfect for loops.
+On days this clear you can see right down to the ground. I waved at a cow. It didn't wave back.
+Clear days make the koi sparkle. I'll find a Sky Scale today. I can feel it in my veils.
+The sun's so bright on the clouds below you have to squint. I'm squinting at you. Hello.
+The bellkeeper says fine days are for flying far. I'm only allowed to fly medium.
+It's so bright my veils have gone see-through. Look, you can see your boots through them!
+Not even a wisp up top. {wind} is being gentle today. On gentle days you can hear the koi blowing bubbles.
+On sunny days I lie on my back in the air and let the sun warm my belly. Like a very long, very flat koi.
+
+## baby.weather.rain
+The rain's falling past us. Look, it goes right by, all the way down to the walkers. Sorry, walkers.
+I fly up into the rain and catch drops on my tongue. They taste of high places.
+Rain makes my veils heavy. I have to fly low and slow, like an old whale.
+Mum says I'm not to fly in the rain or I'll get soggy. I'm already soggy, so I might as well.
+When it rains the koi go silly. They leap up after the drops, and I leap up after the koi.
+The bridges go slippy in the rain. Not for me. For you! Careful, groundling.
+Rain on the veilcloth awnings goes pitter-pat. It's the Loom House singing. It doesn't know the words.
+Everyone's gone in except me and the koi. The rain's ours now.
+
+## baby.weather.thunder
+Did you hear that? That was thunder. I'm not scared. I'm only holding your sleeve so you're not.
+Borre's grumbling. I have to stay near the nest. Can you stay near the nest too? Just a bit?
+The lightning lit the whole cloud below us. It looked like a lantern that got cross.
+When it thunders the whole village hums. If you hum too, the thunder can't get into your ears. Try it.
+I counted between the flash and the boom. I got to two. That's close. That's very close. Hmmmm.
+The bell did the long peal and everyone's in their nests, and I'm still here. I should go. Soon. In a light breeze.
+The Old Singers don't sing thunder. Thunder's what happens when the weather gets cross because nobody's listening.
+Lightning's the thing the sky's most scared of. Then fire. Then fireworks. Lightning's the worst one.
+
+## baby.weather.snow
+Snow! It's coming down past us like feathers. One landed on my nose and went away.
+Snowflakes are bigger up here, because they haven't been squashed by falling yet.
+My veils have gone all frosty. If I shake them it snows a little bit off me. Look! I'm weather!
+Do your feet get cold in snow? Feet are a bad idea in snow. You should fly.
+The koi pool's got a skin of ice on top. The koi are underneath, looking up, all puzzled.
+There's snow on the Lantern Spire. The lantern looks like it's wearing a little cloud for a hat.
+I made a snow-koi on the bridge rail. It's got two berry eyes. It's watching you.
+When it snows, the whole sky goes quiet. Even the wind whispers. Snow's the hush weather.
+
+## baby.time.dawn
+The bell's rung! That means dawn, which means I'm meant to be getting up, and I am. I'm up. Mostly.
+Aure's out, and everything's damp and pink. My veils are full of dew. I'm all sparkles.
+The weavers are out combing cirrus already. They go before the sun to get the soft bit. I came to watch.
+Dawn's the best because nobody's used the sky yet. It's all fresh.
+It's so early the koi are still sleepy. I tickled one. It only blinked.
+Look, the clouds under us are going gold underneath. Dawn starts at the bottom of the clouds and works its way up.
+
+## baby.time.morning
+Morning's for flying fast before the grown-ups need me for anything.
+I've had two peaches and a berry for breakfast. And a flower. The flower was a mistake.
+The gardener feeds the koi in the morning. If you're quick you can get there first and pretend you fed them.
+The Market Pavilion's open! The Skymerchant always says good morning to me like I'm a walker with emeralds.
+Everyone's busy in the morning, so it's the best time for hiding. Nobody's looking.
+The harps are tuning up for the day's wind. It sounds like a koi gargling.
+
+## baby.time.noon
+Noon! The sun's right on top of us. My shadow's hiding under me like a shy koi.
+Middle of the day means lunch. In the air. With peaches. Again.
+At noon the clouds below go so bright you can't look at them. Walkers have it easy. They're in the shade.
+Everybody rests at noon except me. I'm too full of loops to rest.
+Noon's when Sefa likes to blow, on Sefa days. Warm and lazy. I get lazy at noon too.
+Half the day's gone already! I haven't done half my plans. I've done one. It was a loop.
+
+## baby.time.afternoon
+Afternoons are long and slow. The koi swim slower, I fly slower, even the clouds go slower.
+In the afternoon the light goes golden and my veils look like they've been dipped in honey.
+I've been playing since lunch. I'm not tired. My veils are tired. Look, they're drooping.
+In the afternoon the grown-ups have little naps in the air. You can hear them breathing from the bridges.
+Is it afternoon already? The day goes so fast up here. Is it slower on the ground? It looks slower.
+The afternoon wind's the best for kites, Dad says. Kites are walker things. Little Cirri on strings!
+
+## baby.time.evening
+The sky's going gold and pink. Those are the Evensong's colours. We'll be singing soon!
+The lamplighter's lighting the lanterns. I count them as they come on. One... two... ninety.
+Vell's bringing in the songs from the other villages. If you listen hard, you can hear them.
+The dusk bell! Everyone's coming to the Veil Court. Are you coming? You can just stand. Standing counts.
+I'm not tired. I'm only yawning because it's evening and everybody else is.
+In the evening the koi go to the bottom of the pool in a ring. Like their own little Evensong.
+
+## baby.time.night
+I'm meant to be in my nest. I am in my nest. Nearly. It's just over there.
+The stars are out! More than last night. Or the same. I always lose count after the bright ones.
+At night the clouds below go silver and the ground goes dark. Are you scared down there at night? I would be.
+Night-time is night-moth time. Stay near a lantern. I'll stay near you. You're near a lantern.
+Shh. Everybody's asleep in the air. Look, you can see the veils going up and down with the breathing.
+The {moon}'s out. I'm not supposed to be. Don't tell the moon.
+
+## baby.time.late
+It's so late. The lanterns are going sleepy. I'm not. My eyes are. My eyes are going sleepy.
+Everyone's asleep. Even the koi. Even the bell. Even the wind, nearly.
+Why are you awake? Walkers sleep lying down. Can't you find somewhere flat?
+I woke up and couldn't get back to sleep for thinking about whales. Big ones. Bigger ones.
+I'm very, very not tired. That was a yawn. It doesn't count.
+It's the middle of the night! I've never been up this late. What happens now? Is there anything good?
+
+## baby.routine.play
+I'm in the middle of a game! I'm hiding. You've just told everyone where I am by talking to me.
+We're playing koi-tag and I'm the koi. You can't catch a koi. Nobody can. Not even the gardener.
+What was the game? I've been playing so long I've forgotten. Tag, I think. Or Whales.
+I'm winning! I don't know at what yet, but I'm winning.
+Playing is serious business. Tag has rules. They're mostly about who's fastest. Me.
+You can play too, but you have to do the counting. Walkers are very good at counting, everyone says.
+Shh, I'm hiding from {friend}. Talk quietly. Talk like a cloud.
+Round the Bell is a game where you loop the Bell Pagoda. I just won it. There wasn't anybody else.
+
+## baby.routine.follow
+I'm following Mum. Mum's going somewhere important. I don't know where. That's why I'm following.
+Keep close to Mum's veils, that's the rule. Look, they're just there. I can still see them. Mostly.
+Mum flies so fast! Short veils can't keep up. After my Lengthening I'll be the one in front.
+Hello! I can't stop, I'm following. Well, I can stop a bit. Mum stops to talk to everybody anyway.
+Wherever Mum goes, I go. That's the rule till I'm grown. Then I'll go wherever I like, and Mum can follow me. Ha!
+Mum needs help today. I'm helping by being nearby. That's my whole job.
+Mum's talking to the gardener. They'll be ages. Grown-up talk is very long.
+I'm flying in Mum's slipstream. The wind's easier there. It's like being carried.
+
+## baby.routine.evensong
+It's the Evensong! Shh, you have to sing. Walkers can sing, can't they? Hum, then. Humming's allowed.
+I'm in the children's row at the Evensong. We do the high bits. The grown-ups do the long bits.
+Sing the day down! That's what we do. Look, the sun's going. It's working!
+I'm not singing this bit because I'm talking to you. That's allowed. It's a rest.
+The harpists lead and we follow. I follow very loudly.
+When we all sing together my veils shiver. Can you feel it in your feet?
+At the end, everyone holds the last note until the bell. I can hold it for ages. Watch. Hmmmmm... ages!
+Shh! This is the slow part. I always nearly fall asleep in the slow part.
+
+## baby.routine.shelter
+I'm in the nest because of the thunder. You can come in. Duck your head. Walkers are tall.
+Mum's humming to keep the thunder out. It's working. Mostly. Hum with us?
+We have to stay in till the storm's gone. I'm counting cushions. There are four. Still four.
+I'm not hiding. I'm sheltering. That's different. Sheltering is brave.
+Is it scary on the ground in a storm too? Or does the ground hold on to you so the lightning can't find you?
+The nest smells of peaches and warm cloud. It's the best place to be in a storm. Under the cushion's even better.
+When the thunder's right on top of us, I put my veils over my ears. They're short, but they help.
+We stay here till Borre's finished. Borre always finishes, Dad says. Eventually.
+
+## baby.routine.idle
+Doing nothing is my favourite thing. It's harder than it looks.
+I was just hovering here thinking about peaches. Now I'm thinking about you. And peaches.
+Something was bound to happen if I waited long enough. Then you happened! Good.
+The koi are asleep, the grown-ups are busy and the clouds aren't doing anything interesting. I'm so bored.
+I was practising hovering really, really still. You've spoiled it by being interesting.
+Floating about is a real thing to do. Ask anyone. It's what I've been doing all day.
+That cloud was about to turn into something. Then I looked at you. Now I'll never know what.
+I had nothing to do, and now I've got you to talk to. That's much better than nothing.
+
+## baby.village.whale
+A whale! A whale! An Old Singer! Can you hear it? It's humming. It's humming at us!
+The whale's got three little clouds on its back today. One of them looks like a peach.
+A whale's a blessing, Mum says. I'm going to fly out and say fair wind to it. Close-ish.
+Shh! If you listen hard you can hear the whale singing the weather. That bit's rain. I think.
+I want to ride on its back with the little clouds. Mum says not till I'm Lengthened.
+The whale's so big it makes its own wind. My veils go all ripply when it swims past.
+Do you have whales on the ground? Big ones? Do they sing? Ours sing.
+I sang back to the whale and it hummed lower. That means it heard. Dad says it didn't. It did.
+
+## baby.village.koi
+Look at the koi! That one's the cheekiest. It nibbles my veils.
+The gardener counts the koi every morning. I count them every afternoon. We never get the same number.
+Koi swim so wiggly. I fly straight. I've been trying to learn the wiggle. It's very hard with short veils.
+If a koi sheds a scale near you, that's luck. I've been waiting here ages. Nothing yet. Any moment.
+The koi always come when I hum. Or when the gardener has food. Mostly the food.
+The gold one's my favourite. Don't tell the others. They get jealous. You can tell by their fins.
+I'm not chasing them. Look, I'm hovering very politely. They just keep swimming away.
+Do koi sleep? With their eyes open? That one's staring at me. Is it asleep?
+
+## baby.village.children
+That's my best friend over there. We're having a race later. Don't tell anyone, it's a surprise race.
+All the children are out! We're playing Old Singers. Want to be the whale? You'd be good at it.
+The little ones always want to play with the big ones. I'm a big one. Well, a middle one.
+We're a gang. A loop gang. We do loops. That's all we do. It's a very good gang.
+Shh, the others are hiding and I'm counting. Seven... eight... I lost count talking to you.
+We're all getting Lengthened one day. Then we'll be grown-ups. We've all promised not to be boring.
+Everyone's showing off for you. Look, they're all doing loops now. Mine was better.
+The little ones think walkers are giants. I told them you're only a medium giant.
+
+## baby.village.harp
+That's a wind harp. When the wind goes through it, it plays all by itself. Like the wind is singing.
+The harp's tuned to {wind} today. The harpist does it every morning. It sounds different every day.
+I'm not allowed to touch the harp strings. I can blow on them, though. That's not touching.
+Stand right by the harp and the music goes through your feet. Feel it? I bet walkers feel it more.
+I can play one note on the harp. Just one. It's a very good note.
+The harp's humming! That means the wind's happy. When it whines, the wind's grumpy.
+When I'm grown I'm going to play the harp at the Evensong. Or ring the bell. Or both at once.
+The harpists can make the harp sound like a whale. I tried. It sounded like a koi with hiccups.
+
+## baby.village.evensong
+The Evensong's starting! Come and sing! Everyone's coming!
+I love the Evensong. Everyone sings and the sky goes gold and then it's bedtime. I don't love that bit.
+Look, everyone's gathering over the Veil Court. The harps are going. It's the best bit of the day.
+You can sing with us. Nobody minds if you're out of tune. The grown-ups are, sometimes.
+At my first Evensong I sang the wrong song the whole way through. Nobody noticed except Dad.
+When the Evensong ends, the sky's gone dark and the lanterns are lit. It's like the song did it.
+I sing loudest when the Evensong's for someone who's gone up past the blue. So they can hear.
+Vell carries the Evensong to the other villages. Somewhere far away a child's hearing me right now.
+
+## baby.held
+Ooh, your {item}! Can it fly? Everything should be able to fly.
+What's your {item} for? Is it a walker thing? Show me how it works!
+Can I hold your {item}? I'll be careful. I'll use both hands. And my veils.
+Is your {item} heavy? Don't drop it off the edge. Villages have sunk for less.
+I've never seen anything like your {item}. Where did you get it? The ground?
+Your {item} looks very important. Is it important? It looks important.
+If I had your {item} I'd show everybody, and then I'd hide it in my nest.
+Does your {item} smell like the ground? Can I sniff it? ...It does! A bit!
+I'll swap you a peach for your {item}. Two peaches. A peach and a half.
+Mum says not to grab walkers' things. I'm not grabbing. I'm just looking at your {item} very hard.
+That {item} is the best thing I've seen all day. Apart from the whale. And you.
+Everything from the ground is so solid. Your {item} looks like it would sink through a cloud. Plop. Gone.
+What does your {item} do? Does it do tricks? Make it do a trick!
+Don't let your {item} near the koi pool. The gardener gets cross about things in the pool.
+When I'm grown I'll have one just like your {item}. Only lighter. Everything up here has to be lighter.
+Does your {item} have a name? I'd give it a name. Something brave.
+You carry your {item} everywhere? Even up the Wind Stone? Your arms must be very strong.
+Is your {item} a present? For me? ...No? Could it be, one day?
+Hold your {item} up so the koi can see. They like looking at new things.
+Grown-ups would say your {item} is walker business. I say it's everyone's business. What is it?
+
+## baby.player.hurt
+You're hurt! Does it sting? I'll blow on it. Fooo. Better?
+Oh no, what happened? Did the ground bite you? I always knew the ground bit.
+You've got a scrape! The gardener has salve for scraped koi. It might work on scraped walkers. Go and ask!
+Are you all right? Walkers are sturdy, everyone says. You don't look very sturdy just now.
+Sit down. Oh, you can sit! Sit down, and I'll hover over you like a little cloud of shade.
+Have a peach. Peaches fix most things. Not big things. Medium things.
+
+## baby.player.wet
+You're soaking! Did a cloud fall on you? That happens to me all the time.
+Ha! You're dripping on the bridge. Drip, drip. The koi think it's raining.
+Shake like a koi! Like this! ...Walkers don't shake? You should. It's very good.
+You're as wet as me after cloud-diving. Did you dive? From where? Not from here, I hope.
+You'll catch a cold, Mum would say. I've never known what you catch. Something wet, I think.
+Stand where the wind's blowing and hold your arms out. It'll dry you like a veil on the line.
+
+## baby.player.elytra
+Are those borrowed wings? Elly-tra? Can you really fly in them? Show me! Show me!
+You've got walker wings! They're very stiff. Mine are floaty. Yours are sort of crunchy.
+Dad says walkers with wings are the bravest walkers of all, and the worst at landing. Is that true?
+Your wings look like a beetle's. A very big beetle. A beetle-walker! Can I touch them?
+If you can fly with those, race me! ...You have to jump off something first? That's cheating. And scary.
+Where do walker wings come from? Do they grow somewhere? Can I find some? I'd give them to a koi.
+
+## baby.player.veil
+You've got a veil! A real Cirrus Veil! Are you a Cirri now? A bit? You're a walker-Cirri!
+Your veil's longer than mine! That's not fair. I'm the one who's supposed to have veils.
+You look so nice in a veil. Do a twirl! Twirl! Look, it goes round with you!
+Keep your veil whole. A Cirri is only as high as their veil is whole. That counts for walkers too.
+With a veil you could almost come to the Evensong as one of us. Almost. You'd have to stop walking.
+Did the weavers make your veil? They make mine too. That makes us veil-cousins.
+
+## baby.player.flying
+You're flying! You're actually flying! Wait for me! Wait!
+Look at you up here! You fly very stiffly. Like a plank. A happy plank.
+A flying walker! I'm telling everybody. They won't believe me. Fly past the koi pool so they can see.
+You're in my sky! Our sky, I mean. You can share it. Just don't bump the lanterns.
+How are you doing that? You haven't got veils! Is it magic? Is the ground pushing you up?
+Fly lower, you're making me dizzy. No, fly higher! I want to see how high a walker goes.
+
+## baby.player.edge
+Careful! You're right on the edge! Walkers don't bounce, Mum says. Step back. Please?
+Don't lean over! If you fall I can't catch you. You're much too big.
+Ooh, you're near the edge. That's where I'm not allowed. Step back so I don't get told off for watching.
+Look down! It's a long, long way. Now stop looking down and step back. Thank you.
+Edges are for flyers. Come away, groundling. Come over here where the grass is.
+Mum says the edge is where walkers get brave and silly at the same time. Which are you?
+
+## baby.first_meeting
+A walker! A real live walker! I'm {name}. I've never met a walker before. Have you met a Cirri?
+Hello! Who are you? Where did you come from? How did you get up here? Can you fly? Why not?
+Oh! You're much bigger than walkers in stories. In stories they're about my size.
+Mum told me about walkers. Kind and sturdy and a bit slow, Mum said. Hello, kind, sturdy, slow walker!
+Fair wind! I'm {name}! I live here! It's the best village in the sky! Have you seen the others? Ours is better.
+A groundling came up the Wind Stone! That's you! Welcome! That's the Courtesy. I know all about it.
+I'm not meant to talk to strangers, but walkers are guests, so you're a guest-stranger. That's allowed. Hello!
+You're new! I'm {name}. I know everybody here, and now I know you. Nearly. What's your name? {player}! That's a good one.
+Are you real? Can I poke you? Just your sleeve. ...You're real!
+Ooh. Both your feet are touching the floor. At the same time. Does that feel strange?
+Fair wind and welcome to {village}! I'm the welcoming child. There isn't really one. I've decided it's me.
+I've been waiting all my life to meet a walker! Well, since the day before yesterday, when I heard about walkers.
+Is that what walkers look like? I thought you'd have more legs. Two is quite a lot, I suppose.
+Hello! Don't be scared. I'm small and I'm friendly. There's peach on my face, but that's not dangerous.
+A walker! Stay right there, I'm getting everyone! No, wait. I want you to myself for a bit first. Hello!
+You came all the way up from the ground? Was it windy? Did you scream? I'd scream. The good kind.
+Hello. I'm {name}. I'll call you groundling, because I don't know your name yet. And because it's fun to say.
+Welcome! You've come at exactly the right time. Something exciting's about to happen. It's you. You're the exciting thing.
+Oh, hello! I've drawn walkers before, but I got the feet wrong. Yours are much bigger. I'll fix it.
+Fair wind, stranger! I'm {name}, of {village}. That's how grown-ups say it. Did I sound grown-up?
+
+## baby.hurt
+Ow! Why did you do that? I didn't do anything!
+That hurt! I'm telling Mum! I'm telling everybody!
+You hit me! Walkers are supposed to be kind! The stories said so!
+Ow, ow, ow. My veil's all bent. What was that for?
+Stop it! I'm only little! Go and hit a cloud!
+That wasn't a game! Games don't hurt! You don't know how to play at all!
+I thought you were my friend. Friends don't do that. Not even walker friends.
+Don't! I'll fetch the windkeeper! The windkeeper's very big. Well, tall-ish.
+Why? I was being nice! I was going to give you a peach!
+That hurt my arm and my feelings. Both of them.
+Mum! Dad! The walker hit me! ...They can't hear. I'll shout louder. MUM!
+You're a mean walker. A heavy, mean walker. I'm not talking to you.
+
+## baby.night
+Mmf... is the bell ringing? It's not ringing. Then why am I awake?
+Shh! You'll wake Mum! ...You woke me. That's nearly as bad.
+I was dreaming about a whale and you made it swim away.
+Walker? It's dark. Walkers should be asleep, lying flat, the way you do.
+Hmm? I'm asleep. I'm talking in my sleep. Go away, sleep-walker.
+Is something wrong? Is it a night-moth? Don't let the night-moths in!
+I was curled up so nicely. Now my veils have all come uncurled. Thanks very much, groundling.
+Too early. Or too late. One of those. Goodnight.
+You woke me up! ...Well, now that I'm awake, can I have a peach?
+Mmm. Five more loops. I mean five more minutes. I mean sleeping. Goodnight.
+Who's there? Oh, it's you. Your boots are very loud at night.
+I'm not meant to talk after the dusk bell. You're making me break the rules.
+
+## baby.walk_off
+I don't want to talk to you. I'm going to find the koi. They're nicer.
+Hmph. I'm flying away now. Very fast. Don't follow. You can't anyway.
+You were mean before. I haven't forgotten. Children have very good memories. Bye.
+No. I'm still cross. I'll be cross until the Evensong at least.
+I'm telling Mum on you. Again. Bye!
+My veils are still bent from last time. I'm going home.
+Not talking. Not talking. Still not talking. Bye.
+Walkers who hit don't get to play. That's the rule. I just made it.
+Go away. No, I'll go away. I'm faster.
+I'm going up where you can't reach. See? Can't reach me.
+
+## baby.busy_off
+I've got to go! The others are waiting for me. We're playing whales. Bye!
+Fair wind! Back soon. Well, back sometime. Back!
+Oh! Mum's calling. Or a koi's splashing. I'll go and see which. Bye!
+I have to go and find my peach stone. I dropped it somewhere. It's very important. Bye!
+Sorry, I can't stay. I'm in the middle of a game. I'm supposed to be hiding! Bye!
+That's enough talking. Now it's time for loops. Watch me go! Wheee... bye!
+Got to fly! The koi are doing something interesting. Fair wind, groundling!
+Bye! I'll tell you the rest later. I'll forget, but I'll try.
+I'm off to the Cloud Garden. You can't come, you're too slow. Joking! You can come. Later. Bye!
+I just remembered I was going somewhere. I'll remember where on the way. Bye!
+Fair wind, walker! Don't fall off anything while I'm gone!
+That was a good talk. Now I need to go and do three loops to celebrate. Bye!
+
+## baby.apology_accepted
+All right. I forgive you. But you have to say sorry to my veils too.
+You said sorry properly, with your whole face. All right. Friends again?
+That's all right. Mum says everybody makes mistakes. Even walkers. Especially walkers.
+I forgive you. I'm not cross any more. My veils are, a bit. They'll get over it.
+You're sorry? Really sorry? ...All right. I believe you. You've got honest boots.
+Fine. You can be my friend again. But I'm watching you. With both eyes.
+Apology accepted! That's what grown-ups say. I've always wanted to say it.
+All right. Let's start again. Fair wind! I'm {name}. ...See? All fresh.
+
+## baby.apology_wary
+Hmm. You said sorry. I'll think about it. I'll think for a long time.
+Sorry's nice, but my arm still hurts. Say it again tomorrow.
+Maybe. I'm still keeping a bit away. Just this much.
+Mum says sorry is a start. Only a start. What's the rest?
+I don't know. You could be pretending. Walkers are good at pretending, I heard.
+All right... but don't do it again. I'll be watching from up here.
+I want to forgive you. I'm just not finished being cross yet.
+Sorry? Hmm. Bring me a peach and I'll believe you more.
+
+## baby.gift.loved
+For me? Really? I love it! I love it more than loops!
+Oh! Oh! This is the best present anybody's ever given me! Ever! In the whole sky!
+I'm keeping this {gift} in my nest forever. Under my cushion. Right next to me.
+Thank you! Thank you! I'm doing a loop for you. Two loops. Three!
+I'm so high! That means happy! I'm the highest I've ever been!
+How did you know? How did you know I wanted this more than anything?
+You're the best walker in the world. In the sky. In both!
+I'm going to show everyone. Every single person. Even the koi.
+Mum! Dad! Look what the walker gave me! ...They're not here. I'll show them later. Twice.
+I'll remember this {gift} when I'm Lengthened and old and have the longest veils in the sky.
+You're my favourite walker. You'd still be my favourite if I knew a hundred walkers.
+Thank you! I've gone teary. Happy teary! Don't look!
+
+## baby.gift.liked
+Thank you! That's very nice of you. I like this {gift} a lot.
+Ooh, for me? Thank you, walker! It's going with my shiny things.
+That's a nice present. I'll show {friend}.
+Thank you! I like it lots. Not as much as peaches. But lots.
+Lovely! You're very kind, for a groundling. For anyone, really.
+That's what you say, isn't it? Thank you very much. I really mean it, too.
+For me? You're nice. I'm doing a small loop for you. There!
+I like it! What do I do with it? I'll work it out.
+Thank you! It's going on the high shelf in my nest, where it's safe.
+That's very good. Thank you. Now I owe you something. I'll think of something.
+
+## baby.gift.neutral
+Oh. Thank you. What's it for?
+Thank you. I don't know what it is, but thank you.
+Hmm. It's very... ground-ish. Thank you anyway.
+Is this a present? It's a present! Thank you. It can live under my cushion.
+Oh! Um. Thank you. Mum says always say thank you, even when you don't know what it is.
+What does it do when nobody's looking? Thank you, anyway. I'll watch it.
+Thank you. I'll give it to Mum. Mum likes odd things.
+It's... nice? It doesn't fly. But it's nice.
+
+## baby.gift.disliked
+Ew! What is it? Take it back! No, wait, be polite. Thank you. Take it back!
+That's heavy! Too heavy! Things like that sink villages!
+Why would anybody want this {gift}? Do walkers really like these?
+No, thank you. I don't like it. Sorry. It smells of ground.
+It's horrid. I mean, thank you. But it's horrid.
+Are you teasing me? This is a teasing present. I can tell.
+I'm not touching it. You keep it. It suits you better.
+Mum says don't make a face when someone gives you something. I'm trying not to. It's very hard.
+That's not a present, that's a punishment! What did I do?
+Fire things and heavy things and smelly things are the worst presents. Which one is this?
+
+## baby.gift.limit
+You've given me so many presents today! Mum says that's enough. Save some for tomorrow!
+No more! My hands are full and my nest is full and I'm full of being happy.
+That's too many for one day. I'll get spoiled. Mum says spoiled children go soft like old peaches.
+Stop, stop! Keep it for tomorrow. Then I'll have something to look forward to.
+I can't take any more today. That's a rule. I don't know whose. But it's a rule.
+You're very generous. Too generous! The grown-ups will think I've been begging.
+Thank you, but no more today. One present a day is nice. Lots is too much to carry.
+Keep that one. Tomorrow it'll be a surprise again.
+
+## baby.level_up
+I like you more now! I don't know how it happened. It just did.
+You're not just a walker any more. You're my walker. Well, one of my favourites.
+We're friends now. Real friends! Not pretend ones. I'm telling everyone.
+All high, that's how I feel when you come. That means happy. Very happy!
+Guess what? You're my best walker friend. Don't tell the other walkers.
+You know what? I'd share my last peach with you. That's very serious. Ask anyone.
+I'll teach you a loop when you've got a veil. You're good enough to learn now.
+There's a spot at the Evensong saved for you, right next to me. It's a very good spot.
+You're my friend now. That means you're allowed to know my second-favourite koi.
+Every time you come up, I'm happier than the last time. Is that how friends work?
+My veils go all fluttery when you visit. That means something good. I think.
+Want to know my real name? It's {name}. Oh, you knew. Well, now it's more real.
+When I'm Lengthened, you have to come. I'll show you my long veils first. Before anyone!
+Mum says you're a good walker. I said I knew that ages ago.
+You're nearly family now. Like a cousin. A heavy cousin. The best kind.
+
+## baby.gift.bring
+I brought you something! A pebble of cloud. It won't last, so look at it quick!
+Here! A koi scale! A real one. A small one. It fell off by itself, I didn't pull.
+A flower from the Cloud Garden, for you. The gardener said I could. I asked afterwards.
+This is for you. It's a feather. A bird dropped it, and I caught it before it reached the ground.
+Hold out your hand. Shut your eyes. ...It's a peach! I didn't even take a bite. Not a big one.
+Veilcloth scraps make very good bracelets. This one's for you. It's a bit wonky. It's lucky, though.
+Here, have a glow berry. Keep it for when it's dark. It'll help.
+Look, a smooth stone from the bottom of the koi pool! I've carried it all day for you. The koi didn't want it.
+The best petal, for you. The pinkest one. It matches my veil-tips, so now you match me.
+This is a bit of cloud I combed off my veils. Weavers' fluff. Keep it in your pocket for luck.
+I wrapped this up in a leaf for you. It's a berry. The sweetest one. I tested all the others.
+A present! I didn't know what walkers like, so I brought a bit of everything. A leaf, a petal and a peach stone.

@@ -1,5 +1,6 @@
 package dev.skyfriends.client.model;
 
+import dev.skyfriends.client.anim.Poser;
 import dev.skyfriends.client.render.CirriRenderState;
 import net.minecraft.client.model.EntityModel;
 import net.minecraft.client.model.geom.ModelPart;
@@ -141,7 +142,8 @@ public class CirriModel extends EntityModel<CirriRenderState> {
         leftRibbon.xRot += Mth.sin(tp * rw + 0.3F) * 0.3F + f * 0.5F;
         leftRibbon2.xRot += Mth.sin(tp * rw - 0.5F) * 0.4F;
 
-        if (s.working) {
+        // while they act out a clip, their own working gestures rest
+        if (s.working && !s.pose.any()) {
             // busy hands at their work, head bowed over it
             rightArm.xRot -= 0.85F + Mth.sin(tp * 0.25F) * 0.22F;
             leftArm.xRot -= 0.7F + Mth.cos(tp * 0.21F) * 0.2F;
@@ -151,6 +153,7 @@ public class CirriModel extends EntityModel<CirriRenderState> {
             leftArm.zRot += 0.2F;
             head.xRot += 0.3F;
         }
+        Poser.apply(root(), s.pose);
         eyes.animate(s);
     }
 

@@ -27,5 +27,9 @@ public final class SkyFriends implements ModInitializer {
         SkyItems.register();
         dev.skyfriends.world.SkyWorld.register();
         net.fabricmc.fabric.api.event.lifecycle.v1.ServerTickEvents.END_LEVEL_TICK.register(dev.skyfriends.entity.SkySpawner::tick);
+        dev.skyfriends.talk.Conversation.register();
+        dev.skyfriends.life.VillageLife.register();
+        dev.skyfriends.anim.Cue.init();
+        net.fabricmc.fabric.api.event.lifecycle.v1.ServerTickEvents.END_LEVEL_TICK.register(dev.skyfriends.life.VillageLife::tick);
     }
 }

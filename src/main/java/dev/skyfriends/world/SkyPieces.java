@@ -104,7 +104,7 @@ public final class SkyPieces {
         ResidentPiece(SkyLayout layout, BlockPos start, Rotation rotation) {
             this(start, place(start, layout.centrePos(), rotation), layout.residents().stream().map(r -> new SkyLayout.Resident(r.type(),
                     r.gender(), r.child(), r.bed().map(b -> place(start, b, rotation)), r.job(), r.work().map(w -> place(start, w, rotation)),
-                    r.mother())).toList());
+                    r.mother(), r.partner())).toList());
         }
 
         private ResidentPiece(BlockPos start, BlockPos centre, List<SkyLayout.Resident> residents) {
@@ -182,6 +182,7 @@ public final class SkyPieces {
                         cirri.raiseBy(centre, mother);
                     } else {
                         cirri.settle(centre, r.bed().orElse(null), r.work().orElse(null), r.job());
+                        if (r.partner() >= 0) cirri.setPartner(uuid(start, r.partner()));
                     }
                 } else {
                     mob.finalizeSpawn(level, level.getCurrentDifficultyAt(at), EntitySpawnReason.STRUCTURE, null);

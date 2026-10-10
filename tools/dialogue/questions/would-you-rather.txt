@@ -1,0 +1,78 @@
+# Would-you-rathers from the sky. Each is asked once. No "when:" means a child may ask it too, so those are
+# written without "walker". Flagged answers are called back in lines/remember.txt.
+
+? wyr_whale_or_koi
+Q: Would you rather ride an Old Singer's back for a day, or have a Cloud Koi follow you about forever?
+- Ride the whale :: Up on its back with the little clouds! You'd hear the weather being sung from the inside. @wants:whale {points:1} [SPARKLE]
+- The koi, forever :: A koi of your very own, bobbing at your shoulder! It would sulk every time you went indoors. @likes:koi {points:1} [HEART]
+
+? wyr_wings_or_veils | when: adult
+Q: Would you rather have elytra or a pair of real veils? Think carefully. I'm friends with a weaver.
+- Elytra :: Elytra. Fast, sleek and borrowed from somebody else. The weaver will be very quiet at supper. @prefers:elytra {points:1} [DOTS]
+- Veils, of course :: Veils! Of course veils! I knew there was sky in you somewhere. @wants:veil {points:2} [SPARKLE]
+
+? wyr_peach_or_honey
+Q: Sky peaches forever, or honey forever? You may only pick one.
+- Peaches :: Peaches! Soft and warm and straight off the branch. The gardeners will cheer. @likes:peaches {points:1} [HEART]
+- Honey :: Honey! Sticky fingers for the rest of your life. Worth it. @food:honey {points:1} [NOTE]
+- A peach dipped in honey :: That's not an answer, that's a festival. I'll allow it. {points:1} [NOTE]
+
+? wyr_storm_or_still | when: adult
+Q: Would you rather fly through one of Borre's storms, or drift through a whole day with no wind at all?
+- The storm :: The storm! You'd come out the other side with your hair in knots and a story to tell. @likes:storms {points:1} [EXCLAIM]
+- The still day :: A still day? Never trust a still day, walker. Nothing moves, nothing sings. It's eerie. {points:1} [SWEAT]
+
+? wyr_bell_or_harp
+Q: Would you rather ring the great bell at dawn, or play a wind harp at the Evensong?
+- Ring the bell :: The bell! The whole sky would wake up because of you. The bellkeeper might even let you. @wants:bell {points:1} [EXCLAIM]
+- Play the harp :: The harp! You'd have to learn to listen to the wind first. It takes a while. It's worth it. @wants:harp {points:1} [NOTE]
+
+? wyr_up_or_down | when: adult
+Q: Would you rather never come down from the sky again, or never come up?
+- Never come down :: Never come down! Then you'll need a nest. I'll ask about cushions. @likes:sky {points:2} [HEART]
+- Never come up :: Oh. That's honest, and it stings a little. I'd fly down to the bottom of the clouds and wave. {points:1} [GLOOM]
+
+? wyr_cloud_or_bed
+Q: Would you rather sleep on a cloud, or in the softest bed below?
+- On a cloud :: On a cloud! You'd wake up damp, but you'd wake up happy. {points:1} [SLEEP]
+- My own bed :: Your own bed. I understand. A nest is a nest, even a flat one. {points:1} [NOTE]
+
+? wyr_birds_or_winds
+Q: Would you rather be able to talk with the birds, or with the Four Winds?
+- The birds :: Birds! They'd only gossip about worms and each other. You'd love every minute. {points:1} [NOTE]
+- The winds :: The winds! Then ask Borre why it's always so grumpy. Nobody has ever dared. {points:1} [IDEA]
+
+? wyr_rain_or_snow
+Q: Would you rather rain fell upward, or snow fell sideways forever?
+- Rain falling up :: Upward rain! It would land on us instead. I'd have to rethink my whole life. {points:1} [QUESTION]
+- Sideways snow :: Sideways snow. It would go on forever and never land anywhere. Borre would adore it. {points:1} [NOTE]
+
+? wyr_lantern_or_star
+Q: Would you rather have a lantern that never goes out, or one little star that follows you about?
+- The lantern :: The lantern. Sensible and warm, and the lamplighter could finally take a night off. {points:1} [NOTE]
+- The star :: Your own star, bobbing along behind you all night! You'd never be lost again. @likes:stars {points:1} [SPARKLE]
+
+? wyr_small_or_huge
+Q: Would you rather be as small as a koi, or as big as an Old Singer?
+- Small as a koi :: As small as a koi! You could ride along in the folds of somebody's veil. {points:1} [NOTE]
+- Big as an Old Singer :: Enormous! Clouds would nap on your back and you'd hum the weather. I'd visit every day. {points:1} [SPARKLE]
+
+? wyr_wind_or_koi_name
+Q: Would you rather have a wind named after you, or a koi?
+- A wind :: A wind! Then once a day you'd have the sky, and we'd all greet you like a neighbour. @wants:wind {points:1} [SPARKLE]
+- A koi :: A koi named after you! It would be the greediest one in the pool. I'm teasing. Mostly. {points:1} [NOTE]
+
+? wyr_moth_or_firework | when: adult
+Q: Would you rather meet a night-moth in the dark, or a firework at noon?
+- The night-moth :: The night-moth. At least it doesn't bang, and its wings mend veils afterwards. {points:1} [SWEAT]
+- The firework :: A firework at noon? We'd all hide in the Loom House for a week. You're braver than the whole village. {points:1} [EXCLAIM]
+
+? wyr_float_or_fly
+Q: Would you rather float a hand's width off the ground forever, or fly as high as you like for one single hour?
+- Float forever :: A hand's width, forever. You'd never trip again. You'd never quite land either. I know how that feels. {points:1} [NOTE]
+- One hour, very high :: One hour, as high as you like. You'd remember it all your life. I'd come with you. {points:1} [SPARKLE]
+
+? wyr_hear_or_sing
+Q: Would you rather hear every song the wind has ever carried, or sing one song the whole sky can hear?
+- Hear every song :: Every song ever carried! The Evensong a thousand dusks deep. I'd never get you to leave. {points:1} [NOTE]
+- Sing one song :: One song for the whole sky. What would you sing? No, don't tell me. Save it. {points:1} [HEART]

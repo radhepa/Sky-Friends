@@ -1,0 +1,239 @@
+# Questions the Cirri ask about you and the ground below. Each is asked once, ever; flagged answers are
+# remembered and called back in lines/remember.txt. No "when:" means anyone may ask, children too, so those
+# questions and replies are written so a child could say them (no "walker": children say "groundling").
+
+? where_live | when: adult
+Q: Where do you live, walker? Somewhere down under all that cloud?
+Q: Do you have a home below? I've always wondered what a walker's nest looks like.
+- A house I built myself :: You built it? Stone on stone, with your own hands? No wonder you're so sturdy. @home:built {points:1} [EXCLAIM]
+- Wherever night finds me :: A wanderer! You're more like the winds than you know. They never sleep in the same place twice either. @home:wanderer {points:1} [NOTE]
+- In a hole in a hill :: Inside the hill? Under the dirt, with the roots and the dark? Oh, you brave, strange thing. @home:burrow {points:1} [SWEAT]
+- Up here, if you'll have me :: Here? Oh, walker. Then {village} has one more nest to keep an eye on. @home:sky {points:2} [HEART]
+
+? ever_fallen
+Q: Have you ever fallen? From somewhere really, really high?
+Q: Tell me true. Have you ever fallen a long, long way?
+- More times than I can count :: More than you can count! And still you come up here. That's either very brave or very forgetful. @fell:often {points:1} [SWEAT]
+- Once, and never again :: Once is plenty for anyone. You landed in one piece, didn't you? You must have. Here you are. @fell:once {points:1} [DOTS]
+- Never. I'm careful :: Careful! Good. The careful ones get to come back and visit. @trait:careful {points:1} [NOTE]
+- Only in dreams :: In dreams! The kind where your stomach drops and you wake up kicking? We have those too. @dreams:falling {points:1} [SLEEP]
+
+? which_wind | when: adult
+Q: If you had veils, which of the Four Winds would you want under them?
+Q: Every Cirri has a wind they love best. Which would be yours, do you think?
+- Aure, who brings the dew :: Aure! You'd be up before the bell with dew on your eyelashes. I like you already. @likes:aure {points:1} [SPARKLE]
+- Sefa, warm and lazy :: Sefa! Smells of peaches and never in a hurry. You'd doze in the air all afternoon. @likes:sefa {points:1} [NOTE]
+- Vell, who carries songs :: Vell, the evening wind. Then you'd always arrive just in time for the Evensong. @likes:vell {points:1} [HEART]
+- Borre, cold and wild :: Borre? The storm-bringer? You're a strange one, walker. A strange, brave one. @likes:borre {points:1} [EXCLAIM]
+
+? walker_dreams | when: adult
+Q: Do walkers dream of flying? I've always, always wondered.
+Q: When you sleep down there, do you ever dream you're up here with us?
+- Every night :: Every night! Then some part of you has been flying with us all along, and we never saw. @dreams:flying {points:2} [SPARKLE]
+- I dream of falling :: Of falling. Oh. That's only flying with the ending gone wrong. We'll find you a better ending. @dreams:falling {points:1} [DOTS]
+- I dream of digging :: Digging! Even asleep, you go down. Walkers are a marvel and a mystery. @dreams:digging {points:1} [QUESTION]
+- I never remember :: Then you leave your dreams behind like an empty nest. A little sad. A little restful. {points:1} [DOTS]
+
+? under_ground
+Q: What's under the ground? All the way down, I mean, past the grass.
+Q: If I could dig, which I can't, what would I find under the ground?
+- Stone, then more stone :: Just stone? All the way down? How does anybody breathe? {points:1} [QUESTION]
+- Caves full of glowing things :: Glowing caves! A night sky, turned upside down and buried. I want to see it and I never want to see it. @ground:caves {points:1} [SPARKLE]
+- Old ruins and old bones :: Ruins? Like our Belltowers, only sunk the other way? Who built them? Did they grow too heavy too? @ground:ruins {points:1} [QUESTION]
+- Something that listens :: Something that listens? Down in the dark, under everything? Oh, I wish I hadn't asked. @ground:warden {points:1} [SWEAT]
+
+? have_nest | when: adult
+Q: Do you have a nest of your own down there? Someone keeping it warm?
+- A home, and someone in it :: Someone waiting for you! Then fly carefully. Walk carefully. You know what I mean. @nest:shared {points:1} [HEART]
+- Just me, and I like it :: A nest for one. Quiet, tidy, every cushion yours. There's a lot to be said for that. @nest:alone {points:1} [NOTE]
+- A cat, mostly :: A cat keeps your nest! It would hate it up here: so many koi, all out of reach. @nest:cat {points:1} [NOTE]
+- Not yet :: Not yet. That's a good, open sort of word. The sky likes it too. {points:1} [DOTS]
+
+? veil_of_your_own | when: adult
+Q: Would you wear a veil of your own, if the weavers made one for you?
+Q: I keep wondering how you'd look with veils. Would you want them?
+- More than anything :: More than anything! I'll tell the Loom House. They won't listen to me, but I'll tell them. @wants:veil {points:2} [SPARKLE]
+- I'd be too scared :: Too scared of the height? Everyone is, at first. Even our children shake before the Lengthening. @fears:heights {points:1} [DOTS]
+- My feet suit me fine :: Your feet suit you. Fair enough. Someone has to keep the ground company. {points:1} [NOTE]
+
+? favourite_cloud
+Q: Which clouds do you like best? The ones you see from underneath, I mean.
+- Big and puffy :: The puffy ones! From up here they look like sheep asleep in a meadow. @likes:puffy {points:1} [NOTE]
+- Thin and wispy :: The wispy ones are cirrus! That's what veils are woven from. You've liked veils all along and never knew. @likes:wispy {points:2} [HEART]
+- Pink ones at sunset :: The sunset ones are blushing at the Evensong. Everybody knows that. {points:1} [BLUSH]
+- Dark storm clouds :: Storm clouds? The ones that grumble? You'd get on with Borre. I'd stay in my nest. @likes:storms {points:1} [SWEAT]
+
+? rain_from_below | when: rain adult
+Q: It's raining past us right now. What does rain feel like where it lands?
+Q: We only ever watch rain fall away from us. What's it like at the bottom?
+- Cold and lovely :: Lovely! I knew it. All those drops couldn't be falling somewhere sad. @likes:rain {points:1} [SPARKLE]
+- Like drums on a roof :: Drums on a roof! So rain makes music when it lands. Nobody ever told me that. @likes:rain {points:1} [NOTE]
+- Wet. Just wet :: Just wet. Ha! That is the most walker answer I've ever had. @dislikes:rain {points:1} [SWEAT]
+
+? cats_or_koi
+Q: Cats or koi? Everyone in {village} has picked a side, and it's getting serious.
+- Cats :: Cats! Fluffy, proud, and they'd eat our koi in a heartbeat. I'll keep it quiet. @likes:cats {points:1} [SWEAT]
+- Koi :: Koi! Good. The koi side is winning, I think. They'd thank you, if they could. @likes:koi {points:1} [HEART]
+- Parrots, they fly :: Parrots! Flying, talking, colourful. That's almost one of us, with feathers. @likes:parrots {points:1} [EXCLAIM]
+- Cats who leave koi alone :: There's no such cat. But I like that you believe in one. {points:1} [NOTE]
+
+? tired_feet | when: adult
+Q: Don't your feet get tired? Carrying all of you, all day, everywhere?
+- Every single evening :: Every evening! Then put them up somewhere tonight. Up is good for everything. @feet:tired {points:1} [DOTS]
+- Never, they're strong :: Strong feet! I suppose they'd have to be, with all the iron and stone and mud you carry about. {points:1} [EXCLAIM]
+- That's what horses are for :: Horses! Walkers that carry walkers. The ground is full of clever ideas. @likes:horses {points:1} [IDEA]
+
+? walker_fears | when: adult
+Q: What frightens walkers? If I ever go down there, I want to know what to fly away from.
+- Creepers :: Creepers? The green ones that hiss and burst? They sound nearly as rude as fireworks. @fears:creepers {points:1} [SWEAT]
+- The dark :: The dark. I understand. At least our dark has stars in it. Yours has walls. @fears:dark {points:1} [DOTS]
+- Falling :: Falling. Then you're very brave to come all the way up here. Very, very brave. @fears:heights {points:1} [HEART]
+- Nothing much :: Nothing much? Hm. Either you've seen everything, or you're fibbing a little. {points:1} [QUESTION]
+
+? best_hour
+Q: When is the sky at its best, do you think? I need to settle something with a friend.
+- Dawn :: Dawn! Pink and gold and quiet, before the bell. That's the right answer. I'll go and tell them. @likes:dawn {points:1} [SPARKLE]
+- High noon :: Noon, when everything shines and nothing has a shadow. Bold. {points:1} [NOTE]
+- Dusk, at the Evensong :: Dusk, when we sing the day down! I hoped you'd say that. @likes:evensong {points:1} [HEART]
+- Night, with the stars :: The stars! You'd be up with the lamplighter, counting them. @likes:stars {points:1} [SPARKLE]
+
+? heard_evensong | when: adult
+Q: Have you ever heard the Evensong? From down on the ground, I mean, at dusk.
+- Faintly, most evenings :: You hear it! All the way down! Then we've been singing to you all this time and never knew. @heard:evensong {points:2} [HEART]
+- I thought it was the wind :: The wind? Well, Vell carries it, so you weren't so wrong. Next time, listen for the harps. @heard:evensong {points:1} [NOTE]
+- Never, but I'd like to :: Then come up at dusk and stand by the Veil Court with your eyes closed. You'll see. Hear, I mean. @wants:evensong {points:1} [NOTE]
+
+? sky_peach
+Q: Have you tasted a sky peach yet? Be honest.
+- Yes, and it was perfect :: Perfect! Soft, sweet and warm from the sun? That's a sky peach all right. @likes:peaches {points:1} [HEART]
+- Not yet :: Not yet! Go to the Cloud Garden and ask. Nobody ever says no to a peach-asker. {points:1} [EXCLAIM]
+- I like bread better :: Bread? The cooked kind? From a fire? Oh. Well. Everyone's allowed one strange taste. @likes:bread {points:1} [QUESTION]
+
+? fire_cooking | when: adult
+Q: Is it true walkers cook their food over fire? On purpose? Every day?
+- Yes, it tastes better :: Better! Fire, on purpose, every day, and it tastes better. I'll never understand the ground. @cooks:fire {points:1} [SWEAT]
+- Only when I have to :: Only when you must. A sensible walker. A little sensible, anyway. {points:1} [NOTE]
+- I eat fruit, mostly :: Fruit, like us? Berries and peaches and no flames at all? Oh, I could hug you. @cooks:never {points:1} [HEART]
+
+? birds_close
+Q: Birds are tiny specks from up here. What are they like close up?
+- Chickens can't even fly :: Can't fly? Birds, with feathers and everything, that can't fly? That's the saddest thing I've ever heard. @told:chickens {points:1} [GLOOM]
+- Parrots talk back :: They talk? Like us? What do they say? Do they say rude things? I hope they say rude things. @likes:parrots {points:1} [EXCLAIM]
+- Quick, and then gone :: Like a breath of Aure. Yes, that's how they look from here too. {points:1} [NOTE]
+
+? lucky_charm | when: adult
+Q: Do you carry anything for luck? Up here we keep Sky Scales, mostly.
+- A Sky Scale, now :: You do? Someone gave you their luck. That's no small thing, walker. Keep it close. @lucky:scale {points:2} [HEART]
+- A totem, always :: A totem! The little doll that brings walkers back? Then you've more luck than a koi. @lucky:totem {points:1} [EXCLAIM]
+- I make my own luck :: Your own luck! The wise ones say that too. They also keep three Sky Scales each, I notice. {points:1} [NOTE]
+
+? about_stairs
+Q: Stairs. Please explain stairs to me. Why not just go up?
+- They're slow flying :: Slow flying! Oh, that's sweet. Very, very slow flying. {points:1} [NOTE]
+- Heavy feet need steps :: Little steps for heavy feet. So stairs are kind. Who knew? {points:1} [IDEA]
+- I'd rather a Wind Stone :: Wouldn't everyone? The Courtesy is the best gift the first windkeepers ever gave. @likes:windstone {points:2} [SPARKLE]
+
+? farthest_walked | when: adult
+Q: How far have you walked? What's the farthest your feet have ever taken you?
+- Past every map I own :: Past the edge of every map! You're a wind with boots on. @travel:far {points:1} [EXCLAIM]
+- To the End and back :: The End? The end of what? Of everything? And you came back to tell us? @travel:end {points:1} [QUESTION]
+- Somewhere full of fire :: A land of fire, and you went in? Walker, you frighten me. You frighten me and I'm proud of you. @travel:nether {points:1} [SWEAT]
+- Here is the farthest :: Here! So the farthest anyone has gone is up. I like that very much. {points:2} [HEART]
+
+? sleep_below | when: adult
+Q: How do walkers sleep? Lying flat on the ground like a dropped glove?
+- In a bed, flat out :: Flat on a bed, like a leaf on a pond. And you don't slide off? {points:1} [QUESTION]
+- Under the open stars :: Under the stars, nothing over you. Then we sleep under the same sky, just at different ends of it. @sleeps:stars {points:1} [SPARKLE]
+- Hardly at all :: Hardly at all? That's how the night-moths find you. Sleep! Please! @sleeps:little {points:1} [SWEAT]
+
+? met_old_singer
+Q: Have you ever seen a Cloud Whale? One of the Old Singers, up close?
+- Yes, and I heard it sing :: You heard one sing! Then you're blessed, truly. Some wait a whole life for that. @seen:whale {points:2} [SPARKLE]
+- Only a shadow, far off :: A shadow on the clouds. That's how it starts. Next time you'll be close enough to hear. @wants:whale {points:1} [NOTE]
+- Never :: Never! Then keep watching the high sky. When it happens, you'll know. Everyone knows. @wants:whale {points:1} [DOTS]
+
+? play_music
+Q: Do you play anything? A harp, a flute, a drum, a horn?
+- A flute, a little :: A flute! Then you've already got half a song in your chest. Breath is everything. @plays:flute {points:1} [NOTE]
+- Note blocks :: Note blocks! The boxes that sing when you hit them? Music you hit! How wonderfully bossy. @plays:noteblocks {points:1} [EXCLAIM]
+- I hum, mostly :: Humming is how every song begins. Even the Evensong started as somebody's hum. @plays:hum {points:1} [HEART]
+- Nothing at all :: Then you listen, and good listeners are rarer than good players. {points:1} [NOTE]
+
+? afraid_heights | when: adult
+Q: Are you afraid of heights? Be honest. I won't tell the windkeeper.
+- Terribly :: Terribly, and still you came up. That's the bravest thing I've heard all season. @fears:heights {points:2} [HEART]
+- Not one bit :: Not one bit! The stomach of a Cirri and the feet of a walker. A fine mix. @trait:fearless {points:1} [EXCLAIM]
+- Only when I look down :: Then look up. Up is where all the good things are anyway. {points:1} [NOTE]
+
+? flower_for_friend | when: adult
+Q: If you brought a friend a flower, which would it be? I'm asking for a gardener I know.
+- A red poppy :: A poppy. Bright as a lantern and not a bit shy. I'll pass it on. @flower:poppy {points:1} [NOTE]
+- A cornflower :: A cornflower! Sky blue! Oh, the gardener will be unbearable about this. @flower:cornflower {points:1} [SPARKLE]
+- Lily of the valley :: Lily of the valley. Little white bells on a stem. The bellkeeper will want some. @flower:lily {points:1} [HEART]
+- Any, if it's given kindly :: Any flower, given kindly. The gardener will pretend that's not the right answer. It is. {points:1} [NOTE]
+
+? walker_breakfast | when: adult dawn|morning
+Q: What do walkers eat in the morning? I've heard terrible things.
+- Eggs, cooked :: Eggs? Birds' eggs? Cooked over fire? Please don't tell the birds. I certainly won't. @food:eggs {points:1} [SWEAT]
+- Bread and honey :: Honey! At last, something sensible. We could breakfast together, you and I. @food:honey {points:1} [HEART]
+- A bowl of stew :: Stew, at this hour? Hot, heavy and out of a pot. How do you ever get off the ground after that? Oh. You don't. @food:stew {points:1} [QUESTION]
+- Nothing, I skip it :: Skip it? Walker! Eat something. Even a berry. Promise me. {points:1} [ANGER]
+
+? wish_on_stars | when: night
+Q: Do you wish on stars, where you come from? Here we wish on the koi.
+- Every night :: Every night! Then the stars must know your voice by now. @wishes:stars {points:1} [SPARKLE]
+- I'll wish on a koi now :: On a koi! Pick a plump one, they listen better. Don't tell the gardeners I said so. @wishes:koi {points:1} [NOTE]
+- Wishing doesn't work :: Doesn't it? Then why do I feel lighter every time I do it? {points:1} [DOTS]
+
+? dearest_friend | when: adult level:3
+Q: Who's your dearest friend, down on the ground? Tell me about them.
+- My dog :: A dog! I've watched them from above, running in circles for joy. I'd love to run in circles. @friend:dog {points:1} [HEART]
+- A villager I trade with :: One of the bell-village folk! They wave sometimes, when we fly over. You'd be surprised. @friend:villager {points:1} [NOTE]
+- You, maybe? :: Me? Oh. Oh, walker. Yes. Yes, all right. That's settled, then. @friend:cirri {points:2} [BLUSH]
+- I'm still looking :: Still looking. Look up now and then. That's all I'll say. {points:1} [DOTS]
+
+? miss_the_ground | when: adult level:2
+Q: Do you miss the ground when you're up here? Even a little?
+- Not at all :: Not at all! Careful, or the weavers will start measuring you for veils. @likes:sky {points:2} [SPARKLE]
+- My feet do :: Your feet miss it! Poor things. They must feel so lost up here with nothing to do. @misses:ground {points:1} [NOTE]
+- Only the trees :: We have trees! Skywood, with peaches on. But I know. Not the same as a forest. {points:1} [DOTS]
+
+? heavy_days | when: adult level:5
+Q: Have you ever felt grounded? Not the walking kind. The heavy kind, inside.
+Q: Do walkers ever feel low? The heavy sort of low, where nothing lifts?
+- Yes, for a long while :: Then I'm glad you're here, where the air is thin and nothing weighs much. Stay as long as you need. @felt:heavy {points:2} [HEART]
+- Sometimes, at night :: Night is heavy for everyone. That's why we sing the day down first. Come to the Evensong; it helps. @felt:heavy {points:1} [DOTS]
+- Not since I came here :: Not since you came here? That might be the kindest thing a walker has ever said to me. @felt:light {points:2} [BLUSH]
+- I'd rather not say :: Then don't. The sky never asks twice. {points:1} [NOTE]
+
+? borrowed_wings
+Q: If you had wings for a whole day, where would you fly first?
+- Straight up to you :: To me? Of all the sky? Then I'll be waiting. Don't be late. @fly:here {points:2} [BLUSH]
+- Over the ocean :: The ocean! All that blue with more blue underneath. I've only ever seen it from very far up. @fly:ocean {points:1} [SPARKLE]
+- Into a storm :: Into a storm? Borre would knock you out of the sky and laugh about it. Please don't. @likes:storms {points:1} [SWEAT]
+- Somewhere new :: Somewhere new. The restless ones would call that the only right answer. {points:1} [NOTE]
+
+? walker_songs | when: adult
+Q: What do walkers sing? Do you have songs for the evening, like we do?
+- Lullabies :: Lullabies! So walkers sing their little ones to sleep too. We're not so different. @sings:lullabies {points:1} [HEART]
+- Loud songs, badly :: Loud and badly is how most songs ought to be sung. The harpists would disagree. @sings:loud {points:1} [NOTE]
+- I don't sing :: Not at all? Not even a hum? That's the saddest news I've had all week. @sings:never {points:1} [GLOOM]
+- Work songs :: Work songs! For digging and chopping? I'd love to hear a digging song. {points:1} [NOTE]
+
+? storm_shelter | when: adult rain|thunder
+Q: Where do walkers go in a storm? We go to our nests and hum to the little ones.
+- Indoors, quickly :: Indoors, quickly. Good. Doors are the best thing about walker houses. {points:1} [NOTE]
+- I stand right in it :: You stand in it? In the lightning? Walker, no! @likes:storms {points:1} [ANGER]
+- Down a mine :: Down under the ground, where Borre can't follow. Clever. Dark, but clever. @storms:underground {points:1} [IDEA]
+
+? first_sight | when: adult
+Q: What did you think, the first time you looked up and saw a sky village?
+- That I was dreaming :: Dreaming! Lots of walkers say that. Then they come up, and they're still dreaming. @first:dream {points:1} [SPARKLE]
+- That it might fall on me :: Fall! No, no. We build light so we never fall. That's the whole point of us. @first:worry {points:1} [SWEAT]
+- That I had to get up there :: And here you are. The sky loves a walker who won't be told no. @first:climb {points:2} [HEART]
+
+? how_you_came_up | when: adult
+Q: How did you find your way up? Did someone show you the Wind Stone?
+- I found it myself :: Found it yourself! Most walkers stroll right past and never feel the wind in it. @found:alone {points:1} [EXCLAIM]
+- I followed a Cirri :: You followed one of us! Then we brought you here without even knowing. Lucky us. @found:followed {points:1} [HEART]
+- I built a tower :: A tower? Block by block, all the way up through the clouds? I'm speechless. Nearly. @found:tower {points:1} [EXCLAIM]

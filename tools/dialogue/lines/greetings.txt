@@ -1,0 +1,580 @@
+# Greetings: the first thing a grown-up Cirri says when you start talking to them.
+# Keys: greet.<period>, greet.band.<how well they know you>, greet.personality.<p>, greet.routine.<what they were doing>,
+# greet.weather.<weather> (not clear), greet.wind.<the wind that has the sky today>.
+
+## greet.dawn
+Fair wind! You've caught me with dew still beaded on my veils.
+Up before the bell? Even the bellkeeper's still rubbing their eyes.
+Dawn, and a walker on the bridge. That's two lovely things before breakfast.
+Look down there: the whole cloud-sea's gone pink. Every morning, and it still takes my breath.
+Hello! The weavers are out combing cirrus. It has to be done before the sun warms it, they say.
+Oh, good dawn. I've only just uncurled, so forgive the crooked veil.
+An early riser! I'd heard walkers sleep half the day away, and flat on the ground, too.
+You're here for first light? Wise. It never lasts, and it never comes the same twice.
+Mmm, hello. I'm still more nest than Cirri at this hour.
+Good dawn, {player}. See the gold creeping along the undersides of the clouds?
+The koi are rising for their first nibble and so am I. Peach? No? More for me.
+Morning's barely a thread yet, and here you are. Hello!
+Dew on the bridges, dew on the chimes, dew on me. Mind your footing, walker.
+Fair wind! The bell's just rung me out of my nest. Did you hear it from the dock?
+So early! Even {wind} hasn't decided which way to blow yet.
+Breakfast up here is a peach eaten upside down, in case you wondered how we do mornings. Hello!
+Dawn's the best hour to fly. The air is thin and sweet, like drinking light.
+A good dawn to you! The stars are going out one by one, like lanterns being put away.
+
+## greet.morning
+The village is properly awake now. Hear the harps tuning? Good morning!
+Morning, walker. You've the look of someone with somewhere to be.
+Hello! I've already flown round the Cloud Garden twice. Mornings make my veils itch to go.
+Fair wind this morning! The bridges are warming and the lanterns are all asleep.
+A morning visitor, the best kind: awake, and not yet tired of us.
+Hello there! The market's opening and the gossip's already flown round twice.
+Just in time! Watch the clouds below roll over, like sleepers turning in their nests. Good morning.
+Good morning, {player}! Did the Wind Stone treat you gently on the way up?
+Is it morning already? I'd swear I only blinked after the dawn bell.
+Look, the islands' shadows are drifting over the land below. I like to guess whose is whose.
+Every walker I meet carries the smell of grass up with them. Good morning!
+There's a breeze off the Loom House that smells of fresh-combed cloud. Can you smell it?
+Mornings are for flying fast and talking faster, so forgive me if I bob about. Hello!
+Nothing much has happened yet today, which is my favourite kind of news. Good morning.
+Ah, you're up and about! Walkers in the morning always look so purposeful.
+Morning, morning! Two peaches eaten and a quarrel with a swift already. What a day.
+Hello! The dew's dried and the day's fully woven. What shall we do with it?
+Morning light through veilcloth is the softest light there is. Stand under an awning and see!
+
+## greet.noon
+Midday! The sun's straight overhead, and my shadow's a tiny speck on the clouds below.
+Hello! Noon's when the sky peaches warm right through. The whole village smells of them.
+Fair wind at noon! High sun, high spirits, high village. Lots of highs today.
+Ah, hello! I was just thinking about lunch. A peach, a little honey, a handful of blossoms.
+Noon already? The morning flew. Well, of course it did; everything here does.
+The koi have all gone to the bottom of the pool, out of the sun. Clever fish. Hello!
+Do the bridges go warm under walkers' feet at this hour? I've always wondered.
+Good day! The sun's at the top of the sky, and so are we, nearly.
+Hello, {player}! Come under the awning a while. Even the sky gets hot at noon.
+Half the village is dozing on the warm air. Shh. Or don't; they won't wake. Good day.
+Noon's the stillest hour; the harps barely hum. Hello, though!
+Have you eaten? If you've been climbing about all morning, you must be famished. Walkers always are.
+Good noon! Is that a thing walkers say? It should be.
+My veils have dried out and so has my wit. Ah, the middle of the day. Hello!
+Sun on the gilded roofs at this hour makes the whole village blink. Hello there!
+There you are! Lunch, then talk, or talk, then lunch? I can manage both at once.
+Look how the clouds below have shrunk! The sun's been nibbling at them since dawn.
+Fair wind! Noon light's so clear, I can count the rooftops of a bell-village far below.
+
+## greet.afternoon
+Good afternoon! The day's gone slow and golden, like honey off the comb.
+This is the lazy part of the day. Even the bell looks sleepy. Hello!
+Afternoon, walker. The clouds below have started piling up into towers. Rain somewhere, later.
+Work's done, peaches are picked, and I'm all yours till the Evensong. Hello!
+Hello there. Afternoons drift. So do I, rather.
+The light's leaning sideways through the veilcloth now. My favourite light. Good afternoon!
+Children all over the Veil Court, chasing each other's veils! Mind your head, walker.
+Ah, hello! I've been napping in a warm updraft. Don't tell anyone; I have a reputation.
+Afternoon, {player}. The islands' shadows are stretching out long across the clouds.
+Weavers folding up, gardeners watering: the village is winding down. Hello!
+I was just watching the swallows far below, all hurrying home early. Afternoon!
+A visitor in the long part of the day. Stay; the afternoon has room for two.
+There's still time before dusk for a good, long, pointless chat. My favourite kind!
+Listen: the harps are already tuning for the evening, humming low. Hello!
+You've the look of a walker who's climbed something. Rest your feet a while.
+If you're after peaches, the high branches have the ripest. I could fetch you one.
+Afternoons in {village} smell of warm skywood and koi water. Good afternoon!
+The sun's sinking, but slowly. It likes the view from up here as much as we do.
+
+## greet.evening
+The lamplighter's going bridge to bridge. Watch the lanterns wake, one by one. Good evening!
+Evening, walker. Hear the harps? The Evensong's gathering over the Veil Court.
+Hello! The clouds below have gone rose and violet, like a veil-tip the size of the world.
+Ah, dusk. My favourite hour to meet someone: everyone's softer at dusk.
+The bell's rung and the day's nearly sung down. Stay for the last of it.
+Watch the sun slip under the cloud-sea. It'll be dark on the ground long before it's dark up here.
+Evening, {player}! You've come at the singing hour. Lucky walker.
+Swallows to bed, moths awake. Hello, before it's properly dark!
+Good evening. My throat's been humming all afternoon, ready for the Evensong.
+Evening already? I spent the whole day flying and still have things to tell you.
+Smell that? Warm skywood and the first night blossoms. That's evening in a sky village.
+The first star's out, just over the Lantern Spire. Walkers make wishes on them, I've heard. Do you?
+Hello. The day's work is folded away and the night hasn't started. This is the in-between.
+Vell carries songs at this hour, they say. Listen hard and you'll hear three villages at once.
+You'll want to be near a lantern before long, walker. The night-moths come out after dark.
+Everything's going gold, then rose, then blue. Watch with me a moment?
+Dusk already! The children are being called in from every bridge. Hello, quickly!
+Good evening. The village is quiet the way a breath is quiet, just before a song.
+
+## greet.night
+Out after dark? Stay near the lanterns, walker. The night-moths have sharp manners.
+Oh! Hello. I was just flying home; my nest's calling me.
+The stars are thick tonight, like dew on dark cloth. Hello, night walker.
+Hello, softly. Half the village is already curled up asleep.
+It's dark, {player}. Are you sure your feet know where the bridge ends?
+The lanterns make little islands of light. Walk from one to the next and you'll be fine.
+Good night to you. I was nearly in my nest, but a walker's worth staying up for.
+Everything's hushed at night up here. Even the wind harps only whisper.
+Shh! The little ones have only just stopped humming. Hello, in a whisper.
+I'd not go down the Wind Stone till morning, walker. The ground's full of dark at night.
+Stars above us, and the lights of the bell-villages far below. We're the middle of it all.
+I can't make out your face in this light. You sound friendly, at least. Hello!
+Walkers sleep lying on their cushions, I'm told. Squashed flat! How do you bear it?
+The nights are always chill this high. Have you something warm to wrap up in?
+Oh, it's you! In the dark you looked like a night-moth for a moment. Much less wing.
+Follow the bridge lanterns. They all lead to somebody's nest, and every nest is friendly.
+Late for a walker, isn't it? You need so much sleep. Or is that just a story?
+Night's come up from the cloud-sea like a tide. Keep to the lit paths, walker.
+
+## greet.late
+Goodness, it's the deep of the night! Is something wrong down below?
+Hello? It's so late even the stars look sleepy.
+You're awake at this hour too? My veils were restless. They dream of flying, you know.
+Oh! You gave me such a start. Nobody comes calling after midnight.
+Shh. If {neighbour} wakes, we'll both hear about it at breakfast.
+Can't sleep either? Either the moon's too bright or my thoughts are too loud.
+Have you slept at all lately, walker? The night-moths come for walkers who don't.
+It's the hush of the night, the hour nobody owns. Hello, quietly.
+I came out to see to a flickering lantern. It was a moth. Just a moth, the little kind.
+A midnight visitor! You'd better have a good story, walker.
+So late the cloud-sea's gone black. Only the stars to see by. Hello, all the same.
+Sometimes, at this hour, you can hear the Old Singers far off. A low sort of humming. Listen.
+Up at this hour, {player}? Just the two of us and the stars, then.
+I couldn't settle: my cushion's gone lumpy and the air's too still. Still air makes me uneasy.
+Is it morning yet? No? Then why are we both awake?
+The middle of the night is no time for visiting, but... fair wind, I suppose.
+Everything's asleep but us and the great lantern. Even the koi.
+Walkers keep strange hours. Come under the lantern where I can see you.
+
+## greet.band.stranger
+A walker! Up the Wind Stone, were you? Hello! I'm {name}.
+Oh, a new face. And new feet! Welcome to {village}.
+Hello, stranger. Don't mind me staring; we don't see many walkers up here.
+Fair wind, traveller! You came all that way up just to see us? How lovely.
+I'm {name}, the {job}. And you're a walker, plainly. Have you a name as well?
+Welcome, welcome. The Courtesy says I must make you feel at home. Do you? Be honest.
+A visitor! Mind the edges. You haven't any veils, I notice.
+Are you the walker everyone's been whispering about? Or another one? Are there many of you?
+Oh! Hello. I don't quite know how to talk to someone who stands. Shall I come lower?
+Welcome to {village}, stranger. We're a small sky, but a warm one.
+Your boots are very loud on the bridge. Not a complaint! Just astonishing.
+A stranger with heavy feet and a curious face. Fair wind to you.
+Come to trade, or to stare? Both are allowed. We stare too.
+Is it true you sleep lying flat on the ground? Sorry. Hello first. Then that.
+Back again, walker? You must like heights more than you let on.
+Hello, {player}... that's your name, isn't it? Walkers' names travel faster than walkers do.
+If anything here frightens you, it's only the height. Everyone gets used to it.
+You look a bit windswept. Everyone does, the first few times. Hello!
+
+## greet.band.acquaintance
+Oh, it's you again! The walker from the Wind Stone. Hello!
+Fair wind, {player}. Back for more sky?
+I told {friend} about you. They didn't believe a walker would come back twice.
+My favourite walker! Well, one of two. The other fell asleep on a bridge and we had to wake them.
+You came back! I wasn't sure you would. Most walkers find us a little dizzying.
+Hello again. Your face is getting familiar. Your feet are still a wonder.
+You remembered where we are! The clouds wander, but we mostly stay put.
+I've been saving up questions for you, walker. Fair warning.
+Oh, good, it's you. I was hoping for someone to talk to who isn't a koi.
+Back already? The bridges have nearly learned the sound of your step.
+You're starting to walk like you know the place. That's a compliment, walker.
+Ah, hello again. Did you sleep well, flat as you do?
+There you are! I wondered when the Wind Stone would bring you up next.
+The village has decided you're harmless. Mostly. I agreed.
+A familiar face! We're past "who are you" and onto "how are you." So: how are you?
+I nearly didn't recognise you without the startled look. Hello!
+You again, and smiling. Good. The sky's better with a few regulars.
+I'm still learning walker manners. Is it rude to ask where you've been?
+
+## greet.band.friend
+{player}! Fair wind, friend. I was hoping you'd drift by.
+There's my walker! Hello, hello.
+Oh, good. The day's just improved. Hello, friend!
+I kept a peach aside in case you came. I ate it at noon, but I kept it until then.
+Fair wind, friend! You're a welcome gust on a still day.
+My veils always lift a little when you turn up. Hello, you.
+Come closer, I've news. Some of it's even true.
+Friend walker! I was just telling {neighbour} how much better your boots sound on the bridges these days.
+You came! Good. It's been a dull, walkerless sort of day till now.
+Stand with me a while. Walkers love standing, I know. It's your best thing.
+There you are. I had a feeling; {wind} was blowing in from your side of the world.
+Anything to tell? Anything at all? I'm starved for ground news.
+I saw you on the bridge and flew straight over. Hello!
+Ah, my friend from below. How are those brave feet of yours?
+Everyone in {village} knows your face now. They ask after you when you're gone.
+Just the walker I wanted! Well, the only walker. But still the one I wanted.
+You look well. Windswept, but well. Hello, friend.
+It's good to see you. Truly. Hello.
+
+## greet.band.close
+There you are, {player}! The day felt half woven without you.
+My dear walker! Let me look at you. Still in one piece? Good.
+I'm so glad you came. I've been saving up a whole sky of things to tell you.
+My heart did a loop when I spotted you. Hello, dear friend.
+Fair wind, fair wind! You always come just when I'm hoping you will.
+The wind's been whispering you'd visit today. It was right. Come closer!
+Ah, there's my favourite walker in all the world below.
+Everything's lighter when you're about. Hello, you.
+My friend! I dreamed of you last night. You were flying, badly. It was wonderful.
+Tell me everything. Leave nothing out, not even the dull bits.
+You came! I said to {partner} only today, I've a feeling about this one.
+Dear walker, fair wind. My veils have fidgeted all day; now I know why.
+I've been looking for your face in every walker-shaped shadow. Hello!
+Hello, friend of my heart. You look tired. Stay and be looked after a while.
+You're here! Good. I'd started to worry the ground had kept you.
+Come, hover beside me. Stand, I mean. You'd think I'd remember by now.
+Nobody laughs at my jokes the way you do. Others laugh, but not the same. Hello, dear one.
+Oh, you. Whatever kind of day it's been, it just got better.
+
+## greet.band.best
+My walker, my Veil-Kin, my dear! Fair wind, fair wind.
+You're home. I mean it: anywhere in {village}, you're home.
+{player}! Now the sky's whole again. Hello, dearest.
+Hello, family. Don't make that face. You are, and that's settled.
+Oh, my heart. Come here. I'd wrap a veil round you if you'd let me.
+I leave a lantern lit at my nest for you every night, in case you ever need it.
+Every dawn I count, and every dawn I hope you're in it.
+The whole village knows I've a soft spot for you. I've stopped pretending otherwise.
+Fair wind, my own. Come close and tell me how your feet are. And your heart.
+You came back to me. You always do, and I'm glad every time as if it's the first.
+The Courtesy says welcome a walker. It says nothing about loving one, so I made my own rule.
+There you are, there you are. Everything in me went high the moment I saw you.
+One sky, you and I. Hello, dearest walker.
+I've kept a spare cushion in my nest for you. You'd sleep on it all wrong, but still.
+Come here and let me fuss. That's what family's for.
+{partner} says I light up like the Lantern Spire when you visit. They're right.
+If you ever fell, I'd be the first one diving. You know that, don't you?
+Fair wind, heart of mine. Stay as long as the sky lets you.
+
+## greet.personality.dreamer
+I was just wondering how far down the ground goes, past the dirt. All the way to... somewhere. Sorry. Hello.
+Fair wind. Have you noticed that clouds look like they're thinking? I was thinking with them.
+Hello... I was counting the islands' shadows and lost count at a beautiful one.
+You've come from below, where the rain lands. What does it sound like, landing?
+Do you think the stars are other villages, very far up? I like to think they sing too.
+Oh! I was half a dream away. Stay a moment, walker; I'm nearly back.
+The horizon's the only place the sky and the ground ever touch. I'd like to see it up close one day.
+There's a cloud down there shaped exactly like a sigh. Can you see it? No... it's gone now.
+You rose all that way through the sky. What did it feel like? Was it like waking?
+Hello, {player}. I was listening to the wind harps and forgot which of us was humming.
+Do you think the moon gets lonely? No village to keep it company, all that way up. Oh, hello.
+Mm? Sorry, I was somewhere over the edge of the world. It's lovely there, I think.
+
+## greet.personality.merry
+Ha! A walker! Watch, watch: a loop, just for you. There. Hello!
+Fair wind! Race you to the Bell Pagoda. Oh, you'd lose. Never mind!
+You've caught me in a good mood. I'm always in a good mood, so that was easy.
+Look who's walked in! Did you bring a joke? I've three, and they're all about walkers.
+There you are! I bet {friend} a peach you'd come today. Thank you for the peach.
+Quick, pull a face at {neighbour} while they're not looking. No? Spoilsport. Fair wind!
+Ah ha, a visitor! I'm terrible at hiding my delight, so I won't even try.
+Clump, clump, clump down the bridge! I heard you long before I saw you. Hello!
+I've been laughing all day and I can't remember why. Help me find it again.
+Fair wind, {player}! A game? You stand there and I'll fly circles round you. You win if you don't get dizzy.
+Oh, good, company! The koi have stopped laughing at my jokes.
+You look like someone who needs cheering. No? Then I'll cheer you anyway.
+
+## greet.personality.gentle
+Hello, dear. Are you warm enough? The wind's sharper up here than walkers expect.
+Fair wind. You look a little tired. Rest your feet a moment; there's no hurry.
+I'm glad you came up. Did the Wind Stone set you down gently?
+Come in out of the wind, if you like. I'll keep it off you with my veils.
+Have you eaten, walker? There's always a peach for a guest.
+Mind the bridge edge, won't you? I worry about walkers near edges.
+Ah, you. It's nice to see a kind face. Kinder still, up close.
+Take your time. I'm in no hurry, and the sky isn't either.
+Oh, hello, {player}. Your cheeks are wind-pinched. Let me hover on the windward side.
+Whatever kind of day it's been down below, it's quieter up here. Stay a while.
+Breathe slowly, dear walker. The air's thin this high, and you're not used to it.
+A gentle wind to you. The old ones used to say that instead of hello. I like it better.
+
+## greet.personality.shy
+Oh. Hello. I didn't... hello.
+Fair wind... if that's all right to say to a walker.
+Oh, h... hello. Sorry. I'm not good at the first part.
+You. Hello. I'll just... stay a little over here, if you don't mind.
+I wasn't hiding. Well. A little.
+Fair wind. You don't have to talk much. I won't either.
+Um. Hello, {player}. I remembered your name. Is that strange?
+A walker... hello. You're very... solid.
+My veils go pink at the tips when I'm nervous. They're always pink at the tips. Never mind.
+Ah. It's nice you came over. I think. Yes. Nice.
+I was going to say something clever, and then you were here.
+Hello. I'll get used to you. Give me a few dawns.
+
+## greet.personality.proud
+Fair wind, walker. You stand in {village}, the finest village in the high sky. Do look around.
+Ah, a visitor. You'll find our bridges the best-made in any sky. Built for you, I might add.
+You may admire the veils; everyone does. They're woven right here, you know.
+A walker, come all the way up to us! Well, of course you did. Who wouldn't?
+Mind your boots on the gilded trim. It's older than your grandparents.
+We greet the wind before we greet guests. You came a close second today.
+Have you heard our Evensong? No? Then you haven't heard singing yet.
+Ah, {player}. Your manners are improving. For a walker, I mean that warmly.
+Every bridge, every lantern, every door here is a courtesy to you. I hope you notice.
+These veils came off the best loom in {village}. You may look closer, if you like.
+Our harps are tuned to the wind each morning. Down below, do your bells tune themselves?
+Stand up straight; you're in the high sky now. There, much better. Hello.
+
+## greet.personality.restless
+Don't mind me circling. If I stop moving I'll float off in a sulk. Hello!
+Fair wind! Where've you been? Further than here? Tell me, tell me.
+You've seen the world from the bottom. I want to see all of it from the top.
+I was about to fly off somewhere, anywhere. You'll do instead, for now.
+Fair wind, {player}. Have you been past the mountains? What's past the mountains?
+{village}'s lovely, but it's the same lovely every day. Tell me something new.
+I flew three islands out today and it still wasn't far enough.
+You've dust on your boots from somewhere. Where? Hello, by the way.
+The horizon's been calling all day. Talk loudly, or I might answer it.
+Do you ever just keep going, walker? Past the edge of every map? I dream of it.
+Quick: one story from far away, and then I'll let you go.
+There's a whole sky out there no Cirri has sung in. Sorry. Hello. I get carried away. Literally.
+
+## greet.personality.busy
+Hello! Yes, I see you, just a moment, hold that thought. Right. Hello!
+Fair wind! Walking and talking? I'll fly and talk. Keep up.
+Mind the basket. And the thread. And that bit of cloud. Hello!
+Ah, {player}, good. One moment. Two. There. What is it?
+I've four things to do and you've just become the fifth. A nice fifth.
+Fair wind, fair wind. Can't stop long; the day's running ahead of me again.
+Hand me... no, you can't reach. Never mind. Hello!
+Oh, a walker with both hands free. Just looking. Hello.
+If I seem distracted, it's because I am. Very glad you came, though.
+Talk quickly, I'll listen quickly, and we'll both be home before dusk.
+Mind the bridge, mind the peaches, mind me: I'm everywhere at once today.
+Nearly finished. Nearly. That's a fib, but hello.
+
+## greet.personality.wise
+Fair wind, walker. The old ones said a guest is the wind's own gift. Let's see what it's brought.
+Keep your veil whole and your heart light, we say. You've no veil, so your heart must do double.
+A walker on the high bridges. Long ago, that would have been a story told for a year.
+Sit with an old soul a while. Stand, rather. The words are the same.
+Hello, {player}. I've seen many dawns. Few of them brought someone as curious as you.
+The first windkeepers set the Wind Stone for you, you know. Not you exactly. But you.
+The sky is wide enough for everyone, as the saying goes. Even for heavy feet.
+Stillness first, then talk. There. Fair wind.
+A light wind carries far; a light word, further. So, a light word: welcome.
+I was remembering a story about the first walker who ever came up. I'll tell it you someday.
+You look like someone with a question. The old ones say those are the best guests.
+Never trust a still day, we say. You've stirred this one nicely.
+
+## greet.personality.curious
+A walker! What does the ground feel like? Is it warm? Does it move?
+Fair wind! Can I ask you something? How do you know which foot goes first?
+What's that on your feet? Do they come off? Do your feet come off?
+Is it true walkers swim? On purpose? In water?
+Hello, {player}! Tell me one thing about the ground I don't know. Just one. Then maybe nine more.
+When you fall over, does the ground catch you every time?
+Show me how you climb stairs. Slowly. I want to understand.
+How many walkers are there? Do you all know each other?
+What do walkers dream about? Falling? Or the opposite?
+Is it loud down there, under the clouds? I imagine it's very loud.
+Hello, hello! I've a list of questions. It's a long list. You don't mind lists?
+Why do walkers always look down when they walk? Is the ground very interesting?
+
+## greet.routine.work
+Hands full, as you see. A {job}'s work is never quite done. Hello!
+Fair wind! Mind where you step; I've half a day's work spread round me.
+Come and watch, if you like. Walkers always find our work so strange.
+A visitor at the work hour. Talk away; I'll keep my hands busy and my ears open.
+You've caught me mid-task, walker. It'll keep. Most things keep, up here.
+Do walkers work all day too? You must. You look like you do.
+I was just getting the rhythm of it. Never mind, the rhythm will wait. Hello.
+Being the {job} is a good life. Busy, but good. What's yours?
+Work goes faster with company. Or slower, but nicer.
+Ah, {player}. Perfect timing: I needed a reason to stop and stretch my veils.
+You'll forgive me if I keep at it while we talk? The wind waits for nobody.
+Everyone in {village} has their part, and this is mine. What's your part, walker?
+
+## greet.routine.gather
+Come and join us! Half of {village} is hovering about the Veil Court.
+Fair wind! We were just chatting over the court. Walkers welcome, always.
+A walker in the gathering! Everyone's going to want a look at you.
+The court's the heart of the village. Best place to meet anyone. Hello!
+You found us. When the work's done, the court fills up like a cloud fills with rain.
+We've been arguing about which wind is kindest. Want to take a side?
+Don't mind the crowd. They only stare because they like you. Mostly.
+Hello, {player}! Come stand in the middle where everyone can see you.
+Oh, hello! I was just telling {neighbour} the oddest thing. You'll hear it too.
+The court's warm at this hour, and the gossip's warmer.
+Gathering's how we keep the village knit together. Like weaving, only with talk.
+I came here for a little quiet and found the whole village. Now I've found you too.
+
+## greet.routine.soar
+Whoosh! Hello! I was mid-swoop when I saw you.
+Fair wind! I've been round the village twice, and now I'm round to you.
+I was soaring so fast I nearly flew right past you. Hello!
+The air's good today. I've been riding it in long, lazy arcs.
+Give me a moment; my veils are still catching up with me.
+From up there you looked like a little dot on a bridge. You're much bigger up close.
+There's nothing like a long glide to clear the head. Have you ever... no. Sorry.
+Spotted you from three islets off! Walkers are easy to find; you don't move about much.
+Hello, {player}! I was looping the Lantern Spire. Did you see? Say you saw.
+I've been flying since the last bell, and I could go on all day.
+Down from the high air! It's colder up there, but so quiet.
+I needed a rest anyway. You make a good place to stop, walker.
+
+## greet.routine.chat
+I was just chatting with {neighbour}. They won't mind; they've heard all my news.
+Fair wind! You've interrupted the best bit of gossip, but I'll forgive you.
+{friend} and I were just talking about you. Nothing bad. Mostly good.
+A walker joins the conversation! Now it's a proper one.
+We were deciding whose peach tree is luckiest. You can settle it.
+Sorry, I was halfway through a story. I'll finish it later, or never.
+Oh, hello, {player}. I'd just said no walker had come by today, and here you are.
+I've talked {neighbour} into a corner of the sky. Rescue them by talking to me instead.
+The talk was all about the weather. It's always about the weather, up here.
+Mind you, everything I was just saying was true. Probably.
+Ah, a fresh pair of ears! The old ones were getting tired.
+I was telling everyone what walkers eat. Is it true you cook things? Over fire?
+
+## greet.routine.evensong
+Shh... oh, hello! You've come during the Evensong. Stand quietly with us.
+Fair wind. We're singing the day down. You can hum, if you know how.
+Isn't it beautiful? Every voice in {village}, all at once.
+A walker at the Evensong! Stay, stay, the best verse is coming.
+My voice is still ringing. Did you hear the harps lead us in?
+Fair wind, {player}. We've sung the sun under the clouds. Now we sing the stars up.
+Sorry, I'm all full of song. It takes a moment to come back to talking.
+You came for the singing. Good. I'd sooner miss a meal than miss the Evensong.
+Listen: that's Vell taking our song to the next village. Sometimes theirs comes back to us.
+Have you a song where you come from, for the end of the day?
+You're the first walker I've seen stay for the whole Evensong. Or most of it.
+Stand right under us. It sounds best from below, so walkers tell me.
+
+## greet.routine.escort
+Oh, hello! I've just come back from the Old Singer. My ears are still full of its song.
+Fair wind! Did you see it? The whale! I swam beside it all the way to the far clouds.
+I'm all dew and wonder. I was flying with a Cloud Whale, and it hummed right through me.
+You should have seen it, walker: so big the clouds on its back had their own little weather.
+Sorry, I'm still breathless. We sang back to it, and it answered.
+Fair wind, {player}! A blessing today: an Old Singer passed and let us fly beside it.
+I touched its fin. Just with a fingertip. It was warm, like a cloud that's sat in the sun.
+The whale's gone on now, east... or west... somewhere wonderful.
+My veils still smell of whale-cloud. Sweet, and a little like rain.
+When an Old Singer passes, a whole season's weather gets sung. I helped. A little.
+I'm back from the whale. I think I'm back. Part of me's still out there.
+Have you ever been that close to something so old and so gentle? It makes you very quiet inside.
+
+## greet.routine.shelter
+Oh! Hello. Come in out of it, quickly. The lightning's walking the clouds.
+Shh, hello. I'm sheltering. Everyone is. Storms are no place for a Cirri.
+Fair wind... well, foul wind. Stay close to the walls, walker.
+Forgive me if I jump. Every rumble goes right through my veils.
+Oh, it's you. I thought the thunder had knocked. Come under the roof.
+Hello, {player}. We hum when the storm's overhead. It helps. Would you hum with me?
+The bell gave its long peal before this came, so we're all tucked in. Hello.
+Don't stand out in the open. Lightning loves a tall thing, and you're a tall thing.
+I'm all curled up. Storms make me feel very small and very high.
+You're brave to be out in this. Or a walker. Perhaps both.
+In a storm, the nest is the whole world. Come in and share it.
+When it's over, the air will smell new. Until then, we wait.
+
+## greet.routine.idle
+Oh, hello! I was just hovering. It's a talent; I'm very good at it.
+Fair wind! Nothing to do and nowhere to be. The best kind of hour.
+Watching the clouds go by underneath, that's all. They never hurry, so neither do I.
+A walker! The idle hour just got interesting.
+I've been floating here so long the koi think I'm part of the view.
+Fair wind, {player}. I'm doing nothing at all. Want to join me?
+I was choosing between a nap and a peach. You've chosen for me: neither. Talk.
+Just drifting. Even the busiest Cirri need a little drift.
+Listen to the chimes arguing with the wind. The wind's winning, I think.
+A light breeze, a slow day, and now a visitor. Perfect.
+If anyone asks, I was very busy until you came.
+So much nothing to think about today. I nearly made it into something.
+
+## greet.weather.rain
+Mind the bridges, they're slick. Rain's running off the roofs in silver threads.
+Fair wind, wet walker! Come under the veilcloth; we'll drip together.
+My veils are soaked through. Heavy veils make for slow flying. Hello, though.
+The rain's falling past us all the way down to your fields. Lucky fields.
+Isn't it odd, watching the rain fall away below you forever? Hello!
+Koi love this weather. Look, they're leaping for the drops.
+Hello, {player}. Damp days are good days for the looms; the cloud combs out soft.
+You look like you've been wrung out. Stand under the awning a while.
+Don't your shoulders get tired, carrying all that wet about?
+The harps go soft and blurry in the rain. Listen.
+At least the rain isn't cold. Warm rain is half a bath.
+Every roof in {village} is ringing a different note. Rain makes a harp of the whole village.
+Pouring out their hearts, the clouds are. We let them.
+Wet veils, wet bridges, wet walker. At least the peaches are happy.
+Rain above, cloud below. On days like this the village is a damp little secret between them.
+
+## greet.weather.thunder
+Oh! Did you hear that one? Right over the Bell Pagoda.
+Please come in from the open, walker. Lightning hunts the high places.
+Fair... oh, there it goes again. Sorry. I'm not good with storms.
+Hello, {player}. Stay close. Things are less frightening with two.
+Shh, hello. We're all keeping low and quiet till it passes.
+The bell gave us warning, and still I jump at every crash.
+A walker, out in this? Your feet must make you brave.
+I keep counting between the flash and the rumble. The counts are getting shorter.
+Fair wind... I wish there were some. This is all crash and dark.
+The children are humming in the nests. You can hear it between the thunder, if you listen.
+Forgive my veils. They curl up tight in a storm, all on their own.
+Old Cirri say the Old Singers are quarrelling when it thunders. I hope they make up soon.
+That one nearly shook the chimes off their hooks!
+Don't stand near anything iron, walker. Please. I mean it.
+Quickly, inside. The lantern's lit. Storms are kinder from behind a wall.
+
+## greet.weather.snow
+It's snowing past the islands! The whole sky's full of falling lace.
+Fair wind, cold walker! Snow at this height bites. Are your hands all right?
+Look, snow's caught in my veils. I'm half a snowcloud now.
+The koi have gone sleepy and slow. They don't love the cold, poor things.
+Snow! I've been catching flakes since I woke. They taste of nothing at all, beautifully.
+Hello, {player}. Snow makes everything so quiet, even the bridges stop creaking.
+Our breath and the clouds look the same today. Hello.
+Snow falls past us and lands on you lot below. Does it pile up? Do you mind?
+The lanterns look lovely through the snow. Everything glows twice.
+Mind your step, walker. Snow sits on the bridges like a cushion, a very slippery cushion.
+Wrap up, walker. I'd lend you a veil, but you'd only trip on it.
+The harps sound brighter in the cold, like little bells.
+Peach trees in snow! The gardeners are fretting. I'm admiring.
+Every flake comes down from somewhere higher than us. Isn't that strange to think?
+Snow and a walker in one day. It's turning into a day of wonders.
+
+## greet.wind.aure
+Fair wind! Aure has the sky today: gentle, dewy and kind. A good day to meet.
+Aure's blowing from the east. Everything smells of morning, even now.
+Aure's day, walker. Soft wind, soft words. Hello.
+Hello, {player}. Aure keeps the dew on things all day, so mind the wet bridges.
+An Aure day always feels like the world's only just woken up.
+Aure's in a gentle mood. The harps are barely humming.
+Fair wind, and fair Aure! Greet the wind too, walker; it's only polite.
+The east wind's here, light as a breath. Nothing bad happens on an Aure day. Usually.
+Aure has the sky! My veil-tips are all damp and I don't mind a bit.
+With Aure blowing, even the clouds below look freshly washed.
+
+## greet.wind.sefa
+Fair wind! Sefa has the sky: warm and lazy, and smelling of peaches.
+Sefa's day. Everyone's flying slow and smiling. You will too, soon.
+Ah, the south wind. Sefa makes the whole village drowsy. Hello, walker.
+Fair wind, {player}! Sniff: that's Sefa. Peach blossom and warm cloud.
+On Sefa days the peaches ripen twice as fast. Or it feels that way.
+Sefa's blowing and I'm in no hurry at all. Take your time.
+The south wind's sleepy and so am I. Talk softly.
+Fair wind, and a warm one. Sefa's the kind of wind you could nap on.
+A Sefa day and a walker visiting. Life's sweet.
+Even the koi are lazy on a Sefa day: floating, mouths open, waiting for something to fall in.
+
+## greet.wind.vell
+Fair wind! Vell has the sky. You'll hear songs from far off today; it carries everything.
+The west wind's blowing, so every harp in {village} is a little louder. Hello!
+Vell's day, walker. Listen: you can almost hear the next village humming.
+Vell makes me want to sing all day. I've been trying not to. Mostly.
+Fair wind, {player}. With Vell blowing, the Evensong will carry for miles.
+Vell's blowing from the west, all evening colours, even at midday.
+The west wind's mellow today. Good for long talks.
+Vell carries voices, so be careful what you say: the whole sky's listening.
+A Vell day makes everyone a little wistful. Me especially.
+Vell has the sky! The chimes have been singing since I woke.
+
+## greet.wind.borre
+Fair wind... though Borre has the sky today, so perhaps not so fair.
+The north wind's here, sharp as a needle. Keep your collar up, walker.
+Borre's day. Hold tight to the rails; Borre likes to snatch at walkers.
+Cold now, stormy later, likely. That's Borre for you. Hello.
+Hello, {player}. Borre's bitten my veil-tips numb.
+Borre's blowing, so everyone's flying close to home today.
+Brr. Borre. Talk fast and we'll both stay warm.
+The bellkeeper's watched the north all day. On Borre days, you never know.
+Borre's sharp, but honest. You always know where you stand with the north wind.
+On a Borre day the clouds below go grey and hurried. I don't blame them.

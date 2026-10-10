@@ -5,7 +5,7 @@
 	"name": "Sky Friends game tests",
 	"environment": "*",
 	"entrypoints": {
-		"fabric-client-gametest": ["dev.skyfriends.test.CirriClientTest", "dev.skyfriends.test.SkyWorldClientTest"]
+		"fabric-client-gametest": ["dev.skyfriends.test.CirriClientTest", "dev.skyfriends.test.SkyWorldClientTest", "dev.skyfriends.test.TalkClientTest"]
 	},
 	"depends": {
 		"skyfriends": "*"

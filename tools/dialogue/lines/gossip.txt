@@ -1,0 +1,313 @@
+# The village talks about itself. News, matters of the heart, and a word about someone after a chat.
+# news.* lines are filled with real names: {who} (and {other} where the pool says so). heart.* and mention.* use
+# {partner} {spouse} {crush} {child} {friend} {coworker} {neighbour}.
+
+## news.born
+Have you heard? {other} has a baby! Little {who}, born at dawn with the bell. Tiny veils, no longer than a peach leaf.
+{who} is the newest Cirri in {village}. {other}'s little one. I've only seen a nose and a bit of veil so far, but it's a very fine nose.
+The weavers are already measuring cloud for {who}'s first little veils. {other} says there's no hurry. The weavers say there's always a hurry.
+{other} hasn't slept since {who} arrived. Nobody in that nest has. You can hear {who} from the Bell Pagoda, bless those little lungs.
+A new baby! {who}, {other}'s. The whole Veil Court sang the welcome-song last night. You should have heard it. {who} slept right through, of course.
+I flew past {other}'s nest this morning and there was {who}, bobbing over the cushion like a seed on the wind. Brand new. The sky's never had a {who} before.
+The old ones are already arguing about which wind {who} takes after. {other} says {who} takes after the cushion, mostly. Sleeps all day.
+Did you hear? {other} has a little one now: {who}. Bring a peach if you visit. Not for the baby. For {other}.
+There's a new name in the Evensong: {who}. {other}'s baby. Born small, with a great big voice. We'll have to make room in the ring.
+{who} has arrived, and {other} is so high nobody can get them back down to the court. Everyone's been by with honey and flowers. I took a Sky Scale. For luck.
+
+## news.grew_up
+{who} had the Lengthening! The weavers wove those long veils all night, and at dawn {who} flew the full ring of {village} without stopping once. Grown, just like that.
+Have you seen {who}'s new veils? Long as a bridge. {who} keeps looking back at them, as if they might fly off on their own.
+It was {who}'s Lengthening this week. Only yesterday a little thing with veils like hair ribbons, and now look. The sky does that. Blink and they're grown.
+{who} is grown now. The Lengthening was lovely: the whole village round the Loom House, the weavers singing, the new veils lifted out on the wind. I cried. Everyone does.
+{who} grew up! First thing {who} did with the long veils? A loop round the Lantern Spire. Second thing? Got tangled in a skywood. A proper grown-up already.
+Big news: {who} has the long veils now. Sky blue at the root, rose at the tips, a thread of gold all down the edges. The weavers outdid themselves.
+You'll see {who} flying higher than usual for a while. New long veils do that; you can't help showing them off. I did it for a whole month.
+{who}'s grown up and wants a job already. Harpist, gardener, windkeeper, all of them, by turns, before noon. We'll see where the wind puts {who}.
+The children are sulking: {who} had the Lengthening and won't play their games any more. Too grown for 'mind the clouds', apparently. That'll last about a week.
+{who} grew up. It feels like yesterday {who} was asking me why walkers don't fall over. Now {who} talks about the winds as if they were old friends.
+
+## news.passed
+{who} went up past the blue. Quietly, at dusk, while the Evensong was being sung. Of all the times to go. I think {who} would have liked that.
+We lost {who}. Gone up past the blue. The weavers took {who}'s veils out to the Wind Shrine, the way we do. The sky feels a size bigger, and not in a good way.
+{who} has gone up past the blue. I keep looking for {who} at the koi pool. Old habits are the last to fly off.
+Did you hear about {who}? Gone up. Past the blue. Don't be sad for {who}; there's nothing heavy up there. Be a little sad for us.
+The bell rang slow for {who} this morning. Gone up past the blue. 'Keep your heart light,' {who} always said, usually with a mouthful of peach. I'm trying.
+In the night, {who} went up past the blue. The wind was very gentle. The old ones say it always is, for the good ones.
+Nobody's sung much since {who} went up. The harps keep playing on their own, though. The wind remembers {who} too.
+{who}'s gone, up past the blue. If you knew {who}, sing something tonight. It doesn't matter what. It all goes up the same way.
+{who} went up past the blue. The last thing I said to {who} was something about peaches. I wish it had been more. Peaches will have to do.
+We said goodbye to {who}. Gone up past the blue, on a fair wind. The children asked if {who} can see us from up there. I said yes. I said: wave.
+
+## news.whale
+An Old Singer came by! A great Cloud Whale with three little clouds on its back. {who} flew out to sing with it and came back hoarse and glowing.
+Did you see the whale? {who} swam beside it half the morning, singing. Says it sang back. {who} hasn't stopped humming since.
+A whale passed {village} at dawn, and {who} was first off the rim. I've never seen anyone fly so fast. Blessed for the whole day, you can see it all over {who}.
+{who} sang with a Cloud Whale! Out past the Lift Dock, the two of them, one great voice and one small. The whole village stopped to listen.
+The Old Singer that came by was huge. Bigger than the Loom House. {who} flew right up to its eye and sang the welcome. Brave, or silly. Both are lucky.
+{who} went out to the whale and didn't come back till nearly dark. Says they were singing up a cloud together. See that new one, over there? Probably that one.
+A whale went by low enough to touch, and {who} touched it. On purpose! Says it was warm, like a loaf from the market. I can't stop thinking about that.
+{who} flew out to meet the Old Singer that passed us and came back with one of its little clouds caught in a veil. Lucky thing. We're all jealous.
+Did you hear the singing yesterday? That was {who}, out with a Cloud Whale. The whale did the low part, {who} did the high part, and I did the crying part, from the rim.
+That's {who} for you: a whale on the horizon and {who}'s off the rim before the bell. This one sang along for an hour, they say. {who} won't come down from it.
+Two whales! A big one and a little one, and {who} sang with both. Says the little one sang off-key. Says it was the best thing {who} has ever heard.
+The whale that passed was so slow it took all afternoon to cross. {who} sang with it the whole way, and now {who} can only whisper. Worth it, {who} says. In a whisper.
+
+## news.storm
+Did you hear the storm last night? Borre came through banging every shutter in {village}. We all hummed in our nests till dawn. Nobody slept a wink.
+The storm took two lanterns off a bridge and a whole awning off the Market Pavilion. That awning is three villages away by now. Lucky them.
+Lightning so close yesterday you could smell it. At least the bellkeeper gave us plenty of warning. Everyone's still jumpy. Don't clap behind anyone.
+After the storm the whole village came out to count: veils, lanterns, koi, children. All there. Then everyone laughed for no reason at all. That's what we do, after.
+A storm went over {village} last night. The weavers are mending three torn veils this morning. Somebody tried to fly home late. You can guess how that went.
+The thunder was so loud the harps rang on their own. The Hall of Echoes sounded as if it were screaming. It's quiet now. The harps sound tired.
+The storm's gone, but the koi are still hiding under the lily pads. The gardeners are coaxing them out with crumbs. Koi hold a grudge.
+Were you caught in it, down there? Walkers get our storms after we've had them, you know. It goes down to you when it's done with us. Sorry about that.
+The children were so brave in the storm. They hummed the whole time and only cried a little. The grown-ups cried more. Don't tell the children.
+Never trust a still day: it was still all morning, and then the storm. The old ones said so and nobody listened. Now everyone's listening. For a week, anyway.
+
+## news.visitor
+A walker came up the Wind Stone: {who}! Stood on the Lift Dock holding the rail with both hands for a long while. We all came to look. Very politely.
+Have you met {who}? Another walker, up from the ground on the Stone's wind. The windkeeper was so pleased. The Courtesy doesn't get used nearly enough.
+{who} came up lately. A walker! Asked where the stairs were. We pointed at the sky. {who} didn't find that as funny as we did.
+The windkeeper says {who} came up the Wind Stone and went straight back down. Then up. Then down. Some walkers just like the ride.
+There's been a walker about, {who}. Very heavy feet. You could hear {who} on the bridges from the Bell Pagoda. We liked {who} at once.
+{who} came up the Wind Stone, and the children followed {who} all day, asking to see the bottoms of {who}'s feet. {who} showed them. A good walker.
+A walker called {who} came up lately. Brought string for the Skymerchant and asked a hundred questions. Walkers are all questions. We like that.
+{who}, the walker, came up for the Evensong and stood in the middle of the Veil Court with both eyes shut. Didn't sing. Just listened. That's allowed. That's lovely, really.
+We had a walker up lately, {who}. Looked over the rim and went very pale. Sat on the dock for an hour. The windkeeper brought a peach. Walkers need peaches after heights.
+The windkeeper is still talking about {who}: up the Wind Stone, said fair wind to everyone, kept every bit of the Courtesy. Somebody taught {who} well.
+
+## news.gift
+{other} gave {who} a gift! The very thing {who} loves best. {who} has been showing everyone. Twice.
+Did you hear? {other}, the walker, brought {who} a present. {who} was so high afterwards we had to fetch them down for the Evensong.
+{who} has been floating about all day with a little gift from {other}, smiling at nothing. That's what a well-chosen gift does. Walkers can be very thoughtful.
+{other} found out exactly what {who} likes and brought it all the way up the Wind Stone. All that way, on those feet. {who} nearly cried.
+{who} got a gift from {other} and gave one back, so {other} gave another, and now neither knows how to stop. The sweetest quarrel in {village}.
+A gift from a walker means more, you know. It's come up so far. {other} gave one to {who}, and {who} swears it's still a bit warm from the ground.
+{who} keeps the gift {other} brought in the nest, right over the cushion, so it's the first thing {who} sees at dawn. Love, that is. For the gift, I mean.
+Everyone's a bit jealous of {who}: {other} brought the perfect present. Hint, hint. If you happen to be passing with something nice.
+{other} gave {who} something lovely. {who} won't say what. Very mysterious. I've seen the shape of it under {who}'s stole, though. I have my guesses.
+{who} told the whole Veil Court about {other}'s gift. Then the whole Market Pavilion. Then the koi. The koi didn't care. Everyone else was very happy for {who}.
+
+## news.struck
+Did you hear? {other} struck {who}. A walker, striking a Cirri, in {village}! We keep the Courtesy for walkers. Walkers are meant to keep one for us.
+{who} is still shaking. {other} struck {who}, right by the Veil Court, for no reason anyone could see. We opened the Wind Stone for walkers. Is that the thanks?
+{other} struck {who}. Out of nowhere. {who} flew straight up and hid behind the Bell Pagoda for an hour. We don't hit, up here. We barely bump.
+Have you heard what {other} did to {who}? Struck them. I won't say more; it makes my veils go stiff. Walkers aren't all like that. Are they?
+The windkeeper is thinking of watching the Wind Stone more closely, after {other} struck {who}. The Courtesy is an old promise. It's hard to keep with a sore arm.
+{who} won't talk about it, but everyone saw: {other} struck {who} on the bridge. On the bridge! The one we built for walkers.
+The children are frightened of walkers again, because {other} struck {who}. It took years to make them curious instead. I'm low about it. Very low.
+{other} hit {who}. I keep saying it and it still doesn't sound true. A whole wide sky to be kind in, and {other} chose that.
+If you know {other}, tell them this from all of {village}: we saw what happened to {who}. We forgive slowly up here. But we remember quickly.
+Poor {who}. {other} struck them, and {who} had only flown over to say fair wind. That's what hurts most, I think. {who} was being kind.
+
+## news.story
+Did you hear what {other} did for {who}? Helped with the thing that mattered most to {who}, start to finish. A walker! We all think the world of {other} now.
+{who} had been carrying a worry for ages, and {other} helped put it down. Just like that. {who} came to the Evensong singing louder than anyone.
+{other} helped {who}, and not with something small. With the thing {who} loses sleep over. Walkers have strong hands. It turns out they have kind ones too.
+{who} told me everything about how {other} helped. Twice. With a great deal of waving. I'd like to meet {other} one day, and say thank you for all of us.
+You'll hear {other}'s name a lot round here now. {other} helped {who} when nobody else could. Up here, that sort of thing gets made into a song.
+{who} is high as a lantern since {other} helped out. It mattered so much to {who}. We'll put {other} in tonight's new verse of the Evensong, I expect.
+What {other} did for {who}... well. {who} cried at the koi pool, the good kind of crying. The koi came up to see what all the fuss was about.
+A walker helping a Cirri with their heart's business: {other} and {who}. It's like something from the old stories, when the Wind Stones were new.
+{other} helped {who}, and {who} has been trying to repay it ever since. Peaches, honey, a Sky Scale. {other} keeps saying there's no need. That only makes {who} try harder.
+{who} says {other} is the best walker who ever came up the Wind Stone. I said, better than every one? And {who} said yes, without even stopping to think.
+
+## news.none
+News? The koi had a disagreement this morning. Nobody won. That's the biggest thing that's happened all week.
+Nothing much. A quiet sky. The bell rang at dawn and it'll ring at dusk, and in between we all ate peaches.
+No news in {village}. Clouds came, clouds went. Somebody lost a ribbon. Somebody found a ribbon. It might have been the same ribbon.
+Quiet days are good days, up here. No storms, no whales, no fuss. Just the wind and the harps and the koi going round.
+Nothing's happened. I keep waiting for something to, but the sky's just being the sky. It isn't a still day, mind. Only a quiet one. There's a difference.
+News? Let me think. The weavers ran out of gold thread and found some more. The lamplighter yawned during the Evensong. That's all I have, I'm afraid.
+It's been very calm. Even the children are calm, which is suspicious. Somebody's planning something.
+No news, only a rumour. Someone saw a whale's shadow, far off. Probably a big cloud. Probably. Keep an eye out.
+Nothing to tell. That's the joy of the sky. You can go a whole week with nothing to tell, and every day of it is still worth flying.
+The biggest news is that the peaches are ripening. Every year, the same news. Every year, we're thrilled.
+Nothing new. The same faces, the same winds, the same songs. It sounds dull to a walker, I suppose. Up here we call it a fair sky.
+News? You're the news, walker. Nothing else has happened. You'll be the talk of the Veil Court tonight. Sorry about that.
+A skywood dropped a branch on a bridge yesterday. Nobody was under it. That was the excitement. We talked about it all afternoon.
+Oh, nothing, nothing. A quiet run of dawns. The bellkeeper's count is up to {day} now, and most of them have been just like this one.
+Nothing worth a song. Not even a hum. Come back after the next whale; there's always news after a whale.
+Nothing new. The lift's been quiet; no walkers but you. The windkeeper has started chatting to the Wind Stone for company.
+Hardly anything. A swallow got into the Hall of Echoes and sang along with the harps for a while. It wasn't very good. We clapped anyway.
+No real news. Someone swore the clouds were going backwards this morning. They weren't. We all watched for an hour, to be sure.
+
+## heart.partner
+{partner} and I have shared a nest for years, and we still fly the Evensong side by side. I could find {partner} in the ring with my eyes shut. By the humming.
+My {spouse}? {partner}. The kindest pair of veils in {village}. When mine tore in a storm, {partner} held it closed all the way home.
+{partner} hums in their sleep. Every night. I used to think it was annoying. Now I can't sleep without it.
+I fell for {partner} at a Lengthening. Not ours, someone else's. I watched {partner} watching the new veils go up and thought: I'd like to be looked at like that.
+{partner} brings me the first peach of every morning. Never says a word, just leaves it on the cushion. I haven't picked my own in years.
+We tied our veils together at the Veil Court, {partner} and I, with the harps playing. The knot slipped at once and everyone cheered. Too tight a knot can't fly, they say.
+My {spouse} is {partner}, and that's the best thing about me. Don't tell {partner} I said so. It'll go straight to their veils.
+Love? It's {partner} flying beside me on a long day, saying nothing. That's it. That's all it is. That's everything.
+{partner} and I argue about the winds. I'm for Aure; {partner} says Sefa. We've been at it for years. It's the best argument I've ever had.
+When I'm low, {partner} sings me the silly verse of the Evensong until I laugh. It takes about four goes. {partner} is very patient.
+A secret: I still get a flutter when {partner} comes home at dusk. All these dawns, and still. Isn't that something?
+{partner} is braver than me. In a storm once, {partner} flew out to bring the children home while I kept the nest humming. I'll never forget it.
+My {spouse}, {partner}, can't hold a tune. Not one note. I married {partner} anyway. That's how you know it's love, up here.
+Every Cirri needs someone to untangle their veils after a long flight. Mine is {partner}. Gentle hands. A little slow on purpose, I think.
+{partner} and I met on the bridge to the Cloud Garden, feeding the same koi from either side. That koi got very fat that month.
+I think I'd go grounded without {partner}. Not truly. But in the heart. You know.
+Our nest is small, but {partner} fills it. With humming, with laughing, with peach stones. Mostly peach stones.
+Did you know {partner} courted me with a Sky Scale? Searched the koi pool for days. Found one in a skywood, of all places. Koi are mysterious.
+Ask {partner} about me and you'll get a very long answer. Ask me about {partner} and I'll just go pink. There. I've gone pink.
+When we're old and our veils are thin, {partner} and I are going to drift out to a Wind Shrine and listen to the harps all day. We've planned it. It's a good plan.
+{partner} and I fly home the long way every evening, right round the rim. It adds a light breeze to the trip. Neither of us has ever once suggested the short way.
+Before {partner}, I thought the sky was enough. It was a great deal. It wasn't enough.
+My {spouse} keeps every peach stone I've ever given them in a little bowl. Every one. {partner} says it's a calendar. I say it's a lot of peach stones.
+
+## heart.single
+No one yet. The sky's wide; I'm in no hurry. Someone will fly alongside one day and simply keep flying.
+Me? Nobody. A nest for one, a cushion for one, a whole sky for one. Some evenings it's plenty. Some evenings it's a lot of sky.
+Not yet. The weavers keep asking when they'll get to weave a nest-hanging for me. I keep telling them: weave slowly.
+Love? I'm waiting for the right wind. Everyone says you know it when you feel it. Like a whale passing: you hear it in your chest before you see it.
+Nobody special. The koi love me, if that counts. They seem to think it does. I'm less sure.
+I'm on my own, and that's all right. It's a lot of sky for one, but I've learned to fill it. With songs, mostly.
+No one. I tell myself it's because I'm too busy. Then I fly past the couples at dusk and I'm not busy at all.
+Love is a bit like weather, isn't it? You can read the signs all you like. It still turns up when it wants.
+Anyone special? Not yet. But there's a nest-shaped space beside mine, if you see what I mean. I keep it tidy.
+I tried courting once. I sang outside a nest at dawn, very bravely. It was the wrong nest. They were very kind about it.
+I'm too fond of flying far to stay put in one nest. Maybe one day someone will fly far with me. That's the dream: someone restless enough.
+Not yet. I'm still learning to love my own company. It's going well. I'm very charming, it turns out.
+There's no one. Don't look sad for me. Sky peaches, good friends, the Evensong. My heart is full. It just isn't full of one person.
+Love? I think about it. Who'll hum me back to sleep when I'm old. Then I think: someone will. Someone always does, up here.
+Not yet, and that's fine. The best things up here come slowly: peaches, veils, friends. Love's probably one of the slow ones.
+No one. I'm a bit shy about it, to tell the truth. Every time someone nice flies near, my veils go stiff and I talk about the weather.
+No sweetheart for me. I always fall for the ones who fly off: walkers, travellers, whales. I've a weakness for anything that's leaving.
+Have you got someone, {player}? Down there? I hope so. Somebody to come home to, at the bottom of all those stairs.
+Nobody. But the old ones say love comes on Vell, the evening wind, the one that carries songs. So I sing at dusk. Just in case Vell's listening.
+Not yet. I'm saving my best Sky Scale for whoever it turns out to be. It's in a little pouch by the cushion. Waiting. Same as me.
+Nobody, and my parents remind me of it at every Evensong. 'Look, so-and-so's on their own.' I look. I wave. I go back to singing.
+I had someone once. We flew different ways in the end. No harm in it; the sky's like that. I still hum our tune sometimes, on quiet days.
+Is there anyone? No. Is there anyone you'd recommend, walker? I'm only half joking. A third joking.
+
+## heart.crush
+Special? N-no. Well. There's {crush}. Don't say anything! {crush} just has the loveliest humming in {village}, that's all. That's all it is.
+Can I tell you something? I'm sweet on {crush}. I've been feeding the koi at the same time every morning so I'm there when {crush} is.
+{crush}... oh, did I say that out loud? Forget it. Fly off. No, wait, come back. Do you think {crush} likes me? Even a little?
+I flew into the Lantern Spire yesterday. Because {crush} waved at me. Don't laugh. All right, laugh a little.
+Every Evensong I end up next to {crush} in the ring. It's an accident. Every time. Very lucky accidents.
+I've been trying to write a song for {crush}. I have the first line. It's {crush}'s name. I'm stuck on the second.
+There's someone. {crush}. When {crush} flies past, my veils go all fluttery and I forget the names of the winds. All four.
+Don't tell, but I braided a bit of gold into my veil-tips this week. In case {crush} noticed. {crush} didn't. I'll try rose next.
+{crush} said my veils looked nice. Three days ago. I've been very careful with them since. I've hardly flown.
+Is it silly to be sweet on someone who doesn't know? I'll tell {crush} one day. One windy day, so the words blow away if they come out wrong.
+Shh. {crush} is just over there. Don't look! ...You looked. Now {crush} is looking. Oh, sky.
+My heart has gone and flown off after {crush}, and I can't call it back. It doesn't listen. Hearts are worse than koi.
+I asked the windkeeper which wind is best for courting. Vell, they said. So on the next Vell day I'll... say hello to {crush}. Properly. That's the plan.
+{crush} likes glow berries. I know that. I don't know why I know that. I just happen to have picked some. They're in my sash.
+You know {crush}? What do you think of {crush}? No reason. I'm asking for a koi.
+When {crush} sings at the Evensong, I forget my part. Every time. The harpists have stopped asking why.
+{crush} borrowed my veil-comb once and gave it back the next day. I haven't used it since. Is that strange? That's strange.
+
+## heart.parent
+{child} is the light of my nest. Yesterday {child} asked me where the sky ends. I said it doesn't. {child} said, then where does it go? I'm still thinking.
+My little {child} did a loop today! A whole one! Then flew straight into a peach tree. But a whole loop first.
+I worry about {child} near the rim. All Cirri parents do. Those little veils are so short, and the ground's so far. I know {child} will be fine. I still worry.
+{child} has started asking about walkers. Everything about walkers. Your feet, your stairs, your fires. I think {child} is going to be trouble. The good kind.
+Every night I hum {child} to sleep, and every night {child} hums back, half a note behind, until we're both asleep. The best part of my day.
+Being {child}'s parent is like holding a wind harp in a gale. Beautiful noise, all the time, and you can't put it down.
+I already dream about {child}'s Lengthening. The long veils, the whole village watching. I'll cry. I'm practically crying now. Look away.
+{child} goes shy with walkers, then asks about you after you've gone. Every time. 'Where's the walker now? Do walkers dream about falling?'
+{child} brought me a flower from the Cloud Garden this morning. Pulled it up by the roots. The gardeners weren't pleased. I was.
+Love? It's {child} curled over the cushion, veils tangled up in mine, breathing little puffs. I didn't know I could love like that.
+{child} keeps a Sky Scale under the cushion for good dreams. It works, {child} says. I keep one too. Don't tell {child}. We're a family of believers.
+{child} is going to be a harpist. Or a windkeeper. Or a whale. That last one was this morning. We're keeping our options open.
+When {child} was born the whole village sang. I didn't. I couldn't. I just held on to {child} and listened to everyone singing for us.
+{child} laughs exactly like {partner}. It catches me every time, right under the ribs.
+I'm teaching {child} the Evensong. {child} knows all the words. In the wrong order. It's my favourite version now.
+One day {child} will fly off, the way young ones do. I'll wave from the rim. Then I'll follow a little way. Then I'll stop. I think.
+{child} is braver than I ever was. Flew right up to an Old Singer and said hello. The whale said nothing. {child} has decided it was shy.
+If you see {child} near the edge, would you call out? Not to scold. Just so {child} knows someone's looking. That's all a little one needs.
+{child} asked why we never land. I said: because the sky would miss us. {child} thought about it and said, 'Then the ground must be lonely.'
+Some days {child} wears me out completely. Then {child} falls asleep mid-sentence, veils drifting, and I'd do every second of it again.
+{child} wanted to know what the ground smells like. Rain and roots, I'm told, I said. {child} has been sniffing everything since. Including me.
+I've mended {child}'s veils three times this week. Three! Tumbling about in the skywoods. I'm not cross. I'm a little proud. Mostly cross.
+{child} said 'grounded' at supper, just to see. The whole nest went quiet. Now {child} whispers it, very solemnly, like the worst word in the sky. Which it is.
+
+## mention.partner
+{partner} would tell you I talk too much. {partner} would be right.
+Speaking of which, {partner} owes me a peach. Don't let {partner} tell you otherwise.
+{partner} has been humming the same tune since dawn. Now I'm humming it. It's catching.
+If you see {partner}, say I'm keeping the warm side of the nest.
+{partner} found a Sky Scale this morning and gave it straight to me. Can you tell? I'm glowing a bit.
+{partner} flew home late again last night. Something about a whale. It's always something about a whale.
+My {spouse}, {partner}, says hello. Well, {partner} would, if {partner} were here.
+{partner} is in one of those moods where everything is very funny. I've been laughing since the bell.
+Oh, and {partner} got tangled in the skywoods again. Second time this week. I keep the veil-comb handy.
+{partner} thinks you're very interesting. Don't let it go to your head.
+I left {partner} asleep this morning, curled up like a little cloud. I couldn't bear to wake them.
+{partner} is learning the harp. Slowly. Very slowly. The whole nest knows every wrong note.
+{partner} says Borre's coming soon. {partner} can smell a storm a day off. It's uncanny.
+Have you met {partner}? You'd like {partner}. Everyone does. It's a bit maddening.
+{partner} made me promise to be home for the Evensong. As if I'd miss it.
+
+## mention.child
+{child} wants to know if you've any more walker stories. I said I'd ask.
+{child} is out practising loops again. You can hear the giggling from here.
+Don't tell {child}, but I'm saving the ripest peach for after the Evensong.
+{child} drew a walker in the cloud yesterday. It had very big feet. Was that you?
+{child} lost a ribbon off one veil. If you see a little rose ribbon, it's ours.
+{child} is sure the koi know everyone's names. I've stopped arguing.
+{child} learned a new word from a walker: 'stairs'. Says it all day. Stairs, stairs, stairs.
+{child} has been following the windkeeper about. I think we've a windkeeper in the making.
+{child} asked if you'd come to the Evensong. I said walkers are always welcome. {child} squealed.
+If you hear singing from the Cloud Garden, that's {child}, serenading the peach trees. Badly.
+{child} slept right through the dawn bell. Takes after me.
+{child} has a wobbly tooth and is very proud of it. Ask to see it, if you've a moment.
+{child} wants to visit the ground one day. I've said: when your veils are long. That gives me years.
+{child} keeps asking why walkers don't float. I said walkers are too full of supper. Is that right?
+{child} saved you a glow berry. It's a bit squashed. It's the thought.
+
+## mention.friend
+{friend} and I are flying out to the Wind Shrine tomorrow. Shame you can't come. Or can you? You walkers surprise me.
+{friend} says you're the most interesting walker we've ever had. I said we've only had a few. {friend} said: still.
+{friend} still owes me for the race round the Spire. Lost by a veil's length and won't admit it.
+{friend} told me a joke at breakfast and I'm still laughing. Something about a koi and a lantern. I've forgotten it. Still funny.
+If you want the best peaches, ask {friend}. {friend} knows every tree in the Cloud Garden by name.
+{friend} and I have been friends since our veils were short. We'll be friends when they're thin.
+{friend} has been low lately. If you pass by, say something kind. It goes a long way up here.
+I'm meeting {friend} at the koi pool later. We just float there. It's the best hour of the day.
+{friend} saw a whale yesterday and didn't tell anyone till this morning. I'm still cross about it.
+{friend} and I wrote a verse for the Evensong once. It was terrible. They sang it anyway. That's {village} for you.
+{friend} would like you, I think. {friend} likes anyone who asks questions.
+{friend} lent me a veil-comb and I've lost it. Please don't mention it if you see {friend}.
+{friend} swears the north wind talks. Not sings. Talks. I've never heard it. I've never stopped listening, either.
+Tell {friend} I said fair wind, if you see them. I've been too busy to say it myself.
+{friend} and I have a secret loop we do over the Bell Pagoda. You'd need veils to understand.
+{friend} keeps asking about you. Where you sleep, what you eat, whether walkers dream. I said: ask yourself.
+{friend} and I aren't speaking today. Over a peach. It'll pass by dusk. It always does.
+
+## mention.coworker
+{coworker} and I have been sharing the work today. Well, I've been working. {coworker} has been humming.
+{coworker} is better at this than me. Don't tell {coworker} I said that.
+{coworker} taught me everything I know about the job. And a few things I didn't want to know.
+{coworker} and I have a bet on over who finishes first today. Loser brings the peaches.
+If I'm not at my spot, ask {coworker}. {coworker} always knows where I've drifted off to.
+{coworker} keeps tidying my things. I keep untidying them. It's a system.
+{coworker} was in at dawn today, before me. First time ever. I'm a little worried.
+Between {coworker} and me the work gets done. Between {coworker}, me and a few peaches, it gets done faster.
+{coworker} says I'm too slow. I say {coworker} is too fast. Somewhere between us is the right speed.
+{coworker} has been showing me a new trick of the trade. I'll pretend I thought of it, later.
+{coworker} sings while we work. Every day, the same song. I know all the words now, against my will.
+{coworker} took the morning off to see a whale. I'm doing two jobs today. I'm not bitter. Much.
+
+## mention.neighbour
+{neighbour} has been humming at the koi again. They seem to like it. The koi, I mean.
+Have you met {neighbour}? Always flying about with a peach in each hand.
+{neighbour} borrowed my good stole and hasn't brought it back. I'm being patient. Loudly.
+{neighbour} says a whale's coming soon. {neighbour} says that every week. One week {neighbour} will be right.
+{neighbour} was up before the bell today, sweeping loose cloud off the bridges. Nobody asked. Very good of them.
+If you hear laughing from the next nest, that's {neighbour}. {neighbour} laughs in their sleep.
+{neighbour} grows the sweetest berries on the islet. Don't ask how. You'll be there all day.
+{neighbour} has hung wind chimes from every eave on the islet. Lovely. Very loud. Lovely.
+{neighbour} has never once missed the Evensong. Not once. Not even with a sniffle.
+I think {neighbour} has taken a liking to you. {neighbour} asked if the walker was coming back.
+{neighbour} and I quarrelled over whose turn it was to feed the koi. The koi ate twice. Everyone wins.
+{neighbour} keeps a tally of every walker who comes up the Wind Stone. You're on it, I'd bet.
+{neighbour} has been trying to teach a swallow the Evensong. It's going about as well as you'd think.
+{neighbour} dozed off mid-flight over the Veil Court yesterday. Just drifted for a while. We let them.
+Have you seen {neighbour}'s veils? Freshly mended. {neighbour} won't say how they got torn.
+{neighbour} leaves a lantern lit for anyone flying home late. Nobody asked. Everyone's glad.
+{neighbour} has been trying to whistle like a walker for a month. Nothing comes out but wind. Very determined wind.

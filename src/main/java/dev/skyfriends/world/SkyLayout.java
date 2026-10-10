@@ -29,8 +29,12 @@ public record SkyLayout(String name, String kind, int width, int depth, int minY
         ).apply(i, Tile::new));
     }
 
-    /** A Cirri (gender, child, bed, job, work, mother = an index in this list) or a creature released at its spot. */
-    public record Resident(String type, String gender, boolean child, Optional<BlockPos> bed, String job, Optional<BlockPos> work, int mother) {
+    /**
+     * A Cirri (gender, child, bed, job, work, mother and partner = indexes in this list, or -1) or a creature released at
+     * its spot.
+     */
+    public record Resident(String type, String gender, boolean child, Optional<BlockPos> bed, String job, Optional<BlockPos> work, int mother,
+                           int partner) {
         public static final Codec<Resident> CODEC = RecordCodecBuilder.create(i -> i.group(
             Codec.STRING.fieldOf("type").forGetter(Resident::type),
             Codec.STRING.optionalFieldOf("gender", "f").forGetter(Resident::gender),
@@ -38,7 +42,8 @@ public record SkyLayout(String name, String kind, int width, int depth, int minY
             BlockPos.CODEC.optionalFieldOf("bed").forGetter(Resident::bed),
             Codec.STRING.optionalFieldOf("job", "").forGetter(Resident::job),
             BlockPos.CODEC.optionalFieldOf("work").forGetter(Resident::work),
-            Codec.INT.optionalFieldOf("mother", -1).forGetter(Resident::mother)
+            Codec.INT.optionalFieldOf("mother", -1).forGetter(Resident::mother),
+            Codec.INT.optionalFieldOf("partner", -1).forGetter(Resident::partner)
         ).apply(i, Resident::new));
     }
 

@@ -7,7 +7,7 @@ released at every koi pool.
 
 Entries are in layout space (x and z from the village centre, y from the court floor):
   {"type": "cirri", "gender": "f"|"m", "child": bool, "bed": [x, y, z], "job": str, "work": [x, y, z] | null,
-   "mother": index | -1}
+   "mother": index | -1, "partner": index | -1}
   {"type": "cloud_koi", "bed": [x, y, z]}
 """
 import random
@@ -27,8 +27,10 @@ def roster(lay, seed):
         mothers = []
         for i, bed in enumerate(grown):
             female = i % 2 == 0
+            # couples share a nest: each woman with the man on the next cushion
+            partner = len(out) + 1 if female and i + 1 < len(grown) else len(out) - 1 if not female else -1
             out.append({'type': 'cirri', 'gender': 'f' if female else 'm', 'child': False, 'bed': bed, 'job': '', 'work': None,
-                        'mother': -1})
+                        'mother': -1, 'partner': partner})
             adults.append(len(out) - 1)
             if female:
                 mothers.append(len(out) - 1)

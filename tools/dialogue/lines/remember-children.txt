@@ -1,0 +1,202 @@
+# Callbacks to the answers you gave the children's questions (questions/children.txt): remember.<flag>.
+# Any Cirri may say these, the child who asked or a grown-up who heard about it, so they never assume which.
+
+## remember.ground_taste_rain
+Rain and dust, you said the ground tastes of. Now when it rains, I think of the ground having a drink.
+Since you said the ground tastes of rain, half the village has been catching raindrops on their tongues to compare.
+So the ground is where the rain goes to get dusty. Everyone's heard. It's a very good fact.
+
+## remember.ground_taste_honey
+The ground tastes of honey! That's what you said, and now nobody up here can stop talking about it.
+Ever since you said honey, the ground looks much more delicious from up here.
+Is it still honey down there? You'd tell us if it went off, wouldn't you? It matters.
+
+## remember.walker_trick_cartwheel
+Will you do the cartwheel again? Half the village wants to see a walker go round.
+Someone tried your cartwheel in the air. It came out as a loop. Yours is still the best.
+The ground loop! Everyone up here calls a cartwheel that now, after you.
+
+## remember.walker_trick_loop
+A walker who can loop! With borrowed wings! You're the talk of the Veil Court.
+Next time you bring your wings, loop over the koi pool. The koi have never seen a walker loop.
+Loops are for everybody. You proved it.
+
+## remember.ground_game_hide_seek
+Walker children play hide and seek too! Where do you hide down there? Behind the ground? It's still a puzzle.
+We tried hide and seek the walker way, standing still behind things. It was much harder.
+Every time someone hides behind a lantern, I think of walker children hiding down below.
+
+## remember.ground_game_tag
+Ground tag! Someone tried playing it standing on a bridge. Nobody was any good.
+Tag on the ground and tag in the sky. The same game everywhere. That makes the world feel small and friendly.
+Tag! You're it! That's because you said walkers play it too.
+
+## remember.ground_game_sandcastles
+Castles made of sand. I've been wondering about them since you said. How do they keep from blowing away?
+Bring a sandcastle up one day. A small one. We'll keep it out of the wind.
+The weavers want to know how sand stays in a castle shape. So does everyone. You started this.
+
+## remember.ground_game_skipping
+Skipping stones! Everyone up here wants to try it. There's no water flat enough.
+Somebody tried skipping a peach stone across a cloud. It went straight through. You'll have to show us properly.
+Bounce, bounce, plop. That's how stones skip, you said. It's fun to say.
+
+## remember.koi_name_puddle
+Puddle's doing well! Still small, still round. It comes up when you say its name.
+You named Puddle! It's the best-named koi in the pool. The others are a little jealous.
+Puddle nibbled a veil today. Very bold for something so small. You chose the name well.
+
+## remember.koi_name_captain_fin
+Captain Fin is bossing the whole pool now. That's your doing.
+Captain Fin swims at the front of the school every day. Born to lead, with a name like that.
+Captain Fin bumped the gardener's hand for food. Very bossy. Very like its name.
+
+## remember.koi_name_peach
+Little Peach is getting pinker. You picked the perfect name.
+Every time anyone says "peach" by the koi pool, little Peach comes up hoping. You named it too well.
+You named Peach! It's grown a whole scale since. Come and see.
+
+## remember.night_brave_yes
+The walker who isn't scared of the night! You're famous in the nests for that.
+When the night-moths are about, I think of you down there being brave.
+Still standing up to the night monsters? Tell us if you need help. We'll sing at them.
+
+## remember.night_brave_careful
+Still staying in when the night's scary? Good. Nests and walker houses are for that.
+You stay inside on dark nights. So do we. That makes us neighbours, sort of.
+On loud nights I think of you tucked away somewhere safe. It's nice to know.
+
+## remember.ground_pet_dog
+How's your dog? Does it still run in circles? Tell it a Cirri said hello.
+You've got a dog! Can it come up one day? Does it bark at clouds?
+A dog was running about on the ground today. Was it yours? It looked very pleased with itself.
+
+## remember.ground_pet_cat
+Is your cat well? Keep it away from the koi pool if you ever bring it up. Please.
+A walker with a cat! The koi have been nervous ever since. They can tell.
+Something small and furry was down on the ground today. Your cat, maybe. It didn't look up.
+
+## remember.ground_pet_horse
+How's your horse? Still carrying you about? That's nearly flying, if it's fast.
+You ride a horse! It must be like a very low, very bumpy flight.
+Did you leave your horse by the Wind Stone? I hope someone's given it a peach.
+
+## remember.first_flight_whale
+You'd swim with a whale first, you said. If an Old Singer comes by, we'll call you.
+An Old Singer passed over not long ago. I thought of you wanting to swim beside one.
+When you get a veil, the whales will be waiting. That's what you wanted, wasn't it?
+
+## remember.first_flight_higher
+Higher than the village, you said! Up where the blue goes dark. That's a big wish.
+Whenever I fly my highest, I think of you wanting to go higher still.
+One day you'll fly higher than all of us. You said so, and I believe it.
+
+## remember.first_flight_show_off
+Straight down to show everybody! It still makes me laugh. Fly over your house and wave.
+When you get a veil, you'll go down and show off. I hope they all clap.
+Showing off to the ground is the best reason to fly anyone's ever given.
+
+## remember.veil_colour_gold
+Gold veils! Since you said it, every child in the village wants gold veils for their Lengthening. The weavers are not pleased.
+Whenever the bell shines in the sun, I think of gold veils. That was your idea.
+All gold, you said. The weavers laughed for a long time. Then they said maybe one gold thread more.
+
+## remember.veil_colour_blue
+Sky-blue veils, to vanish into the sky! The children practise vanishing every day now. It isn't working yet.
+Still the sky-blue plan! The weavers say "we'll see." That's very nearly a yes.
+Sky blue all the way. I look up and think how good that would look.
+
+## remember.veil_colour_night
+Night-coloured veils with stars in! Somebody dreams about them every night now. You started that.
+Every night I look up and pick which stars should go on the veils you said.
+Veils with stars! The weavers want to know whose idea that was. A walker's, I told them.
+
+## remember.walker_age_grown
+A grown-up who plays! That's the best kind. Will you play today?
+A grown-up walker. Everybody forgets, because you don't act like one. That's meant nicely.
+Nobody believed you were a grown-up. You'll have to act grown-up for a bit. Not too long.
+
+## remember.walker_age_big_child
+A big child! Then you're one of us. Come and play before the bell.
+You said you're a big child. That's why you're so much fun.
+Big child, little child, grown-up: we're all children at the koi pool.
+
+## remember.walker_secret_pickaxe
+Does your pickaxe still talk back? I said fair wind to it last time. It didn't answer. Shy, maybe.
+Your secret's safe. Mostly. Everyone knows you talk to your pickaxe, but only nicely.
+If your pickaxe ever says anything about the sky, tell us. We'd like to know what pickaxes think.
+
+## remember.walker_secret_spiders
+No spiders up here, you'll be glad to know. Too windy for webs. You're safe in the sky.
+Scared of spiders! That's all right. Everybody's scared of something small. And something big.
+If a spider ever comes up the Wind Stone, we'll blow it straight back down for you.
+
+## remember.walker_secret_lost
+Lost for days on the ground! Do you know where you are now? You're here. Good.
+Up here nobody ever gets lost for long. You just go up and look. Remember that, after what you told us.
+Since you told us about being lost, I've been thinking walkers need a Lantern Spire in every valley.
+
+## remember.lengthening_gift_peaches
+A whole basket of peaches for a Lengthening! You promised. Nobody has forgotten.
+The peach trees are filling up nicely. Ready for that basket you promised.
+Peaches for the Lengthening! That's the right present. You understand us.
+
+## remember.lengthening_gift_diamond
+A diamond for a Lengthening! The weavers say it's too heavy for a veil. They also say they'd like to see it.
+You promised a diamond! Everyone's heard. It'll be the shiniest Lengthening there's ever been.
+Is the diamond still coming? It can sit on a cushion. Cushions are good at holding heavy things.
+
+## remember.lengthening_gift_song
+A walker song for a Lengthening! Have you been practising? It's all anyone talks about at the koi pool.
+You'll sing at the Lengthening. You said. The harpists want to learn it first.
+I hum a bit of nothing sometimes and pretend it's the walker song you promised.
+
+## remember.lengthening_gift_myself
+You'll come to the Lengthening yourself. You promised. That's the best present, and everyone knows it.
+A walker at a Lengthening! Nobody can remember there ever being one. You'll be the first.
+There'll be a place saved for you at the Lengthening. Right at the front, where you can see.
+
+## remember.walker_lessons_letters
+Letters and numbers! Can you show me how walkers write fair wind? I'd like to see it.
+Since you said walkers learn numbers too, the counting at the koi pool has got very serious.
+Do walker letters look like ours? Draw one in the dust on the bridge. Go on.
+
+## remember.walker_lessons_building
+You learned to build! Will you build something up here one day? Something light, mind.
+A walker who builds. Everyone up here wants to watch, as long as you don't use stone.
+Build us a tiny bridge, builder. Just a little one. For the koi.
+
+## remember.walker_lessons_monsters
+Monster lessons! Everyone up here thinks walker lessons are the bravest lessons in the world.
+You learned to face monsters. That's why you came up the Wind Stone without shaking. Well, much.
+Do you still remember your monster lessons? Good. We only learned humming. It works on thunder.
+
+## remember.scale_wish_peaches
+A house full of peaches! Every time a peach falls, I think of your wish.
+Have you found a Sky Scale yet? Your house full of peaches is waiting.
+If anyone up here finds a Sky Scale, we'll wish your peach house for you. That's a promise.
+
+## remember.scale_wish_whale
+A whale of your own! Every time an Old Singer passes, I wonder if it's yours.
+A whale's too big to keep, you know. You'd have to keep the whole sky as well.
+When the next whale comes, I'll tell it you'd like one. It might hum yes.
+
+## remember.scale_wish_more_wishes
+A hundred more wishes! Everyone's been trying it on their Sky Scales since you said. Nobody knows if it worked.
+Still the cleverest wish anyone's ever made. A hundred more! Ha!
+If I ever find a Sky Scale, I'm doing your wish. A hundred more wishes. Then I'll think of the rest.
+
+## remember.sky_end_never
+The sky never ends, you said. So there's always further to fly. I like knowing that.
+I flew up as high as I dared and thought of you. It kept going, just like you said.
+If the sky never ends, there's room for everyone. You were right, and so was the old saying.
+
+## remember.sky_end_stars
+The sky ends at the stars, you said. Every night now I look at the edge of the sky.
+Stars like lanterns at the end of a bridge. Everyone up here says it now. You started it.
+If the stars are the edge, the moon must be the door. I've been thinking about it.
+
+## remember.sky_end_the_end
+A place called the End! Is it really where the sky stops? What's after the End?
+Everyone's been talking about the End you told us of. Nobody wants to go. Everybody wants to hear about it.
+If you go back to the End, wave. We'll be at the other end. The beginning, I suppose.

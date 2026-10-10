@@ -1,7 +1,7 @@
 """Put the Cirri game test's frames together into a film (it isn't committed: it shows Minecraft's own world).
 
   gradlew runClientGameTest -PskyTests=Cirri -PskyFilm -PtestHeap=2g
-  python tools/film.py [out.mp4] [frames folder: sky-frames (the Cirri test) or sky-tour (the world test)]
+  python tools/film.py [out.mp4] [frames folder: sky-frames (the Cirri test), sky-tour (the world test) or sky-life (the Talk test)]
 
 The test films the game slowed down and notes the game tick of every frame
 (build/run/clientGameTest/sky-frames/frames.txt); each frame is shown for as long as the game time it covers, so
@@ -32,7 +32,8 @@ def ffmpeg():
 def main(argv):
     global FRAMES
     if len(argv) > 1:
-        FRAMES = os.path.join(ROOT, "build", "run", "clientGameTest", argv[1])
+        # a folder of frames: one the test wrote (by name), or a copy kept anywhere
+        FRAMES = argv[1] if os.path.isdir(argv[1]) else os.path.join(ROOT, "build", "run", "clientGameTest", argv[1])
     out = os.path.abspath(argv[0] if argv else os.path.join(ROOT, "build", "film", "cirri-flight.mp4"))
     os.makedirs(os.path.dirname(out), exist_ok=True)
     rows = [line.split() for line in open(os.path.join(FRAMES, "frames.txt"), encoding="utf-8") if line.strip()]

@@ -1,0 +1,202 @@
+{
+ "bank": "cirri_child",
+ "locked": [
+  "A story? Mum says I'm not to tell secrets to groundlings I don't know. You're a groundling I don't know! Yet!",
+  "*hides behind a veil, which is short, so it doesn't work* ...Maybe when you've played with me more.",
+  "I DO have a story. It's the best one in the whole sky. But it's only for friends, and you're only a walker so far.",
+  "*whispers* If you come back tomorrow, and the day after, I might tell you. That's two whole dawns. Can groundlings count that far?",
+  "Not yet! You have to do a loop with me first. Oh. You can't loop. Hmm. Then you have to come back lots and lots."
+ ],
+ "stories": [
+  {
+   "id": "bubble_koi",
+   "title": "Bubble Won't Eat",
+   "intro": "*lying flat on the air over the koi pool, nose nearly in the water* That's Bubble. The fat one with the white spot. Bubble's my best friend, and Bubble won't EAT. Not even the good crumbs. The gardener says koi get sulky. I think Bubble wants something and can't say.",
+   "requests": [
+    {
+     "id": "lily_pad",
+     "title": "A leaf for Bubble",
+     "item": "minecraft:lily_pad",
+     "count": 1,
+     "prompt": "Groundling ponds have big flat leaves floating on top, Mum says, and fish hide under them and feel cosy. Can you bring one for Bubble? Just one. A big one.",
+     "thanks": "*sets it on the pool very, very carefully* Bubble! Look! *the koi noses up under it* It's hiding! It LIKES it! *a flick, and something glints* Bubble gave you a scale! That means you're friends now. That's the rule."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:sky_scale",
+    "count": 1
+   }
+  },
+  {
+   "id": "first_loop",
+   "title": "My First Loop",
+   "intro": "Watch! Watch! *swoops up, tips over, gets halfway and comes out sideways in a tangle of veil* ...That was a loop. Nearly. My veils are too short and my hands go everywhere. Mum says I need something to hold, so my hands stop flapping.",
+   "requests": [
+    {
+     "id": "feathers",
+     "title": "Feathers to hold",
+     "item": "minecraft:feather",
+     "count": 2,
+     "prompt": "Two feathers. One for each hand, like a grown-up holding their veils! Then my hands won't flap and I'll go right round. Please?",
+     "thanks": "*grips one in each fist, takes a huge breath, and goes up, over and ALL the way round* I DID IT! A whole loop! *does another, wobblier* I'm dizzy. I'm SO dizzy. Have a peach, I can't hold it straight."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:sky_peach",
+    "count": 1
+   }
+  },
+  {
+   "id": "lost_chime",
+   "title": "The Chime That Fell",
+   "intro": "*whispering very fast* I was playing with Mum's wind chime, the one over our nest door, and I only spun it a LITTLE, and it went over the edge. Through the clouds. All the way down to the GROUND. Mum doesn't know yet. You live on the ground. Have you seen it?",
+   "requests": [
+    {
+     "id": "chime",
+     "title": "A chime like Mum's",
+     "item": "skyfriends:wind_chime",
+     "count": 1,
+     "prompt": "If you can't find it, could you bring one just like it? The merchant has them, but the merchant tells Mum everything. Groundlings are allowed to buy things!",
+     "thanks": "*hangs it over the nest door and blows on it, and it rings* It sounds the same! Almost. *whispers* I'll tell Mum anyway. Tomorrow. Maybe. Here, I picked this in the Cloud Garden. Don't tell the gardener either."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:oxeye_daisy",
+    "count": 1
+   }
+  },
+  {
+   "id": "present_for_mum",
+   "title": "A Present for Mum",
+   "intro": "It's nearly Mum's Lengthening-day, the day the weavers gave Mum long veils, years and years ago. I want to give Mum something nobody in the whole sky has ever had. Something from the GROUND.",
+   "requests": [
+    {
+     "id": "allium",
+     "title": "A cloud on a stick",
+     "item": "minecraft:allium",
+     "count": 1,
+     "prompt": "The merchant says there's a groundling flower that's round and purple and fluffy, like a little cloud on a stick. Can you find one? It has to be perfect. Mum notices everything.",
+     "thanks": "*holds it up against the sky* It IS a cloud on a stick! A purple one! Mum is going to cry. Mum cries at everything good. *beaming* You can have my berries. ALL my berries. Well. Three."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:sweet_berries",
+    "count": 3
+   }
+  },
+  {
+   "id": "big_race",
+   "title": "The Race Round the Pagoda",
+   "intro": "Tomorrow there's a race: three times round the Bell Pagoda and back to the Veil Court. I ALWAYS lose, because my veils are the shortest. Everyone says so. I need a secret. A groundling secret.",
+   "requests": [
+    {
+     "id": "sugar",
+     "title": "Groundling zoom",
+     "item": "minecraft:sugar",
+     "count": 2,
+     "prompt": "Groundlings eat a white sand called sugar, and it makes them go ZOOM, I heard. Two handfuls? One now and one at the start line.",
+     "thanks": "*licks a fingertip of it and goes very wide-eyed* Ohhh. I can hear my heart. *zooms off, and comes back much later, puffing* I came last. But I came last FAST. Here, I won this. Well. Everyone got one."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:feather",
+    "count": 1
+   }
+  },
+  {
+   "id": "secret_box",
+   "title": "The Secret in My Nest",
+   "intro": "*looks round twice, then whispers* I've got a secret box under my nest cushion. It's full of GROUND things. A stick. A bit of real walker string. A flower that went flat. Nobody knows. Now you know. Will you bring me one more thing for it?",
+   "requests": [
+    {
+     "id": "flint",
+     "title": "A black ground-stone",
+     "item": "minecraft:flint",
+     "count": 1,
+     "prompt": "I want a stone from the ground. A special one, black and shiny like the night. The merchant says walkers have one called flint. Can I have one?",
+     "thanks": "*turns it over in the light* It's so SHINY. What's it for? ...It makes FIRE? *puts it in the box very carefully, shuts the lid and curls on top of it* It can stay in there. For ever. Shut. Have a glow berry."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:glow_berries",
+    "count": 2
+   }
+  },
+  {
+   "id": "thunder",
+   "title": "Borre's Big Voice",
+   "intro": "*hiding under a short veil* The bell rang the long way this morning. That means Borre's bringing a storm. I hate thunder. It's so LOUD and it goes right inside your tummy. Mum hums when it storms, but I can still hear it under the humming.",
+   "requests": [
+    {
+     "id": "wool",
+     "title": "Something for my ears",
+     "item": "minecraft:white_wool",
+     "count": 1,
+     "prompt": "Groundling sheep-clouds are soft, Mum says. If I had a bit of one, I could push it in my ears and not hear Borre at all. Just one? Please? Before the storm?",
+     "thanks": "*tears off two tufts and pushes one in each ear* WHAT? *grins hugely* I can't hear you! It WORKS! *pulls one out* Thank you. Have my peaches. I can't eat with my ears full. That doesn't make sense, but have them."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:sky_peach",
+    "count": 2
+   }
+  },
+  {
+   "id": "cat_close",
+   "title": "A Cat Up Close",
+   "intro": "Once a walker came up the wind with a CAT. It had a tail that went like this *wiggles a hand* and it looked at me like it knew all my secrets. It went back down before I could see it up close. I want a cat to come back.",
+   "requests": [
+    {
+     "id": "cod",
+     "title": "A fish for a cat",
+     "item": "minecraft:cod",
+     "count": 1,
+     "prompt": "Mum says cats love fish. Not koi! NEVER a koi. A groundling fish. If I have one ready, a cat might come up the wind to get it. Can you bring one?",
+     "thanks": "*holds it at arm's length* It's wet. And it's LOOKING at me. Is it supposed to look at me? *tucks it in the shade by the dock* Now when a cat comes up the wind, I'm ready. Have some petals. Cats don't get petals."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:pink_petals",
+    "count": 2
+   }
+  },
+  {
+   "id": "lengthening_one_day",
+   "title": "When I'm Lengthened",
+   "intro": "When I'm grown, the weavers will weave my long veils, all the way down to HERE. *stretches both arms as wide as they go* It's called the Lengthening, and everyone comes, and you get gold in your veils. I'm getting ready now, so I'll be the readiest.",
+   "requests": [
+    {
+     "id": "gold",
+     "title": "Gold for my veils",
+     "item": "minecraft:gold_nugget",
+     "count": 1,
+     "prompt": "Bring me one bit of groundling gold? I'll give it to the weavers and make them keep it till my Lengthening. Then my veils will have gold from the GROUND in them. Nobody else's will.",
+     "thanks": "*holds it up, very solemn* I'm taking it to the weavers RIGHT now to make them promise. *starts to go, comes back* When it's my Lengthening, you have to come. You HAVE to. Here, so you remember."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:dandelion",
+    "count": 1
+   }
+  },
+  {
+   "id": "snow_stopped",
+   "title": "Snow That Stopped",
+   "intro": "When it snows, the snow falls PAST us. Down and down, and it never stops anywhere. Mum says on the ground it stops and lies in heaps, and groundlings throw it at each other! I want to hold some snow that stopped.",
+   "requests": [
+    {
+     "id": "snowball",
+     "title": "Stopped snow",
+     "item": "minecraft:snowball",
+     "count": 2,
+     "prompt": "Can you bring me some snow that stopped? Squashed into a ball. Mum says groundlings do that. Two! One to keep and one to throw. At you. Gently.",
+     "thanks": "*holds one in each hand, eyes huge* It's cold! It's so cold it's HOT! *throws one; it hits you square* GOT YOU! *gasps* Sorry! Sorry. Here, have an apple. Nobody throws apples. Not at friends."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:apple",
+    "count": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,368 @@
+# Moments: lines for particular things that happen between you and a grown-up Cirri (first meeting, being struck,
+# being woken, apologies, gifts, growing closer, the Skymerchant's wares, the Evensong, a passing Cloud Whale).
+
+## first_meeting
+Oh! A walker, a real one. I'd heard you came up the Wind Stone now and then, but I've never met one. I'm {name}.
+Fair wind, stranger, and welcome to {village}. The Courtesy says you're our guest, so you are. I'm {name}.
+You must be the walker everyone's talking about. Or a new one. Either way, I'm {name}, and I'm very curious.
+Well, look at you. Two feet, no veils, standing right here in the sky. Welcome! I'm {name}.
+A walker on our bridges! The windkeeper said someone was coming up. Hello, I'm {name}, the {job}.
+Goodness. I've only ever seen walkers from far above. You're much bigger up close, and much less dotty.
+The first windkeepers set the Wind Stone for guests like you. I never thought I'd meet one. Fair wind! I'm {name}.
+Hello, hello! Welcome to {village}. Do you need anything? Water? A peach? Something to hold on to?
+A visitor! The Courtesy is old, but it still means what it says: you're welcome here. I'm {name}.
+Oh! I nearly flew into you. Nobody ever stands still in the way up here. Hello, I'm {name}.
+You came up the Wind Stone? All that way, just standing in the wind? Brave walker. I'm {name}, of {village}.
+Fair wind to you, first-time guest. We don't bite, we don't fall, and we sing at dusk. That's most of it.
+Forgive the staring. I've heard walker stories since I was small, and here's one, looking right back at me.
+Welcome to the high sky, walker. I'm {name}. If the height makes you dizzy, look at me instead of down.
+How wonderful, a guest! The bridges get so few feet on them. I'm {name}, and the bridges are yours.
+A walker in {village}. The old ones will want to hear about this. I'm {name}. And you're {player}? What a solid sort of name.
+You're the first walker I've ever spoken to. Am I doing it right? I'm {name}.
+They say walkers are sturdy and kind. You look sturdy. Let's find out about kind. I'm {name}.
+Welcome, welcome! Did the wind lift you gently? It's meant to; that's the whole point of it. I'm {name}.
+My veils have gone all fluttery. I think they're excited to meet you. So am I. I'm {name}.
+A walker, here, in {village}! Let me look at you. Feet, yes. Hands, yes. Wings, no. Welcome!
+Fair wind, traveller. The Courtesy was made long before I was born, but I'm the one keeping it today. Welcome.
+I'm {name}. You'll meet everyone soon enough; we're a nosy sort of sky.
+You came all the way up! Most walkers only look at us from below and wonder.
+Welcome, guest of the Wind Stone! You've arrived at the best village in the sky. I'm biased. I'm {name}.
+A new face, and a ground face at that! Fair wind. I'm {name}, and I want to know everything about you.
+Don't worry about the edges; we'll catch you. Probably. We've had plenty of practice with the children.
+Fair wind and welcome. I'm {name}, of {village}. Ask anyone for my nest if you ever need a friend.
+You're real! I'd half thought walkers were a story to make the little ones finish their peaches.
+Welcome to {village}, walker. Mind your step, mind the koi, and mind you come back. I'm {name}.
+
+## hurt
+Oh. It's you. Please keep your hands where I can see them.
+I'd rather keep a little sky between us today, walker.
+You struck me. I haven't forgotten, even if you have.
+Hello... from over here. A bit further off than usual, if you don't mind.
+My veil's still sore where you hit it. What do you want?
+Careful. I'm watching you the way I'd watch a storm.
+Is this a kind visit, or another of the other kind?
+We don't strike each other up here. Not ever. I didn't know walkers did.
+I'll talk. But I'll talk from where I can fly off quickly.
+You frightened me, walker. I'm still frightened, a little.
+Mm. You again. My heart's gone low as the clouds since you hit me.
+The Courtesy says I must welcome you. It says nothing about trusting you.
+Say what you came to say. Gently, please.
+I flinched when I saw you. I've never flinched at anyone before.
+Why did you do it? No, don't answer. I'm not sure I want to know.
+Please don't come any closer. Not yet.
+My veils curl up when you're near now. They remember, even when I try not to.
+{player}. I thought you were kind. I'm trying to remember why.
+You've a heavy hand for a guest. I'm keeping my distance.
+Hello, I suppose. Mind your hands, and I'll mind my temper.
+
+## night
+Mmm? Who's... oh. A walker. It's the middle of the night.
+Hnn. I was dreaming of whales, and now there's a walker. Which is stranger?
+Oh! You woke me. I nearly uncurled straight off my cushion.
+Shh, the whole nest's asleep. What is it?
+Is it dawn? It isn't dawn. Why isn't it dawn, and why are you here?
+Mm, walker... the stars aren't even halfway across. Come back when the bell rings.
+Sorry. Hello. Sleep. Sorry. What were we saying?
+You've woken me from a lovely drift. I was floating over a sea of peaches.
+Mrrf. If this isn't a fire or a whale, I'm going straight back to sleep.
+Oh... hello. My veils are still tucked round me. Give me a moment to come unwound.
+A walker at my nest, at night? Is something wrong? Are you hurt?
+Hmm? I was curled up tight as a bud. What's the matter?
+Do walkers never sleep? You must sleep sometime. Now would be good.
+I'm awake. Mostly. Partly. A little.
+Shh, {partner}'s still asleep. Whisper, walker.
+Ohh. You've woken me right out of a song. I was just at the best part.
+It's dark, {player}. Even the lanterns are drowsy. What is it?
+Sleepy hello. Very sleepy. Make it short and sweet.
+You're lucky I'm a light sleeper. Well, not lucky for me. Hello.
+Oh, it's you. I thought a night-moth had got in. You're much warmer than a night-moth.
+Is the sky falling? No? Then let me sleep, walker, please.
+My cushion was only just getting warm. What can I do for you, quickly?
+Hello... I'm floating sideways. Everything's sideways. Is that you or me?
+Even the koi are asleep. Even the wind's asleep. And here you are.
+Ah, a midnight walker. Talk softly; dreams startle easily.
+
+## walk_off
+No. I don't want to talk to you yet. Fair wind, walker.
+I'm going now. Give me some sky.
+Not today. My veils are still shaking.
+I'd rather be anywhere else just now. Excuse me.
+Leave me be. I'll come round when I come round.
+You hurt me. It'll take more than a few words before I can forget it.
+I'm flying off now. Please don't follow.
+Don't. Just... don't. Good day.
+I've nothing to say to you, walker. Not yet.
+Talk to someone else. I'm still low from what you did.
+My heart's too heavy for company. Especially yours.
+I'll be over there. Alone. That's the point.
+Hm. No. I'm going to find a quieter cloud.
+You'll have to wait, {player}. I'm not ready.
+The Courtesy is for guests. Guests don't strike their hosts. Good day.
+Please go. I'll think about forgiving you another day.
+Some things need a few dawns to mend. This is one of them.
+I'm turning round now. I'd like you to let me.
+Not now. My veil's still sore and so am I.
+Ask me again when the bruises fade. Not before.
+
+## busy_off
+Oh! Look at the sun. Back in a light breeze, walker. Mostly.
+Sorry, must dash! A {job}'s work won't do itself.
+Hold that thought, will you? I've three things waiting and one of them's sulking.
+Fair wind, I really must go. Lovely talking!
+I've let it go too long. Back to work for me. Visit again!
+Duty calls, and it calls loudly. Fair wind, {player}!
+That's my bell, or my conscience. Either way, I'm off.
+Sorry, sorry, I've something half finished and it won't finish itself. Goodbye!
+I could talk all day, but then nothing would get done. Fair wind!
+Must fly! Literally. That's how I go everywhere.
+Oh, I nearly forgot! I've got to... you know. Goodbye, walker!
+Excuse me. The work's piling up like clouds before rain.
+A light breeze's worth of talk is all I've got today. Sorry! Off I go.
+I'll be back once this is done. Probably. Possibly. Fair wind!
+Don't take it to heart, walker. I leave everyone mid-sentence.
+The day's running off without me. Must catch it!
+Off I go! If anyone asks, I was working the whole time.
+Sorry to cut it short. Tomorrow, longer, I promise.
+I've just remembered something important. I've also forgotten what. Back to work!
+Keep the end of that story for me. I'll want it later. Goodbye!
+
+## apology_accepted
+Thank you for saying it. All right, walker. The sky's clear between us.
+Sorry is a good word. I'll take it, and we'll start again.
+I believe you. Let's let it blow away, like a little cloud.
+Well. That's mended, then. Mostly. Fair wind, friend.
+Keep your heart light, the old ones say. Mine's lighter already. All forgiven.
+It took some courage to say that. I'm glad you did.
+All right. We'll call it one bad gust. Fair wind again.
+I accept. Don't do it again, though. Please.
+My veils have stopped curling. I suppose that means I forgive you.
+Apology taken, folded and put away. Let's not unfold it again.
+Oh, that's better. I didn't like being cross with you.
+Thank you, {player}. The wind's turned. Let's fly on.
+I forgive you. It's lighter than staying cross, and I'm built to be light.
+Done and forgiven. Now come closer; I won't bite.
+That's all I needed to hear. Welcome back to the sky.
+
+## apology_wary
+I hear you. I'm just not ready to believe you yet.
+Sorry is a start. Only a start, walker.
+Thank you for saying it. I still need a few dawns.
+Words are light. Let's see what your hands do next.
+I'll think on it. From over here.
+Mm. A torn veil doesn't mend in a breath. Neither do I.
+I want to forgive you. Give me a little time to want it all the way.
+That's kind of you to say. I'm still watching your hands.
+All right. Maybe. We'll see.
+You mean it, I think. My veils aren't convinced.
+Sorry doesn't unstrike a blow. But it's better than nothing.
+I'll keep my distance a little longer, {player}. It's not a no.
+Come back tomorrow and say it again. Then I'll know.
+I believe you're sorry. I'm just not sure I'm finished being hurt.
+Give me a light breeze or two, walker. Then ask again.
+
+## gift.loved
+Oh, {gift}! How did you know? I've wanted one for ages.
+For me? This is lovely, walker. Truly lovely. My veils are all aflutter.
+Oh, {player}... thank you. I'll keep it in my nest where I can see it every dawn.
+You've made me so high I could touch the stars!
+Oh, oh, oh, {gift}! Wait till {friend} sees this.
+This is perfect. You've a better eye than most Cirri, walker.
+I'm going to do a loop. Excuse me. There. Thank you!
+It's beautiful. I don't know what to say, and that's rare for me.
+A gift like this deserves a song. I'll sing you one at the Evensong.
+Walkers give the best gifts. I've decided. Well, you've decided it for me.
+My, oh my, {gift}, for me? I'll treasure it. I'll treasure you too.
+My heart's gone right up past the clouds. Thank you, dear walker.
+You remembered what I love! Or you guessed. Either way, you're a wonder.
+I'll keep this always. When I'm old I'll tell everyone who gave it to me.
+Look at it. I could cry. Cirri tears float, you know. Very undignified.
+Thank you! Of everything, {gift} is exactly the thing. Exactly.
+You've brought me sunshine in your hands, walker.
+I've been hoping someone would. I didn't dare hope it would be you.
+Best gift since the Sky Scale I found when I was small. Maybe better.
+I'll show the whole village. Twice!
+Oh, {gift}. You lovely, sturdy, thoughtful walker.
+Up here, a gift like this is remembered for years. Thank you.
+For me? Really me? Oh, my veils have gone pink right to the roots.
+This makes me higher than a whale's back!
+Wonderful. Utterly. I'll be humming all day because of this.
+
+## gift.liked
+Oh, how nice. Thank you, walker!
+A present, and {gift} at that! I'll find a good place for it.
+You didn't have to, and you did. That's the best part.
+What a thoughtful thing. Fair wind to you for it.
+Lovely. I'll put it to good use.
+For me? Thank you, {player}. That's brightened the day.
+How kind! I like it very much.
+A gift from a walker! I'll tell the others; they'll be jealous.
+My veils have perked up a bit. That's the gift working.
+That's just right. Thank you kindly.
+Well, well, {gift}. Really, thank you.
+You're a generous sort, walker.
+Well, isn't that pleasant!
+I'll think of you every time I see it.
+Oh, that's sweet of you. A good gift and a good friend.
+The Courtesy says guests needn't bring anything. I'm glad you did.
+How lovely. It suits the sky, somehow.
+That's a fine thing. Thank you, truly.
+Ha! You've made me smile, walker.
+Thank you. I'll keep it close.
+
+## gift.neutral
+Oh. Thank you. I'm sure I'll find a use for it. Somewhere.
+Hm, {gift}. That's... a thing to have. Thank you, walker.
+That's kind. I don't quite know what it's for, but it's kind.
+I'll put it with the other curious walker things.
+Oh, how... thoughtful. Thank you.
+I'll keep it. It's the thought that floats, as we say.
+Thank you, {player}. I've never had one of these before. Or wanted one. But thank you!
+Ah, {gift}. Well, thank you, I suppose. What do walkers do with it?
+That's very good of you. I'll find it a corner.
+A gift! It'll make a fine thing to talk about, at least.
+It's not quite me, but you're very kind.
+I see. It's the giving that counts, walker.
+Interesting. I'll ask {friend} what to do with it.
+Well, that's a surprise. Thank you, I think.
+Thank you kindly. I'm sure it's very useful, somewhere on the ground.
+
+## gift.disliked
+Thank you, but {gift} is a ground thing, walker. It belongs where things can fall on it safely.
+That's kind of you, but I couldn't keep it up here. The sky doesn't like things that bang, burn or sink.
+I'm grateful for the thought, truly. The thing itself makes my veils curl.
+Thank you, but no. I'd be afraid of it every night in my nest.
+You meant well, I know you did. I'll give it back, if that's all right.
+That's not for Cirri, I'm afraid. It's much too much of a ground thing.
+Oh, {gift}. Please don't be hurt, walker, but I'd rather not.
+Things like this are how the Ruined Belltowers began: one more thing that didn't belong in the sky.
+I'm sorry. I know it's meant kindly. It's just not something I can love.
+Thank you for thinking of me. Next time, perhaps a peach?
+That's the sort of thing we keep far away from the koi pool, walker.
+Honest answer? I don't like it. But I like that you brought me something.
+A {job} has no use for this, I'm afraid. Nor does a Cirri.
+I'll smile and say thank you, because the Courtesy goes both ways. But I won't keep it.
+Something like that, up here? Everyone would go low for a week.
+That frightens me a little, if I'm honest. Could you take it back down?
+You're kind to think of me. This, though... this belongs under the clouds.
+I'll be honest, the way friends are. I don't care for it. I do care for you.
+Not the thing for a sky-dweller, I'm afraid. Still, thank you for the thought.
+Oh. Oh no. Please keep it well away from my veils.
+
+## gift.limit
+No more today, walker! You'll spoil me. Save it for tomorrow.
+That's enough gifts for one day. My nest is getting crowded.
+One gift's a kindness; more starts to feel like a debt. Keep it for now.
+You've given plenty for today. Come back with the next dawn.
+Keep it for now, {player}. I've had my share of spoiling today.
+No, no, I couldn't. Not another. Tomorrow, if you must.
+My hands are full of your kindness already. Truly, that's enough for today.
+Save some for someone else! The whole village deserves a little spoiling.
+Another? You're too generous. Hold on to it until tomorrow.
+The Courtesy says a host mustn't take too much. I've taken enough today.
+I'd float right off under the weight of all this gladness. Tomorrow!
+Enough for today, walker. I mean it kindly. Tomorrow you may spoil me again.
+
+## level_up
+You know, walker, I think the wind likes you. I've decided I do too.
+I think we're becoming real friends. My veils knew it before I did.
+Something's shifted between us, like a wind turning warm. I like it.
+Oh. I've just realised I'm always glad to see you. Always. That's new.
+You've stopped being a visitor, {player}. You're one of the faces I look for now.
+Every time you come, the wind between us gets a little kinder.
+I told {friend} about you today. I said "my friend the walker." It felt right.
+Do you feel it too? Like the air's lighter when we talk?
+You're more than a guest now. The Courtesy is the least of what I owe you.
+Tonight at the Evensong, I'm going to sing you into my verse. You've earned it.
+We started as strangers on a bridge. Look at us now.
+I used to think walkers were all heavy feet and loud voices. Then you came along.
+My heart goes high when I see you on the bridge. I just thought you should know.
+You've a little bit of sky in you, walker. I can tell.
+A friendship's like a veil, I think: woven a thread at a time, and stronger for every thread.
+Trust isn't a small thing for a Cirri to give a walker. You have mine.
+When you're gone, I find myself listening for your boots on the bridges.
+I'd fly a long way for you now. Further than the Wind Stone. Further than the whales.
+There's a wind that only blows between friends. I think we've found it.
+Oh, I'm being silly. It's only... I'm very glad we met, that's all.
+You've stopped feeling like weather and started feeling like home.
+I've told {partner} all about you. They say I talk about you more than the peaches.
+Is this what walkers call a friend? We call it sharing a wind. Either way, that's us.
+That's how a path is made in the sky, they say: by flying it again and again. You keep coming back.
+I'd let you hold the end of my veil. That's a very big thing, among us.
+My veils go warm at the tips when you're near. That only happens with dear ones.
+A little closer, you and I. Like two clouds that drifted together and decided to stay.
+Thank you for being kind to me. It's made me braver with everyone.
+You matter to me, walker. I don't say that often.
+The sky's the same size it always was, but somehow there's more room in it for you.
+
+## trade.open
+Fair wind, customer! Veilcloth, peaches, lanterns, flutes. Look as long as you like.
+Welcome to the Market Pavilion! Everything here is woven, grown or tuned in {village}.
+A walker with emeralds, I hope? Come, see my wares.
+Here's what the sky has to offer today. The stock's fresh with the dawn.
+Buying or selling? I'll take amethyst, feathers, string, and night-moth membranes, if you've any.
+Look, look! Sky lanterns, wind chimes, and a Cirrus Veil for the bold.
+Welcome, {player}! Prices fair as the wind, and I won't haggle much.
+Step up, step up. Everything's light enough to carry home. Mostly.
+My wares, walker. The Windsong Flute's my pride. Turn it over in your hands; it won't bite.
+Ah, trade! My favourite kind of conversation. Have a look.
+Fresh peaches, fresh cloud, fresh-combed veilcloth. What'll it be?
+Everything a walker could want from the sky, laid out for you. Take your time.
+You've feathers? Bring them here; the weavers can't get enough of them.
+A wind harp for your home? A sapling for your garden? Let me show you.
+Come in, come in. I keep the good stock for walkers with good manners. You'll do.
+
+## gift.bring
+There you are! I've been saving this for you all day. Go on, take it.
+I found this and thought, that's for my walker. Here.
+A little something. Don't make a fuss. Well, a small fuss.
+Close your eyes. No, open them, you'll trip. Here, this is for you.
+Kept out of the wind's reach, just for you. Take it before it blows off.
+For you, {player}. Friends bring each other things up here. It's the rule.
+Here! It's not much, but it's from me, and I couldn't wait.
+I flew all the way over to give you this. Well, from the court. That's far, for a gift.
+This was sitting in my nest asking to be yours. Here you are.
+A present, because the sun came up again and you're still my friend. Here.
+Here, take it. I picked it out thinking of your heavy, brave feet.
+Found it, kept it, polished it, and now it's yours.
+Don't tell {neighbour}, they'll want one too. I saved this just for you.
+You looked like you needed a present. I always keep one ready, just in case.
+Hold out your hands. There! That's yours now.
+It's only small. But so was the first cloud, and look at the sky now.
+I've been carrying this about for a light breeze, hoping you'd come. Here.
+A gift from the sky to the ground. Keep it somewhere you'll see it.
+Here, for you. Don't thank me; just come back tomorrow.
+I thought of you, and then I thought, I should give that walker something. So: this.
+
+## evensong.invite
+It's nearly dusk! Come to the Evensong, walker. Stand in the Veil Court and listen.
+The harps are tuning. Will you come and hear us sing the day down?
+The Evensong's starting over the Veil Court. You'll come? Please say you'll come.
+Dusk, walker! Come with me. We sing the sun under the clouds every night.
+Listen, the first harp. Come, the whole village is gathering.
+You've never heard the Evensong properly? Then tonight's the night. Come!
+Stand under us at the court, {player}, and you'll hear every voice at once.
+It's the singing hour, and I won't sing it half so well without you there. Come along!
+Come to the Evensong! You needn't sing. Though if you hum, nobody will mind.
+The bell's rung for dusk. Over to the court with you; I'll fly ahead.
+We're about to sing. Come and be part of it, walker.
+I'd love you to hear our Evensong. It's the best of us, all at once.
+Quick, quick, the court's filling. Come and find a good place below.
+Will you come? The Evensong sounds sweeter with a friend listening.
+Dusk is here. Come and hear how a sky village says goodnight.
+
+## whale.sighted
+Look, look! An Old Singer! I have to go. Fair wind!
+A Cloud Whale! Sorry, walker, I'm off to swim beside it!
+There's a whale passing! Can you hear it humming? I must go and sing back.
+Oh, a blessing! Excuse me, the Old Singer won't wait.
+A whale, a whale! Come to the edge and watch. I'm flying out!
+I can hear it singing! Sorry, {player}, the whale comes first. Back soon!
+An Old Singer's going by, clouds on its back and all. I'm going!
+Fair wind, walker! There's a whale, and I've a song to give it.
+Look how slow and huge it is! I'll be back when it's passed.
+It's singing the weather in! I want to hear what kind. Goodbye for now!
+Oh, my veils are tingling. A Cloud Whale! Excuse me!
+Everyone's flying out to it. I can't stay; I'd never forgive myself.
+Watch from the bridge, walker. You'll see us swimming beside it like little fish.
+The Old Singers don't pass often. I'm off. Wish me luck!
+So close! The whole sky's humming with it. Fair wind, I'm away!

@@ -23,6 +23,41 @@ works with or without any of them.
 - **The Skymerchant** trades Cirri goods for emeralds, including the Cirrus Veil and the Windsong Flute.
 - **Music.** Play a wind harp or a Windsong Flute and the Cirri nearby come to listen. Hit one and it flies away.
 
+## Talking with the Cirri
+
+Right-click a Cirri to talk. The conversation window (Village Friends' layout, in the colours of a clear sky) shows
+their portrait and mood bubble, their line typing out in a breath of flute, numbered replies, and your friendship as
+ten little clouds filling with gold, from Walker to One Sky.
+
+- **About 5,500 hand-written lines**, chosen by the moment as Village Friends' are: the hour, the weather and the wind
+  that has the sky today (Aure, Sefa, Vell or Borre), the moon, what they were doing, their personality (nine for
+  grown-ups, six for children) and job, how well they know you, what you hold and how you look (soaked, hurt, wearing
+  an elytra or a Cirrus Veil, standing at the edge of the island), what is near (a Cloud Whale, koi, a wind harp) and
+  what you have told them.
+- **Replies:** How's your day? · Tell me about your work · Tell me about the sky · What do you make of the ground? ·
+  Sing me something · Any news in the village? (at Fair Wind) · Anyone special? (at Open Sky). Children: play, the
+  sky, the ground, songs, secrets and their family.
+- **Questions:** now and then they ask you something (86 questions: favourite wind, have you ever fallen, cats or
+  koi...) and remember your answer, calling back to it later. **Offers:** they patch you up when you're hurt, give you
+  a sky peach when you're hungry, wrap you in a breath of wind at the edge, mend your elytra, tell you the way down.
+- **Gifts** they love, like or don't (two a day), **stories** of their own (25 for grown-ups with three requests and two
+  endings, 10 for children), and **the Journal**: your memories together, what you know of them, their story so far.
+- **Gossip** about real neighbours: who shares a nest with whom, whose baby was born, who grew up, the whale that
+  passed, the storm, what you did.
+- **Manners:** they hover in front of you as you talk; the shy keep further off, the restless drift round you, the
+  merry dart off for a loop and come back, the busy excuse themselves. Strike one and they turn away until you say sorry.
+
+## A village going about its day
+
+- The village's **name** comes up as you arrive. **Emote bubbles** (little clouds) pop over their heads: hearts between
+  sweethearts, notes as they sing, "..." as they chat, "Zz" asleep.
+- Neighbours stop in pairs to **chat** face to face. At dusk the whole village circles over the Veil Court to sing the
+  **Evensong**. When a **Cloud Whale** passes, some fly out to swim beside it. Children play **tag**. In thunder everyone
+  **shelters** in their nests.
+- Close friends wave you over with a heart and once a day fly over with a **little present**.
+- 126 **animation clips**: idles and trades (harpists strumming, weavers combing cloud), loops and
+  somersaults, waves and bows, gestures as they talk, delight, thanks and huffs.
+
 ## The sky
 
 - **Sky villages** float at about y 205-235: a central island with the Veil Court, a Bell Pagoda, the Hall of
@@ -65,11 +100,15 @@ Everything generated lives in `tools/` (Python 3 with Pillow, numpy and scipy; f
 | Sounds | `python tools/sounds/synth.py` |
 | Buildings (previews) | `python tools/buildings/preview.py <name>` |
 | Villages and sky structures | `python tools/villages/compile.py` |
+| Dialogue (lines, questions, offers) | `python tools/dialogue/dialogue.py` |
+| Story books (check) | `python tools/stories/check.py` |
+| Animation pack | `python tools/animations/compile.py` |
+| Emote bubbles | `python tools/gui/emotes.py` |
 
 The in-game tests:
 
 ```
-gradlew runClientGameTest -PskyTests=Cirri,Sky -PtestHeap=2g
+gradlew runClientGameTest -PskyTests=Cirri,Sky,Talk -PtestHeap=2g
 ```
 
 Add `-PskyFilm` to film them (then `python tools/film.py`), and `-PcompatMods=<a modpack's mods folder>` to run

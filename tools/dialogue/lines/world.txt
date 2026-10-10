@@ -1,0 +1,571 @@
+# The moment: what a grown-up Cirri says to "How's your day?" given the hour, the weather, the moon, the wind,
+# what they were just doing and what is near them. Keys: time.<period>, weather.<weather>, moon.<phase>,
+# wind.<wind>, routine.<routine>, village.<thing>.
+
+## time.dawn
+The weavers are already out with their combs, raking in cirrus while it's still damp enough to hold a thread.
+Did the dawn bell wake you? It always rings just as I've found the soft side of my cushion.
+At this hour the tips of my veils are the same rose as the sky. For a breath I can't tell where I stop and the morning starts.
+Look down. The cloud sea is pink from edge to edge, and not one walker under it knows.
+I shook the dew off my veils over the Cloud Garden and made a little rain of my own. The flowers looked so surprised.
+First light finds the gilded roofs before it finds anyone's face. For a moment the whole village blinks gold.
+This sky has seen {day} dawns now, and I'd swear no two of them were the same colour.
+Every dawn I eat a peach hanging upside down over the garden. Don't ask why. It tastes better that way.
+The bell rings, the koi stir, the harps catch the first breath of wind. Same order every dawn. I'd be lost if it ever changed.
+The night-moths are sinking away into the cloud. I always feel the whole village breathe out when the last one goes.
+Listen: everyone's shaking the dew out of their veils. A hundred little snaps all over the village, like the sky cracking its knuckles.
+Nobody says much before the bell. We just hover and watch the light come, all of us facing east like flowers.
+Dawn's the only hour I can see the bell-villages far below, their chimney smoke standing straight up like threads.
+The children always try to catch the first sunbeam. They never manage it, but they come back glowing anyway.
+You're up with the bell, {player}! I thought walkers slept until the sun came and kicked them.
+
+## time.morning
+Mornings are for work and gossip, in that order. Well. Usually in that order.
+Up go the awnings on the Market Pavilion. By the time they're tied, a walker always comes puffing up from the Lift Dock.
+The harpists are tuning to {wind} now. Every string has to learn the day's wind fresh, they say, or it sings flat until dusk.
+So bright, the cloud sea at this hour. I fly with my eyes half shut. Walkers squint at snow; we squint at the floor.
+I've already had two peaches and a quarrel with a bee. It's been a full morning.
+Flying lessons over the Veil Court this morning. Lots of shrieking. Some of it from the teachers.
+The koi know it's morning. They crowd round the gardeners in a gold-and-white tangle, begging like children.
+The islands' shadows lie across the clouds below like dark boats. By noon they'll have shrunk to nothing.
+Dawn veils are heavy with dew. Morning veils are light as gossip. Now's the time to fly anywhere you like.
+A good morning is one where nothing needs mending. Today might be one. Ask me again at noon.
+What do walkers do first thing in the morning? I picture a great deal of stamping about.
+Guests can manage the bridges now they're dry. At dawn the planks are slick with dew and walkers go over them like cats on ice.
+The weavers have hung last night's veilcloth out to air. The whole Loom House flutters like it wants to come flying too.
+Swallows went by underneath me just now, hunting over the cloud sea. I always want to wave, but they never look up.
+{player}, you look rested. Walkers sleep lying flat, don't you? On purpose? It sounds like falling and never landing.
+
+## time.noon
+Noon, and the sun's right on top of us. The only shade in the whole village is underneath it.
+At midday half of us hang in the shadow under the islands, among the roots, like bats with better manners.
+The calcite's so bright at noon it hurts. I keep my eyes on my own veils and fly from memory.
+Touch the bridge rail. Go on. Warm as a peach in the sun, isn't it?
+The koi have all drifted into the shade under the skywood trees, and they won't come out until it moves round.
+A peach picked at noon is warm right through. I had one with honey and now I can't think about anything else.
+Heat comes up off the islands in shimmers. Look through it and the far islets wobble like they're laughing at something.
+Midday's a lazy hour. Even the harps go quiet, as if the wind had gone for a nap.
+Walkers were crossing the bridge just now, red as apples, fanning themselves with their hats. I wanted to fan them with my veils.
+The sun's so high my shadow drops straight down through the cloud. Somewhere on the ground there's a dark patch shaped like me, and I'll never meet it.
+Noon is for honey and dozing, in the air over the Cloud Garden where the leaves throw a little shade.
+The bridge planks tick as they warm. Guests always think something's about to give way. Nothing ever does. Nearly never.
+I dipped down into the cloud to get out of the glare, and came back up wet as a sponge. Not worth it.
+Half the day gone, and I've done exactly half of what I meant to. That's honest, at least.
+{player}! Out in the noon sun with no hat and no veil? Walkers are braver than they are sensible.
+
+## time.afternoon
+Afternoons are long up here. The sun takes its time going west, and so do we.
+The harpists have started practising for the Evensong already. You can hear the same three bars from every bridge.
+The light's gone honey-coloured. Everyone looks kinder in it, even walkers.
+This is the hour the children get bored and race round the Lantern Spire. Three laps and back, and somebody always cuts the corner.
+The cloud sea heaps itself up into towers in the afternoon heat. From here they look like a second village nobody lives in.
+Most walkers come up in the afternoon, red-faced from the Wind Stone and grinning. I like that grin.
+A slow afternoon is a gift. I spent mine watching a hawk below me circle the same hill a hundred times. It never caught anything. Neither did I.
+Bees from the Cloud Garden come up to my nest every afternoon. I've decided they're visiting, not lost.
+The shadows are stretching east across the clouds. In an hour they'll reach the next island over.
+Afternoon is for little jobs: shaking out the cushions, picking burrs from my veils, telling the koi they're handsome.
+The Market Pavilion is loudest after midday. Walkers bargain as if every emerald were their last.
+Isn't it strange how the day feels heavier after noon? Not sad. Just full, like a cloud before it rains.
+I'm in that warm half-sleep you only get in the afternoon, when the wind rocks you and the sun leans on your back.
+I've had a tune stuck in my head since noon, and it isn't even one of ours. The wind must have blown it up from somewhere below.
+{player}, you've got the afternoon look: too much sun and not nearly enough honey.
+
+## time.evening
+There goes the dusk bell. In a little while the whole village will be over the Veil Court, veils out, voices up.
+The lamplighter's going bridge to bridge now. Every lantern that wakes makes the next dark one look lonelier.
+Look at the cloud sea. Rose, then gold, then grey. It changes faster than I can name the colours.
+Whatever wind has the sky, Vell always sneaks in at dusk with a song tucked under its arm.
+Miss the Evensong? I'd sooner miss supper. I've come to it with a torn veil and a streaming cold.
+The walkers below are lighting their lamps. From up here the bell-villages look like a handful of glow berries dropped on a dark blanket.
+Everyone's coming home now. You can tell who's tired by how low they fly.
+I've been humming the low part all afternoon so I don't come in sharp tonight. Listen. No, don't, I'm saving it.
+Dusk is the gentlest hour. Nobody hurries, nobody frets, and the sky does all the work.
+Evening's the only time the gold thread in our veils really shows. Look at the edges, where the light catches: everyone's trimmed in sunset.
+Walkers who've heard the Evensong say it rings in their ears for days. I hope that's a good thing.
+The great lantern on the Spire is the first light lit and the last to go out. Somebody has to keep watch over the dark.
+Sing the day down, we say, as if the day were a child who won't close its eyes without a song. I think it is.
+Just at sunset the air goes still for a breath, every single evening. We all hold our veils out and wait for it to come back.
+{friend} has saved me a place by the harps for the Evensong. The best place, if you don't mind being sung at from both sides.
+
+## time.night
+Look up. The stars are so close tonight I keep tucking my veils in so I don't snag one.
+Most of the village is curled up over their cushions by now. Listen: someone in the next nest is snoring like a sleepy harp.
+Walkers see the stars through all that air. We're halfway to them already. They look near enough to pick like berries.
+I should be asleep. But the night's so clear, and sleep will still be there in an hour.
+Keep an eye out for night-moths. They come down out of the dark for walkers who've gone too long without sleep. You have slept, haven't you?
+At night the cloud sea goes silver and the world below disappears. It's just us and the sky, the way it was at the start.
+The chimes keep talking after everyone's asleep. I like to stay awake a little and listen to their gossip.
+Night air carries everything. You can hear a harp three islands away, and someone turning over in their sleep.
+My veils go loose and soft when I'm sleepy. Look at them, drooping. Mm. Where was I?
+Some nights I try to count the stars over the Bell Pagoda. I've never got past the first hundred before I drop off mid-number.
+Shh. The children are asleep in the nests, and children sleep lighter than veilcloth.
+Night's when the sky gets bigger. By day it has a lid on it. At night it just keeps going up.
+Out late, walker? Down on the ground you've got creepers and worse. Up here there's only the dark and the stars, and they're friendly.
+One star sits over the Lantern Spire every night, in exactly the same spot. I've decided it's keeping watch with the great lantern.
+{player}, you should be sleeping. Or is it the stars? They keep me up too.
+
+## time.late
+It's the deep middle of the night. Only the wind and I are up, and the wind doesn't need the sleep.
+I turned and turned over my cushion for an hour, like a koi chasing its own tail, and then I gave up.
+This late, even the chimes stop talking. It's the quietest the sky ever gets.
+Do walkers lie awake too? I always wondered if the ground holds you too tight to toss and turn.
+When I can't sleep I fly one slow lap of the islands and count the sleeping nests. It never works, but I like the counting.
+The dark before dawn is the coldest. My veils go stiff with it and I tuck my feet up under them.
+At this hour the whole village feels like a dream somebody else is having.
+Something heavy kept me awake. It's lighter now. Talking to a walker in the dark will do that.
+The great lantern's still glowing over there, steady as anything. On sleepless nights I hover where I can see it, and somehow that helps.
+It's so late it's nearly early. Another hour and the bell will ring, and I'll pretend I slept.
+Late nights make me think of the ones who've gone up past the blue. I don't mind. It's a kind of visiting.
+What are you doing awake? No, don't tell me. Whatever it is, I'm glad of the company.
+In the small hours the cloud sea lies perfectly still. You could almost believe a walker might stroll across it to the next village.
+Have you ever heard a skywood tree creak in its sleep? Only at this hour. It sounds like the island breathing.
+I'm wide awake and I don't know why. My heart's high and my eyes won't close. Maybe tomorrow's going to be a good one.
+
+## weather.clear
+Not a cloud above us and a whole floor of them below. Blue on top, white underneath: the best kind of day.
+On a day like this, with the sun behind you, your shadow on the clouds wears a little rainbow ring. Walkers never get to see that.
+Clear enough to see the wild islets from here. One of them has a tree I've never seen before. I mean to go and look one day.
+Where the clouds break apart below you can see the ground through the gaps: green, brown, and a river like a dropped thread.
+Sunlight on your veils with nothing in the way is like being held. Warm all the way down to the tips.
+Blue in every direction. On days like this I forget there's anything below us at all.
+Clear sky, clear head. I sorted out three worries before my first peach.
+You can see the hawks working the fields way down there. From up here they're specks, and they think they're so high.
+On a calm clear day the harps hardly stir, and the village goes so quiet you can hear the koi flicking their tails.
+A clear day is a travelling day. If I didn't love this village I'd be halfway to the edge of the sky by now.
+Fair weather for a walker to come up. You picked well. Last clear day like this we had six guests, and one wouldn't let go of the rail all afternoon.
+The light on a clear day makes the gold in everyone's veils wink. The whole Veil Court sparkles like the koi.
+The clouds below look solid as snow today. Every child tries to sit on one once. They come back up soaked and outraged.
+The sky's so clean today it looks freshly woven.
+I spent the morning on my back in the air, just looking up. There's nothing up there but more blue. It's wonderful.
+Clear days are when you can spot a whale from furthest off. Keep your eyes east, walker. Maybe today.
+Not a breath of trouble anywhere. The sky's in a good mood today, and up here moods are catching.
+{player}, on a day this clear I watched you come all the way up from the Wind Stone. You wave like a walker: whole arm, very earnest.
+
+## weather.rain
+It's raining on everyone below us. All that grey down there, and here we are in the light. I almost feel I should apologise.
+This rain's falling past us from some cloud higher than the village. Rude of it. Rain is supposed to happen underneath.
+I flew up through the rain to dry off. There's always sun above the rain cloud, if you're willing to climb for it.
+From up here the rain hangs from the underside of the clouds in long grey threads that reach right down to the hills.
+The Cloud Garden is drinking this in. The skywood leaves are shining, and the peaches will be fat by the end of the week.
+The koi love rain. They dart at the drops like children chasing bubbles.
+A wet veil weighs as much as a bad mood. I've been flying low all morning.
+Rain at our height means the clouds have come up to visit. Everything goes soft and grey and close. It's like flying inside a sigh.
+When the sun comes out after rain, a rainbow from up here is a whole ring, not a half. Walkers only ever get half.
+Mind the bridges, {player}. Rain makes the skywood slick, and it's a long way down for anyone without a veil.
+Rain doesn't stop the Wind Stone. Walkers came up the shaft wet as river stones and laughing about it.
+On the veilcloth awnings rain makes a hush, not a patter. As if the sky were telling everyone to whisper.
+The harps hate rain. Wet strings go slack and sing everything a little sad.
+Best sleeping weather there is, rain below us. The cloud sea goes thick and dark and soft, like a bed nobody's allowed in.
+Rain caught up high tastes of nothing, clean as a new veil. By the time it reaches you, it's picked up the taste of everything it fell past.
+I think an Old Singer is behind this. One went by singing low last night, and here's the rain.
+The children are flying in and out of the drops, trying to dodge every one. Nobody's managed it yet. Nobody's stopped trying.
+Everyone's tucked under the awnings with their veils wrung out and dripping. It's the only time you'll see a Cirri keep still.
+
+## weather.thunder
+Did you hear the bell ringing on and on? That's the storm peal. When it rings like that, everyone goes home and stays home.
+Lightning looks for the tallest thing in the sky, and up here the tallest thing is us. Please don't stay out in it.
+Thunder isn't a sound up here. It's a shove. It goes straight through your chest and out the ends of your veils.
+The children are all tucked in the nests with someone humming to them. Humming covers the thunder, a little.
+The harps go wild in a storm. Somebody ought to still them, but nobody dares fly to the Hall of Echoes in this.
+I saw a bolt strike the cloud sea below us once. The whole cloud lit up from inside like a lantern. I didn't sleep for two nights.
+Somewhere behind all that, Borre is laughing. Storms are Borre's idea of a joke, and nobody else finds them funny.
+You walkers are lucky in a storm. You can crouch in a cave, and the lightning can't find you down there.
+Stay close to me if you're staying at all. I'm not much, but two in a storm are braver than one.
+Every Cirri knows what to do when it thunders: home, curl small, tuck your veils in and hum. Even the eldest.
+Sorry, I'm jumpy. Every rumble, my veils snap tight around me. They're more frightened than I am, and I'm very frightened.
+The Ruined Belltowers were struck again and again before they sank, they say. Iron bells call the lightning down. One more reason we build light.
+Not a day for soaring. The sky's all teeth today.
+The whales dive deep into the clouds when it storms. Even the Old Singers won't sing over thunder.
+When it's over, the air will smell sharp and new. That's the one good thing about a storm, and I'm waiting for it.
+Talk to me, {player}. About anything. Your caves, your fields, the things walkers eat. Something with no thunder in it.
+Thunder rolls along the top of the cloud sea like something heavy being dragged. I hate heavy things. I hate this most of all.
+Poor walkers in the bell-villages below. Though I'd rather have a stone roof than a veilcloth one tonight, I'll admit.
+
+## weather.snow
+Snow! Up here it doesn't fall so much as wander. Sideways, upward, round about, as if it hasn't made up its mind.
+Snowflakes catch in my veils and stay. By evening I'll be wearing the whole winter.
+Snow is the only weather slow enough to talk to. Hello, flake. Goodbye, flake.
+The koi have gone slow and dreamy in the cold. They hang over the pool like lanterns somebody forgot to light.
+Frost on the harp strings. They ring higher in the cold, thin and sweet, as if they're singing through their teeth.
+You can see your breath, {player}. Mine too. Look: little clouds of our own.
+White on top of the islands, white in the cloud sea below. Without the sun you can't tell up from down.
+I've wrapped my feet in veilcloth. Bare feet and snow are not friends, whatever the children tell you.
+The children are catching flakes on their tongues, and then on each other's veils, and now it's a war.
+Everything's hushed. Even the chimes sound like they're whispering.
+The skywood trees are all wearing white. The gardeners are out shaking the branches so they don't crack under it.
+My veils have gone stiff as bark in this cold. I'm flying like a dropped plank today.
+Down through the cloud sea goes every flake, and vanishes. I like to think of each one landing on some walker's roof.
+Walkers love snow, don't they? Your feet leave marks in it. Ours never leave a mark on anything.
+Walkers come over the snowy bridges sliding and yelping, and we hover alongside and cheer.
+I had a peach so cold it crunched. Don't tell the gardeners. They'd be scandalised.
+The Bell Pagoda's roof has a cap of snow like a sleepy hat. Every time the bell rings the whole cap slides off at once, and every time I laugh.
+Snow makes me want to curl up over my cushion with honey and a story. Do walkers have snow stories? Tell me one.
+
+## moon.full
+Full moon tonight. It's so close and round I keep wanting to knock and see if anyone's home.
+The moon's paying us a proper visit. Look below: every cloud in the sea has gone silver.
+On a full moon even the great lantern looks a little embarrassed.
+The koi love the full moon. They rise high over the pool and turn their sides to it, all shining.
+Too bright to sleep. I've been hovering with my eyes shut and I can still see the moon through my eyelids.
+Round as a sky peach tonight. If it came any nearer I'd take a bite.
+A full moon and not a breath of wind. The whole village is one big silver stillness.
+{player}, look at your shadow on the bridge. Moonlight this strong makes even a walker look light enough to fly.
+
+## moon.waning_gibbous
+The moon's lost a sliver off its edge since last night. Somebody's been nibbling.
+A little less moon tonight. It goes the way a good guest leaves: slowly, and looking back.
+The moon rises later every night now, like a neighbour who's taken to staying out.
+Still bright enough to see the koi by, but one edge has blurred, like a veil seen through rain.
+When the moon starts to shrink I always feel a little low. Then I remember it comes back. It always comes back.
+The moon's leaning to one side tonight, lopsided, as if it's listening for something.
+A walker once told me the moon is just a big rock. A rock! I laughed so hard I lost height.
+Look at the shadowed edge. You can still see where the round of it should be, if you squint and want it badly enough.
+
+## moon.last_quarter
+Half a moon tonight, the other half resting. I know just how it feels.
+The moon's cut straight down the middle, like a nest door left half open.
+Half a moon, half a sleep. That's the rule on nights like this.
+The moon's showing us its back tonight. It's on its way somewhere, and it won't say where.
+A half moon is the honest one. Half bright, half dark, and not pretending otherwise.
+With only half a moon, the faint stars come back. Look at them all, crowding in round the edges.
+Make your promises on a half moon, my elders taught me: there's light enough to mean them by, and dark enough to keep you humble.
+Half a moon and half a village awake. I'm in the awake half, it seems.
+
+## moon.waning_crescent
+Just a thin curl of moon tonight, like the frayed tip of a veil.
+The moon's nearly gone visiting. A few more nights and it'll be dark for a while.
+A thin moon and a big sky. The stars have the run of the place tonight.
+Look closely and you can see the rest of the moon, dim and grey, held in that thin bright curve. Like a sleeper in a blanket.
+The moon's so thin it barely lights the bridges. Walk carefully, walker. You're the only one of us who has to.
+We call this the moon's last bow. It bends low and thin, and then off it goes.
+The night-moths like a thin moon. I keep close to the lanterns till it fattens up again, and I hum.
+When the moon's this thin I miss it already, the way you miss a friend who's started packing.
+
+## moon.new
+No moon at all tonight. Our neighbour's away, and the sky feels emptier for it.
+Dark moon. The stars are so thick tonight it looks like someone shook out a veil full of frost.
+On a dark moon the great lantern is the brightest thing for miles. Walkers below must think a star came down to stay.
+The children don't like the dark moon. I tell them the moon is only resting its eyes, and it is.
+Without the moon you can't tell where the cloud sea ends and the sky begins. It's all one dark, and we float in the middle of it.
+No moon means a good night for counting stars and a bad night for finding your nest. I've drifted into two wrong ones already.
+The Old Singers sing louder on a moonless night. Maybe they're calling the moon home.
+Every time the moon goes, it comes back. In the dark, I find that a great comfort.
+
+## moon.waxing_crescent
+There's the moon, just a thin smile low over the cloud sea. It's back!
+A sliver of moon tonight, sharp and bright as a new harp string.
+The first thin moon is lucky. You make a wish on it, quietly, and tell nobody. I've just made mine.
+The moon's a little hook tonight. If I could reach it I'd hang a lantern on it.
+The moon's coming back a bit at a time, careful, like a walker on the bridges for the first time.
+Look, the moon's peeking round the edge of the dark. Welcome home, neighbour.
+The koi saw the moon before I did. They were all turned west, waiting for it.
+A growing moon is for beginnings, we say. I've been meaning to begin something. Maybe tonight.
+
+## moon.first_quarter
+Half a moon and growing. Every night it fills a little more, like a cup of nectar under a dripping flower.
+The moon's lit on one side and dark on the other, like a face turned half toward a lantern.
+A half moon early in the night always looks like it's hurrying to catch up with the sun.
+Half a moon makes the best shadows. Look at the bridge rails, drawn across the cloud like a ladder.
+Half a moon is plenty to fly home by and not so much it keeps you awake. It's my favourite.
+The moon's like a peach cut in two tonight. Somebody's saving the other half for later.
+I'm halfway through something too, I think. Like the moon, I'm hoping the second half is the bright one.
+The children say a half moon is the moon winking. Since they told me, I can't see it any other way.
+
+## moon.waxing_gibbous
+Nearly full. Another night or two and the moon will be round as a nest.
+The moon's bright enough to weave by now. Long ago the weavers worked right through such nights, before there were lanterns on every bridge.
+Almost full, and everyone's restless. The koi, the children, me. The moon does that.
+A fat moon, not quite finished. It looks like it's holding its breath.
+The cloud sea's already glowing. Wait till it's full: you'll see your own shadow on the clouds at midnight.
+There's a lumpy little piece missing off one side of the moon, as if somebody's still making it.
+The moon's on its way to full, and there's always good news on the way to a full moon. Something's coming. I can feel it in my veils.
+{player}, you've come up on a good night. The moon's nearly full and the whole sky is showing off.
+
+## wind.aure
+Aure has the sky today. Gentle as a hand on your back. You barely have to fly at all.
+Flying in Aure is like flying through a morning that won't end: damp and soft, smelling of dew and new leaves.
+Dew all along my veils, strung there by Aure. When the sun catches it I'm wearing a hundred little lanterns.
+Cloth woven on an Aure day stays soft forever, the weavers say. The Loom House has been busy since first light.
+Aure is the neighbour who knocks so softly you're never sure you heard. Then you look out and the whole step is wet with dew.
+Even the children fly gently in Aure. It's hard to be wild in a wind that kind.
+The harps play so quietly in Aure you have to lean in. It's the only wind that makes them whisper.
+Out of the east, out of the dawn itself: that's where Aure comes from. Some days it still smells of sunrise at noon.
+Nothing much happens on an Aure day, and I like it that way. Nobody tears a veil. Nobody shouts.
+Look at the clouds: still pink at the edges, hours after sunrise. Aure carries the dawn's colours along with it.
+When I was small they always put me up in Aure to practise. It catches you when you wobble.
+Of the four winds, Aure's the one I'd marry, if winds married. Gentle, early, and never once in a temper.
+A whole day of Aure and I've done nothing but drift and hum. Do walkers have days like that?
+So damp, this wind. The koi swim higher than usual, right up into it, as if the air had turned to water.
+Aure never blows long at a stretch. It sighs, and rests, and sighs again, like someone settling into sleep.
+
+## wind.sefa
+Sefa has the sky today, warm and lazy. You don't fly in Sefa so much as let it carry you wherever it was going anyway.
+Smell that? Peaches. Sefa always smells of peaches, even when there isn't one for miles.
+Nothing gets done on a Sefa day. The wind's too warm, the honey's too sweet, and everyone's half asleep in the air.
+Up from the south comes Sefa, with far-off warmth in it. Today I can smell flowers I've never seen.
+My veils hang slack and lovely in Sefa. They don't stream, they float, like weed in a warm pond.
+The bees love Sefa. The whole Cloud Garden is humming louder than the harps.
+A Sefa day is a gift wrapped in a yawn.
+Here's Sefa, dropping in for a light breeze and staying till dark, full of long stories about the south.
+Try going anywhere in a hurry on a Sefa day. Go on. Sefa will just turn you round and nudge you toward a nap.
+The peaches ripen faster when Sefa blows. The gardeners pick twice as often and grumble the whole time, with their mouths full.
+Even the Market Pavilion slows down in Sefa. Walkers arrive, sigh, and forget what they came up to buy.
+Sefa makes the whales lazy too. If one passes today, it'll be slow enough to swim beside all afternoon.
+Warm wind, warm skystone, warm honey. Sefa days stick to you.
+{wind} again! I think it likes us. I think it likes everyone, which is very Sefa.
+Sefa carries sound slowly. A laugh from the Veil Court takes its time reaching you, and it arrives all soft round the edges.
+
+## wind.vell
+Vell has the sky today, the west wind, the song-carrier. Listen: there's singing on it from somewhere too far to see.
+Flying in Vell is steady work. It doesn't push and it doesn't drop you. It just goes, all day, like one long note.
+On a Vell day the harps play themselves. The harpists only have to keep up.
+Vell carries everything: songs, voices, gossip. Say something unkind on a Vell day and three villages will hear it by dusk.
+Vell blows out of the sunset. Even at noon it smells a little of evening.
+Some days Vell brings a song I almost know. I hum along and lose it halfway, every time.
+The Evensong sounds best in Vell. It takes our last note and keeps it going long after we've stopped.
+A wistful wind, Vell. It makes everyone think of old friends. I've been thinking of mine all day.
+Like an old gossip, Vell brings news from the far side of the sky and never quite gets it right.
+When Vell blows, the chimes ring in long rounds, one after another down the bridges, as if they're passing a message along.
+Fly with Vell at your back and you'll go east all day without trying. Fly against it and you'll learn some patience.
+If an Old Singer is anywhere in this sky today, Vell will bring us its song. Keep your ears open.
+Every Cirri child learns to sing in Vell. It holds the note for you when your breath runs out.
+With {wind} blowing, every veil in the village streams east together, like a flock that's agreed on something.
+Vell's the wind for goodbyes. Whatever you send off on it, a song or a wish or a sigh, it carries gently.
+
+## wind.borre
+Borre has the sky today, cold and sharp out of the north. My veils keep cracking like flags.
+Flying in Borre is hard work. Every gust wants to throw you somewhere you never meant to go.
+Borre's air is clean. You can see further on a Borre day than any other. You can also lose your nose to it.
+On Borre days somebody is always watching the north, and the bell rope is never far from a hand.
+Little veils and a big wind don't mix, so the children are kept close to the nests till Borre moves on.
+Borre has no manners, but it never lies. If a storm is coming, Borre tells you first, and loudly.
+My cheeks are stinging. Borre's been slapping them all day. It must be fond of me.
+I like Borre, mostly. It blows the haze off and the whole world comes up sharp and blue, all the way to the edge.
+Walkers who come up on a Borre day arrive at the dock holding their hats and their dignity, and usually only one of them.
+Borre is the neighbour who flings the door open, shouts the news and leaves. You're glad of the news. You're glad when it goes.
+Keep your veils tight today. Give Borre one loose end and it'll have you mending till the next new moon.
+Everyone flies low and close in Borre, in each other's lee. It's the friendliest a village ever gets: we're all hiding behind each other.
+The harps don't play in Borre. They argue.
+Borre brings the cold lands with it. Even when it isn't snowing, it smells of stone and ice.
+Never trust a still day, the old ones say. With {wind} howling round the bridges, I'd trade a peach for one.
+
+## routine.work
+You caught me mid-task. My hands keep going even when my head turns, so don't mind them.
+Work's going well today. That always makes me suspicious.
+I've been at my spot since the bell. Talking to you counts as a rest, doesn't it?
+I like work you can see when it's done. At the end of the day you can point at it and say, that's mine.
+Busy, busy. But there's always a breath of wind for a walker.
+My teacher used to say: work as if the whole sky were watching. Up here it usually is.
+I've done the hard part. Now I'm on the part that looks easy and isn't.
+Sore hands, full head, high heart. That's a good working day.
+Work was slow this morning, so I've been doing it twice as carefully. Don't tell anyone, they'll expect it every day.
+You're welcome to watch, walker. Most walkers find it very dull, and then stay an hour.
+I was just thinking I'd earned a peach. Then a walker came up. Better than a peach. Nearly.
+{coworker} and I have been at it since dawn. We stopped talking hours ago. That's how you know it's going well.
+Everyone in {village} has their part, and mine was just going rather nicely. Never mind. It'll keep.
+Somebody's always needing something. Today it's been everybody, all at once.
+A Cirri works light. Pile too much into one day and the whole village sinks; ask the old belltowers. So: a little work, a little song.
+
+## routine.gather
+I was just over the Veil Court with the others, trading news. You came up in the middle of a very good story.
+Half the village is hovering round the court right now. You can't hear yourself think, and that's rather the point.
+{neighbour} was telling everyone about a whale they saw. It gets bigger every time it's told.
+The court's the place to hear everything: who's mended what, whose peaches are ripe, who's sweet on whom.
+We all just drifted together over the court like leaves in an eddy. Nobody planned it. Nobody ever does.
+I wasn't really in the gathering. I hover at the edge and listen. It's the best spot. Nobody asks you anything.
+A walker at the court! Now there'll be something to talk about. Don't worry, it'll be kind. Mostly.
+We were arguing about whether Sefa or Aure is the better wind for napping. It's an old argument. Nobody ever wins it.
+Gathering is what we do between doing things. I think it might be the most important thing we do.
+Someone brought honey to the court and now everyone's sticky and happy. Mind my veils.
+We were just deciding who should go and meet the next walker. And here you are, and I'm closest. Hello!
+My favourite part of a gathering is the quiet bit at the end, when everyone's said their news and we just hover together.
+I came to the court for a light breeze and I've been here half the day. That's how the court gets you.
+You can tell the mood of {village} by how high everyone hovers at the court. Today we're up near the roofs.
+Did you see us from the bridge? All in a ring, veils out, nobody left out. The sky is wide enough for everyone, and so is the court.
+
+## routine.soar
+I was out soaring round the islands. Three long loops and one I didn't mean to make.
+You should have seen the light under the far islet just now: all the roots gold, and the cloud beneath lit like a pool.
+I've been riding the updraft off the Lantern Spire. It goes up and up, and you just lie on it like a cushion.
+My veils are still rippling from the speed. Give them a moment, they'll settle.
+I flew so far out that {village} looked like a few pebbles on a cloth. Then I got lonely and came back.
+There's a spot past the Cloud Garden where the wind folds over itself. Hit it right and you turn a full circle without trying.
+I like to skim right down on top of the cloud sea with my veils trailing in the white. It leaves a wake behind you, like a fish.
+Soaring clears my head. I went out with a worry and came back with a song.
+A flock of birds went by beneath me, all in a line, all very serious. I tried to join in and was not invited.
+Out past the edge of the village the air is wild and clean. It's like drinking from the top of a waterfall.
+Round the Bell Pagoda three times for luck. Then a fourth, in case the first three didn't count.
+When I'm soaring, the walkers on the bridges look so small and so brave, holding the rails as if the bridge might change its mind.
+I was racing my shadow across the clouds. It won. It always wins on a sunny day.
+Soaring's the best way to see your own village. From inside, it's home. From outside, it's a wonder.
+Did you see me go by, {player}? I waved. You were looking at your feet. Walkers always look at their feet.
+
+## routine.chat
+I was just talking with {neighbour}. We started on peaches and ended up on what the stars are for. That happens.
+{friend} and I have been chatting since the bell. I don't even remember what about. Something good.
+You've caught me between conversations. My voice is still warm from the last one.
+I was having a long talk about nothing at all. Those are the best kind.
+We were talking about you, actually, walker. Only good things. Mostly about your boots.
+That was {friend}. We've been friends since our veils were short, and we still finish each other's songs.
+I was hearing all about someone's new nest. They want round windows. Everyone wants round windows.
+A neighbour was telling me their nightmare: they'd walked. Walked! On the ground! They woke up shaking. Can you imagine?
+I was being advised. About my own veils. By {neighbour}. I've flown in them for years, but thank you, {neighbour}.
+Talking is half of what we do up here. The other half is singing. The third half is listening.
+We were swapping Lengthening stories. Mine was a disaster. I'll tell you someday, when I know you better.
+We were trying to remember the third verse of an old wind song, and neither of us could. Do you know any wind songs, walker?
+{friend} just went off to the Cloud Garden and left me mid-sentence. That always happens when {friend} is losing an argument.
+I've been gossiping. A little. Kindly. That's allowed, as long as you'd say it to their face.
+We were planning a trip to a Wind Shrine with gifts for the winds: peaches for Sefa, a song for Vell, and a scarf for Borre, poor cold thing.
+
+## routine.evensong
+You've caught me between verses. I slipped out of the Evensong to say hello; I'll slip back before the last one.
+My voice is still warm from singing. I always feel lighter after the Evensong, as if I'd put something heavy down.
+The harps were perfect tonight. Nobody came in early, nobody went flat. That happens maybe twice a year.
+I sing the low part. It's not grand, but without it the high voices would float right off into the sky.
+Every Evensong I close my eyes on the last note. When I open them, the day's gone, just like that.
+My throat's a bit sore. I sang too loud in the second verse. I always do; I can't help it.
+The living sing the Evensong, and the ones who've gone up past the blue hum along. That's what I was taught, and tonight I believed it.
+The children always rush the ending so they can play in the dusk. We let them. We were exactly the same.
+Tonight the whole court sang like one Cirri. Those are the nights you keep.
+Singing with everyone makes me feel like one thread in a great weave. Not much alone, but part of something.
+My veils are still swaying to it. Look. They don't know when to stop.
+I missed my cue tonight because I was watching the sunset. Nobody minded. Everyone's missed one for a sunset.
+The harpists slipped an old whale verse in tonight. Somebody must be hoping for a visit.
+Evensong-time is the best time for a talk. Everyone's soft and tired and kind, even me.
+{player}, did you hear us from the bridge? You were swaying. Don't deny it. I saw.
+
+## routine.escort
+I've just come back from swimming beside an Old Singer. My ears are still full of its song.
+Have you ever been close to something that big, walker? It's like keeping pace with a hill that breathes.
+Its cloud brushed my veils as I went past. They're still damp, and they smell of some far-off sky.
+I sang back to it. I always do. I don't know if it hears, but once, just once, it turned its eye toward me.
+My heart's so high I could float without veils. I swam with a whale!
+Up close, an Old Singer's skin is all soft grey ripples, like a cloud remembering it used to be rain.
+Five of us flew out and kept beside it until the village was a speck. Then it sang, and we turned for home.
+You don't hear a whale song when you're that close. You feel it, in your bones. Mine are still humming.
+If a whale sings to you, you'll have fair winds on every journey for a year. That's what we tell the children, and I'm keeping it.
+It had little clouds resting along its back, like children asleep on a grown-up's shoulders.
+It went on east without us. I wanted to follow. One day I think I just might.
+I touched its fin. Very gently. It was warm. Nobody believes me, but it was warm.
+We always come back from a whale quiet. There's nothing to say after a thing like that. Except, well, this.
+It blew a puff of cloud right over us, and we came out of it laughing and dripping like koi in the rain.
+{child} begged to come. Next time, when their veils are long enough to keep up.
+
+## routine.shelter
+Come in, come in, out of that! A nest isn't much against thunder, but it has walls, and walls are something.
+I've been curled up over my cushion humming since the storm peal. It helps. Not much, but it helps.
+Every time the thunder goes, the whole nest shivers, and so do I.
+I was humming the little ones to sleep. They're not asleep. Neither am I. We're all just humming now.
+You came here through that, {player}? You're braver than every Cirri in {village} put together.
+Don't stand near the window. Lightning can see you through glass. I don't know if that's true, but I'm not testing it.
+I've tucked my veils right in round me. Storms like a loose end. They pull.
+It'll pass. They always pass. I tell myself so between every rumble.
+I keep counting between the flash and the boom. The gaps are getting longer. That's good. That's very good.
+Sorry, I'm not much company. Storms make me small. Stay a moment, though? Talking helps.
+{partner} is humming the old storm song beside me. Badly. It's the best sound in the world right now.
+In a storm the sky stops being ours. It belongs to the lightning, and we just wait to be given it back.
+Honey, a cushion, someone to hum with. That's all you need to outlast a storm. That, and courage, and I'm a little short today.
+The thunder is only the sky clearing its throat before a song, my elders said. I wish it would just sing.
+Little ones hide under both veils in a storm. I'm grown now, so I only hide under one.
+
+## routine.idle
+Doing nothing, and doing it very well, thank you.
+I was watching the clouds go by underneath. They never come round the same twice.
+Nothing much. I let the wind turn me in a slow circle. I've seen the whole village twice.
+Thinking, mostly. About what, I couldn't tell you. It drifted off before I caught it.
+I've been watching a beetle on the bridge rail for ages. It walks everywhere. Doesn't it get tired?
+Just hanging in the air, letting my veils do the work. Some days you need to be carried.
+Keep your veil whole and your heart light, we say. Today both are taken care of, so I'm doing nothing about either.
+I was seeing how long I could hover without moving at all. Then you said hello, and I wobbled.
+Nothing to do, nowhere to be. When that happens up here, we call it a gift and we don't spoil it by rushing.
+Four notes, over and over, for an hour now. I don't know what song they're from. Maybe no song yet.
+I was looking down at the ground and wondering what it's like to be held by it all the time. Is it nice?
+Just drifting. I let {wind} decide where to put me, and it put me here, by you.
+I was counting the lanterns on the bridges. Same number as yesterday. Very reassuring.
+Mm? Oh, I was miles away, somewhere over the far islands in my head. Hello, walker.
+{player}! I was hoping someone would come along and give me an excuse not to do anything useful.
+
+## village.whale
+Look! An Old Singer, right there past the islands! Every thread in my veils just stood on end.
+Hush a moment. Can you hear it? That low sound under everything. That's the whale singing.
+A whale, this close to {village}! Everyone will be out to meet it in a breath.
+See the little clouds on its back? It carries them like a gardener carries seedlings, off somewhere to grow into weather.
+I should be flying out to meet it. Everyone should. Why are we still talking? Come to the rail and watch, at least.
+Meeting a whale is a blessing, and seeing one is half a blessing. You've just had half a blessing, walker.
+Every time an Old Singer passes, I wonder where it's been. Over seas we've never seen, over lands nobody has named.
+Look at the way it rolls, so slow, turning its belly to the sun. It's enjoying the day as much as we are.
+As a child I thought whales were islands that had learned to swim. Look at it. Can you blame me?
+That's an old one. See how high its clouds are heaped? Somebody far off is going to get rain.
+The koi have all gone still. They always do when a whale passes. Even fish know when to listen.
+Its shadow just slid over the Cloud Garden. Everything went dim and blue for a moment, as if evening came early.
+The children are already flying out to it. Someone go after them, or they'll follow it halfway across the sky.
+{player}, you're lucky. Some walkers come up a dozen times and never see an Old Singer.
+There! It blew! See that puff of cloud? A brand new little cloud, just born.
+
+## village.koi
+The koi are out. Look at them, turning in the air like gold leaves that forgot to fall.
+See the big white one with the red cap? That's the oldest koi in the garden. The gardeners say it was here before the bridges.
+If you're very lucky one of them will shed a Sky Scale while you watch. Keep an eye below them.
+The koi always swim toward voices. They know who scatters the peach skins.
+A whole school of them, turning all at once. How do they decide? Nobody tells them, and they never bump.
+I could watch the koi for hours. I have, actually. The gardeners keep shooing me off.
+See how the light comes through their fins? Like veilcloth. Maybe that's where the first weavers got the idea.
+The gardeners say each koi has its own name. I've only learned three, and they all answer to "peach".
+Walkers keep their fish in water, I'm told, where they never come up. How do you ever get to know them?
+A Sky Scale once fell from one of these right onto my veil. It's in my nest still, wrapped in veilcloth.
+Watch that little sky-blue one at the back. Always last, always late, always happy. I feel very close to that koi.
+The koi love the children. They follow them round the garden in a long gold tail.
+The koi pool is the calmest place in {village}. Even on bad days the koi swim their same slow circles.
+Look, they're all facing the wind. Koi always swim into it. We read the day by them sometimes.
+{player}, hold still. One's looking at you. They're curious about walkers. You're the only thing up here that clumps.
+
+## village.children
+Listen to them! You'd think there were fifty, and there's only a handful.
+They're playing chase round the Lantern Spire. Someone will clip a veil, then there'll be tears, and then they'll go again.
+That one there learned to loop yesterday and has done it forty times today. Everyone has had to watch every one.
+Children's veils are so short they have to work twice as hard to stay up. That's why they never stop moving.
+I used to play that one. Catch-the-Puff: you grab a little cloud and race it home before it melts away.
+They'll call you groundling, walker. From them it's a kindness. They're fascinated by you.
+Every season somebody gets stuck in a skywood tree and has to be fetched down. I'd bet a peach on that one, today.
+Every one of them is counting the days to their Lengthening. Every single day, out loud.
+Look how they bob. Little veils, big hearts. We were all that loud once.
+Do walker children play like ours? Ours mostly play at dropping and catching themselves at the last moment. It's dreadful to watch.
+{child} is in that heap of giggles somewhere. Hear the loudest laugh? That's ours.
+If one of them asks you to walk along the bridge so they can watch, humour them. They think walking is the funniest thing in the world.
+They're racing the koi round the pool. The koi are winning, and the children are pretending they let them.
+I watch them and remember my first loop. I went round once, couldn't stop, and went round eleven more times.
+Hear that? That's the sound of nobody doing their chores. Good for them.
+
+## village.harp
+Hear that harp? Nobody's playing it. That's the wind, practising.
+The harps are tuned to {wind} today. Listen to the way the low strings lean.
+Put your hand near the strings. Not on, near. You can feel the air shiver.
+That harp's been turning over the same phrase all day. The harpists say it's thinking.
+The oldest harps in the Hall of Echoes were strung before anyone living was born. They know songs we've forgotten.
+Every wind plays a harp differently. Aure plucks. Sefa strokes. Vell sings. Borre slaps.
+When a harp goes quiet like that, the wind is holding its breath. Wait. There.
+A harp near your nest means good dreams. Bad tuning means very strange ones. Ask me how I know.
+A wind harp has no player, walker. You build it and tune it, and then you let the sky decide what it says.
+Listen to that little run, going up. That's the harp answering a gust. They talk, wind and harp.
+Once I heard two harps on two different islands play the same note at the same moment. I've been waiting to hear it again ever since.
+The harps get restless before the weather turns. You'll hear a change before you feel it.
+When a walker plays one of our harps, every Cirri in earshot comes to listen. We can't help it. Try it, and watch us come.
+That one's a little sour on the top string. Hear it? Don't tell the harpists I noticed, or they'll have me holding the tuning key all evening.
+A harp is the only thing in {village} that never sleeps. At night it plays for nobody, very softly.
+
+## village.evensong
+Listen! The Evensong's begun. I'll go in a moment. I'm not missing the last verse for anything.
+Hear the harps leading? Now the low voices. Now everyone. It gives me shivers every single time.
+Forgive me whispering. It's rude to talk over the Evensong, but I couldn't let a walker pass without a hello.
+This is the part where the children come in. Hear them? A little ahead of everyone, as always.
+You can hear the Evensong from anywhere in {village}, but nowhere sounds like right over the court.
+The sun's nearly down and so is the song. We time it so the last note and the last light go out together.
+Hum along if you like. There are no wrong notes in the Evensong, only ones nobody's used yet.
+That high voice floating over everyone? That's {friend}. Showing off. Beautifully.
+The whole court is full of veils swaying the same way. From above, it must look like one big cloud breathing.
+The song carries out over the cloud sea. Somewhere below, walkers must hear it and wonder where it's coming from.
+Every dusk, every village, the same song. Different voices, though, and ours are the best. Don't tell the other villages.
+I ought to be in there singing. But the Courtesy says a guest comes first, so I'll sing twice as loud tomorrow.
+Watch the bridges: a new lantern wakes with every verse. By the last line the whole village will be lit.
+Close your eyes, {player}. Now you're not a walker. Now you're just someone in the sky, listening.
+The Evensong is the only time the whole village is in one place. Look at us. That's everyone. Every single one.

@@ -1,0 +1,536 @@
+# Callbacks to what you told a Cirri: remember.<flag>, one pool for every @flag set in questions/about-you.txt
+# and questions/would-you-rather.txt (":" becomes "_"). Chat lines, so each stands alone.
+
+## remember.home_built
+You built your own house, you said. I keep picturing it. Is there a window that faces up?
+I told the weavers you built your home with your own hands. They asked if it sways in the wind. I said houses don't. They didn't believe me.
+A walker who builds! If you ever build anything up here, ask the skystone nicely first.
+Every time I pass the Loom House I think of your house, the one you made stone by stone.
+
+## remember.home_wanderer
+Where did night find you last, wanderer? Somewhere with a good view of us, I hope.
+You sleep wherever the night catches you. Borre does the same, and nobody minds Borre. Much.
+I thought of you at dusk, out there somewhere with no nest. Then I thought: no, the whole world is your nest. Better.
+A wanderer like you should have one place to come back to. {village} volunteers.
+
+## remember.home_burrow
+Still living in your hill? I dreamt about it. There were roots in my hair and I woke up shouting.
+You live inside the ground. I told the children. They think you're the bravest walker alive.
+How is your hole in the hill? Do you ever poke your head out and look up for us?
+I tried to imagine sleeping under all that dirt. I had to go and hover in the open for a while afterwards.
+
+## remember.home_sky
+You said you'd live up here, if we'd have you. We've been talking it over. We'd have you.
+Have you thought any more about a nest in {village}? The weavers already have opinions about cushions.
+Every evening I look round the Veil Court and count you in. You're one of ours now; you said so.
+Up here, you said. I haven't stopped smiling about it, {player}.
+
+## remember.fell_often
+Still falling off things? You've a look about you today. A wobbly look.
+More falls than you can count, you said. I've been counting the edges near the Lift Dock, just in case.
+Keep away from the rim today. I won't say why. You know why.
+You've fallen so often, and still you climb. I've decided that's the most admirable thing about walkers.
+
+## remember.fell_once
+You fell once, you told me. I think about it whenever I see you near the bridges.
+Once is enough, you said. I agree. Let's keep it at once.
+Did it hurt, that fall of yours? You don't have to say. I only wondered, at dusk.
+I flew past the place under the rim where a walker would land, if one fell. I'm glad it's empty.
+
+## remember.trait_careful
+Careful as ever? Good. Keep it up. I like having you around.
+You told me you're careful. I've been watching. You are! You tested every bridge plank with your toe.
+The careful ones come back. That's why you keep coming back, I think.
+I told the windkeeper you're the careful sort. They were very relieved. You'd be surprised how many walkers aren't.
+
+## remember.dreams_falling
+Dreamed of falling again? Next time, turn it into flying at the very last moment. We do.
+You fall in your dreams, you said. I hummed something toward the ground last night, in case it helps.
+The wise ones say a falling dream means you're about to rise. I hope they're right about you.
+Sleep well tonight. No falling. That's an order from the sky.
+
+## remember.likes_aure
+Aure's your wind, you said. I felt dew on my veils this morning and thought, that's the walker's wind.
+{wind} has the sky today, but Aure will be back. Aure always comes back for its friends.
+Did you feel Aure at dawn? Soft as a whisper. I said good morning to it from both of us.
+When Aure has the sky, I'll fly past your way and wave. I promise.
+
+## remember.likes_sefa
+Sefa's your wind, you said. Lazy, warm and smelling of peaches. That explains a lot about you.
+When Sefa has the sky I nap in the air and think, the walker would approve.
+I asked Sefa to blow your way. It didn't hurry, but it said yes. Probably.
+Warm afternoon, slow clouds, peaches ripening. Your wind's kind of day.
+
+## remember.likes_vell
+Vell's your wind! It'll carry the Evensong to you tonight, wherever you are.
+You picked Vell, the singing wind. I sing a little louder when it blows now, so it has something of mine to bring you.
+When Vell comes in at dusk I always think: there goes the walker's wind, right on time.
+I asked the harpists to tune to Vell this evening. I didn't tell them it was for you.
+
+## remember.likes_borre
+Borre's your wind, you said. Cold and wild. I still don't understand you, and I like that.
+When Borre howls round the bell at night now, I think: somewhere down there, the walker is smiling.
+Next time Borre has the sky, I'm staying in my nest and you're doing the waving.
+I told Borre it had a friend now. It didn't answer, but the bell rang once all by itself.
+
+## remember.dreams_flying
+Did you dream of flying again? Tell me where you went this time.
+You dream of flying every night. Then some nights, I think, you must fly right past my nest.
+I've been dreaming of walking since you told me your dreams. Fair is fair. It's very bumpy.
+Every time you sleep, you come up here a little. That's what you told me. I keep it like a Sky Scale.
+
+## remember.dreams_digging
+Still digging in your sleep? Find anything good down there?
+You dream of digging. I dream of rising. Between us we cover the whole world.
+I told the wise one about your digging dreams. They laughed so hard they drifted into a bridge.
+Last night I dreamed I had a pickaxe. I woke up very confused, and it's all your fault.
+
+## remember.ground_caves
+Glowing caves under the ground. I still think about them. Upside-down skies, full of lights.
+You told me about the glowing caves. I told the children. Now they want to dig, and I'm in trouble.
+Are the caves still glowing down there? Bring me a little of that light someday, if it can be carried.
+When I look at the stars now I think: somewhere under the walker's feet, there's another sky, buried.
+
+## remember.ground_ruins
+Old ruins under the ground, you said. Like our Belltowers, only sunk the other way. I can't stop thinking about it.
+Who built the ruins down there, do you think? Did they grow too heavy too?
+You told me about the bones and old stones under the ground. I think the ground remembers more than we do.
+If you ever find a ruin with a bell in it, tell me. I'll want to sing it something.
+
+## remember.ground_warden
+That thing in the deep that listens. I keep thinking about it. Can it hear us singing?
+You told me about the listener in the dark. I've been humming more quietly ever since. Silly of me.
+Promise me you'll stay away from the thing that listens.
+I asked the wise one about your listener in the dark. They went very quiet and said some things are better left below.
+
+## remember.nest_shared
+Is someone keeping your nest warm while you're up here? Tell them a Cirri says fair wind.
+You've someone waiting at home, you said. Don't stay too late on their account.
+I hope the one in your nest knows how far you walk every day. Somebody ought to rub your feet.
+Bring them up someday, the one you share a nest with. We'd like to meet them.
+
+## remember.nest_alone
+A nest for one, you said. Then you're welcome in ours whenever you like. Bring nothing; we've cushions.
+Still nesting alone? I hope it's quiet in the good way, not the heavy way.
+Your nest is all yours. Some mornings, with the whole village singing at dawn, I envy that.
+You like your nest just for you. I understand. The sky is lovely alone too, sometimes.
+
+## remember.nest_cat
+How's your cat? Still keeping your nest? Tell it the koi say hello. Well. They don't. But I do.
+You've a cat at home, you said. I've been trying to imagine a cat in the sky. It would hate every minute.
+Does your cat miss you when you come up here? I'll bet it pretends not to.
+Bring your cat up someday. No! Don't. The koi. Forget I said anything.
+
+## remember.wants_veil
+You'd love a veil, you said. I mentioned it at the Loom House. Nobody said no!
+Still wanting veils? I can picture them on you. Sky blue at the shoulders, rose at the tips.
+The weavers asked about you. Your height, your shoulders, whether you'd hold still for a fitting. I said probably not.
+One day you'll feel the wind take your veils and lift. I hope I'm there when it happens.
+
+## remember.fears_heights
+Scared of heights, and still you come up. I think of that every time I see you on a bridge.
+Don't look down today. Look at me instead. That's what we tell the little ones.
+Heights frighten you, you told me. I've been flying a little lower near you. Did you notice?
+Everyone's afraid of the drop at first. Even us. It goes, slowly. It goes.
+
+## remember.likes_puffy
+Plenty of puffy clouds below us today. Look, there's one shaped like a sleeping goat.
+I flew over a whole field of puffy clouds this morning and thought of you somewhere under them.
+The big puffy ones, you said. From up here they look like cushions you could fall into. Don't.
+A fat white cloud drifted under the Veil Court at noon. I waved at it on your behalf.
+
+## remember.likes_wispy
+Wispy clouds, you said. Our veils are made of them. You've loved us without knowing it.
+The weavers combed cirrus at dawn today, your favourite kind. I saved you a wisp. Here, it's gone. They do that.
+Look up when you go back down. The thin high clouds will be the same ones on my veils.
+I told the Loom House a walker loves cirrus best. They were so pleased they forgot to scold me for being late.
+
+## remember.likes_storms
+You and your storms. Next time Borre grumbles, go and enjoy it, from somewhere with a roof.
+When the bell rings for a storm now, I picture you excited. I'll be in my nest, humming.
+I don't understand storm-lovers, but I've decided to like one anyway.
+Next time the thunder comes, I'll think of you out there grinning at it, and be a little less afraid.
+
+## remember.likes_rain
+You love the rain, you said. Every drop that falls past my nest now, I send down to you.
+When rain falls past us, I lean over and watch it go and hope it lands on you gently.
+I watched a raincloud drift toward the ground today and thought, that one's for the walker.
+Rain-lover. I've started to think the rain must be glad, too, to land on someone who wants it.
+
+## remember.dislikes_rain
+If it rains below today, I'm sorry. I know you'd rather it didn't.
+Just wet, you said. I laughed for a whole afternoon. I still do, whenever it rains.
+If you hate the rain, come up here. It only ever falls away from us.
+I'd blow the rainclouds away from you, if I were a wind. I'm only a Cirri.
+
+## remember.likes_cats
+A cat lover. I've been keeping you away from the koi pool. Just in case.
+I saw a cat on a roof in the bell-village today. It looked up at me as if it owned the sky.
+You and your cats. The koi have heard. They're being very polite to you, out of fear.
+Do cats ever look up at the clouds? If one does, it's thinking of us. Tell it I said so.
+
+## remember.likes_koi
+Go and visit the koi pool. The gardeners say the koi have been looking for you.
+One of the koi shed a scale this morning. I'd like to think it was showing off for you.
+I told the koi what you said about them. I swear the big golden one winked.
+A koi lover! They've been leaping higher since you came. Coincidence? The koi say no.
+
+## remember.likes_parrots
+Parrots, you said! I saw one far below today, red as a lantern. It was shouting. Your sort of bird.
+Teach a parrot to say fair wind and bring it up. I'll do anything. Anything.
+A bird that talks back. I still can't believe it. I've been talking to the sparrows. Nothing.
+You like parrots. Is it because they fly, or because they talk? I think I know which I'd pick.
+
+## remember.feet_tired
+Are your feet tired today? You told me they get tired every evening. Put them up somewhere.
+I've been thinking about your poor feet. Do they ever get a day off?
+Rest your feet before you go down. There's a bench by the Cloud Garden, just for walkers.
+Every time I see you stomp across a bridge I think, oh, those tired feet.
+
+## remember.likes_horses
+Walkers that carry walkers. I still think horses are the cleverest thing on the ground.
+Did you ride up today? No, of course not. The horse would hate the Wind Stone. Poor horse.
+I saw horses running far below. Their manes streamed like little veils. You were right about them.
+You love horses, you said. I'd love to see one try a bridge. Just once. From a safe height.
+
+## remember.fears_creepers
+Watch out for the green hissing ones when you go down. You told me about them. I haven't forgotten.
+Creepers, you said. I've added them to my list of rude things, between fireworks and thunder.
+Keep your eyes open below. I don't want any of those bursting near you.
+No creepers up here. None at all. This is the one place you can stop listening for the hiss.
+
+## remember.fears_dark
+When it gets dark, take a lantern, or stay near our lights. You said you don't like the dark.
+Our nights have stars. Yours have walls. I think about that every time the lamplighter starts on the bridges.
+The dark scares you, you told me. That's why I leave the lantern by the dock burning a little longer.
+If the dark gets to you down below, look up. The {moon} is ours too.
+
+## remember.likes_dawn
+Did you see the dawn this morning? Pink and gold all the way to the edge. Your hour, you said.
+The bell rang at dawn and I thought, the walker's awake for this, I hope.
+You love the dawn. Come up early one day and watch it with me from the Bell Pagoda.
+This world has seen {day} dawns, the bellkeeper says. I hope you watched a few of them for me.
+
+## remember.likes_evensong
+You'll come to the Evensong tonight, won't you? Dusk is your favourite.
+You said the Evensong was the sky at its best. I sang the last verse for you yesterday.
+Stay for the Evensong. It's better when someone who loves it is listening.
+I thought I saw you by the Veil Court at dusk. I can't be sure. I was singing with my eyes closed.
+
+## remember.likes_stars
+Your sort of night tonight, I hope: clear, with every star out.
+You love the stars. I counted them for you last night. I lost count over the koi pool.
+The stars are closer up here. Not much, but a little. Come and see.
+Did you look up last night? I was looking at the same star. Probably. There are a lot of them.
+
+## remember.heard_evensong
+You hear the Evensong from down below. I sing it toward the edge now, so it falls your way.
+Tonight, when we sing the day down, listen. One voice a little louder than the rest? Me.
+All this time we've been singing to the ground and never knew anyone heard. Thank you for telling me.
+Did you hear us last night? Vell was carrying it well, I thought.
+
+## remember.wants_evensong
+You've never heard the Evensong. Tonight, then. Be at the Veil Court when the lanterns light.
+Still haven't heard it? Walker! It's every single dusk!
+I've told the harpists a walker is coming to hear the Evensong. They've been practising extra.
+When you finally hear us sing the day down, tell me how it sounds from where you stand.
+
+## remember.likes_peaches
+The peaches are ripe on the top branches. Go, before the koi get there.
+I saved you a peach. Well, I meant to. It was very ripe. I'm sorry.
+Peach-lover! The gardener says this week's are the sweetest yet.
+I can always tell a walker who loves sky peaches. They smile at the trees.
+
+## remember.likes_bread
+Bread. You still like bread better than peaches. I've decided to forgive you.
+I asked the Skymerchant about bread. They looked at me as if I'd asked for a firework.
+Is bread better with honey? Tell me it's better with honey. Then I'll consider it.
+I've been trying to imagine bread. Is it like a cloud you can eat? That's what I'm going with.
+
+## remember.cooks_fire
+Still cooking over fire? Every day? On purpose? I still lie awake over it.
+You smell faintly of smoke today. I won't say anything. I've said something. Sorry.
+Fire, every day, and it tastes better, you said. I believe you. I'll never try it.
+Keep your cooking fires far from here, please. I know you would. I just like saying it.
+
+## remember.cooks_never
+Fruit-eater! No fire for you. You're practically one of us.
+You don't cook. I tell everyone. The weavers want to adopt you.
+Peaches, berries, honey and no flames. You eat like a Cirri. Now you only need to eat in the air.
+I picked some berries this morning thinking, the walker would like these. You would, wouldn't you?
+
+## remember.told_chickens
+Birds that can't fly. I still can't stop thinking about the chickens. Who did that to them?
+I told the children about the chickens. One of them cried. Another wants to give them lessons.
+Do the chickens at least try? Do they hop? Tell me they hop.
+I sang a little song for the chickens at the Evensong. Nobody knew why. I knew why.
+
+## remember.lucky_scale
+Have you still got your Sky Scale? Keep it near your heart, not in your boot.
+Someone up here trusted you with their luck. I'm glad it was you.
+I like to think your Sky Scale catches the light even down there, under the clouds.
+The koi that shed your scale is still in the pool. I think it remembers you.
+
+## remember.lucky_totem
+Still carrying your little totem? Good. I sleep better knowing you've got it.
+That totem of yours. I hope you never need it. I hope it's very, very bored.
+A doll that brings walkers back. I told the wise one. They said every people has its own way of hoping.
+Mind the rim today. You've your totem, but I'd rather you never found out if it works.
+
+## remember.likes_windstone
+The Wind Stone hummed when you came up. I think it's fond of you.
+You said you'd rather a Wind Stone than stairs. The windkeeper heard. They've been glowing all week.
+The first windkeepers would be so pleased to hear a walker loves their stones. I'm pleased for them.
+Every time someone rides the wind up, I think of you and the face you'd make.
+
+## remember.travel_far
+Past the edge of every map! Where did your feet take you this time?
+You've walked farther than most winds blow. Tell me something you saw. Anything.
+Restless feet, restless heart. You and our restless ones would talk all night.
+When you go past the maps again, look up. There may be a village up there no walker's ever seen.
+
+## remember.travel_end
+The End and back. I still think about it. What does nothing look like?
+You've been to the end of everything. Is there a sky there? Does it have winds?
+I told the wise one you've been to the End. They said, then the walker knows how far home is. I think I understand now.
+Going back to the End? If you do, come back again. That's the important part.
+
+## remember.travel_nether
+The land of fire. You went there and came back. I check your sleeves for sparks every time I see you.
+Never go back to that burning place. Or, if you must, tell me first, so I can worry properly.
+You smell of nothing today. Good. No fire, no smoke. Just walker.
+I dreamed of your fire land last night. I woke up and flew straight to the koi pool, just to be near water.
+
+## remember.sleeps_stars
+Sleeping under the stars again tonight? Then we'll share a sky. You at the bottom, me at the top.
+You sleep with nothing over you, like us. I like that very much.
+If you sleep out tonight, find the brightest star over the clouds. I'll be curled up just under it.
+Out under the stars again? Keep a lantern by you, for the night-moths.
+
+## remember.sleeps_little
+Did you sleep? Tell me you slept. You've the face of someone the night-moths are watching.
+You told me you hardly sleep. Go to bed tonight, walker. For me. For the sky.
+I hummed a lullaby at dusk and thought, that one's for the walker who won't sleep.
+The night-moths come for the sleepless, the old ones say. I believe them. Please rest.
+
+## remember.seen_whale
+You've heard an Old Singer. I can tell, now that I know. You listen to the sky differently.
+A whale crossed the high sky this morning. I wondered if it was the one that sang to you.
+Not everyone is blessed by a whale. You are. Remember that on heavy days.
+Hum me what the whale sang to you? No? Too private? I understand. Some songs are.
+
+## remember.wants_whale
+Still waiting to meet an Old Singer properly? Watch the high sky. They come when you stop looking.
+If a whale passes today, I'll come and find you. I'll drag you to the edge myself.
+I asked the windkeeper when the next whale might come. They said: when the clouds ask for one.
+One day you'll be close enough to hear a whale sing. Then you'll understand why we're all a little odd.
+
+## remember.plays_flute
+Have you practised your flute? You said you play a little. I want to hear the little.
+A walker with a flute! Come and play at the Evensong sometime. The harpists won't mind. Much.
+Breathe from low down when you play. That's the secret. Vell taught me that, in a way.
+I bought you a Windsong Flute from the Skymerchant. In my head. I'm still saving up for the real one.
+
+## remember.plays_noteblocks
+How are your singing boxes? The note blocks? I still laugh about hitting a box to make music.
+Bring a note block up someday and play it in the Hall of Echoes. The harps will sulk.
+I tapped a block of skystone to see if it would sing. It didn't. I'm not sure what I expected.
+Walker music, made by thumping. I've decided I love it.
+
+## remember.plays_hum
+Hum me something? You said you hum. I'll hum the harmony.
+I heard someone humming on the bridge this morning and hoped it was you.
+A hummer! Every song starts with one of you. Remember that.
+The harpists say humming is the oldest music in the sky. You're older than you look, then.
+
+## remember.trait_fearless
+Not afraid of heights at all, you said. Then come up to the top of the Lantern Spire with me sometime.
+Fearless walker! The windkeeper wants to see you lean over the dock. I said no. Please don't.
+I keep forgetting you're not afraid. Then I see you strolling the bridges like a Cirri.
+A brave stomach and sturdy feet. If you ever get veils, you'll be dangerous.
+
+## remember.flower_poppy
+You'd bring a friend a poppy, you said. I found one by the koi pool and thought of you.
+The gardener planted a row of poppies. Nobody knows why. I know why.
+Bright as a lantern and not a bit shy. That's how I think of you and your poppies.
+I tucked a poppy petal in my sash today. Don't tell anyone it's for you.
+
+## remember.flower_cornflower
+Cornflowers! The gardener's been unbearable ever since you said it. There's a whole blue bed now.
+A cornflower is the colour of a veil at the root. Did you know that when you chose it?
+I wore a cornflower behind my ear today. I don't know why I'm telling you. Yes I do.
+A sky-blue flower, chosen by a walker. You'd fit right in up here.
+
+## remember.flower_lily
+Lily of the valley, you said. The bellkeeper wants to plant some round the bell now.
+Little white bells on a stem. I think of them every dawn, when the big bell rings.
+The lilies by the Cloud Garden bloomed this week. I'd have picked you one, but they're so small.
+Lily of the valley for a friend. That's such a quiet, kind choice. Like you.
+
+## remember.food_eggs
+Eggs for breakfast, you said. I still haven't told the birds. I'm keeping your secret.
+Did you eat eggs this morning? You've the look of someone who did. I forgive you.
+A bird flew past and I couldn't look it in the eye. That's your fault, egg-eater.
+I can't stop thinking about cooked eggs. In a pan. On a fire. I need to go and lie down in the air.
+
+## remember.food_honey
+Honey-lover! I saved a little comb for you. It's sticky. Sorry.
+The bees are warm today. Good honey weather, I thought, and then I thought of you.
+You and me and honey. We should share some one morning, in the air.
+Ever since you told me, I think of you every time I lick a sticky finger.
+
+## remember.food_stew
+Stew in the morning! I told the weavers. One of them dropped a whole comb of cirrus.
+Still eating stew at dawn? No wonder your feet are so heavy.
+How do you even lift a spoon of stew that early? I'd sink straight through the clouds.
+You smell a little like a cooking pot today. A good pot, I'm sure.
+
+## remember.wishes_stars
+Did you wish on a star last night? What for? No, don't tell me, or it won't come true.
+The stars were out thick last night. Your wishes must be piling up somewhere.
+The stars know your voice by now, you wish so often. I hope they're listening.
+If you see a bright one tonight, wish for something for me too.
+
+## remember.wishes_koi
+Have you wished on a koi yet? Pick a plump one; they listen better. Still true.
+I saw you by the koi pool, moving your lips. A wish, was it? Good.
+I made a wish on the koi for you. Don't ask what. A kind one.
+A koi leapt clean out of the pool this morning. Somebody's wish came true, I think. Was it yours?
+
+## remember.friend_dog
+How's your dog? Still running in circles? Give it a scratch from me.
+I saw a dog far below today, running after nothing at all. I hoped it was yours.
+Your dog would bark at us, I think, if it saw us flying. Tell it we're friends.
+A dog for a dearest friend. You must be a good walker. Dogs know.
+
+## remember.friend_villager
+One of the bell-village folk is your dearest friend, you said. Do they ever look up and wave?
+I flew low over the bell-village this morning. Someone waved. Was it your friend?
+Tell your friend down below that the Cirri say fair wind.
+Next time you visit your friend, take them a peach from us. They've never had one, I'll bet.
+
+## remember.friend_cirri
+You said I might be your dearest friend. I've been flying higher ever since, {player}.
+Dearest friend. I keep saying it to myself. It sounds better every time.
+I told {friend} you named me your dearest friend. They were jealous. I was smug.
+A walker's dearest friend is a Cirri. Me. I'll try to deserve it.
+
+## remember.likes_sky
+Sky-lover. You've got cloud in your lungs now. It never comes out.
+You belong up here. You as good as said so, and the sky heard.
+The ground can have you back when it asks nicely. It hasn't asked.
+The weavers took what you said about the sky as a promise. Careful, or they'll start on your veils.
+
+## remember.misses_ground
+Do your feet still miss the ground? Tell them it's not far. Just a long way down.
+I found a patch of grass on the islet by the Lantern Spire. Your feet might like it.
+Your feet miss the ground. I've been trying to find them a job up here. Bridge-testing?
+Go and see the ground for a while, if you need to. Then come back. The sky is patient.
+
+## remember.felt_heavy
+How's your heart today? Lighter, I hope. You told me it gets heavy.
+I keep thinking of what you said about heavy days. When one comes, come up here. Nothing weighs much up here.
+The Evensong last night was for everyone carrying something. I sang it for you, a little.
+You don't have to talk about it. Just float about with me a while. Stand. Walk. Whatever it is you do.
+
+## remember.felt_light
+Not heavy since you came up here, you said. I've told nobody. I've told everybody. Sorry.
+Light as a veil today? I hope so. You deserve light days.
+You said the sky lifted something off you. That's the best thing anyone's ever said about {village}.
+Keep coming up, then. Whatever weighs on you can wait at the bottom of the Wind Stone.
+
+## remember.fly_here
+Wings for a day, and you'd fly straight to me, you said. I'm still waiting, you know.
+If you ever find wings, remember your promise. Straight up. No detours.
+I keep a cushion ready in case a walker comes flying in one day. Just in case.
+Straight up to me. I think about that more than I should.
+
+## remember.fly_ocean
+Over the ocean, you said, if you had wings. I flew to the edge of the clouds today and saw blue. Was that it?
+The ocean must be wonderful, if a walker with wings would pick it first.
+Is the ocean bigger than the sky? You'd know. You chose it.
+Glide over the ocean one day and wave up. We'll be up here somewhere.
+
+## remember.sings_lullabies
+You sing lullabies, you said. Sing one tonight? The children here would listen.
+I hummed a walker lullaby to a child today. I made it up. I think it was walkerish.
+Walkers and Cirri both sing the little ones to sleep. I've been thinking about that all week.
+Teach me a lullaby from below someday. I'll teach you one from up here.
+
+## remember.sings_loud
+Loud and badly! Come and sing at the Evensong. We could use more of that.
+I sang loud and badly this morning, in your honour. The bellkeeper was not amused.
+You sing loud. I can tell. You have loud-singer shoulders.
+The harpists say there's no such thing as bad singing at the Evensong. Only brave singing.
+
+## remember.sings_never
+Still not singing? Not even a hum? I'll get one out of you yet.
+You don't sing. I told the harpists. One of them had to go and lie down in the air.
+Hum one note with me. Just one. Nobody's listening. Except everyone. Never mind them.
+One day I'll catch you humming. And I'll never let you forget it.
+
+## remember.storms_underground
+Down a mine when the storm comes, you said. Clever. I'd hide there too, if I could stand the dark.
+When Borre brings a storm in, get yourself under the ground. Promise me.
+When the bell rings for a storm now, I picture you diving into the dirt. It's a comforting picture.
+When the thunder comes, I hum in my nest and you dig into your mine. We both get through it.
+
+## remember.first_dream
+Still think you're dreaming? Pinch yourself. No, don't. Walkers bruise.
+You thought you were dreaming when you first saw us. Some days I think I'm dreaming you.
+First you thought we were a dream, and then you walked in. Not many dreams let you do that.
+If this is a dream, it's a good one. Stay asleep a while.
+
+## remember.first_worry
+Still worried we'll fall on you? We won't. We build light. I checked twice this morning.
+You thought we'd fall on you! I laughed. Then I went and looked at the underside of the island, just to be sure.
+Nothing heavy, nothing iron, nothing piled up. That's why we stay up. You can stop looking nervous.
+If an island ever did fall, I'd catch you. Probably. I'd try.
+
+## remember.first_climb
+You saw us and had to come up. I think of that whenever someone new arrives at the Lift Dock.
+A walker who won't be told no. The sky loves you for it. So do I, a little.
+Did you ever think, that first time you looked up, that you'd be standing here talking to me?
+The first thing you wanted, seeing us, was to get up here. That's the nicest welcome a village can have.
+
+## remember.found_alone
+You found the Wind Stone all by yourself. The windkeeper still talks about it.
+Most walkers stroll right past the Stone. You felt it. You've got wind in you somewhere.
+Did the Stone hum when you found it? It does that, for the ones it likes.
+Finding your own way up. That's how the first walkers did it, in the old stories.
+
+## remember.found_followed
+You followed one of us up! I keep trying to guess who. Nobody will admit it.
+Follow me sometime. I'll show you the long way round the islets.
+We led you here without knowing. The sky does that. It brings the ones it wants.
+I've been flying slower near the ground, in case another walker wants to follow.
+
+## remember.found_tower
+Your tower! Is it still standing? Does it sway? I'd love to see a walker tower.
+Block by block, all the way up. I told the children. They've been stacking cushions for days.
+You built your way to the sky. The first windkeepers would have been impressed. And a little worried.
+When I fly low over the ground I look for your tower. I haven't found it. I keep looking.
+
+## remember.prefers_elytra
+Elytra over veils, you said. The weaver's forgiven you. Almost.
+Glided anywhere fun on those borrowed wings lately?
+Your elytra are fast, I'll give you that. But do they hum when the wind changes? Veils do.
+I watched a walker glide past the Lantern Spire today and thought, there goes someone with your taste.
+
+## remember.wants_bell
+You'd ring the great bell at dawn, you said. I asked the bellkeeper. They said maybe. That's nearly yes.
+The bell rang this morning and I imagined it was you on the rope.
+Come up some dawn and help with the bell. The bellkeeper's arms could use the rest.
+A walker ringing our bell! The whole sky would wake up talking about it.
+
+## remember.wants_harp
+The harpists say you may try a harp in the Hall of Echoes. Gently. Very gently.
+You'd play a wind harp at the Evensong, you said. I've been practising so I can teach you.
+Listen to the wind before you touch the strings. That's the first harp lesson. Free of charge.
+I tuned a harp to {wind} today and thought, the walker could play this one.
+
+## remember.wants_wind
+A wind named after you. I've been wondering what you'd be like. Gentle, mostly. Gusty when hungry.
+I named a little breeze after you this morning. It knocked a peach off the tree. Very you.
+If you were a wind, which way would you blow? Toward us, I hope.
+The Four Winds and a fifth: you. Don't tell Borre. It's touchy.

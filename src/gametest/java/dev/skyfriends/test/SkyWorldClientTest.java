@@ -279,6 +279,9 @@ public class SkyWorldClientTest implements FabricClientGameTest {
             var m = srv.overworld().getEntitiesOfClass(Cirri.class, new AABB(v.centre()).inflate(96), k -> k.job().equals("skymerchant")).getFirst();
             m.interact(player(srv), InteractionHand.MAIN_HAND, m.position());
         });
+        // right-click opens the conversation; its Trade button opens the wares
+        ctx.waitFor(client -> client.gui.screen() instanceof dev.skyfriends.client.screen.TalkScreen, 100);
+        ctx.runOnClient(client -> ((dev.skyfriends.client.screen.TalkScreen) client.gui.screen()).press("trade"));
         ctx.waitFor(client -> client.gui.screen() instanceof MerchantScreen, 100);
         check(ctx.computeOnClient(client -> client.gui.screen() instanceof MerchantScreen), "the Skymerchant opens their trades");
         shoot(ctx, "skymerchant");
@@ -483,11 +486,16 @@ public class SkyWorldClientTest implements FabricClientGameTest {
             p.setHealth(p.getMaxHealth());
             return p.getHealth();
         });
+        // the land may be far off: the player hangs in the air until the client has the ground there
+        world.getConnection().waitForChunksRender(false, 1200);
         boolean slowFalling = false;
-        for (int i = 0; i < 60 && !slowFalling; i++) {
+        for (int i = 0; i < 120 && !slowFalling; i++) {
             ctx.waitTicks(5);
             slowFalling = server.computeOnServer(srv -> player(srv).hasEffect(net.minecraft.world.effect.MobEffects.SLOW_FALLING));
         }
+        if (!slowFalling) log(server.computeOnServer(srv -> String.format("veil: player at %s, fall distance %.1f, on ground %s, chest %s",
+                player(srv).blockPosition().toShortString(), player(srv).fallDistance, player(srv).onGround(),
+                player(srv).getItemBySlot(EquipmentSlot.CHEST))));
         check(slowFalling, "falling in a Cirrus Veil, the player glides (Slow Falling)");
         for (int i = 0; i < 80; i++) {
             ctx.waitTicks(10);

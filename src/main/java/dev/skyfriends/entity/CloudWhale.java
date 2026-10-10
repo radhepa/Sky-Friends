@@ -54,6 +54,11 @@ public class CloudWhale extends PathfinderMob {
     }
 
     /** Set it off: swimming this way, at this height. */
+    /** Which way it swims, in degrees (as yaw). */
+    public float heading() {
+        return heading;
+    }
+
     public void launch(float heading, int altitude) {
         this.heading = heading;
         this.altitude = altitude;

@@ -1,0 +1,341 @@
+# "Tell me about the sky": the Cirri's lore of their own world, in their own voices.
+# Invented here and kept consistent (build on it, don't contradict it):
+#   Directions are wind names: Aure-ward (east), Sefa-ward (south), Vell-ward (west), Borre-ward (north).
+#   Every Cirri is "born under" the wind that had the sky the morning they arrived.
+#   Lesser breezes: Ossa (warm lift off sunny fields), Tattle (afternoon gust carrying voices up from the bell-villages),
+#   Hush (the stillness before a storm), Skirl (spinning gust that knots veils), the Sleepwind (rocks the nests at
+#   night), Fen (damp dusk breeze off rivers).
+#   Shrine gifts: a feather for Aure, a peach stone for Sefa, a ribbon for Vell, a knot of string for Borre. Shrine
+#   candles are the only flames a Cirri lights on purpose; if the wind blows one out, the gift is accepted.
+#   Whales are named by the clouds on their backs (names change); old whales lie down and become humming cloudbanks;
+#   Cloud Koi hatch in whale back-clouds; the Long Note is a very old whale with a grey back-cloud.
+#   Stars: the Bellkeeper's Lantern (first star at dusk, Vell-ward), Aure's Lamp (last star before dawn), the Nest
+#   (seven), the Loom (Borre-ward), the Koi (circles the top of the sky), the Long Veil (pale band), the Whale's Eye
+#   (red star of the cold months; the whales come when it rises).
+#   Veils: at the Lengthening everyone who loves the child adds one gold thread; one thread of the child's short veils
+#   is woven into the long ones; when a Cirri goes up past the blue their veils are unwoven and the threads given out.
+#   History: the Haywalker (a walker who caught a falling Cirri child in a hay cart) -> Ammeral, the first windkeeper,
+#   lowered the first Wind Stone on a rope and called up a wind to bring the Haywalker up: the Courtesy ("Come up and be
+#   welcome; go down and be well"). The Heavy Years: Tollemar (the iron bell; the island cracked and sank, only the
+#   tower stayed up), Graymere (paved its court in stone), Ostry (too heavy, broken by a storm after a still day).
+#   Vessary drifted off after the whales. Tirrin, the lost child the first Evensong sang home. Famous Cirri: Sabrel
+#   Long-Veil, Ysa Farflown, Doun the bellkeeper (nine hours of storm peal), Merrin the weaver (first membrane mend),
+#   Tamberly the gardener (first koi pool), Harrow the harpist (sang with a whale three days), Old Quell ("quelled").
+
+## sky.general
+The sky? You're standing in the bottom of it, walker. The rest goes up a very long way, and there's room in it for you.
+We don't say north and south up here. We say Borre-ward and Sefa-ward, after the winds that live there. It's friendlier, and the winds like being mentioned.
+Birds fly under us. Do you know what the top of a bird looks like? A little brown leaf that's late for something.
+Our sky changes its mind every hour. We've learned to change ours with it. That's why we're such easy company.
+Up past the blue there's more blue, and past that, they say, is where we go at the end. Nobody's come back to tell us what colour it is.
+Hold still and listen. That hum isn't the harps; it's the sky itself. Walkers stop hearing it after a day. We never do.
+Dawn reaches us before it reaches the ground. Every morning we get a little while alone with the sun that walkers never have. We try not to gloat.
+Ask the bellkeeper how far you can see from here. They counted eleven bell-villages one clear Aure morning, then had to lie down on the air for an hour.
+Some walkers think the sky is empty. Empty! It's full of wind and light and songs and koi, and the smell of whatever Sefa's been drifting over.
+We don't measure in steps up here. The Loom House is a verse and a half from my nest; the far islet is a whole song, if you dawdle.
+Wide enough for everyone, the old ones say of the sky. Then they add, quietly: but tuck your veils in when a whale goes by.
+Afternoon is the sky's slow hour. Clouds drift, koi doze, and even the chimes can't be bothered to ring.
+Above the clouds the blue is bluer. Walkers see it through all that dust and damp. We get it plain, like honey from the top of the jar.
+After a storm, the clear sky smells like new veilcloth. Stay up here through the next one and smell it with me.
+What holds us up? The wind, mostly. And stubbornness. And a very little bit of song.
+When the cloud floor closes tight, the village is an island in a white sea. When it opens, it's as if someone lifted the lid off the world.
+Like anybody, the sky has moods. Today we're living in {wind}'s, so mind your manners.
+Look straight up at noon and keep looking. After a while you forget which way is down. That's how a Cirri feels all day long.
+Just before dusk the light goes long and gold, and every veil in {village} looks lit from the inside. The only kind of glow up here that never burns anything.
+Walkers have hills to tell them where they are. We have the sun, the winds and the smell of home.
+Snow up here doesn't land on anything. It just drifts past, like a crowd of very quiet guests on their way somewhere else.
+You can't fall up, walker. That's the one rule of the sky that's entirely on your side.
+Some evenings the clouds below catch the sunset and keep glowing after the sun's gone. We call it second dusk, and the harpists play on until it fades.
+We call it the lifting: the moment the sun clears the cloud floor. Everyone stops for a breath, whatever they're doing. Even the koi.
+A sky is never lonely. There's always a wind passing through on its way somewhere, and it always stops to ruffle your hair.
+The higher you fly, the thinner the air, the brighter the light and the quieter your thoughts. I go up sometimes just to think a little less.
+With the sun behind you, your shadow lands on the clouds below with a ring of colours round it. Children chase their own haloes for hours. So do some grown-ups. I won't say who.
+All the sky asks of us is two things: keep your veils whole, and greet each wind by name. Everything else is open to discussion.
+Have you noticed the sky gets quieter the higher you go? Down by the Wind Stone there's birdsong and lowing cows. Up here, chimes and breathing.
+Sky peaches only grow this high. The sun is sweeter above the clouds, and the trees know it.
+New to the sky, you look down all the time. Live here a while and you look out. That's the whole difference between a guest and a Cirri.
+A day in the sky starts with the bell and ends with a song. Everything in between is weather and gossip.
+The edge of the world is a soft blue line that bends a little at the ends. Restless Cirri swear they've nearly reached it. Nobody has.
+Some mornings mist comes up and fills the village to the bridge rails. For an hour we fly through white with our arms out, and the koi go silly with joy.
+The sky owes us nothing and gives us everything: wind, light, rain for the peach trees, and a place to be.
+At noon our shadows fall straight down through the clouds and land somewhere on the ground. I like to think a walker steps on mine and feels a little lighter.
+Dawn is rose, noon is blue, dusk is gold, and night is that deep colour nobody's ever named. We've been trying for a hundred years. Every suggestion gets sung down.
+Ask a walker where home is and they point at a spot. Ask a Cirri and we point at a height, a wind and a song.
+Patience is what the sky teaches. You can't hurry a wind and you can't argue with weather. You wait, and you hum.
+Why is the sky blue? I've heard a hundred answers. My favourite is that it's still dyeing itself, and the rose comes at the end.
+On the clearest days the cloud floor curves away on every side. It makes {village} feel very small and very brave.
+At night the sky is full of little lights saying "here I am": stars, sky lanterns, the great lantern on the Spire. We answer every one.
+Each season the sky smells different. Spring brings blossom up from the ground. Autumn brings woodsmoke, which makes us all jumpy.
+Dry and bright, the air above the clouds. Guests come up with cracked lips and screwed-up eyes. We give them honey for the lips. The eyes get used to it.
+Lost in the sky? Follow the chimes. Every village rings with them. You'll be home, or at least somewhere friendly.
+Nothing in the sky is ever finished. Clouds unmake themselves, winds turn, the light moves on. We love that. Walkers find it a little tiring.
+You rode the Wind Stone all this way to ask me about the sky? Look around, {player}. That's my answer, and it's a good one.
+The sky shows you what you're carrying. A heavy heart flies low and a light one lifts. That's not a saying. It's just true.
+Morning light comes in sideways under the clouds and gilds their bellies. Then they go white again as if nothing happened.
+A hawk circled under the Cloud Garden all yesterday afternoon, wondering what we are. We're still wondering about hawks.
+Up here the sun is warm and the air is cold, both at once. Your cheeks go pink and your fingers go numb. You get used to it. Mostly.
+There's a hollow sort of quiet just before dusk, when even the wind waits. Then Vell takes the first note and the whole village follows.
+Being high above things isn't the same as being above them. My elders made sure I knew that before my Lengthening.
+Is the sky big to you, walker? To us it's home-sized. A nest you can't see the walls of.
+When a Cirri is happy, we say they're high. When the whole village is happy, we say the sky is up. It was very up at the last Evensong.
+A sky without wind would be a pond: lovely to look at, and nobody could go anywhere.
+Clear sky, light heart, whole veil: that's a good day. Two out of three is still a good day. One out of three, come and find me and I'll sing you up.
+From above, a sunset turns the tops of the clouds to gold and rose. Walkers only ever see their grey undersides. You've been missing the best side all your life.
+Nobody owns a sky. We only live in it, the way you live on the ground. All you can do is be good to it.
+From this high you see weather coming hours off: a grey smudge at the edge, a white tower growing. Nothing surprises us. Except walkers.
+
+## sky.winds
+Aure comes first every morning, damp and gentle, smelling of dew and new leaves. We greet it with our faces before we say a word.
+Sefa's the lazy one. On a Sefa day nobody hurries and the peaches ripen twice as fast. Coincidence? Ask a gardener, then stand well back.
+Vell carries songs. Sing something at dusk and Vell will take it three villages over. That's how we gossip, mostly.
+Borre doesn't knock. It comes in sharp and cold from the north and rattles everything that isn't tied down, my temper included.
+Today {wind} has the sky. Hold up your hand, walker, and feel which way it's going. That's today's road.
+Every Cirri is born under a wind, whichever had the sky the morning they arrived. Sefa-born are late for everything. Borre-born are early and cross about it.
+The Four Winds are neighbours, not masters. You wish them good morning, you thank them, and on Borre's days you latch the shutters.
+The lesser breezes have names too, though only the windkeepers use them all. Ossa is the warm one that rises off sunny fields and lifts you without being asked.
+Tattle is the little gust that comes up from the bell-villages in the afternoon, carrying their voices. Half of what we know about walkers, Tattle told us.
+There's a breeze called Hush that isn't a breeze at all: it's the stillness before a storm. When Hush comes, the bellkeeper reaches for the rope.
+Skirl is a spinning little breeze that loves tying veils in knots. Every child in {village} has been Skirled at least once. You can tell by the face they make.
+The Sleepwind comes after dark and rocks the nests. It's very small and very kind. If you hear a nest creak at night, that's the Sleepwind at work.
+Fen is the damp breeze that rises off rivers at dusk. It smells of reeds and frogs. We like it in small amounts.
+When two winds argue over the sky, you get a gusty day. Aure and Borre quarrel the most. Sefa just waits for them to tire themselves out.
+A windkeeper can taste tomorrow's wind in the air at dusk. I can only tell you which wind it was after it's blown my veils inside out.
+Walkers think Borre is cruel. Borre is honest. It tells you exactly what's coming and gives you time to tie down everything you love.
+Vell is the Evensong's wind. The harpists tune to it every dusk, even on days it doesn't have the sky. It always comes back for the singing.
+At the Wind Shrines we leave each wind its own gift: a feather for Aure, a peach stone for Sefa, a ribbon for Vell and a knot of string for Borre.
+Why a knot for Borre? It's a polite way of asking it to hold its breath. Now and then Borre listens. Mostly it unties them.
+Sefa smells of peaches because it crosses our gardens first, say the gardeners. Sefa was born smelling of peaches, say the harpists. They've argued about it for forty years.
+You can't fly against Borre. You can fly beside it, very fast, and end up somewhere you never meant to go. Ask me how I know. No, don't.
+In the old stories Aure is the youngest wind and Borre the eldest. That's why Aure is gentle and Borre has no patience left.
+A wind is a road that moves. On Sefa days we drift north; on Borre days we stay home. The winds decide where we go, and we let them.
+Some Cirri say each wind was once a whale's song that got loose and never found its way home. That's why the wind sounds so lonely in the harps.
+Whistling makes a very small wind of your own. Children are told never to whistle at Borre. It takes it as a challenge.
+On a still day all four winds have gone somewhere else at once. That's when we worry. Never trust a still day, walker. Never.
+Every nest hangs one chime for the wind its family was born under. You can guess who's home by which chimes are chattering.
+Aure likes early risers. Sefa likes sleepers. Vell likes singers. Borre likes nobody, but respects anyone with the sense to stay in.
+Walkers feel the wind on their faces. We feel it everywhere at once. It's the difference between hearing a song and being inside one.
+Each wind has its own voice in the harps. Aure plinks, Sefa sighs, Vell sings and Borre slams. Stay long enough and you'll learn them.
+
+## sky.clouds
+Cirrus is the highest cloud and the finest: thin as combed hair, cold as frost on a bridge rail. Our veils are woven from it, so we never fly through it carelessly.
+Cumulus are the round, piled-up ones. Fly into one with your mouth open and it tastes of cold rain and, faintly, apples. Nobody knows why apples.
+Rain clouds taste of iron and wet stone. Children dare each other to take a bite. Nobody does it twice.
+A sky full of little rippled clouds is a koi-scale sky. Gardeners say the koi swim faster under one. I've watched, and they do.
+The cloud floor below the village has moods. Some mornings it's flat as a pond; some evenings it heaves like a sleeping whale.
+There's a cloud that lives under {village}, clinging to the island's roots. We call it the Beard. Every village has one, and every village thinks theirs is the handsomest.
+Fog is cloud that fell and couldn't get up again. We feel very sorry for it. Walkers walk straight through it and never once apologise.
+Thunderheads grow taller than any village: white towers boiling up from below, flat on top like an anvil. When one starts to build, we start for home.
+Dawn clouds stay rose for about as long as it takes to hum one verse. Then they're white again. Catch them while you can.
+Over mountains you sometimes get lid clouds, stacked smooth like plates and hovering very still. Old Cirri call them the mountains' hats.
+Clouds aren't solid. Every child tries to sit on one at least once, and that's the day they learn why we keep cushions.
+Inside a big cloud it's hushed and grey and close, like a nest made of breath. Some of us go in to think. Some of us go in to sulk.
+When the cloud floor's thick, sounds from the ground come up muffled, like voices through a pillow. When it's thin, you can hear a cow sneeze.
+From above, you know a rain cloud by its heart: grey on top, dark in the middle. Snow clouds you know by the quiet. They never rumble.
+A cloud that looks like something is a gift. This week I've seen a koi, a nest with a hole in it, and something {neighbour} swears looks exactly like me.
+Children may name any cloud they like, as long as they say goodbye when it goes. Most of them cry the first time.
+Flying through a cloud: wet, cold, blind, then out the other side with dew on your eyelashes. Best thing in the world on a hot Sefa noon.
+Rain clouds are heavy-hearted. They sink low and drag along the hills until they've cried it all out. Then they lift, light as anything. I know the feeling.
+When a cloud drifts through the village it fills the bridges. Guests stop and grip the rails. We just slow down and wish it good morning.
+The thin high clouds at midday are the ones nobody looks at. They're doing their best. Look up at them sometimes, would you?
+Every cloud ends as rain or as nothing. The old find that a comfort. The young find it sad. I'm somewhere in between, and drifting.
+The koi go still whenever a cloud passes over the pool. They must hear something in it. I've listened and listened.
+Some clouds are older than the village. The great white bank to Borre-ward has been there since long before anyone living was born. It moves, but it never leaves.
+You can steer a small cloud a little by flying round it fast. Children herd them across the court. The whales do it much better.
+Afternoon cumulus pile up like cushions in a nest. By evening they've gone flat. Even clouds get tired.
+The edge of a cloud at sunset glows like the hem of a veil. That's where the rose on our veil-tips comes from, the weavers say.
+We never build on a cloud. Clouds are guests, not ground. You don't put a house on a guest.
+A cloud's shadow crossing the fields below looks like a slow grey koi swimming over the land. Walkers underneath just think the day went dim.
+Cloud tastes different by the hour. Dawn cloud is sweet, noon cloud is thin, and dusk cloud tastes faintly of whatever the ground's been burning.
+Clouds hang lower before rain and higher in fair weather. Read the cloud floor right and you'll never be caught out. Read it wrong and you'll be wet and famous for it.
+
+## sky.whales
+The Old Singers swim so slowly you'd think they were standing still. They aren't. They're just never in a hurry, and never late.
+Have you ever heard a whale sing? Not with your ears, walker: with your ribs. It's so low the bridges hum and the koi stop circling.
+The whales herd the clouds. The little ones resting on their backs are the young; the great banks trailing behind are the flock.
+We name the whales by the clouds on their backs, so a whale's name changes with the weather. One old Singer has been Tower, Feather and Little Nest in a single summer.
+When a whale passes, everything stops. Weavers set down their work, children stop squabbling, and we all fly out to sing beside it.
+The first time a child swims beside a whale, they forget how to fly. Every child does. A grown-up is always there to catch them. That's half of why we go.
+A whale's eye is the size of a nest window, and just as kind. It looks at you as if it remembers you from somewhere.
+Every weather has its song: a low rolling one for rain, a long high note for clear skies. When a whale sings something nobody's heard before, the windkeepers start fretting.
+That rain on the fields below last week? An Old Singer sang it. That's what we believe, and nobody's ever proved otherwise.
+Escorting a whale is an honour. You fly at its side from one edge of the village sky to the other, singing, and then you let it go. Letting go is the hard part.
+Never touch the clouds on a whale's back. It's like rummaging in someone else's nest. The whale won't mind, but everyone watching will.
+Harrow the harpist swam beside a whale for three days once, singing back every note. Harrow came home with no voice left above a whisper, and never regretted a breath of it.
+In the old story, a Borre gale tore a whole nest loose and a whale carried it home on its back. The family inside slept through the entire thing and never believed a word of it.
+When an Old Singer grows too old to sing, it lies down in the sky and becomes a cloudbank. Fly through an old cloudbank very quietly and sometimes it still hums.
+Whale calves don't sing yet. They squeak. It's the dearest sound in the sky, and the harpists have been trying to copy it for generations.
+Some say the slow verse in the middle of the Evensong was learned from a whale. It's the one where nobody breathes for a while.
+A whale over the village means a good season. Two whales means someone's about to fall in love. Three... nobody's ever seen three. Everyone's hoping.
+Do the whales know us? I think so. They slow down over {village}. Maybe it's the harps. Maybe it's the peaches.
+The whales never land either. Maybe that's why they let us swim beside them. They know what it is to belong to the air.
+A whale's song carries so far that two villages hear the same note at once. That's how we know they're singing to all of us, not just one.
+Nobody knows what whales eat. Wind, say the gardeners. Songs, say the harpists. Peaches, say the children, and leave some on the Lift Dock. The gardeners eat them before dawn so nobody's disappointed.
+When a whale breathes out it blows a puff of cloud, and if you're close you're covered in fine warm mist. Blessed, damp, and very funny to watch.
+The whales were here before the villages. Before the Cirri, some say. We built our homes where they swim, not the other way round.
+Walkers ask if we ride the whales. Ride an Old Singer? Would you climb on your grandparent's back and ask to be carried to market?
+The best whale song I ever heard came at night, so deep the stars seemed to shiver. I didn't sleep. I didn't want to miss a note.
+We sing back to the whales in the oldest verses we know. Whether they understand, nobody can say. They always sing a little louder after.
+A whale that's lost its back-cloud drifts low and sad until it finds another. Gardeners sometimes herd a little puff up to one. Kind, a bit silly, and it works.
+In Borre's wind a whale's song arrives in pieces. The windkeepers write the pieces down and try to guess the weather from them. They're right about half the time.
+My first whale, I was barely past my Lengthening. It turned one great eye toward me and I sang the only verse I knew, in the wrong key. It sang back anyway.
+There's an Old Singer the elders call the Long Note, so old its back-cloud has gone grey. It passes every few years. Last time, our three eldest wept to see it.
+When a whale swims between the village and the sun, its shadow covers every islet at once, and for a breath the whole of {village} goes blue and quiet.
+Whales don't hurry for storms. I've seen one swim out of a thunderhead humming, with lightning running down its sides like rain off a roof.
+When you see a whale, {player}, sing. It doesn't matter if you can't. The whales aren't fussy, and nobody up here will laugh. Much.
+A whale doesn't go round a mountain. It rises and goes over, unhurried, as if the mountain were just a cushion left in the way.
+Two whales passing sing a duet that lasts until they're out of sight of each other. Some Cirri follow the song for a whole day just to hear how it ends.
+
+## sky.koi
+Cloud Koi swim in the air the way fish swim in water: round and round the pool in a school, never quite touching it. They just like being near it.
+A Sky Scale is luck you can hold. When one drifts down to you, you keep it, or you give it to someone you love. Those are the only two right answers.
+Giving someone a Sky Scale is how a Cirri says "I'd share my sky with you." Some couples give one when they make their nest. Some give one every year.
+Every koi in the pool has a name, and the gardeners swear each one answers to it. I've only ever seen them answer to peach crumbs.
+Koi follow music. Play a harp near the Cloud Garden and the whole school turns toward you, like flowers to the sun.
+Cloud Koi hatch in the clouds on a whale's back, the old gardeners say, and drop to our pools when they're big enough. That's why they swim in circles: they're used to following something large.
+There are three sorts of koi: white splashed with red, gold all over, and sky-grey. Ask the gardeners which is luckiest. Each one will name a different sort.
+When the koi bunch tight and swim low, rain's coming. When they spread out high, it'll be fair. Better than any windkeeper, and they work for crumbs.
+A Sky Scale catches each wind's light differently: pale under Aure, gold under Sefa, rose under Vell, silver under Borre. Hold one up today and see.
+Koi are vain. Hold anything shiny near the pool and the whole school crowds round to admire itself.
+Children try to catch koi in their hands. Nobody ever has. The koi think it's a game, and they're winning.
+My first Sky Scale came from {friend}. I keep it tucked in my stole, right over my heart, where it rattles when I laugh.
+A school of Cloud Koi passing overhead sounds like a whisper: hundreds of fins all saying the same soft thing at once.
+Koi don't care for Borre. On cold days they huddle so close round the pool it looks like one great shining fish.
+Find a Sky Scale out by some lonely islet and it means a wild school passed there once. Some schools never come to any village. They prefer their own company.
+The gardeners feed the koi on peach crumbs and flower pollen. They'll eat honey too, but then they're impossible all afternoon.
+Koi live longer than Cirri, the gardeners say. Some of the old ones in our pool remember Cirri nobody else does. I wonder what they'd tell us.
+Never sell a Sky Scale you were given. Sell a peach, sell a veil if you must, but a scale given in love stays given.
+When a koi grows very old its colours fade, and it swims higher and slower until one day it swims up out of sight. We say it's gone to find the whales.
+At night the pool is full of little lights, the koi's scales catching the lanterns. Children say the koi are carrying the stars to bed.
+
+## sky.stars
+At night up here the stars come so close you'd swear you could comb them. Children try. Grown-ups pretend not to.
+The moon's nearer to us than to you, walker. Not by much, but enough that we wish it good evening and feel it listens.
+That bright star low to Vell-ward at dusk is the Bellkeeper's Lantern. First one out every evening, like any good bellkeeper.
+There's a cluster we call the Nest: seven little stars huddled close. Children who can't sleep are told to count them. Nobody gets past five.
+To Borre-ward runs the Loom, a long shape of stars, all straight lines and patience. Weavers say you can read the next season's weather in it. Nobody else can.
+When we go up past the blue, they say, a little light from each of us joins the stars. I don't know if it's true. I look for my grandparents every clear night anyway.
+Nights above the clouds are so clear they almost hurt. No mist, no smoke, no glow from below. Just black, and stars, and the Sleepwind breathing.
+Shooting stars are threads coming loose from the sky's weaving. Catch one and you'll weave true all year. Nobody ever has. Every weaver has tried.
+On a new moon there's nothing up there but stars, so the village lights every lantern it owns to keep the dark polite.
+A curl of stars we call the Koi circles the top of the sky through the year. When it's overhead at dusk, the gardeners say the real koi get restless.
+Up here the moon rises out of the cloud floor like a koi coming up from the pool. Stay up with me one night and watch. You'll never see it rise that way from below.
+We sleep at night, but lightly. Someone's always awake in the nests, watching the stars and listening for night-moths.
+If you're high enough and the wind is still, the stars hum, very faintly. Only the harpists claim to hear it. Harpists claim to hear everything.
+When a child is born, the family picks a star for them. Never a famous one. Just one that seemed to be paying attention.
+A full moon lights the cloud floor so bright the whole village casts shadows on it. We call that a silver night, and nobody wants to sleep through one.
+Why does the moon change shape? It's weaving itself a veil, the children say. Full is its Lengthening; new is when it's gone to the weavers. I like their story best.
+Phantoms come out under the stars. Night-moths, we call them. They fly where we sleep and they don't care for songs. They're the one thing I'd change about the night.
+Have you ever flown at night, {player}? Even on borrowed wings? It's like swimming through a pool full of lanterns.
+The Long Veil is the pale band of stars across the sky: the first weaver's veil, the old stories say, hung up there to air and never taken down.
+Stars look the same from every village. That comforts me. However far a Cirri wanders, the Nest and the Lantern are where they ought to be.
+Some nights the stars are so thick the sky looks woven. The weavers don't sleep then. They lie back on the air and study the pattern till dawn.
+Moonlight turns a veil to pearl. Walkers in the bell-villages sometimes look up and see us crossing the moon. I wonder what they think we are.
+We don't wish on stars; we sing to them. A wish is something you keep. A song is something you give.
+Before dawn the stars go out from the bottom up, the low ones first, then the high. The last to go is Aure's Lamp, waiting to hand the sky over.
+Is the moon lonely? It goes round and round with nobody beside it. The whales have each other and the stars have the Nest. The moon has us, I suppose, waving.
+Just before Aure comes the darkest hour, and the stars burn brightest in it. The old ones say the dark is always at its best just before it ends.
+Stars hardly twinkle up here. The air is thinner, the harpists say. Walkers' stars blink because they're looking at them through all that damp.
+On clear nights the elders teach the children every star name they know and make up the rest. By morning half the sky has new names. Nobody minds.
+The Whale's Eye is a big red star that rises in the cold months. When it's up, the Old Singers come. I've never known it to be wrong.
+Our bellkeeper keeps the moon's count the way they keep the village's time. It's a {moon} tonight, they'll tell you, and then a great deal more. Bring a cushion.
+
+## sky.storms
+When Borre piles up the thunderheads, the bellkeeper rings the long peal and every Cirri in {village} flies home. No questions, no dawdling. You hear that bell, you go.
+Lightning is the one thing in the sky that frightens me through and through. It doesn't care who you are or how high you fly.
+In a storm we curl up in our nests, veils wrapped tight, and hum to the children. Thunder's loud, but a whole village humming is steadier.
+Count between the flash and the thunder. Children count in peaches: one peach, two peaches. The more peaches, the further off it is, and the hungrier they get.
+From above, a storm cloud looks like a lantern shut in a sack: light flickering inside the grey with no way out. Until there is.
+Thunder isn't Borre shouting. Thunder is the sky slamming a door after the lightning. Something about lightning makes the sky furious.
+The storm peal is the first thing a bellkeeper learns: long, long, short, long. Every Cirri knows it in their bones, the way you know your own name.
+The worst storms come up from below. They grow under the village, boil up past the islets and burst over the Veil Court. You can't fly over a storm that's taller than you.
+A storm leaves the sky scrubbed clean. After the last thunder we all come out at once, shake out our veils and see whose chimes are still hanging.
+Never fly in a thunderstorm, walker, not even on borrowed wings. Lightning loves anything that sticks up, and you'd be the tallest thing in the sky.
+In the old stories, more Cirri were lost to veils torn in storms than to anything else. That's why the weavers check every veil in the village when Hush comes.
+On stormy days the rain goes past the nests in long grey curtains. Watching it from inside feels like hiding behind a waterfall.
+Snowstorms are different: no thunder, just white everywhere and a deep hush. We don't fear them, but we don't fly far either. It's easy to lose your way in all that white.
+After a big storm the windkeeper flies down the column to look at the Wind Stone. Lightning loves stones. Ours has been struck twice and still hums.
+Every nest has its own storm-song: low and steady, no high notes, something to hold on to. Nobody outside the nest is supposed to know the words.
+When I was small I asked why we don't just fly away from storms. My elder said: away to where? The sky's wide enough for everyone, Borre's temper included.
+Hail is the sky throwing gravel. It stings veils and bruises koi. The gardeners have veilcloth over the pool before the second stone lands.
+A storm that comes with no warning at all is called a Borre's joke. Nobody laughs, the bellkeeper least of all.
+Lightning sometimes sets trees alight down on the ground. We see the fires from up here, small and orange, and we hum for whoever lives near.
+Before a storm the air goes heavy and still. The koi stop circling. The chimes fall silent. Then the bell starts, and everything moves at once.
+In a storm the whales sing louder, not quieter. Some say they're calming it. Some say they're singing it. I'd rather not know which.
+A Cirri caught out in a storm wraps their veils round themselves like a cocoon and rides it out low and quiet. It's the last thing a child learns before the Lengthening.
+The old saying about the storm peal: when the bell runs long, the sky runs short. Get home while there's sky left.
+After a storm there's sometimes a whole ring of rainbow lying on the clouds under the village. Walkers only ever get half of one. We call it the sky's apology.
+Have you ever smelled lightning? Sharp and clean and wrong. If you can smell it up here, you're already too close.
+
+## sky.veils
+Our veils go blue at the root, white along their length and rose at the tips, with gold at the edges. Every colour of a good day, from first light to last.
+Weavers comb cirrus in the hour after dawn, when it's soft as breath, then spin it and weave it and sing to it the whole time. A veil woven without a song never flies quite right.
+The Lengthening is the day a child's short veils come off and their long ones are woven on. The whole village gathers. Even the bellkeeper cries, and the bellkeeper never cries.
+At a Lengthening, everyone who loves the child adds one gold thread to the new veils. Count the gold on a Cirri and you'll know how loved they were when small.
+Childhood veils aren't thrown away. The weavers unpick them and weave one thread into the long ones, so you never entirely stop being small.
+Torn veils are mended with phantom membrane and string. The night-moths frighten us, but nothing holds a veil together like their wings. Strange, how that works out.
+A mended veil is nothing to be ashamed of. Every stitch is somewhere you've been. The eldest Cirri have veils more mended than not, and they fly beautifully.
+A tear left unmended means something's wrong in a Cirri's heart. You don't mention the tear. You sit with them a while, and then you fetch a weaver.
+They say a Cirri is only as high as their veil is whole. It's about flying, yes. It's about other things too.
+Lose your veils and you're grounded. That's the worst thing there is. It's why we fly so carefully near anything sharp, and nowhere near anything burning.
+My veils know me. They lift a little when I'm happy and droop when I'm low. You can't hide a mood from your own veils.
+A veil smells of the wind it was combed in. Mine smell faintly of Aure, dew and morning. {partner}'s smell of Sefa, which explains a great deal.
+Weavers won't comb on Borre days. The cold makes cirrus brittle and it snaps in the teeth. A Borre-woven veil would fray within a week.
+Have you seen the Cirrus Veil the Skymerchant sells? A walker's veil. It won't let you fly, but it'll catch you if you fall, and that's half of flying anyway.
+Veils are woven to one Cirri's height and heart. You can't borrow anyone else's; they simply won't hold you, any more than a bird could fly on another bird's wings.
+Veils change over the years. Not in length: in feeling. Old veils grow softer and lighter and remember the way you like to turn.
+The rose at the tips frays first, and that's on purpose. Frayed tips catch the wind. A brand-new veil flies stiff until the ends soften.
+Children's short veils only lift them so high. That's on purpose too. A child with long veils would be at the moon by suppertime.
+When a Cirri goes up past the blue, their veils are unwoven and the threads given to everyone who loved them. I carry one of my grandparent's in my left veil.
+Please don't step on a Cirri's veil, walker. It doesn't hurt. It's just very, very rude, and walkers' feet are always somewhere.
+On frosty mornings the veils hold the frost and glitter. Children shake theirs at each other and make little snowfalls.
+A good weaver can tell where you've flown from what's caught in your veils: pollen from the ground, salt from the sea, soot from somewhere you'd better explain.
+Every family weaves its own pattern into the white. Look closely at mine and {partner}'s and you'll see our two patterns woven together since we made our nest.
+A veil caught on a thorn is a terrible feeling, like a breath you can't let out. You hover very still, very calm, and you call for help.
+Never trust a veil you haven't checked after a storm. My elders made me run my fingers down every hand's breadth before I could leave the nest. I still do.
+Old Cirri say a torn veil brings bad luck. The weavers say a torn veil means someone was careless near a fence. The weavers are usually right.
+Why is there gold at our veils' edges? So the sun knows where we end and the sky begins. Otherwise it might mistake us for clouds.
+Two Cirri who make a nest together knot their veil-tips at the Evensong, just once, and let Vell untie them. Come undone quickly, and they'll argue. Hold long, and they'll laugh a great deal.
+Weavers mend at night by lantern light, while the night-moths are about. Fresher membrane, they say. I say it's because weavers are braver than the rest of us.
+There's an old story of a Cirri whose veil-tip brushed the ground, just once. The tip went brown, they say, and never came clean. Nobody has ever wanted to find out if it's true.
+
+## sky.history
+Long ago, before the Courtesy, walkers couldn't come up at all. We waved, they waved, and that was the whole of it for a hundred years.
+The Courtesy began with a falling child. A Borre gust tore their veils, and a walker below caught them in a cart full of hay. We've been saying thank you ever since.
+Nobody remembers the real name of the walker who caught our falling child. We just call them the Haywalker. Windkeepers still bow to every haycart they fly over.
+Ammeral was the first windkeeper. They wanted to thank the walker who'd caught a falling child face to face, so they set a stone on the ground and called a wind up out of it.
+How do you put a stone on the ground without ever touching it? Ammeral lowered it on a rope of string and veilcloth and hovered a hand's breadth over the grass all day, getting it straight.
+Only a few words make up the Courtesy: "Come up and be welcome; go down and be well." Every windkeeper still says it under their breath when a walker rises.
+When the first walker rode the wind up, the first thing they were given was a peach. That's why a Skymerchant always offers peaches before anything else.
+The Ruined Belltowers were villages once. They grew too heavy: iron bells, stone towers, paved courts. And one by one they began to sink.
+Tollemar had the greatest bell ever cast: iron, and tall as three Cirri. It rang so loud the peaches fell off the trees. It also cracked the whole island in two.
+When Tollemar sank, it went a finger's width each dawn, so everyone had time to fly clear. The bellkeeper stayed and rang until the island broke and the rest slipped into the clouds. Only the tower stayed up.
+Graymere paved its Veil Court in stone because moss kept getting into the koi pool. A little moss weighs less than a lot of pride. Graymere learned that the hard way.
+Find a Ruined Belltower and you'll see the bell still lying where it fell, at the bottom of the tower. Too heavy to lift, and too sad to leave.
+Some say the bells in the walker villages below all fell from heavy villages, long ago. I don't believe it. But I always listen when they ring.
+After the heavy villages, the Cirri made a rule: build in calcite, skystone, wood and cloth, and cast your bell thin. That's why {village} looks as if a breeze could carry it off.
+Wind Shrines mark the places where a wind once did a kindness: a gust that caught someone falling, a breeze that blew a fire out. We leave gifts there to say we remember.
+Find a Wind Shrine, walker, and you may take a gift from it, if you leave a song. The winds don't need the gifts. They need to know we're still grateful.
+Candles at a Wind Shrine are the only flames a Cirri will light on purpose: tiny ones, for the wind to blow out. If it does, your gift has been accepted.
+The Evensong began with a child called Tirrin, lost in a cloudbank at dusk. The whole village sang so Tirrin could follow the sound home. Tirrin did. We never stopped singing.
+Sabrel Long-Veil had veils so long it took three weavers a year to finish them. They trailed little clouds wherever they flew. Showing off, if you ask me, but oh, it must have been something.
+Ysa Farflown followed Borre to the very edge of the sky and came home with snow in their veils that never melted. They never said what they saw. Restless children still try to guess.
+Doun the bellkeeper rang the storm peal for nine hours through the Great Borre, until their hands blistered and the tower swayed. Every nest got home. Each winter we ring nine slow strokes for Doun.
+Merrin the weaver was the first to mend a veil with night-moth membrane. Merrin flew out alone, at night, to find one. Everyone called it madness. Now every weaver keeps a box of it.
+Tamberly made the first koi pool, coaxing a school down from a whale's back-cloud with a harp and a handful of peach crumbs. They never left.
+Before there were villages, the Cirri lived in flocks that followed the whales. Then someone found an island that floated and decided to stay. That someone was very tired, the story says.
+Here's the oldest story of all: the first Cirri was a breath Aure let go of at dawn. It liked the sky so much it put on a veil and stayed.
+"Never trust a still day" comes from Ostry. Ostry was already too heavy, and the day before the storm that broke it, the air was perfectly still. Everyone went out to enjoy it.
+Vessary was the village that untied itself. One spring it simply drifted off after the whales and never came back. On quiet nights some still say they hear its chimes.
+We call them the Heavy Years: when every village wanted the biggest bell and the tallest tower. Four villages fell before anyone learned. Pride is the heaviest stone there is.
+Every Hall of Echoes keeps one string from a fallen village on its oldest harp. Ours plays flat. Nobody will ever tune it.
+When the first walker stayed the night, nobody knew where to put them. Walkers need floors. So the windkeeper built the first bridge that very evening, plank by plank.
+Doors came later. The first guests kept asking where to knock. We still don't knock, but we build doors for you. It's only polite.
+Bellkeepers have counted the dawns since the very first one anybody wrote down. This sky has seen {day} of them, and a bellkeeper can tell you the weather for most.
+A saying from the Heavy Years: "A village is as light as its lightest heart." By the end, Graymere had no light hearts left. Too busy polishing stone.
+Long ago a walker climbed the tallest mountain they could find to reach us, and very nearly did. The village met them at the top with peaches. That mountain is still called the Reaching.
+Two villages once quarrelled over the same whale's road. They settled it with a singing contest that lasted four days. Both villages lost their voices. The whale went a third way.
+The first wind harp was a broken loom left out on a Vell evening. The wind played it all night. By morning someone had decided it was meant to be.
+Stories travel up here hand over hand, from someone who heard it from someone who heard it from Ammeral. I'm a link in that chain. So are you, {player}, now that I've told you.
+That ring of skystone round the Wind Stone came later, after a walker child wandered into the wind by accident and shot straight up, shrieking with delight. The ring is there to warn the grown-ups.
+Ammeral's last wish was that the Courtesy outlive every bell in the sky. So far it has. Tollemar's bell fell; the Courtesy didn't.
+Old Quell tried to out-shout Borre once, on a bet. Lost the bet, lost their voice, and found their veils on the far side of the village. We still say "quelled" for anyone who argues with the weather.

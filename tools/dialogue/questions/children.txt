@@ -1,0 +1,100 @@
+# Questions Cirri children ask a walker. Each is asked once ever; flagged answers are remembered, and their
+# callbacks (remember.<flag>) are in lines/remember-children.txt.
+
+? kid_ground_taste | when: child
+Q: Have you ever licked the ground? What does it taste of? I need to know. It's important.
+Q: Does the ground taste of anything? {friend} says it tastes of boots.
+- Rain and dust :: Rain and dust! So the ground is where rain goes to get dusty. I knew it! @ground_taste:rain {points:1} [IDEA]
+- Never licked it :: Never? You've stood on it your whole life and never once had a lick? Walkers are very strange. {points:1} [QUESTION]
+- Like honey, secretly :: Honey! I knew walkers were keeping the best bit to themselves! @ground_taste:honey {points:1} [EXCLAIM]
+
+? kid_walker_loop | when: child
+Q: Can you do a loop? Even a little one? Even a wobbly one?
+Q: How many loops can walkers do in a row? My best is twenty-three. Twenty-two and a half.
+- I can do a cartwheel :: A cartwheel? A ground loop? Do it! ...That's the best thing I've ever seen! Do it again! @walker_trick:cartwheel {points:1} [EXCLAIM]
+- With wings, yes :: With borrowed wings? Then we'll loop together one day. You go first. I'll go second, but better. @walker_trick:loop {points:1} [SPARKLE]
+- Not a single one :: Not one? I'll teach you. Step one: be up in the air. ...Hmm. We'll skip step one. {points:1} [DOTS]
+
+? kid_ground_games | when: child
+Q: What do walker children play down there? We've played everything up here. Twice.
+- Hide and seek :: You have hide and seek too? Where do you hide? Behind the ground? Under it? @ground_game:hide_seek {points:1} [IDEA]
+- Tag :: Tag! Ground tag! I bet it's slower. I bet it's just as fun. @ground_game:tag {points:1} [NOTE]
+- Building sandcastles :: Castles made of sand? Up here they'd blow away before you finished the door. @ground_game:sandcastles {points:1} [QUESTION]
+- Skipping stones :: You throw stones at water and they bounce? On purpose? That's the best walker thing yet! @ground_game:skipping {points:1} [EXCLAIM]
+
+? kid_name_koi | when: child
+Q: There's a new little koi in the pool and nobody's named it yet. You pick! Quick, before the gardener does.
+- Puddle :: Puddle! It's perfect. It's small and round and wet. Hello, Puddle! @koi_name:puddle {points:1} [HEART]
+- Captain Fin :: Captain Fin! It'll be the bossiest koi in the sky. Look at it. It already is. @koi_name:captain_fin {points:1} [EXCLAIM]
+- Peach :: Peach! Because it's pinkish and round. I won't eat it. I won't! @koi_name:peach {points:1} [NOTE]
+- Name it after you :: After me? A koi called {name}? That's the best thing anyone's ever done. It's the best koi now. {points:2} [BLUSH]
+
+? kid_night_monsters | when: child
+Q: Are there really monsters on the ground at night? Real ones? With teeth?
+- Yes, but I'm brave :: You're brave? Braver than thunder? I'll tell the little ones. They'll want to touch your boots for luck. @night_brave:yes {points:1} [EXCLAIM]
+- A few, so I stay inside :: Inside's good. We stay in our nests when it's scary too. Walkers and Cirri, the same. @night_brave:careful {points:1} [NOTE]
+- Only friendly ones :: Friendly monsters with friendly teeth? I don't believe you. I want to, though. {points:1} [QUESTION]
+
+? kid_ground_pet | when: child
+Q: Do walkers keep pets? What's yours called? Tell me everything.
+- A loyal dog :: A dog! I've seen them from up here, running in circles. They're like ground koi! @ground_pet:dog {points:1} [HEART]
+- A cat :: A cat! Do cats like heights? Bring it up! No, the koi would hate it. Maybe don't. @ground_pet:cat {points:1} [NOTE]
+- A horse :: A horse? The kind walkers sit on? Is it like flying, only bumpier? @ground_pet:horse {points:1} [EXCLAIM]
+- No pets, just me :: Just you? Then you can share our koi. All of them. I'll introduce you. {points:1} [DOTS]
+
+? kid_first_flight | when: child
+Q: If the weavers made you a veil and you could fly, where would you go first?
+- Swim with a whale :: With an Old Singer! I'd come too. We'd hum at it and it would hum back. @first_flight:whale {points:1} [SPARKLE]
+- Higher than this village :: Higher than us? Up where the blue goes dark? You're braver than the grown-ups. @first_flight:higher {points:1} [EXCLAIM]
+- Straight down, to show off :: Straight back down? With a veil? ...Oh, to show everybody! That's a very good reason. @first_flight:show_off {points:1} [IDEA]
+- Here, to see you :: To see me? All that flying, just for me? That's the nicest wish I've ever heard. {points:2} [HEART]
+
+? kid_veil_colour | when: child
+Q: When I'm Lengthened, what colour should my long veils be? Everyone has white and rose. I want something different.
+- All gold :: All gold! I'll shine like the bell! The weavers will say no. I'll say you said. @veil_colour:gold {points:1} [SPARKLE]
+- Sky blue all the way :: Sky blue all the way, so I vanish into the sky! Nobody will ever find me at hide and seek. @veil_colour:blue {points:1} [IDEA]
+- White and rose, like everyone :: Like everyone? ...Well, everyone does look very nice. Fine. You're right. Hmph. {points:1} [DOTS]
+- Night colours, with stars :: Night colours with little stars in! I'll be a piece of the night that flies about. @veil_colour:night {points:1} [HEART]
+
+? kid_grown_up | when: child
+Q: Are you a grown-up or a big child? I can't tell with walkers. You haven't got any veils to measure.
+- A grown-up :: A grown-up! But you play with me. Good. Grown-ups should do that more. @walker_age:grown {points:1} [NOTE]
+- A big child :: A big child! Like me, only bigger. Then we're the same, and we're both allowed to play. @walker_age:big_child {points:1} [HEART]
+- A bit of both :: Grown-up outside and child inside? Dad's like that. Dad pretends not to be. {points:1} [IDEA]
+
+? kid_secret_swap | when: child
+Q: I'll tell you a secret if you tell me one first. That's the rule. You first!
+Q: Secrets swap! You tell me one, I tell you one. Walkers go first, it's only fair.
+- I talk to my pickaxe :: You talk to your pickaxe? Does it answer? Here's mine: I talk to the koi, and one of them answers. @walker_secret:pickaxe {points:1} [IDEA]
+- I'm scared of spiders :: Spiders! Is that a ground thing? Here's mine: I'm scared of the long peal of the bell. Now we're even. @walker_secret:spiders {points:1} [SWEAT]
+- I once got lost for days :: Lost for days? Here's mine: I got lost behind the Loom House once. For ages. Nearly a whole song. @walker_secret:lost {points:1} [EXCLAIM]
+- No secrets from me :: No secrets at all? Then I'll keep mine too. ...All right, one: I don't like honey. Don't tell anyone. {points:1} [DOTS]
+
+? kid_lengthening_gift | when: child
+Q: When it's my Lengthening, will you come? Everyone brings a present. What would you bring me?
+- A basket of sky peaches :: Peaches! A whole basket! I'll share them. Some of them. One. @lengthening_gift:peaches {points:1} [HEART]
+- A shiny diamond :: A diamond? For my veils? ...Is it heavy? It's worth being a bit heavy for one day. @lengthening_gift:diamond {points:1} [SPARKLE]
+- A walker song :: A walker song, just for me? Sung at my Lengthening? I'll remember it till my veils fray. @lengthening_gift:song {points:1} [NOTE]
+- Just myself :: Just you? That's the best present. You'll be the only walker there. Everyone will look. @lengthening_gift:myself {points:2} [BLUSH]
+
+? kid_walker_lessons | when: child
+Q: We have to learn the Four Winds and the whole Evensong and the Courtesy. Do walker children have lessons? What do you learn?
+- Letters and numbers :: Letters and numbers! We have those too. I'm very good at the number four. @walker_lessons:letters {points:1} [NOTE]
+- How to build things :: You learn to build? Houses and towers and bridges? Build me something! A small thing! @walker_lessons:building {points:1} [EXCLAIM]
+- How to face monsters :: Monsters, in lessons? Walker lessons are much braver than ours. Ours have a lot of humming. @walker_lessons:monsters {points:1} [SWEAT]
+- I ran off instead :: You ran off? From lessons? On your feet? ...Can you teach me how? Don't tell Mum I asked. {points:1} [IDEA]
+
+? kid_scale_wish | when: child
+Q: If you find a Sky Scale, you get one wish. That's the rule. What would you wish for?
+- A house full of peaches :: A house full of peaches! You'd have to eat your way to the door. I'd help. @scale_wish:peaches {points:1} [HEART]
+- A whale of my own :: A whale of your own? Where would you keep it? In the sky, I suppose. It's big enough. @scale_wish:whale {points:1} [SPARKLE]
+- Long veils for you, soon :: For me? You'd spend your wish on me? I'm not crying. Koi water got in my eye. {points:2} [BLUSH]
+- A hundred more wishes :: A hundred more wishes! That's cheating. That's very, very clever cheating. @scale_wish:more_wishes {points:1} [EXCLAIM]
+
+? kid_sky_end | when: child
+Q: Where does the sky end? You've been everywhere. You must know.
+Q: Does the sky stop somewhere? Grown-ups say no. Grown-ups say a lot of things.
+- It never ends :: Never? Then I'll never get bored. That's very good news. Thank you. @sky_end:never {points:1} [SPARKLE]
+- At the stars :: At the stars! So the stars are the edge. Like lanterns on the end of a bridge. @sky_end:stars {points:1} [IDEA]
+- At a place called the End :: The End? There's a place called the End? That's a very good name for where something stops. @sky_end:the_end {points:1} [EXCLAIM]
+- I don't know either :: You don't know either? Then we'll find out together. You walk, I'll fly. {points:1} [HEART]

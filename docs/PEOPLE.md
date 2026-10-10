@@ -46,7 +46,7 @@ Behaviour (`entity/Cirri`, steering maths in `flight/Glide`):
   The heading turns at most about 3 degrees a tick, so it swoops rather than darts. Cruise is 6 blocks a second.
 - **Hover:** about one arrival in four, it stops for 3-8 seconds and looks about.
 - **Watch:** now and then it stops 5.5 blocks from a player who is near and in sight, faces them and watches for a
-  while (right-clicking one does this too; conversations come later).
+  while.
 - **Flee:** hurt, it flies up and away at 11 blocks a second for 5 seconds.
 - It climbs whenever it is within 3 blocks of the ground or water, and climbs over anything ahead of it.
 - No fall damage, never despawns. When it dies its veils give out and it falls.
@@ -100,7 +100,9 @@ contact (a camera within 6 blocks and in front of the face) the way VF's `Reside
   and string. Stock restocks every dawn.
 - **Music:** play a wind harp or the Windsong Flute and every Cirri within twenty blocks comes to listen.
 
-## Not built yet
+## Talking, and village life
 
-Conversations (talking to the Cirri, friendship, stories) are not built yet; right-clicking a Cirri makes it
-turn to you and greet you. Cirri only live in sky villages (and come from spawn eggs).
+Built 2026-10-10 (0.3.0): conversations, friendship, questions and offers, gifts, stories, the Journal, gossip,
+emote bubbles, the village title card, pairs chatting, the Evensong, whale escorts, children's tag, sheltering from
+thunder, presents from close friends and the animation pack. See `docs/DIALOGUE.md` and `docs/ANIMATIONS.md`. Couples
+know each other by name (`partner`, set from the village roster), so children know their Mum and Dad.

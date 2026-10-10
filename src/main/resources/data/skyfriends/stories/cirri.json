@@ -1,0 +1,1372 @@
+{
+ "bank": "cirri",
+ "locked": [
+  "*tilts their head and smiles* A story? From me? We've only just met, walker. Stories are for friends. Come round a few more times and we'll see.",
+  "Ha! You want the heavy things already? You haven't even heard me sing yet. Fair wind, walker. Ask me again when the wind knows your name.",
+  "*drifts back a little* That's a big thing to ask a stranger. Every Cirri has a story, but we tell it to the ones we've flown beside. Give it a few dawns.",
+  "Not yet. A story is like a good veil: you don't unfold it for whoever comes up the bridge. No offence, walker. You're very welcome on the bridge.",
+  "*laughs, kindly* My story? I barely know your name. Bring me a peach sometime, stand through an Evensong with us. Then ask again.",
+  "Some things the sky only says to old friends. You're not old yet, walker, and not quite a friend. Both come with time, if you keep visiting.",
+  "*tilts their head, veils drifting* A story? We've barely shared a breeze, walker. Come and talk on a few more days, and maybe the wind will bring one round.",
+  "Oh, there's a story. There's always a story. But you don't hand it to the first walker off the Wind Stone. Ask me again when you know my name without looking.",
+  "*a quick, bright loop* Not yet! Stories are for friends, and you're still a very promising stranger.",
+  "A story's like a veil. You only show the frayed end to someone who won't tug on it. Give me time to know your hands, {player}.",
+  "*glances toward the Veil Court, where someone is laughing* Some things I'd only say at dusk, to a friend. Come back after a few more Evensongs.",
+  "Hmm. The wind hasn't told me what to make of you yet. It's slow about these things. So am I."
+ ],
+ "stories": [
+  {
+   "id": "flat_string",
+   "title": "The String That Sings Flat",
+   "jobs": [
+    "harpist"
+   ],
+   "intro": "*plucks one string on the big harp, winces, plucks it again* Hear that? No, of course not, you're a walker. That's Vell's string, the evening one. It's sat a hair flat for a whole season and nothing I do will hold it true. The Evensong is starting to wobble at the end. *sighs* Will you help me fix it? I'll need walker things.",
+   "requests": [
+    {
+     "id": "strings",
+     "title": "Fresh strings",
+     "item": "minecraft:string",
+     "count": 16,
+     "prompt": "Old strings stretch and sulk. Bring me sixteen lengths of string, the spider kind, and I'll twist them into a new string for Vell. If a fresh one won't hold the tune, nothing will.",
+     "thanks": "*runs the string through two fingers, then gives it a sharp tug* Strong. A little sticky. Spiders are strange weavers. I'll string it tonight, after the Evensong, when nobody can hear me fail."
+    },
+    {
+     "id": "amethyst",
+     "title": "A stone that rings true",
+     "item": "minecraft:amethyst_shard",
+     "count": 8,
+     "prompt": "Harpists set a shard of amethyst at the foot of the frame. It hums back at the true note and frowns at a false one. Mine's cracked. Eight shards, please, so I can pick the one with the clearest voice.",
+     "thanks": "*taps each shard against the frame, head tilted* Too proud. Too sleepy. Too... oh. This one. Listen to it. *sets it at the foot of the harp* It's frowning at Vell's string already. Good. Someone should."
+    },
+    {
+     "id": "note_block",
+     "title": "A box that keeps a note",
+     "item": "minecraft:note_block",
+     "count": 1,
+     "prompt": "A merchant told me walkers keep a single note shut up in a wooden box and let it out when they knock. Is that true? Bring me one. I want a note that can't drift, even if I do.",
+     "thanks": "*knocks on it, and jumps at the sound* It answered! *knocks again, softer* Same note. Every time. How restful. I'll tune by it in the mornings, before the winds start their arguing."
+    }
+   ],
+   "waiting": "*keeps plucking Vell's string, then stopping* The new string's on. It still goes flat by dusk. I think I know why. I'm just not ready to say it out loud. Come back in a few dawns? Stay for an Evensong or two. You'll hear it.",
+   "ready": "*lets the harp go quiet under one hand* You keep coming back to this hall. Have you heard the wobble at the end of the Evensong? Even walkers can. Stay a breath, {player}. I'll tell you about the one who taught me this harp.",
+   "confide": "My teacher was Oskel. Sixty years on this harp. Tuned Vell's string by humming at it, never by stone. Last winter, curled up thin in the nest, Oskel laughed and said: when I go up past the blue, Vell will sing flat for a season, missing me. Don't fix it too fast. I laughed too. Oskel went up that spring, and the string went flat that very dusk. New string, true stone, it doesn't matter. Vell misses them. So do I.",
+   "endings": [
+    {
+     "id": "tune_true",
+     "label": "Tune it true",
+     "text": "*breathes out, long* True. You're right. The Evensong isn't mine to grieve with; it belongs to everyone singing it. I'll tune Vell's string tonight and tie the old flat one round my wrist, where only I can hear it. Oskel would say I took my time. Here, Oskel's flute. It always played a little sharp. Somebody should.",
+     "memory": "You told {name} to tune Vell's string true, and keep the old flat one round their wrist."
+    },
+    {
+     "id": "let_it_mourn",
+     "label": "Let it sing flat a season",
+     "text": "*a small, wet laugh* A season, as promised. Everyone who knew Oskel will hear it at the end of every Evensong and know what it is. The rest will think I've lost my ear. Let them. When spring comes, the string will come true on its own. I believe that now. Here, Oskel's flute. Play it badly. It likes that.",
+     "memory": "You told {name} to let Vell's string sing flat for one season, the way Oskel promised."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:windsong_flute",
+    "count": 1
+   }
+  },
+  {
+   "id": "high_line",
+   "title": "The High Line",
+   "jobs": [
+    "harpist"
+   ],
+   "intro": "*clears their throat, sings one high note, and it cracks clean in the middle* Ha! Hear that? I've led the Evensong from the front since before you were born, walker, and lately my high line comes out thin as a moth's wing. The old harpists swear by walker remedies for the throat. I'm not too proud to try them. Mostly not.",
+   "requests": [
+    {
+     "id": "honey",
+     "title": "Something sweet for the throat",
+     "item": "minecraft:honey_bottle",
+     "count": 4,
+     "prompt": "Honey for the throat, the old harpists say. Four bottles, if the bees will spare them. I'll pretend it works until it does. That's most of medicine, I suspect.",
+     "thanks": "*sips, and makes a face of pure joy* Oh, that's not medicine. That's a bribe. *hums the high line; it holds, just* Did you hear? Nearly. I'll take nearly. I've lived on nearly all season."
+    },
+    {
+     "id": "horn",
+     "title": "A horn that sings high",
+     "item": "minecraft:goat_horn",
+     "count": 1,
+     "prompt": "Traders talk of goats on the high peaks with horns that sing when you blow them. A walker's mountain is the nearest the ground comes to us. Bring me a horn? I want to hear a high note made without a throat.",
+     "thanks": "*blows into it far too hard; the whole Hall of Echoes rings* SKY AND WIND. *lowers it, eyes shining* That's not a note, that's weather. I love it. I'll never play it at the Evensong. I'll play it at anyone who's late."
+    },
+    {
+     "id": "book",
+     "title": "A book to keep the descant",
+     "item": "minecraft:writable_book",
+     "count": 1,
+     "prompt": "We Cirri keep our songs in our heads and pass them on by singing. But heads get old. Bring me one of those walker books you can write in. I'd like the descant somewhere it can't crack.",
+     "thanks": "*turns the blank pages slowly* So much quiet in one little book. I'll have to invent marks for wind and breath. Every turn of the high line, kept safe on paper. Just in case. Only in case."
+    }
+   ],
+   "waiting": "*practises the high line under their breath, and stops just before the hard part* Better. The honey helps. Something else doesn't, and no remedy reaches it. Come to a few Evensongs, would you? I'd like a walker in the crowd who'll tell me the truth.",
+   "ready": "*quietly* If you've been at the Evensong lately, you've heard it crack on the last turn. Every time. Don't be kind about it, {player}. Come by before the dusk bell. I need to say something I've been humming round all season.",
+   "confide": "The young harpist in our hall can sing the high line in their sleep. I know, because I've heard them do it, curled up in the nest next to mine. Everyone's waiting for me to hand it over, and nobody will say so, out of kindness. And I don't know who I am if I'm not at the front, singing the day down. A Cirri in the crowd. Just a voice. *the smallest laugh* Grounded, in a way.",
+   "endings": [
+    {
+     "id": "hand_it_on",
+     "label": "Hand on the high line",
+     "text": "*nods slowly, then faster* At the next Evensong I'll lead the first verse, then turn and give the high line away, in front of everyone, so it's a gift and not a loss. Then I'll sing in the crowd as loud as I like, cracks and all. Here, my old practice harp. It's yours now. Teach it something terrible.",
+     "memory": "You told {name} to hand the high line to the young harpist, in front of the whole village."
+    },
+    {
+     "id": "lead_with_harp",
+     "label": "Lead with the harp alone",
+     "text": "*plucks a long, low chord* Lead with the harp, and let the village carry the high line. Why not? It's their song too. I'll play, they'll sing the part I can't, and the young one can take the descant beside me until it's time. Not yet. Soon. Here, my old practice harp. You'll need something to lead with.",
+     "memory": "You told {name} to keep leading the Evensong on the harp and let the village sing the high line."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:wind_harp",
+    "count": 1
+   }
+  },
+  {
+   "id": "folded_veil",
+   "title": "The Folded Veil",
+   "jobs": [
+    "weaver"
+   ],
+   "intro": "*smooths a folded length of veil on the loom, very carefully, as if it might wake* This one's torn. A long rip by the root, and the tips are fraying. It's sat on my shelf three years, and every morning I tell myself: today. I'm a weaver, {player}. Mending is what I do. So why can't I? *folds it again* Help me get started, at least.",
+   "requests": [
+    {
+     "id": "membrane",
+     "title": "Night-moth wings",
+     "item": "minecraft:phantom_membrane",
+     "count": 2,
+     "prompt": "A rip like that wants phantom membrane, the night-moths' wings, the only thing that takes a stitch in cloud. I hate asking you to go out under them. Two pieces, and come back whole, please. One mending at a time.",
+     "thanks": "*holds it to the light; it shimmers like a puddle of dusk* Horrible creatures. Lovely wings. I always think that. *lays it by the folded veil, not touching it yet* There. Now I've no excuse. Except all the others."
+    },
+    {
+     "id": "thread",
+     "title": "Spider thread",
+     "item": "minecraft:string",
+     "count": 12,
+     "prompt": "Cloud thread for the long seams, spider thread for the strong ones. This rip runs along the root, where the pull is worst, and walker string is tougher than ours. Twelve lengths, please.",
+     "thanks": "*winds it round two fingers, testing* Good and tough. You could hang a nest off this. *sets it in a neat coil beside the membrane* My shelf is filling up with ways to mend it. *a short laugh* It's starting to look at me."
+    },
+    {
+     "id": "flowers",
+     "title": "Flowers for the folding",
+     "item": "minecraft:lily_of_the_valley",
+     "count": 6,
+     "prompt": "We fold good cloth with flowers between the layers so it doesn't forget the air. The little white bells from the ground are best: lily of the valley. Six sprigs. This veil's been folded too long with nothing sweet in it.",
+     "thanks": "*breathes them in and closes both eyes* That's it. That's how the Loom House smelled when I was small. *tucks them into the folds, gently* There. At least it's resting sweetly now."
+    }
+   ],
+   "waiting": "*pauses at the shelf, one hand on the folded veil, then goes back to the loom* Not today. Not because of you. It's a weaver's thing, and a family thing, and it needs a few more dawns before I can say it. Come back and talk to me. It helps, oddly.",
+   "ready": "*takes the veil down from the shelf, and for the first time simply holds it* You keep asking after it without ever asking. That's good manners, that is. Come close, by the loom, {player}. I'll tell you whose it is.",
+   "confide": "It was my grandparent's. Nimri. The finest weaver {village} ever had. When a Cirri goes up past the blue, their veils are unravelled at the Wind Shrine and given to Vell, so they can follow. That's the custom. It was my task, and I couldn't. So I told everyone it was torn and needed mending first. And it was! A little. But as long as it's torn, it's work, and you keep work. Once it's whole, it's a goodbye.",
+   "endings": [
+    {
+     "id": "give_to_vell",
+     "label": "Mend it, then give it to Vell",
+     "text": "*nods, eyes bright* Mended first. Properly. Then I'll take it to the Wind Shrine on an evening when Vell has the sky, unravel it thread by thread, and let it go. Nimri would want to follow. I've been holding on to the hem. Here: rose cloth, woven from the frayed tips I trimmed. They should fly somewhere too.",
+     "memory": "You told {name} to mend Nimri's veil and give it to Vell at the Wind Shrine, as the custom asks."
+    },
+    {
+     "id": "weave_it_on",
+     "label": "Weave it into new veils",
+     "text": "*very still, then* Into the next Lengthening. A few threads of Nimri's veil in a child's first long veils. That's not the custom. It's not quite against it, either. Nimri wove half this village into the air; let those threads fly a little longer. Here: rose cloth, woven from the frayed tips I trimmed. They should fly somewhere too.",
+     "memory": "You told {name} to weave threads of Nimri's veil into a child's Lengthening veils."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:rose_veilcloth",
+    "count": 8
+   }
+  },
+  {
+   "id": "leftwind",
+   "title": "Leftwind",
+   "jobs": [
+    "weaver"
+   ],
+   "intro": "*holds up two half-woven veils, one in each hand, looking from one to the other* My first Lengthening, {player}! The first I've ever woven, I mean. A child asked for me. Me! Not the master weaver. I'm so proud I could burst and so frightened I could unravel. And my thread isn't good enough. Will you help?",
+   "requests": [
+    {
+     "id": "feathers",
+     "title": "Feathers for the tips",
+     "item": "minecraft:feather",
+     "count": 12,
+     "prompt": "We weight the tips of a first long veil with feather down, so it doesn't flutter wild while the child learns. Cloud alone is too light. Twelve feathers, the softest you can find. Chicken is fine. Chickens are surprisingly soft.",
+     "thanks": "*blows one off a palm and watches it drift* That's the speed I want. Slow. Sure. *catches it* Twelve little anchors. A child's first long flight should feel like being held."
+    },
+    {
+     "id": "wool",
+     "title": "Walker cloud to practise on",
+     "item": "minecraft:white_wool",
+     "count": 8,
+     "prompt": "Before I touch the real thing, I practise the pattern on walker wool. It's thicker, and it forgives. Eight blocks of white wool, please, so I can ruin something that isn't a child's veil.",
+     "thanks": "*squeezes it, delighted* It's like a cloud that's been well fed! Heavy, soft, honest. I'll ruin the first three, I know it. *already threading the loom* Right. Ruining. Here we go."
+    },
+    {
+     "id": "dye",
+     "title": "Blue for the roots",
+     "item": "minecraft:light_blue_dye",
+     "count": 4,
+     "prompt": "The root of a veil should be sky blue, the exact blue of noon over the clouds. Our blue is fading on the shelf. Walkers grind a blue from flowers, I'm told. Four of the pale blue, please.",
+     "thanks": "*holds it up against the sky, squinting* Close. So close. A shade lower than noon. *grins* Like noon on a lazy Sefa day. I think the child will like that better, honestly."
+    }
+   ],
+   "waiting": "*frowning at the tension on the loom* The practice veils are coming on. There's a question in the pattern I haven't answered yet. Give me a few dawns, and come talk to me while I weave. I think better with someone watching. Even a walker. Especially a walker.",
+   "ready": "*stops the loom and sets down the shuttle* Have you ever watched me fly, {player}? Properly? Watch. *does a slow loop, and drifts a little to one side* There. You saw. Stay, my heavy-footed friend. I'll tell you what the child said.",
+   "confide": "My parent wove my Lengthening veils the season their hands began to shake. The veils came out pulling left. Not much. Enough. The other children called me Leftwind for years. My parent still apologises for it every Lengthening day. I became a weaver so no child would ever fly crooked again. And this child came to me and said: I want to fly like you. A bit sideways. Like you're laughing.",
+   "endings": [
+    {
+     "id": "weave_true",
+     "label": "Weave them true",
+     "text": "*a slow nod* True. Straight as the shaft at the Lift Dock. The child will find their own way to laugh in the air; it doesn't have to be mine. And tonight I'll tell my parent that crooked veils made me a weaver, which is the truth. Here, sky cloth from my practice. The good bits, not the ruined bits.",
+     "memory": "You told {name} to weave the child's Lengthening veils straight and true."
+    },
+    {
+     "id": "weave_drift",
+     "label": "Weave in a little drift",
+     "text": "*laughs out loud* One thread. One small left-leaning thread at the tip, so small the master weaver will never find it. The child will drift, just a breath, and laugh, and so will I. And tonight I'll tell my parent the drift was the best thing they ever gave me. Here, sky cloth from my practice. The good bits.",
+     "memory": "You told {name} to weave one crooked thread into the child's veils, the way the child asked."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:sky_veilcloth",
+    "count": 8
+   }
+  },
+  {
+   "id": "peachstone",
+   "title": "Peachstone Won't Eat",
+   "jobs": [
+    "gardener"
+   ],
+   "intro": "*hovering low over the koi pool, holding out a crumb of peach that nobody takes* That's Peachstone. The big gold one, slow, by the far edge. The oldest koi in {village}, older than me. Nine days now and not one crumb. The others are as greedy as ever. I'm trying everything. Will you help me try a few walker things?",
+   "requests": [
+    {
+     "id": "lily_pads",
+     "title": "Shade for the pool",
+     "item": "minecraft:lily_pad",
+     "count": 4,
+     "prompt": "Sickly koi like shade. Our pool is open to the whole sky, which is lovely for us and maybe too much for an old fish. Four lily pads, from a walker swamp. I'll float them over the deep end.",
+     "thanks": "*sets them on the water one by one; Peachstone drifts under the nearest and stays there* Oh. Oh, you like that. Look at it, sulking in the shade like a grand old elder. That's something."
+    },
+    {
+     "id": "glow_berries",
+     "title": "Berries that shine",
+     "item": "minecraft:glow_berries",
+     "count": 12,
+     "prompt": "Koi can't resist anything that glows. Cave berries, the ones that shine. Twelve, please. If Peachstone won't eat a glowing berry, I'll know it's serious. Our koi would trade their scales for those.",
+     "thanks": "*drops one in; the young koi swarm it, and Peachstone watches, and turns away* ...Well. The rest of them think you're wonderful. *quieter* I'll keep trying. A berry a day."
+    },
+    {
+     "id": "ground_water",
+     "title": "Water from below",
+     "item": "minecraft:water_bucket",
+     "count": 1,
+     "prompt": "Our pool is fed by rain cloud, soft and thin. Maybe an old koi wants something with more ground in it. One bucket of water from below, please, from a walker spring or a river. Carry it carefully.",
+     "thanks": "*pours it in at the edge; Peachstone swims slowly through the swirl, twice* It tasted it. I swear it did. Ground water. Heavy and full of earth and stories. Thank you, {player}."
+    }
+   ],
+   "waiting": "*watching Peachstone circle the pool* It's eating a little. Not enough. And it keeps swimming to the same place: the low lip of the pool, where the water spills over the edge of the island. I've noticed something, and I don't like what I've noticed. Come back in a few dawns?",
+   "ready": "*hovering over the low lip of the pool, where a net of skywood twigs stretches across the gap* You've been coming every day to look at an old fish. I love you a little for that. Come here, by the net. I'll show you what I did.",
+   "confide": "My teacher used to say old koi don't die in the pool. When their time comes they swim out over the rim, into the open sky, and go to the Old Singers, and ride the little clouds on a whale's back. I thought it was a tale for children. Then last month Peachstone started nosing at the lip of the pool, and I panicked, and I wove this net across it. It isn't sick, {player}. It's trying to leave. And I won't let it.",
+   "endings": [
+    {
+     "id": "open_rim",
+     "label": "Take down the net",
+     "text": "*unknots the net one twig at a time, and lets it fall* Go on, then, you old sulker. Find your whale. *Peachstone noses the gap, waits, and slips out over the rim into the blue* ...Fair wind. Fair wind. *wipes their face* It left something by the edge. Here. It's yours as much as mine.",
+     "memory": "You told {name} to take the net down, and Peachstone swam off over the rim to find the whales."
+    },
+    {
+     "id": "keep_close",
+     "label": "Keep it home to the end",
+     "text": "*rests a hand on the net* Not yet. It eats better since you came, and the shade suits it. If it goes, it goes in its own time, from a pool where it was loved. I'll take the net down the day it stops eating altogether, and not a day before. Here, it shed this by the edge. For you.",
+     "memory": "You told {name} to keep Peachstone home and tend it, and open the net only at the very end."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:sky_scale",
+    "count": 1
+   }
+  },
+  {
+   "id": "bee_question",
+   "title": "The Bee Question",
+   "jobs": [
+    "gardener"
+   ],
+   "intro": "*glares at a skywood tree with half its blossom going brown* Look at it. Blossom everywhere, peaches nowhere. Nobody's visiting the flowers, {player}. Down on the ground there are little striped flyers that do it for you. Bees. I want bees. *glances round* Don't tell anyone. Not yet.",
+   "requests": [
+    {
+     "id": "honeycomb",
+     "title": "A look at bee building",
+     "item": "minecraft:honeycomb",
+     "count": 6,
+     "prompt": "Before I invite anyone up here, I want to see how they live. Traders say bees build little rooms of wax, all six-sided, all the same. Six pieces of honeycomb, please. I want to study their building.",
+     "thanks": "*turns a comb over and over* Six sides! Every one! Not a crooked wall in it. *sniffs it* And it smells like Sefa on a hot day. I like them already. I'm terrified of them, but I like them."
+    },
+    {
+     "id": "cornflowers",
+     "title": "Ground flowers bees love",
+     "item": "minecraft:cornflower",
+     "count": 16,
+     "prompt": "Bees won't come where they can't eat. I want a ring of ground flowers round the trees, the kind bees fly to. Sixteen cornflowers, please. Blue, like a good veil root. Blue's also my favourite. That's not a reason. It's a bonus.",
+     "thanks": "*plants them in a ring round the roots, humming* There. A welcome mat, as you walkers say. Do you say that? You wipe your heavy feet on it? *pats the soil* Ours is for bees to wipe their wings."
+    },
+    {
+     "id": "hive",
+     "title": "A house for them",
+     "item": "minecraft:beehive",
+     "count": 1,
+     "prompt": "I won't ask anyone to come up into the sky without a roof over them. That's the Courtesy, even for bees. A beehive, please, the walker kind. Empty. I'll worry about who moves in afterwards.",
+     "thanks": "*holds it at arm's length, then a little closer* It's lighter than I feared. Good. Nothing heavy in the sky. *sets it under the tree* There. A nest for strangers. Like the Wind Stone, a bit."
+    }
+   ],
+   "waiting": "*keeps glancing from the hive to the Veil Court and back* It's all ready. Flowers, house, everything. And I haven't told a soul. There's a reason, and it's not a proud one. Come and see me again in a few dawns. I'll have found my courage, or a very good excuse.",
+   "ready": "*hovering beside the empty hive, arms folded* All right. I'm going to tell you, and you're not allowed to laugh. You may smile. Quietly. Come here, {player}.",
+   "confide": "My grandparent brought bees up once, forty years ago. A whole swarm in a basket, without asking anyone. They got out at the Evensong. A child was stung, the elders shrieked, and the basket went over the rim. Our family has been 'the bee nest' ever since. Behind our backs, mostly. I want to show them it can work. And also... *very small* I've never been this close to a bee. I think I'm afraid of them.",
+   "endings": [
+    {
+     "id": "ask_village",
+     "label": "Ask the village first",
+     "text": "*squares their shoulders* Properly, then. At the Veil Court, in daylight, with honeycomb to pass round and the flowers to show. I'll ask, and if they say no, I'll ask again in spring. My grandparent snuck. I won't. Here, the best of this year's peaches. Next year's will be better, if they say yes.",
+     "memory": "You told {name} to ask the whole village before bringing bees up to the Cloud Garden."
+    },
+    {
+     "id": "islet_trial",
+     "label": "Try them on a wild islet",
+     "text": "*eyes go wide, then sly* A wild islet. Out of sight, out of trouble. One hive, my cornflowers, a skywood sapling, and me checking every morning from a very respectful distance. If that tree fruits, I'll have proof instead of hope. Here, the best of this year's peaches. Don't tell the elders.",
+     "memory": "You told {name} to try the bees quietly on a wild islet first, and bring proof home."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:sky_peach",
+    "count": 8
+   }
+  },
+  {
+   "id": "fallen_bell",
+   "title": "The Bell in the Cloud",
+   "jobs": [
+    "bellkeeper"
+   ],
+   "intro": "*rings the pagoda bell once, then lays a hand flat on it until it stills* Do you know about the ruined belltowers, {player}? Villages that grew too heavy and sank into the clouds. One of them was my grandparent's. I found it last month, out past the islets. The old bell's still there, fallen. Will you help me look after it?",
+   "requests": [
+    {
+     "id": "brush",
+     "title": "A brush for old metal",
+     "item": "minecraft:brush",
+     "count": 1,
+     "prompt": "There are letters round the bell's rim, under a skin of moss and cloud dust, and I daren't scrub with my hands. Walkers make a little brush for uncovering old things gently. Bring me one, please.",
+     "thanks": "*tries it on the back of one hand* Soft! Patient! Walkers have a tool for patience. *tucks it into their sash* I'll go out at dawn. That bell deserves to be read by morning light."
+    },
+    {
+     "id": "copper",
+     "title": "Red metal for a crack",
+     "item": "minecraft:copper_ingot",
+     "count": 6,
+     "prompt": "The bell's cracked a hand's width up from the lip. Walker copper can be beaten thin and wrapped round a crack like a bandage. No fire, only patience and a great deal of tapping. Six ingots, please.",
+     "thanks": "*taps one with a knuckle; it answers, small and warm* Listen. A little bell all its own. *stacks them neatly* Tap, tap, tap, for a whole season. The pagoda is going to hate me."
+    },
+    {
+     "id": "chain",
+     "title": "Chain to hang it by",
+     "item": "minecraft:iron_chain",
+     "count": 4,
+     "prompt": "If that bell ever hangs again, it'll need walker chain. Our bells hang on woven cloud cord, but that one was made for an older, heavier sky. Four lengths of chain, please. Just to have them.",
+     "thanks": "*lifts one, and lets it drop with a clank* Heavy. Of course it's heavy. *frowns at it a long while* Everything about that bell is heavy. That's the trouble. Thank you. I'll keep them by."
+    }
+   ],
+   "waiting": "*reading something off a scrap of veilcloth, lips moving* I've uncovered the letters on the bell. It's a name. It's my family's name. There's more, but I'll need a few dawns to say it. Come and listen to the dusk bell with me in the meantime?",
+   "ready": "*runs a thumb along the rope of the pagoda bell* My grandparent won't fly within a cloud of that ruin. Never has. Now I know why. Listen a while, {player}, if you've the time. I've been carrying this alone.",
+   "confide": "That bell was bought from the walkers below, bigger than any bell in the sky, because my grandparent asked for it. They were bellkeeper there, and proud. Three summers later the island began to sink. And it was my grandparent who rang the long peal as it went down, hour after hour, until every last child had flown clear. They got out last, still ringing. Their pride sank that village. Their courage saved it. Our name is on that bell for both.",
+   "endings": [
+    {
+     "id": "hang_it",
+     "label": "Hang it in the pagoda",
+     "text": "*a long breath* Bring it home. Mend the crack, hang it on walker chain, and ring it once a year, on the day the old village sank, so we remember what pride weighs and what courage sounds like. The elders will grumble about the weight. Let them. Here: the gold my grandparent saved for a bigger bell still, and never spent.",
+     "memory": "You told {name} to bring the old bell home and ring it once a year, for pride and for courage."
+    },
+    {
+     "id": "leave_it",
+     "label": "Ring it there and leave it",
+     "text": "*nods slowly* Leave it where it fell. I'll mend the crack, fly my grandparent out on Aure's gentlest morning, and let them ring it one last time over the clouds that took it. Then it can rest. Heavy things belong low. Here: the gold my grandparent saved for a bigger bell still, and never spent. Good.",
+     "memory": "You told {name} to leave the old bell in the ruin, and let their grandparent ring it one last time."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:gold_ingot",
+    "count": 3
+   }
+  },
+  {
+   "id": "missed_peal",
+   "title": "Never Trust a Still Day",
+   "jobs": [
+    "bellkeeper"
+   ],
+   "intro": "*squints at the horizon, then at the sky overhead, then at the horizon again* A still day. I hate a still day. The bell rings a long peal before every storm, and it's my hands on the rope. When a storm's coming the sky goes quiet, and so do I. I want to see them sooner. Help me keep a better watch?",
+   "requests": [
+    {
+     "id": "spyglass",
+     "title": "A walker's long eye",
+     "item": "minecraft:spyglass",
+     "count": 1,
+     "prompt": "Walkers have a tube of glass that brings the far sky near. A spyglass. With one of those I could see Borre's clouds bunching up while they're still far off over the ground. Bring me one, please.",
+     "thanks": "*puts it to one eye, then the wrong end* Everything's tiny! *flips it* Everything's huge! *watches a long while* A thunderhead, three villages off. Not ours. But I can see it. That's an hour's warning, maybe two."
+    },
+    {
+     "id": "clock",
+     "title": "A clock for the pagoda",
+     "item": "minecraft:clock",
+     "count": 1,
+     "prompt": "I keep the village's time by the sun and my stomach. On grey days the sun hides and my stomach is no help at all. Walkers carry a little golden sky that turns in a dial. A clock, please.",
+     "thanks": "*holds it to one ear, frowning* It doesn't tick. *watches the dial turn* Oh! It's a tiny sky, in a circle. Sun, moon, sun. Even on a grey day. *hangs it by the rope* Now the dusk bell won't be late, whatever the clouds do."
+    },
+    {
+     "id": "rod",
+     "title": "A storm-catcher",
+     "item": "minecraft:lightning_rod",
+     "count": 1,
+     "prompt": "Walkers set copper spikes on their roofs to call the lightning down where they choose. Bold, bold people. I'd like one on the islet below the pagoda, far from any nest. Bring me a lightning rod?",
+     "thanks": "*holds it as if it might bite* So this is how walkers argue with the sky. *sets it on the lowest ledge, far from everything, and backs away* There. If Borre wants to throw something, it can throw it there."
+    }
+   ],
+   "waiting": "*twists the bell rope between both hands, back and forth* The watch is better. Much better. But a spyglass doesn't fix what I'm really afraid of. Come back in a few dawns. Come on a stormy one, if you dare. You'll see me at my worst.",
+   "ready": "*the bell rope is wound tight round one wrist* You came back. Good. It's quiet today, the right kind of quiet, so I can talk. Shelter under the eaves with me, {player}, out of Borre's way.",
+   "confide": "Eleven years ago a storm came over a still noon. I saw it coming, {player}. I saw it, and I froze at the rope. My hands wouldn't move. By the time I rang, there was lightning over the Veil Court and the smallest child still out in it. Their veil tips burned. They lived, and grew up, and flew off to another village, and never once blamed me. Everyone thinks the storm came too fast. Nobody knows I froze.",
+   "endings": [
+    {
+     "id": "tell_them",
+     "label": "Fly over and tell them",
+     "text": "*unwinds the rope from their wrist* I'll fly over at the next fair wind and tell them myself. They should hear the truth from the one who owes it. If they're angry, they've the right. If they're not... *a shaky breath* I may finally sleep through a still day. Here. A golden apple I kept for the worst storm. I think the worst storm's over.",
+     "memory": "You told {name} to fly to the grown child and tell them the truth about the frozen peal."
+    },
+    {
+     "id": "ring_true",
+     "label": "Carry it, and ring early",
+     "text": "*nods, slowly* They're happy, and grown, and kind about it. Telling them would only hand them my weight. So I'll carry it, and keep watch, and teach every young bellkeeper to ring at the first quiet, even if it's nothing. Especially if it's nothing. Here, a golden apple I kept for the worst storm.",
+     "memory": "You told {name} to carry the secret, and always ring at the first sign of quiet."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:golden_apple",
+    "count": 1
+   }
+  },
+  {
+   "id": "ground_up_close",
+   "title": "The Ground Up Close",
+   "jobs": [],
+   "intro": "*leans so far over the island's edge that their veils stream down after them* What does it feel like? The ground. Under your feet. All the time. *catches themselves* Sorry. I've wanted to ask a walker that since I was small. I have a lot of questions, {player}, and some of them need answers I can hold.",
+   "requests": [
+    {
+     "id": "dirt",
+     "title": "A handful of ground",
+     "item": "minecraft:dirt",
+     "count": 1,
+     "prompt": "Bring me some ground. Just a little. How is ground measured? In blocks? One block of dirt, then. I want to hold it in my hands, somewhere nobody can see me holding it.",
+     "thanks": "*holds the block in both hands, very still* It's heavy. Cold underneath, warm on top. It smells like rain that stayed. *whispers* There's a root in it. Something lived here. I'm keeping it."
+    },
+    {
+     "id": "boots",
+     "title": "Walker foot-shoes",
+     "item": "minecraft:leather_boots",
+     "count": 1,
+     "prompt": "You wrap your feet in something to walk. I've seen it. Bring me a pair of the leather ones? I'm not going to wear them. I'm going to look at them. For a long time. Possibly wear them on my hands.",
+     "thanks": "*puts them on both hands at once and claps them together* Thump! Thump! Is that what walking sounds like? All day long? *hugs them* I'm keeping these. They're the strangest thing I own."
+    },
+    {
+     "id": "map",
+     "title": "A map of the ground",
+     "item": "minecraft:map",
+     "count": 1,
+     "prompt": "Up here we steer by wind and sun. Walkers draw the ground on paper so they won't get lost on it. Bring me a blank map, and I'll watch it fill as I fly. I want to see the ground draw itself.",
+     "thanks": "*unfolds it, holds it out, and turns slowly in the air as the lines creep in* It's drawing! The ground is drawing itself! *goes quiet* So that's what it looks like, from the inside. So many places to stand."
+    }
+   ],
+   "waiting": "*turning the boots over and over* Thank you for all of it. There's one more question, and it's not one I can ask just anyone. Not even a walker. Come and talk with me on a few more days, would you? Then I'll be brave enough.",
+   "ready": "*hovering at the island's edge, looking down through a gap in the clouds* Do you dream, {player}? Of course you do. Come and look down with me. I want to tell you mine.",
+   "confide": "Every night, curled over my cushion, I dream I'm walking. Feet on the ground, grass between my toes, the whole weight of me held up by the world. And I'm happy. Not grounded. Not frightened. Happy. A Cirri isn't meant to dream that. I've never told anyone, in case it means my veils are thinning, or my heart is. Is it wrong, to love the one thing we fear?",
+   "endings": [
+    {
+     "id": "go_down",
+     "label": "Fly down at dawn and see",
+     "text": "*eyes shining* At dawn, then. Down past the clouds beside you, following the Wind Stone's column so I don't lose my way, and as low as I dare: a hand's breadth over a meadow, not a breath lower. I'll smell it and see it and be home for the Evensong. Some dreams want looking at. Here, two skywood saplings. Plant one down there for me.",
+     "memory": "You told {name} to fly down at dawn and hover a hand's breadth over a meadow."
+    },
+    {
+     "id": "bring_it_up",
+     "label": "Keep the dream, bring ground up",
+     "text": "*a long, relieved sigh* Keep it a dream. Dreams don't have to be done to be good. But I'll keep a little ground in a pot by my nest, and grow a ground flower in it, and touch it every morning. That's enough walking for a Cirri. Here, two skywood saplings. Plant one down there, where you walk.",
+     "memory": "You told {name} to keep the dream a dream, and a little ground in a pot by their nest."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:skywood_sapling",
+    "count": 2
+   }
+  },
+  {
+   "id": "old_singer",
+   "title": "The Whale That Carried Me",
+   "jobs": [],
+   "intro": "*shading their eyes, staring at the horizon* There. See the slow cloud, the one moving against the wind? That's an Old Singer. A Cloud Whale. And I know that one, {player}. I'd know it anywhere. It's coming this way, slow as a season. Help me get ready to meet it?",
+   "requests": [
+    {
+     "id": "clouds",
+     "title": "New little clouds",
+     "item": "skyfriends:cloud_block",
+     "count": 16,
+     "prompt": "Whales carry little clouds on their backs. That one's are thinning; I can see it from here. I'd like to give it some new ones. Sixteen blocks of cloud, please. The merchant has them, or you have your ways.",
+     "thanks": "*gathers the cloud into a soft heap in the air and pats it into shape* There. A little flock of clouds, ready to be carried. *glances at the horizon* It's closer. I think. Whales are hard to hurry."
+    },
+    {
+     "id": "kelp",
+     "title": "Something from the sea",
+     "item": "minecraft:kelp",
+     "count": 16,
+     "prompt": "The oldest stories say the Old Singers were sea whales once, before they learnt to swim in the air. If that's true, it might like something from home. Sixteen strands of kelp, please.",
+     "thanks": "*sniffs it and wrinkles their nose* Salt! So that's what the sea smells like. *drapes it over the clouds in a long green fringe* If it doesn't remember the sea, at least it'll have a good laugh at me."
+    },
+    {
+     "id": "pickles",
+     "title": "Little sea lights",
+     "item": "minecraft:sea_pickle",
+     "count": 6,
+     "prompt": "One more thing from the sea: the little green lights that grow on the sea floor. Sea pickles, walkers call them, which is a terrible name. Six, please, so the whale can find its new clouds in the dark.",
+     "thanks": "*sets them among the clouds; they glow a soft green* Oh, that's beautiful. Terrible name. Beautiful little lights. *quietly* It'll see them from a long way off. That's the point."
+    }
+   ],
+   "waiting": "*watching the horizon instead of you* It's still coming. Whales are slow. So am I, about some things. There's a reason I know that whale, and it's a long one. Visit me a few more times while it comes, and I'll be ready to tell it.",
+   "ready": "*the Old Singer is plain now, low on the horizon* Close enough to hear on a still night. Did you hear it? Like a harp played in a cave. Come out to the rim with me, {player}. I'll tell you how we met.",
+   "confide": "When I was very small I got lost in a fog bank. Hours. I couldn't see my own veils, and I cried so hard I forgot how to fly straight. Then something huge and warm rose up under me, and I was lying on a little cloud on a whale's back, and it sang the whole way home. It set me down by the koi pool at dawn. Nobody believed me. I've watched for it every day since. Now it's old, and slow, and its clouds are thin.",
+   "endings": [
+    {
+     "id": "fly_out",
+     "label": "Fly out to meet it",
+     "text": "*already loosening their veils for distance* Out to it, then. Further than I've flown since I was small. I'll take the new clouds and the sea things, and fly beside it, and sing it the Evensong, the way it sang me home. If I'm late back, don't fret. I know a whale who gives lifts. Here: sea-stone, found in the cloud it set me down on.",
+     "memory": "You told {name} to fly out to the old Cloud Whale and sing to it, the way it once sang them home."
+    },
+    {
+     "id": "sing_it_in",
+     "label": "Sing it in from the rim",
+     "text": "*smiles at the horizon* No chasing. Whales come when they come. I'll set the new clouds out on the rim and sing every Evensong facing it, and if it passes close, it'll hear its old song and know a lost child turned out well. Here: sea-stone, found in the cloud it set me down on.",
+     "memory": "You told {name} to sing the old whale in from the village rim and let it come in its own time."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:prismarine_shard",
+    "count": 4
+   }
+  },
+  {
+   "id": "chime_across_the_bridge",
+   "title": "The Chime Across the Bridge",
+   "jobs": [],
+   "intro": "*glares across the nearest bridge at a nest with its shutters drawn* See that nest? Twenty years ago, the one who lives there cut my wind chime down in the night. Twenty years, and not a civil word since. We sing half a beat apart at the Evensong, out of spite. And now I need a new chime. A very particular chime. Will you help?",
+   "requests": [
+    {
+     "id": "bamboo",
+     "title": "Hollow reeds",
+     "item": "minecraft:bamboo",
+     "count": 12,
+     "prompt": "The old chime was skywood. This one will be walker reed, the hollow green stalks that grow in the hot jungles. Bamboo. Twelve stalks. Reed chimes sing soft and low. Softer than the old one. Much softer.",
+     "thanks": "*blows across the top of one; it hoots* Ha! It sings already. *lines them up by length* Soft, low and patient. That's what this chime has to be. You'll see why. Eventually."
+    },
+    {
+     "id": "berries",
+     "title": "Berries, for no reason",
+     "item": "minecraft:sweet_berries",
+     "count": 16,
+     "prompt": "Sweet berries. Sixteen. The red ones off the ground bushes. Why? No reason. They're not for anyone. Certainly not for anyone across that bridge who always had a sweet tooth. Just bring them.",
+     "thanks": "*counts them twice, then sets them in a little woven basket with a bow* Stop smiling. It's a basket. Baskets have bows. That's just weaving."
+    },
+    {
+     "id": "paper",
+     "title": "Paper for a picture",
+     "item": "minecraft:paper",
+     "count": 3,
+     "prompt": "Three sheets of walker paper, please. I can't write your marks, but I can draw. A picture of a chime. Possibly with a small cloud next to it. Clouds mean nothing. Don't read into the cloud.",
+     "thanks": "*draws at once, tongue between teeth, then hides it* No looking. It's a chime. *peeks at it* And a cloud. And a very small... never mind. It's a chime."
+    }
+   ],
+   "waiting": "*hangs the half-built chime from a branch, then takes it down again* It's nearly done. And I owe you the truth about it, but the truth is embarrassing, and I need a few dawns to get used to saying it. Visit me. Distract me.",
+   "ready": "*across the bridge, the shutters of the other nest open a crack, then close* Did you see that? Twenty years, and they still check whether I'm looking. Come here, {player}. I'm going to tell you something mortifying.",
+   "confide": "Last month the old windkeeper told me the truth of it. That night, twenty years ago, Borre came down hard. My chime was tearing loose, about to smash through my window while I slept. My neighbour flew out into the storm, cut it down, and gashed an arm doing it. I woke, saw them holding my chime, and shouted thief across the whole village. They were too proud to explain. I was too proud to ask. Twenty years.",
+   "endings": [
+    {
+     "id": "say_it_loud",
+     "label": "Apologise at the Veil Court",
+     "text": "*squares up* Out loud, at the Veil Court, before the Evensong, where I shouted thief in the first place. Everyone heard that. Everyone can hear this. Then the reed chime goes up on their nest and the berries on their door, and for once we sing in time. Here, emeralds. I was saving them to outbid them at the market. Out of spite.",
+     "memory": "You told {name} to apologise to their neighbour at the Veil Court, where the feud began."
+    },
+    {
+     "id": "let_chime_speak",
+     "label": "Let the chime say it",
+     "text": "*nods, a little pink* No speeches. We were never speech people. I'll hang the reed chime on their nest at dawn, with the berries and the picture, and fly off before the shutters open. A chime that sings soft all night. They'll understand. They always did. Here, emeralds. I was saving them to outbid them at the market.",
+     "memory": "You told {name} to hang the new chime on their neighbour's nest at dawn and let it say sorry."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:emerald",
+    "count": 3
+   }
+  },
+  {
+   "id": "aure_cradle",
+   "title": "Where Aure Is Born",
+   "jobs": [],
+   "intro": "*turns to face east, as if it were dawn already* Every dawn I come to this rim and watch Aure rise. My friend Ashe used to wonder where the dawn wind is born. Whether there's a place. A cradle. I promised Ashe I'd find out. *quietly* I haven't gone yet. Help me get ready? Properly ready, this time.",
+   "requests": [
+    {
+     "id": "compass",
+     "title": "A needle that knows the way",
+     "item": "minecraft:compass",
+     "count": 1,
+     "prompt": "A trader once showed me a walker's needle that always points one way, however you turn it. A compass. Bring me one? If I fly past the sky I know, I want something with me that knows where it's going.",
+     "thanks": "*turns a slow circle in the air, watching the needle* It keeps pointing the same way. Is that home, for walkers? A home that's a direction? *a shaky laugh* I'm not sure it helps. I'm keeping it anyway."
+    },
+    {
+     "id": "melon",
+     "title": "Food for a long flight",
+     "item": "minecraft:melon_slice",
+     "count": 16,
+     "prompt": "A long flight wants food you can eat in the air. Melon slices: half water, all sweetness, and nothing to drop on anyone below. Sixteen, please. I'll pack them in a veil sling and pretend I'm a merchant.",
+     "thanks": "*bites one at once* For the journey. *bites another* Also for the journey. *wraps the rest up firmly* There. The journey is sorted. Now I only have to actually go."
+    },
+    {
+     "id": "sunflower",
+     "title": "A flower that faces dawn",
+     "item": "minecraft:sunflower",
+     "count": 1,
+     "prompt": "A walker once told me there's a tall ground flower that always faces the dawn. A sunflower. Bring me one? If the compass fails me, I'll follow the flower. It knows Aure better than any of us.",
+     "thanks": "*holds it up; it faces east, steady as a harpist* It does! It knows exactly where Aure lives. *tucks it into their sash* Ashe would have loved this. Ashe would have talked to it."
+    }
+   ],
+   "waiting": "*east again, the sunflower in their sash* All packed. Compass, melon, flower. I could go tomorrow. I keep saying that. There's a reason I haven't, and it isn't the distance. Come back over a few dawns. I'll tell you.",
+   "ready": "*looks east, the way they always do* Ashe went up past the blue two winters ago, on a gold morning, with Aure lifting everyone's veils. Keep me company a while, {player}. I'll tell you why I haven't gone.",
+   "confide": "Ashe made me promise: fly east till you find Aure's cradle, and come back and tell me what it looks like. Except there's no one to tell now. And I'm afraid, {player}. Not of the distance. I'm afraid I'll fly east for days and find nothing. Just more sky. And then Ashe's cradle won't exist anywhere, not even in a story. As long as I don't go, it's still out there.",
+   "endings": [
+    {
+     "id": "fly_east",
+     "label": "Fly east and look",
+     "text": "*turns to face the dawn, steady* I'll go. If it's only more sky, then I'll tell Ashe's story about that sky, and it'll be a good one, because I'll have seen it. A promise kept is better than a cradle kept. Wait for me at the Evensong in a few days. Here, Ashe's dawn-stones. Keep them safe till I'm back.",
+     "memory": "You told {name} to fly east and keep the promise to Ashe, whatever they find."
+    },
+    {
+     "id": "keep_the_story",
+     "label": "Keep the cradle a story",
+     "text": "*a long, soft breath* Then it stays out there, where Ashe put it. I'll keep the promise another way: every dawn, any child who'll come, out to the rim to watch Aure rise, and I'll tell them where it's born. Somewhere east. Somewhere lovely. One of them will go and look, one day. Here, Ashe's dawn-stones.",
+     "memory": "You told {name} to keep Aure's cradle a story, and tell it to the children at dawn."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:amethyst_shard",
+    "count": 6
+   }
+  },
+  {
+   "id": "sixth_spring",
+   "title": "The Sixth Spring",
+   "jobs": [],
+   "intro": "*twists a ribbon at one wrist, round and round* Spring's coming, {player}. And every spring for five springs I've asked the same Cirri to share my nest. Five times, five kind no's. I'm going to ask again. Probably. I need a proper gift this time. Will you help? Don't laugh. You can laugh a little.",
+   "requests": [
+    {
+     "id": "petals",
+     "title": "Petals for the asking",
+     "item": "minecraft:pink_petals",
+     "count": 12,
+     "prompt": "Last spring I asked with a sky peach. Too ordinary. This spring: flowers from the ground, the little pink petals that grow in drifts under the blossom trees. Twelve handfuls. Something they've never seen.",
+     "thanks": "*lets a few go in the air and watches them spin down* Oh. That's the colour of a veil tip at dawn. *gathers them back up, carefully* That's perfect. That's exactly right. I think I'm going to be sick."
+    },
+    {
+     "id": "gold",
+     "title": "Gold for the ribbon",
+     "item": "minecraft:gold_nugget",
+     "count": 9,
+     "prompt": "An asking ribbon is edged in gold, the way veils are. Mine's plain. Nine gold nuggets, please; I can draw them out into a thread so fine it floats. Gold says I mean it.",
+     "thanks": "*rolls a nugget between finger and thumb until it gleams* Little suns. *starts drawing one into a thread, frowning hard* This will take all night. Good. I won't sleep anyway."
+    },
+    {
+     "id": "apples",
+     "title": "Their favourite",
+     "item": "minecraft:apple",
+     "count": 6,
+     "prompt": "Apples. They love apples. Ground apples, red and loud and crunchy. Six of them. Everyone brings peaches. I bring the thing nobody else remembers. That's the plan. That's the whole plan.",
+     "thanks": "*polishes one on a sleeve until it shines* Loud and red and crunchy. Just like me, they'd say. *sets all six in a careful ring* Petals, ribbon, apples. It's a good gift. It is a good gift, isn't it?"
+    }
+   ],
+   "waiting": "*practising a speech under their breath and stopping halfway every time* The gift's nearly ready. I'm not. There's something about the five no's that I haven't told you, and I'm not sure I've told myself. A few dawns more? Come back and make me talk.",
+   "ready": "*the asking ribbon is wound round and round their own wrist* Spring's nearly here, {player}. Don't go yet. I'm going to say the part I've been flying round.",
+   "confide": "Every no was kind. Every time, they said: not yet, ask me again. So I did. Five springs. And last night it came to me: maybe 'ask me again' is only good manners. Maybe they don't know how to say no for good to someone they're fond of. And if I ask a sixth time, I'm not giving a gift. I'm asking them to hurt me properly, so they won't have to keep being kind.",
+   "endings": [
+    {
+     "id": "ask_again",
+     "label": "Ask one more time",
+     "text": "*unwinds the ribbon* One more time. But a different question. Not 'will you share my nest', but 'do you want me to keep asking?' If the answer is no, I'll take it, and stay their friend, and sing beside them anyway. If it's yes... *goes very pink* Here. A chime I made the first spring, for outside a shared nest. It shouldn't wait in a box any longer.",
+     "memory": "You told {name} to ask once more, and ask whether they should keep asking at all."
+    },
+    {
+     "id": "let_it_rest",
+     "label": "Let the asking rest",
+     "text": "*nods slowly, and unwinds the ribbon* No sixth time. I'll give the petals and the apples as a friend, with no question in them, and let them be the one to ask, if they ever want to. The sky is wide enough for both of us. Here. A chime I made the first spring, for a shared nest. It shouldn't wait in a box any longer.",
+     "memory": "You told {name} to stop asking, give the gift as a friend, and let the other one ask if they ever want to."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:wind_chime",
+    "count": 1
+   }
+  },
+  {
+   "id": "evensong_lamps",
+   "title": "The Lamps at Evensong",
+   "jobs": [
+    "lamplighter"
+   ],
+   "intro": "*a taper in one hand, already half turned toward the bridges* Can't stop long, the light's going. Every dusk, while {village} gathers to sing the day down, I'm out here waking the lamps, one bridge after another. Twenty years of it. I know every lamp by its flicker. *frowns at a stubby wick* And every wick is nearly done. Would a walker help me keep them lit?",
+   "requests": [
+    {
+     "id": "wicks",
+     "title": "New wicks for old lamps",
+     "item": "minecraft:candle",
+     "count": 8,
+     "prompt": "Walkers make candles out of bees and string, somehow, and they burn slow and steady, the merchants say. Bring me eight? I'll pare them to fit the bridge lamps. Ours are honey-wicks, and Borre eats them alive.",
+     "thanks": "*turns one over, sniffing it* Bees. You can smell the summer in it. *tucks them into a sash, one by one* Tonight the third bridge gets a proper light. The far lamp always gutters first. Not tonight."
+    },
+    {
+     "id": "blue_glass",
+     "title": "Blue for the great lantern",
+     "item": "minecraft:light_blue_stained_glass",
+     "count": 4,
+     "prompt": "The old lamplighters set blue glass round the great lantern, so walkers below would know it for a Cirri light and not a low star. Ours cracked in a hailstorm. Four blocks of walker glass, sky blue?",
+     "thanks": "*holds a block up to the evening, and the whole bridge goes blue* Oh, that's the colour. Exactly the colour. Some walker down there will look up tonight and think: someone's home."
+    },
+    {
+     "id": "music_box",
+     "title": "Something that sings",
+     "item": "minecraft:note_block",
+     "count": 1,
+     "prompt": "Walkers have a box that sings a note when you tap it, I'm told. I'd like one up in the Spire. For company, while I wait for dusk. *very casually* No reason.",
+     "thanks": "*taps it once, twice, and a small clear note hops out* It doesn't care who's listening. I like that in a singer. *taps it again, softer* It can live by the great lantern."
+    }
+   ],
+   "waiting": "*watching the singers gather over the Veil Court, then looking away* Hm? No, go on, go to the Evensong, it's lovely. I'll be on the bridges. There's more to the lamps, but not yet. Come and find me a few more days, {player}.",
+   "ready": "*the last lamp is lit and the song is still rising behind them; they stay at the dark end of the bridge* You keep finding me out here instead of over the court. All right. Don't go yet. I'll tell you why I took the Spire.",
+   "confide": "I can't sing. Not a note. I know every word of the Evensong, but when I open my mouth it comes out like Borre through a cracked door. When I was small the others laughed, kindly, and I stopped. I've mouthed it ever since. Then old Hollin needed a lamplighter, and the lamps are lit at dusk, while everyone sings. *a small smile* So nobody has to hear me. Twenty years.",
+   "endings": [
+    {
+     "id": "sing_anyway",
+     "label": "Sing at the Evensong",
+     "text": "*a long silence, then a laugh like a dropped bell* Sing. Out loud. Over the Veil Court, flat as a still day. *veils lift* You're right: the sky is wide enough for everyone, even a voice like mine. Tomorrow the lamps get lit early and I'll be in the middle of the song, wrong notes and all. Here. Lanterns, for wherever you sing.",
+     "memory": "You told {name} to stop hiding on the bridges and sing the Evensong, wrong notes and all."
+    },
+    {
+     "id": "lamp_song",
+     "label": "Let the lamps be your song",
+     "text": "*looks along the bridges, one lamp after another, as if seeing them new* Light them in time. A bridge a verse. From below, the walkers would see the Evensong climbing the village, lamp by lamp. *quietly* That's a song I can sing. I always could, I think. Here. Take some light home with you.",
+     "memory": "You told {name} to light the lamps in time with the Evensong: a song they can sing."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:sky_lantern",
+    "count": 4
+   }
+  },
+  {
+   "id": "lantern_drift",
+   "title": "The Lantern Drift",
+   "jobs": [
+    "lamplighter"
+   ],
+   "intro": "*turns a scrap of old paper in their fingers, painted with a faded flame* Did you know {village} used to send its light down to you? On the longest night, every Cirri let a paper lantern drift to the ground, one for everyone gone up past the blue. The Lantern Drift. It stopped before I was born. Nobody will say why. *folds the scrap away* I want to bring it back.",
+   "requests": [
+    {
+     "id": "paper",
+     "title": "Paper for lanterns",
+     "item": "minecraft:paper",
+     "count": 16,
+     "prompt": "Our paper is pressed petals. It's lovely, and it tears if you look at it. Walker paper is made of reeds, the merchants say, and holds its shape in a wind. Sixteen sheets? Enough to fold the first few.",
+     "thanks": "*folds a sheet into a cup, then a little lantern, quick as anything* There. It sits on the wind like it wants to be there. *a pleased hum* The old folds came back to my fingers. Who knew they were in there."
+    },
+    {
+     "id": "glow_ink",
+     "title": "Light without flame",
+     "item": "minecraft:glow_ink_sac",
+     "count": 4,
+     "prompt": "No flame this time. Not ever. Walkers find a squid in dark water that glows, and its ink glows too, they say. Four sacs, and I'll paint every lantern so it shines with nothing burning in it at all.",
+     "thanks": "*paints a stripe on a lantern and cups it in the dark of their hands: it glows, steady and green-gold* No heat. Nothing that could catch. *breathes out* That's the Drift made safe. That's all it ever needed."
+    },
+    {
+     "id": "string",
+     "title": "Lines for the lanterns",
+     "item": "minecraft:string",
+     "count": 12,
+     "prompt": "The old lanterns were tied in threes, so they'd drift down together and not be lonely. Silly, I know. Twelve lengths of string, and I'll tie mine the old way.",
+     "thanks": "*ties three together and lets them dangle, turning slowly* Not lonely. *an embarrassed little laugh* I said it was silly. Thank you for not saying so."
+    }
+   ],
+   "waiting": "*hanging test lanterns from the Spire's rail, then taking them down again* They're coming along. But I found out something about the Drift, and it sits heavy. Not yet. Come and talk with me a few more days, {player}.",
+   "ready": "*sets a finished lantern down very gently, as if it might overhear* I asked the oldest weaver why the Drift stopped, and they told me. Then I asked my parent, and they wouldn't look at me. Stay, {player}. I need to say it to someone who wasn't there.",
+   "confide": "The last Drift was my parent's. They were lamplighter then, and they lit the lanterns with real flame, the old way. Vell turned in the night and blew them down onto a walker village, still burning. A barn caught. Nobody was hurt, the weaver says. But my parent gave up the Spire the next dawn and hasn't touched a lantern since. When I took the Spire, they didn't come to watch. Thirty years.",
+   "endings": [
+    {
+     "id": "revive",
+     "label": "Bring back the Drift",
+     "text": "*straightens* All of it, then. Every Cirri on the longest night, with lanterns that can't burn. And I'll carry the first one to my parent and ask them to let it go. If they can't, I'll let it go for them. Either way, the sky remembers again. Here. My parent's amethyst, from behind the old lantern flame. It threw light a long way once.",
+     "memory": "You told {name} to bring back the Lantern Drift, with lanterns that can never burn."
+    },
+    {
+     "id": "apology",
+     "label": "Send one lantern, then rest",
+     "text": "*nods slowly* One string of three, painted, carried down the Wind Stone by a walker to the village with the barn. Sorry, thirty years late. And then the Drift can rest, and so can my parent. *a long breath* Some customs end so others can sleep. Here. My parent's amethyst, from behind the old lantern flame. Take it.",
+     "memory": "You told {name} to send one last lantern to the walker village as an apology, and let the Drift rest."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:amethyst_shard",
+    "count": 6
+   }
+  },
+  {
+   "id": "unsold_cloth",
+   "title": "The Cloth That Wasn't Sold",
+   "jobs": [
+    "skymerchant"
+   ],
+   "intro": "*counting amethyst across the pavilion counter, again, and coming up short, again* {player}! Just the walker. I'm in a tangle. I sold a bolt of the Loom House's best veilcloth, and I owe them its price before the next Lengthening. I'm short. Embarrassingly short, for the best merchant in {village}. *eyes a little purse on a high shelf, then looks firmly away*",
+   "requests": [
+    {
+     "id": "amethyst",
+     "title": "The price of a bolt",
+     "item": "minecraft:amethyst_shard",
+     "count": 24,
+     "prompt": "Twenty-four shards of amethyst. That's the price I promised the weavers, and a merchant who doesn't pay is just a cloud with a counter. Walkers dig it out of caves that ring like bells, I hear.",
+     "thanks": "*sorts the shards into a neat row, then a neater one* Paid, to the last chip. *pushes them toward a basket marked for the Loom House* The weavers will stop looking at me like I ate their koi. Thank you, walker."
+    },
+    {
+     "id": "wool",
+     "title": "Sheep-cloud for the weave",
+     "item": "minecraft:white_wool",
+     "count": 12,
+     "prompt": "The weavers are making the Lengthening cloth again, from the start. They say walker wool, shorn off those walking clouds of yours, takes the cirrus beautifully. Sheep, you call them? Twelve blocks, please.",
+     "thanks": "*sinks both hands into it* Oh, it's warm already. Your clouds are warm! Ours are cold and clever and wander off if you don't watch them. The weavers will be glad of this."
+    },
+    {
+     "id": "gold",
+     "title": "Gold for the threading",
+     "item": "minecraft:gold_nugget",
+     "count": 12,
+     "prompt": "Every veil in the sky is threaded with gold at the edges. The weavers spin it fine as spider-silk. Twelve nuggets of walker gold, and the new cloth will shine as if nothing ever went missing.",
+     "thanks": "*rolls a nugget between finger and thumb* Heavy little things. You walkers carry so much gold about. *drops them in the weavers' basket* There. The child will never know there was another bolt."
+    }
+   ],
+   "waiting": "*dusting the high shelf all round the little purse, never touching it* Paid. Square. All well. *a pause* There's a bit more to that bolt than I've let on. Merchants keep the ledger shut till the trade is done. Come by a few more days.",
+   "ready": "*takes the little purse down at last and sets it between you, unopened* You've noticed this. Everyone notices it and nobody asks. You're going to ask. No, don't. I'll tell it.",
+   "confide": "Last Borre season a walker came up the wind in a storm, soaked through, with a little one wrapped in a wet blanket, shivering blue. I gave them the warmest cloth in the pavilion: the Lengthening bolt, set aside for a child of the village. I took nothing. Then I told everyone I'd sold it for a fortune. A merchant who gives things away is no merchant. Last week the walker came back with this purse. I haven't opened it.",
+   "endings": [
+    {
+     "id": "take_payment",
+     "label": "Take the payment",
+     "text": "*opens the purse at last: emeralds, more than the cloth was worth* A trade's a trade. Let them pay. It lets them keep their pride, and walkers need their pride, they carry everything else. *divides it neatly* Half to the Loom House, half for the next walker who comes up soaked. And a share for my fellow trader. Here.",
+     "memory": "You told {name} to accept the walker's payment for the cloth: a trade's a trade."
+    },
+    {
+     "id": "refuse_payment",
+     "label": "Keep it a gift",
+     "text": "*sets the purse back on the shelf* A gift stays a gift. Next time that walker comes up, they get their purse back with a basket of peaches on top, and I'll tell them the cloth was never for sale. *a grand sniff* Then I'll tell them I drive a very hard bargain. Here. Something for the walker who made me say it out loud.",
+     "memory": "You told {name} to give the walker's purse back: the cloth was a gift and stays one."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:emerald",
+    "count": 8
+   }
+  },
+  {
+   "id": "four_winds_market",
+   "title": "The Market of Four Winds",
+   "jobs": [
+    "skymerchant"
+   ],
+   "intro": "*polishing the pavilion's best shelf, which is empty* Every year when the whales come through, the merchants of the near skies meet on a wild islet and show off the strangest walker-goods they've found. There's a prize for the best. I've lost nine years running. *polishes harder* To the same merchant. Every time. This year I want something marvellous, and you're the marvel-finder.",
+   "requests": [
+    {
+     "id": "clock",
+     "title": "A sun in a box",
+     "item": "minecraft:clock",
+     "count": 1,
+     "prompt": "I've heard walkers carry the sun about in a little gold box, so they always know where it is. Can that be true? Bring me one. If it's true, nobody at the market will have seen one.",
+     "thanks": "*holds it to one ear, then the other, then shakes it* It's turning! The little sun's going down in there, just like the real one. Oh, walker. I'm going to be insufferable."
+    },
+    {
+     "id": "compass",
+     "title": "A needle that knows",
+     "item": "minecraft:compass",
+     "count": 1,
+     "prompt": "Second marvel: walkers have a needle that always knows its way, they say, even in cloud. I could use that. I've lost my way more than once. Bring me a compass?",
+     "thanks": "*turns round and round in the air, and the needle doesn't budge* Stubborn little thing. Points one way no matter what you do. *a crooked smile* I know someone like that."
+    },
+    {
+     "id": "painting",
+     "title": "A picture of the ground",
+     "item": "minecraft:painting",
+     "count": 1,
+     "prompt": "Third marvel, and the best: a picture. Walkers paint the ground and hang it on walls, so they can look at the ground even indoors, as if they didn't see enough of it. Bring me one?",
+     "thanks": "*holds it at arm's length, then very close, then upside down* Is this the ground? Is it always like this? It's very busy. *laughing* Nobody at the market will know what to say. Perfect."
+    }
+   ],
+   "waiting": "*keeps setting the clock on the best shelf and moving it an inch* Hm? Oh, it's perfect. It's only that the market isn't really about the prize. Not all of it. Come back a few more days and I'll tell you who I keep losing to.",
+   "ready": "*takes the clock down and holds it in both hands* The whales will be through soon. Before they are, I'd like you to know who's waiting on that islet. Hover. Sorry, stand. Whatever walkers do. Listen.",
+   "confide": "I lose to my twin. Ammerel. We grew up in the same nest, both wanting to be {village}'s merchant, and when the elders chose me, Ammerel flew off to another village and said some things, and I said worse. Twenty years ago. Now we meet once a year at the market and trade marvels and insults and nothing else. *very quietly* If I ever win, I'm afraid we'll have nothing left to say.",
+   "endings": [
+    {
+     "id": "win_it",
+     "label": "Win it this year",
+     "text": "*sets the three marvels in a row* No. I'm going to win. And when I've won, I'll hover in front of Ammerel with nothing left to trade and nothing left to throw, and say what I didn't say twenty years ago. *gulps* Winning first helps. Here. A flute, one of my own. You found the marvels; have one of yours.",
+     "memory": "You told {name} to win the Market of Four Winds at last, then say what they never said."
+    },
+    {
+     "id": "give_it",
+     "label": "Give the clock to your twin",
+     "text": "*looks at the clock a long while* No contest. No prize. I'll fly over before the showing starts, put it in Ammerel's hands and say: it's a sun in a box, and I missed you. *a shaky laugh* They'll be insufferable. Good. Here. A flute, one of my own. You found the marvels; have one of yours.",
+     "memory": "You told {name} to give the clock to their twin Ammerel, with no contest at all."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:windsong_flute",
+    "count": 1
+   }
+  },
+  {
+   "id": "long_way_down",
+   "title": "The Long Way Down",
+   "jobs": [
+    "windkeeper"
+   ],
+   "intro": "*hovering at the very edge of the Lift Dock, not looking over it* Seventeen years I've kept the Wind Stone. I know its wind by the hum. I know when it's tired. I've greeted every walker it brought me. *eyes fixed on the horizon* And I've never once had a proper look at it. Isn't that silly? It's down there. Somewhere. A grey speck.",
+   "requests": [
+    {
+     "id": "spyglass",
+     "title": "A walker's long-eye",
+     "item": "minecraft:spyglass",
+     "count": 1,
+     "prompt": "Walkers have a long-eye, the merchants say: a tube that brings far things near. A spyglass. Bring me one, and I'll look down at my own stone like a proper windkeeper. From up here. Up here is fine.",
+     "thanks": "*puts it to one eye upside down, turns it, then goes completely still* There it is. There it is! It has moss on it. Nobody ever told me it had moss. *lowers it, a little pale* That's a long way. Thank you."
+    },
+    {
+     "id": "chimes",
+     "title": "Chimes for the shaft",
+     "item": "skyfriends:wind_chime",
+     "count": 2,
+     "prompt": "I want chimes at the top of the shaft, one each side, so walkers riding up hear them and know they're nearly here. The Market Pavilion sells them. I'd fetch them myself, but the dock doesn't keep itself.",
+     "thanks": "*hangs them either side, and the wind from below sets them going at once* Listen. That's the stone talking. It's been talking all along, and nobody gave it anything to say it with."
+    },
+    {
+     "id": "lead",
+     "title": "A walker's rope",
+     "item": "minecraft:lead",
+     "count": 1,
+     "prompt": "Walkers who climb high places tie a rope about their middles, I've heard, so if they slip, something holds. Is that true? Bring me one of those ropes. A lead? I'd like to see how it's done. Only to see.",
+     "thanks": "*ties one end to the dock post and the other round their own middle, and hovers there, tethered, testing it* Oh. That's clever. Something holds. *doesn't untie it for quite a while*"
+    }
+   ],
+   "waiting": "*glances at the shaft, then quickly at anything else* The spyglass is wonderful. I look every morning. Mostly. There's more to it, and it's not a thing I've told anyone. Give me a few days, {player}. Talk to me about anything else.",
+   "ready": "*hovers with their back to the shaft, the way you've noticed they always do* All right. You've been kind and you haven't asked, and that makes it worse. Come here. Not near the edge. Here.",
+   "confide": "When a windkeeper is named, they fly down the shaft, all the way, to a breath above the Wind Stone, and bless it with their own hand. Every windkeeper since the Courtesy. I got halfway. Halfway, {player}, with the clouds above me and the ground coming up green and huge, and I froze, and fled back up. I told the elders I'd done it. Seventeen years keeping a stone I've never been near.",
+   "endings": [
+    {
+     "id": "go_down",
+     "label": "Go down, tied to the dock",
+     "text": "*checks the knot twice, then a third time* Tomorrow at dawn, then. A long cord tied to the dock post, all the way down, and you waiting at the bottom so there's a face I know. I'll put my hand on that mossy stone and bless it, seventeen years late. *a wobbly laugh* If I faint, catch me. Here. This scale's been tucked in my sash for courage. I think I have enough now.",
+     "memory": "You told {name} to make the windkeeper's descent at last, tied to the dock, with you waiting below."
+    },
+    {
+     "id": "tell_elders",
+     "label": "Tell the elders the truth",
+     "text": "*a long breath out* The truth, then. To the elders, at the Evensong. And then I'll say: I've kept that stone every day from up here, and every walker has come up its wind safe. Maybe that's its own blessing. *touches the spyglass* I can look at it now. That's closer than I've ever been. Here. A scale, for courage. I'll need less of it now.",
+     "memory": "You told {name} to tell the elders they never made the descent, and keep the stone from above."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:sky_scale",
+    "count": 1
+   }
+  },
+  {
+   "id": "tall_guest",
+   "title": "The Tall Guest",
+   "jobs": [
+    "windkeeper"
+   ],
+   "intro": "*shooing a little crowd of children off the dock* Off you go! No, {player} doesn't know any more stories than I do! *they flit away, giggling* Sorry. They've decided you're someone. Never mind that. I'm making the dock more welcoming for walkers, properly this time. What do walkers eat, exactly?",
+   "requests": [
+    {
+     "id": "potatoes",
+     "title": "A walker's welcome basket",
+     "item": "minecraft:baked_potato",
+     "count": 8,
+     "prompt": "I keep a basket of sky peaches at the dock for guests, and they go soft waiting. Walkers eat something called a baked potato, I'm told. It sounds very heavy. Bring me eight, and I'll fill the basket properly.",
+     "thanks": "*sniffs one, very carefully* It's warm. Why is it warm? Did you cook it? With fire? *holds it at a polite distance* Walkers are so brave. Into the basket. The next guest will feel right at home."
+    },
+    {
+     "id": "guest_book",
+     "title": "A book for guests",
+     "item": "minecraft:writable_book",
+     "count": 1,
+     "prompt": "I'd like a book at the dock where walkers can leave their marks, so I remember every one. A walker book with empty pages and a feather to write with. You have those, I think?",
+     "thanks": "*opens it and stares at all the empty pages* So much room. *holds it out to you* You first. Any mark you like. *watches you write, delighted* Number one. Not counting the... well. Number one."
+    },
+    {
+     "id": "boots",
+     "title": "A pair of walker boots",
+     "item": "minecraft:leather_boots",
+     "count": 1,
+     "prompt": "Odd request. The children are sure every walker owns a pair of boots for each mood, and I said I'd find out. Bring me one pair of walker boots, so I can show them what boots actually look like?",
+     "thanks": "*holds them up by the laces, horrified and fascinated* You put your feet IN these? Both of them? All day? *sets them on the dock very gently* The children are going to squeal the bell down."
+    }
+   ],
+   "waiting": "*the children are back, peeking round the dock post at you and whispering* Shoo! *to you* There's a reason they stare. It's my fault, and it's a long story. Not today. Come back a few more days, {player}, and I'll own up.",
+   "ready": "*the children have gone to the Evensong at last; the dock is quiet* Right. While they're out of earshot. You've been very patient about being stared at. Here's why.",
+   "confide": "Before you, no walker rode my wind for eleven years. Eleven years of greeting an empty shaft every dawn. The children started asking if walkers were real. So I made one up. The Tall Guest, who came up the wind every summer with boots and a basket and stories of the ground. A new adventure every week. *hides behind a veil* And then you came up. They think you're the Tall Guest, come back.",
+   "endings": [
+    {
+     "id": "tell_truth",
+     "label": "Tell them the truth",
+     "text": "*nods slowly* The truth. Tomorrow, on the dock, all of them. There was never a Tall Guest. There was a windkeeper who kept the Courtesy alive with stories, and then a real walker came, which is better. *a sheepish smile* They'll be cross for a day. Then they'll ask you a hundred questions. Here, for being so patient.",
+     "memory": "You told {name} to tell the children the Tall Guest was made up, and you're real, which is better."
+    },
+    {
+     "id": "be_the_guest",
+     "label": "Let me be the Tall Guest",
+     "text": "*stares, then laughs so hard a veil comes untucked* You'd do that? Then you'll need your stories. Come by the dock and I'll tell you all the adventures you've had. You frightened off a night-moth with a sneeze once. You were very brave about it. Here, Tall Guest. Every legend needs a golden apple.",
+     "memory": "You agreed to be the Tall Guest of {name}'s stories, come back at last."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:golden_apple",
+    "count": 1
+   }
+  },
+  {
+   "id": "warm_ground",
+   "title": "The Warm Ground",
+   "jobs": [],
+   "intro": "*looking down past the rim, where the clouds part and something green shows* Do you ever forget it's down there? I never do. When I was young, I flew below the clouds on a dare, so low the grass tips brushed my toes. *tucks their feet up under them* Everyone's heard that story. I'd like to hold some of the ground, {player}. Just once. Is that strange?",
+   "requests": [
+    {
+     "id": "dirt",
+     "title": "A handful of ground",
+     "item": "minecraft:dirt",
+     "count": 1,
+     "prompt": "Nothing special. Plain dirt. One block of it, the ordinary kind walkers stand on all day without a thought. Bring it to me, please. I'll be careful with it.",
+     "thanks": "*takes it in both arms, braced, as if it might pull them down* Heavy. And warm! Why is it warm? It smells of rain that already happened. *holds it close* Oh. It's just like... *stops* Thank you."
+    },
+    {
+     "id": "sand",
+     "title": "Another kind of ground",
+     "item": "minecraft:sand",
+     "count": 4,
+     "prompt": "Is all of the ground the same? It can't be. Walkers say there's a gold ground by the water that's all little grains. Sand? Four blocks, please. I'm curious.",
+     "thanks": "*pours a handful from palm to palm, and it slides away* It runs! The ground runs! Nobody told me the ground could run. *laughs, chasing a trickle through the air* What else does it do? No, don't tell me."
+    },
+    {
+     "id": "pot",
+     "title": "A walker's pot",
+     "item": "minecraft:flower_pot",
+     "count": 1,
+     "prompt": "Walkers keep a bit of ground in a pot, I'm told, and grow a flower in it on the sill. A little garden that doesn't go anywhere. Bring me a flower pot? I don't know what I'll do with it yet.",
+     "thanks": "*turns the pot in the air, peering inside* So small. A whole meadow's worth of wanting could fit in here. *sets it beside the dirt on the sill, and looks at them both a long time*"
+    }
+   ],
+   "waiting": "*keeps the block of dirt on the nest sill and touches it now and then, when nobody's looking* Hm? Oh, I'm high, very high. There's a little more to my dare than the story everyone knows. Come and talk a few more days, {player}.",
+   "ready": "*lifts the block of dirt into their lap and cradles it* Everyone in {village} knows I flew low on a dare. Nobody knows how it ended. You brought me the ground. You can have the ending.",
+   "confide": "I didn't almost touch it. I touched it. One toe, in a meadow full of yellow flowers, for as long as it takes to breathe in. It was warm, {player}. Warm and soft, and it didn't want anything from me. Then I shot back up so fast I tore a veil, and I've said 'almost' for thirty years. Grounded. The saddest word we have. And it was the loveliest breath of my life.",
+   "endings": [
+    {
+     "id": "keep_it",
+     "label": "Keep a little ground",
+     "text": "*fills the pot with the warm dirt, pressing it down with one finger* There. A little ground in the sky. I'll plant something yellow in it, like that meadow, and keep it on my sill where I can touch it every morning. *smiles* It's mine. It doesn't have to be anyone else's. Here. Sky peaches, from someone who knows what the ground feels like.",
+     "memory": "You told {name} to keep a pot of ground on their sill and grow something yellow in it."
+    },
+    {
+     "id": "give_back",
+     "label": "Give it back to the ground",
+     "text": "*holds the dirt a while longer, then nods* Back it goes. The ground lent me one warm breath, and that was enough. At dawn I'll drop it from the rim and watch it fall home. *lighter already* I'll still know what it feels like. That doesn't fall. Here. Sky peaches. They grew up here, like me.",
+     "memory": "You told {name} to give the ground back, dropped from the rim at dawn."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:sky_peach",
+    "count": 6
+   }
+  },
+  {
+   "id": "blue_door",
+   "title": "The Barn With the Blue Door",
+   "jobs": [],
+   "intro": "*breaks a sky peach in two, offers you half, and stares at the other* Do walkers' houses still have blue doors? There was one, once. Far below, by a field of gold grass. I was blown down to it in a storm when I was small, and a walker took me in. I've never told the whole of it. I'd like to taste walker food again. Would you help me?",
+   "requests": [
+    {
+     "id": "bread",
+     "title": "Walker bread",
+     "item": "minecraft:bread",
+     "count": 2,
+     "prompt": "The walker gave me bread. I'd never eaten anything that had been near a fire. It was heavy and warm and I thought I'd sink. Bring me two loaves, {player}? I want to know if I remember it right.",
+     "thanks": "*takes a very small bite, eyes closed* Oh. Yes. Exactly that. Heavy as a promise. *wraps the second loaf in a scrap of veilcloth* That one's for keeping. I know it won't keep. I'm keeping it anyway."
+    },
+    {
+     "id": "hay",
+     "title": "A bale of gold grass",
+     "item": "minecraft:hay_block",
+     "count": 1,
+     "prompt": "I slept over a bale of gold grass for three nights in that barn. Walkers stack it for their animals. Bring me one bale? I'd like it under my nest cushion, for the smell.",
+     "thanks": "*buries their face in it and breathes* That's it. That's the barn. Dust and sun and something chewing nearby. *sneezes, laughing* Oh, it gets up your nose. I'd forgotten that part."
+    },
+    {
+     "id": "cornflowers",
+     "title": "Blue flowers by the door",
+     "item": "minecraft:cornflower",
+     "count": 4,
+     "prompt": "There were blue flowers all along the barn wall, as blue as the door. To show the bees the way, the walker said. Four of them, {player}? I want something that blue in my nest.",
+     "thanks": "*holds them up against the sky, almost the same blue* Almost. The door was bluer. *tucks them in beside the hay* There. My nest smells like a barn and looks like a door. {village} will think I've gone strange."
+    }
+   ],
+   "waiting": "*nibbling the last crust and looking down through the clouds toward somewhere* I keep trying to work out which way the barn was. Borre was blowing; I was spinning. There's more, {player}. A promise in it. Come back a few more days.",
+   "ready": "*holds the second loaf, gone hard as skystone* It's gone stale. I knew it would. Funny, that's what did it. Stay with me a while, {player}. I'll tell you about Hessop.",
+   "confide": "Hessop was old, walked with a stick and talked to the cows. My veil was torn in three places. For three days I slept over a hay bale in the barn and never once touched the floor, and Hessop thought that was the funniest thing in the world. When I was mended, Hessop said: come back when you're grown and tell me what the top of the clouds looks like. I never went. Hessop must be long gone up past the blue.",
+   "endings": [
+    {
+     "id": "send_word",
+     "label": "Send a gift down",
+     "text": "*wraps the stale loaf, a peach and a length of veilcloth together* Then take this down the Wind Stone for me, next time, to whoever lives behind a blue door now. Tell them the top of the clouds is gold at dawn and rose at dusk and sounds like singing. Somebody should get the answer. Here. Hessop gave me this flat black stone. Walkers say it sings if you spin it. I never could.",
+     "memory": "You agreed to carry {name}'s answer down to whoever lives behind the blue door now."
+    },
+    {
+     "id": "pay_forward",
+     "label": "Do for others what Hessop did",
+     "text": "*nods slowly* Hessop didn't want thanks. Hessop wanted a lost thing mended and sent home. So the next walker who comes up soaked or lost or frightened, I'll be at the dock with a peach and a cushion and all the time in the sky. That's my answer. Here. Hessop gave me this flat black stone. Walkers say it sings if you spin it. I never could.",
+     "memory": "You told {name} to repay Hessop by welcoming every lost walker who comes up the wind."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:music_disc_far",
+    "count": 1
+   }
+  },
+  {
+   "id": "whale_tree",
+   "title": "The Tree on the Whale's Back",
+   "jobs": [],
+   "intro": "*shading their eyes toward the horizon* Have you seen the Old Singer with the tree on its back? Every year it passes {village}, slow as a dream, and on the little cloud riding its back there's a skywood tree. A whole tree, {player}! In leaf! *a breath* It's grown big. Too big. The whale swims lower every year. I'd like to help it.",
+   "requests": [
+    {
+     "id": "shears",
+     "title": "Shears for a whale",
+     "item": "minecraft:shears",
+     "count": 1,
+     "prompt": "The gardeners won't lend me theirs. They say trimming a whale is no business of a gardener's, and they're right. It's mine. Bring me a pair of walker shears? I'll be gentle.",
+     "thanks": "*snips the air, testing, and a wisp of cloud falls in two* Sharp. Good. *holds them close* When it comes by, I'll fly out and sing beside it first. You don't cut an Old Singer's garden without asking."
+    },
+    {
+     "id": "bone_meal",
+     "title": "Help for the cuttings",
+     "item": "minecraft:bone_meal",
+     "count": 8,
+     "prompt": "If I trim it, I'll bring the cuttings home, and they'll need help taking root in the Cloud Garden. The gardeners swear by walker bone-dust, grim as it is. Eight handfuls, please?",
+     "thanks": "*sniffs it and wrinkles their nose* Grim. Very grim. The gardeners are right about everything and it's maddening. *sets it aside for the cuttings* Thank you, walker."
+    },
+    {
+     "id": "honeycomb",
+     "title": "Wax for the cuts",
+     "item": "minecraft:honeycomb",
+     "count": 3,
+     "prompt": "The gardeners seal every cut branch with wax, so the tree doesn't bleed sap into the wind. Walker bees make the best wax, they say. Three honeycombs? I won't hurt it more than I must.",
+     "thanks": "*breaks off a corner and rolls it warm between their palms* Soft as a ripe peach. It'll seal clean. *quietly* Every cut sealed. It's carried that tree all these years without a word."
+    }
+   ],
+   "waiting": "*watching the horizon every morning, shears tucked in their sash* No whale yet. It always comes when Sefa turns warm. There's more to that tree, {player}, and it's mine to tell. Come back a few more days.",
+   "ready": "*a deep, slow song rolls up from far off; they turn toward it, then back to you* It's coming. Before it gets here, there's something you should know about that tree.",
+   "confide": "I planted it. I was very small, my nest-elder had just gone up past the blue, and everyone said the departed rise beyond the whales. So I flew out to the first Old Singer I saw and pushed a skywood sapling into the cloud on its back, so my nest-elder would have a tree to rest in on the way up. Forty years. It's grown so big the whale's sinking under it. My grief is sinking a whale, {player}.",
+   "endings": [
+    {
+     "id": "bring_home",
+     "label": "Bring the tree home",
+     "text": "*when the whale passes, they fly out, sing beside it a long while, and come back with the whole tree in their arms, staggering* There. Home. It'll grow by the koi pool, where I can rest under it. My nest-elder never needed a tree to climb, {player}. I needed one to let go of. Here, cuttings from it. Plant them somewhere they can stay.",
+     "memory": "You told {name} to bring the tree home from the whale's back and plant it by the koi pool."
+    },
+    {
+     "id": "trim_it",
+     "label": "Trim it, let it ride",
+     "text": "*when the whale passes, they fly out, sing to it, and spend a whole afternoon snipping* Small enough now. It rose a whole bridge-length the moment I finished. *watching it go* The tree stays with the Old Singer. Small, light, and going somewhere. Grief doesn't have to be heavy to stay. Here, the cuttings. Plant them where you'll see them.",
+     "memory": "You told {name} to trim the whale's tree small and let it keep riding the Old Singer."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:skywood_sapling",
+    "count": 3
+   }
+  },
+  {
+   "id": "dawn_song",
+   "title": "The Dawn-Song",
+   "jobs": [],
+   "intro": "*humming something at dawn, alone, while the rest of {village} is still asleep* Oh! {player}. You caught me. *smooths their veils* I wasn't born here, you know. I came from a village far in the west, nine days on Vell's back. Some mornings I miss it so much my veils go limp. I'd like a taste of home, if a walker could find one.",
+   "requests": [
+    {
+     "id": "melon",
+     "title": "A taste of the west",
+     "item": "minecraft:melon_slice",
+     "count": 8,
+     "prompt": "At home our islands grew melons right in the clouds. Here it's peaches, peaches, peaches, and I love them, truly. But bring me eight slices of melon? I want to taste the west.",
+     "thanks": "*bites into one and shuts their eyes* Oh, that's it. Pink and cold, and the juice runs down your wrist. *wipes it on a veil-tip, unashamed* Don't tell the gardeners about the face I just made."
+    },
+    {
+     "id": "honey",
+     "title": "Western breakfast",
+     "item": "minecraft:honey_bottle",
+     "count": 2,
+     "prompt": "At home we drizzled honey on the melon, first thing in the morning. Walker bees put their honey in bottles, I'm told, which is very tidy of them. Two bottles, please?",
+     "thanks": "*drizzles it over a slice and eats it in two bites, licking a thumb* Now that's breakfast. That's a western breakfast. I'll be humming all day."
+    },
+    {
+     "id": "petals",
+     "title": "Petals for the hair",
+     "item": "minecraft:pink_petals",
+     "count": 8,
+     "prompt": "In the west, everyone wore petals in their hair on high days. Pink ones. I've no idea where you'd find such things down there, but walkers find everything. Eight handfuls?",
+     "thanks": "*tucks a handful into their hair, then another, until they're more petal than Cirri* Well? Do I look like I'm from somewhere? *turns slowly* I feel like I'm from somewhere."
+    }
+   ],
+   "waiting": "*humming at dawn, a little louder each day* Hm? Oh, nothing. A tune from home. There's more to the west than melons, {player}, and I'm not sure I'm ready to say it. Come and talk a few more days.",
+   "ready": "*finishes the tune and lets it hang in the air* You've heard me singing at dawn. You're the only one awake enough to notice. Stay a light breeze, and I'll tell you what it is.",
+   "confide": "At home we sing the Evensong, like everyone. But we also sing the dawn up: the whole village, every morning, before Aure is even awake. Here nobody does. I've sung it alone for fourteen years. *quieter* Last month a whale-rider brought word. My parents are getting old, and they asked if I'll come home for a season. I'm afraid if I go, I won't want to come back. And if I stay, I'll sing alone for ever.",
+   "endings": [
+    {
+     "id": "teach_here",
+     "label": "Teach the dawn-song here",
+     "text": "*the petals tremble* Teach it here. Of course. Start with the children; they're up early anyway, and they'll sing anything. A little dawn-song for {village}, and I won't be singing alone. *suddenly shy* I'll send word home, so my parents know it's sung here too. Here. A chime from the west. It's tuned to dawn.",
+     "memory": "You told {name} to teach the dawn-song in {village}, starting with the children."
+    },
+    {
+     "id": "go_home",
+     "label": "Fly home for a season",
+     "text": "*a long breath* Go home. For a season. Sing the dawn up with the ones who taught me, and sit with my parents while there's time. And if I don't want to come back... *a small laugh* I'll come anyway, because I'll miss these peaches. Here. A chime from the west. Hang it, and fair wind till I'm home.",
+     "memory": "You told {name} to fly home west for a season, while their parents are still there."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:wind_chime",
+    "count": 1
+   }
+  },
+  {
+   "id": "nest_cushion",
+   "title": "The Cushion Never Given",
+   "jobs": [],
+   "intro": "*hovering with something soft and old in their lap: a cushion, rose at the edges, flattened with years* This? It's nothing. *it is clearly not nothing* In {village}, when you ask someone to share your nest, you weave them a cushion first. I wove this one when I was young. It's gone flat as a still day. I'd like to make it soft again.",
+   "requests": [
+    {
+     "id": "feathers",
+     "title": "Something soft",
+     "item": "minecraft:feather",
+     "count": 16,
+     "prompt": "The cloud I filled it with has gone tired. Walker birds shed the softest things; I've felt them at the market. Sixteen feathers, and I'll fill it up the way it was.",
+     "thanks": "*works the feathers in, one by one, and the cushion slowly rises* There. As soft as the day I finished it. *pats it, and then doesn't let go* Thank you, {player}. It looks ready. As if that matters."
+    },
+    {
+     "id": "lilac",
+     "title": "A sweet scent",
+     "item": "minecraft:lilac",
+     "count": 2,
+     "prompt": "A nest-cushion should smell sweet. I tucked peach blossom in the seams once, but that's long gone. Walker lilac, the tall purple flower, smells of evening, they say. Two, please?",
+     "thanks": "*breathes it in and laughs softly* It does smell of evening. Of Vell, almost, when the song carries. *tucks a sprig into each seam* There. Sweet again."
+    },
+    {
+     "id": "pink_dye",
+     "title": "Rose for the edges",
+     "item": "minecraft:pink_dye",
+     "count": 2,
+     "prompt": "The rose edge has faded to grey. I'd like the colour back. Walkers make dyes out of flowers, I'm told. Two of pink?",
+     "thanks": "*paints the faded edge with a fingertip, slowly, all the way round* There's the rose. Exactly as it was. *holds it out at arm's length* It's a good cushion. I was a good weaver, even then."
+    }
+   ],
+   "waiting": "*the cushion sits plump on their nest, and they straighten it whenever they pass* No, I'm not giving it to anyone. Don't look at me like that. There's a story in it, but it's an old, soft one. Come back a few more days.",
+   "ready": "*holds the cushion up so the rose edge catches the light* You've been very good not to ask who it was for. Anyone else would have. I suppose that's why I'll tell you.",
+   "confide": "Someone in {village}. I won't say who; don't guess. We were young, and I spent a whole winter weaving this, and on the morning I meant to give it, I saw them laughing with someone else over the koi pool, and I knew. They've shared a nest with that someone ever since, three islets over, happily. I've kept this forty years and never said a word. I'm glad they're happy. Truly. I only wish I'd said it.",
+   "endings": [
+    {
+     "id": "give_young",
+     "label": "Give it to someone brave",
+     "text": "*nods* There's a young one by the Loom House who looks at someone the way I used to. Trembles every time they pass. I'll give them this and say: weave your own, but take this for courage, and say it. Out loud. *a soft laugh* Let it do its job at last. Here. A little veilcloth. Every nest needs some.",
+     "memory": "You told {name} to give the old cushion to a shy young Cirri, for the courage to speak."
+    },
+    {
+     "id": "into_veil",
+     "label": "Weave it into your veil",
+     "text": "*picks a thread loose from the seam, then another* I'll unpick it, and the weavers can weave the cloud into the tips of my veils. Then it flies with me. It was never wasted, {player}. I loved someone well and quietly, and they're happy. That's not nothing. Here. A little veilcloth. Every nest needs some.",
+     "memory": "You told {name} to weave the old cushion's cloud into their veils, so it flies with them."
+    }
+   ],
+   "gift": {
+    "item": "skyfriends:rose_veilcloth",
+    "count": 3
+   }
+  },
+  {
+   "id": "last_bell",
+   "title": "The Last Bell of Orrowmere",
+   "jobs": [],
+   "intro": "*hovering at the rim, looking a long way off* We Cirri keep our faces, walker. We wear our years in our veils, and mine are thin as breath. Do you know the Ruined Belltowers? Broken islands, bells fallen in. One was my first home. Orrowmere. I'm the last who heard its bell. I'd like to hear one like it again before I go up past the blue.",
+   "requests": [
+    {
+     "id": "bell",
+     "title": "A bell from below",
+     "item": "minecraft:bell",
+     "count": 1,
+     "prompt": "Orrowmere's bell was iron, from the bell-villages below, like yours. We had no business with iron in the sky. But I'd like to hear that sound once more. Bring me a walker bell, {player}?",
+     "thanks": "*rings it once, very gently, and the note rolls out over the clouds; their eyes stay shut until it's gone* Yes. That's it. Heavier than ours. Sadder. Exactly right. Thank you, walker."
+    },
+    {
+     "id": "membrane",
+     "title": "Mending for a long flight",
+     "item": "minecraft:phantom_membrane",
+     "count": 2,
+     "prompt": "My veils are thin as breath. The weavers say they'll mend them for one more long flight, if I bring night-moth membrane. Nasty things, night-moths. Two pieces? Walkers are braver at night than we are.",
+     "thanks": "*smooths the membrane flat, feeling its weight* That will hold. For a while longer, anyway. Long enough. *a crooked smile* Don't look so sad. I said long enough, not too long."
+    },
+    {
+     "id": "lilies",
+     "title": "Flowers for the ruin",
+     "item": "minecraft:lily_of_the_valley",
+     "count": 3,
+     "prompt": "Little white bells that grow on the ground, I'm told. Lily of the valley. Orrowmere was all bells; it seems right. Three, please. One for each of my parents, and one for the island.",
+     "thanks": "*holds them up and shakes one gently, listening* No sound. Silent bells. *a soft laugh* That's the right kind for where they're going. Thank you."
+    }
+   ],
+   "waiting": "*rings the bell softly at odd hours and listens to the note go* The young ones think I've gone strange. Let them. There's a reason it matters, and it's the last long story I have. Come back a few more days, {player}.",
+   "ready": "*rests one thin hand on the bell* I've told the Orrowmere story a hundred times: the village that grew too heavy. I've never told my part. You've been patient. Come close; my voice isn't what it was.",
+   "confide": "My parent was Orrowmere's bellkeeper. When the island began to sink, a little lower every year, the elders said: take the bell down, it's too heavy. My parent wouldn't. The bell was the village's voice, they said. The night the island slipped into the clouds, we all flew. My parent stayed in the tower, ringing. I was nine summers old. I heard it ring all the way down.",
+   "endings": [
+    {
+     "id": "ring_at_ruin",
+     "label": "Ring it at the ruin",
+     "text": "*sets a thin hand on the bell* Then we'll go to Orrowmere one last time, you with the bell, me with the lilies. We'll hang it on what's left of the tower and I'll ring it once, for a bellkeeper who couldn't let go. And we'll leave it there for the next one who finds the ruin. Here. A crystal from Orrowmere's tower. It still rings when the wind touches it.",
+     "memory": "You told {name} to hang the bell at the ruin of Orrowmere and ring it once for their parent."
+    },
+    {
+     "id": "ring_at_evensong",
+     "label": "Ring it at the Evensong",
+     "text": "*looks toward the Veil Court* No more flights to sunken places. I'll ring it here, once, at the Evensong, and tell the young ones what it is: the voice of a village that held on too tight. Then you'll carry it back down to the ground, where it can't sink anything. Here. A crystal from Orrowmere's tower. It still rings when the wind touches it.",
+     "memory": "You told {name} to ring the bell once at the Evensong and tell the young ones about Orrowmere."
+    }
+   ],
+   "gift": {
+    "item": "minecraft:amethyst_cluster",
+    "count": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+# "What do you think of the ground?": the Cirri have never touched it. Wonder, pity, curiosity, fear and
+# a good deal of gossip about the bell-villages far below.
+# Shared lore (see the header of sky.txt): the Haywalker, the Courtesy, Tattle and the other lesser breezes.
+# Ground words used here: "night-walkers" (zombies, skeletons, spiders), "the big grey walker" (an iron golem),
+# "the pull" (what walkers call gravity), "the ribbons" (what bell-villagers are said to call the Cirri).
+
+## ground.general
+Is it true you can't leave the ground at all? Not even a little, when you're very happy? That seems unfair. Happiness ought to count for something.
+Stairs! I've seen them in our guest rooms. A little hill you keep indoors so you can climb it every day. Why would anyone want that?
+A guest showed me how a chair works. I watched very closely. I still don't see what the legs are for, if the chair isn't going anywhere.
+The ground pulls on you all the time, they say. Every moment, every step. Doesn't it ache? I'd be so tired.
+Fire, under food, on purpose! I asked a guest why, and they said it tastes better. Better than what? Better than not being on fire?
+Swimming is lying down in water and paddling until you get somewhere. I've watched it from above. It looks like flying, only wetter and more worried.
+Mud is ground that's been rained on and decided to keep your feet. A guest told me that, and I've never stopped thinking about it.
+Do you think about your feet? You must. Every moment, one of them is touching the world. I'd think of nothing else.
+Running! Both feet off the ground for a heartbeat, then down, then up again. It's flying in very small pieces. I think it's terribly brave.
+When a walker falls over, does the ground say sorry? It ought to. It pulled.
+A guest said beds are for lying flat on. I'd assumed the blankets were there to stop you floating off in the night. Apparently not. Then what are they for?
+We look down at your world all day and you look up at ours. I think we both get the better view.
+Guests always grip the bridge rail and stare at the clouds the first time. We don't mind. Hold on as long as you like, walker. The rail's there for you.
+I used to pity walkers. Then I watched one plant a whole field of wheat and come back a season later to find it gold. We can't do that.
+Bread, I'm told, is seeds crushed and wetted and put in a fire, and it comes out soft? That's practically weaving.
+Why do walker houses all have roofs? Is that so the sky can't fall in, or so the sky can't see you?
+A guest once left footprints across the Veil Court in the dew. Nobody wanted to sweep them away. We watched them dry for an hour.
+How do you know where you are without the winds to tell you? Do you count your steps? Do you ask the trees?
+Is the ground warm? It looks warm in the afternoon, all gold and green. At night it looks cold. I imagine it's like a cushion someone has just left.
+I'd love to know what grass feels like. We fly over it on the islands, but that's not the same. Is it soft? Does it tickle?
+Walkers climb mountains to get a little nearer the sky. We watch you doing it, tiny and determined, and cheer. You can't hear us. We cheer anyway.
+Grounded is the saddest word we have, and yet you're grounded every day and seem perfectly cheerful about it. How do you manage?
+Most walkers dream of flying, a guest told me. Here's a secret: some nights, I dream of walking. It's always very slow and very loud.
+Everything you own, you have to carry, because if you set it down the ground keeps it. That must make you very careful about what you own.
+Boots, to keep your feet safe from the ground! So the ground isn't entirely kind, then. I've always wondered.
+You cross water in a little wooden house that floats? A boat! A nest for the sea. Walkers are cleverer than we give you credit for.
+Walkers walk until they're tired, then sit down, which is walking stopped. Then they get up and walk again. It seems like a great many decisions.
+What does the ground smell like? After rain a little of it reaches us: earthy and green and somehow brown. I think I'd like it.
+A guest fell asleep on our bridge once, flat on their back, snoring at the stars. The children gathered round to watch. They'd never seen anyone hold so still.
+Walkers are always touching something: a floor, a wall, a rail, a friend's shoulder. We touch nothing all day long. Maybe that's why we hug so hard.
+Bridges, doors, stairs: we build them all for guests. It's the Courtesy. But I always want to ask: wouldn't you rather we just carried you? We'd be gentle.
+You're heavier than us, but you don't look tired. I think walkers are stronger than they know.
+Some children think walkers are glued to the ground. I let them believe it a while. Then I tell them the truth: walkers just like it there.
+I watched a walker stand on a hilltop for a whole hour once, just looking up. I hope they saw me wave.
+Ladders I understand. Ladders are stairs for people in a hurry.
+I've seen old walkers lean on sticks. A stick, for leaning on the ground! As if the ground needed holding up as well.
+For us, falling is the worst thing in the world. For walkers it seems to happen most days, and you just get up again. I find that astonishing.
+What do walkers do on a still day? You don't need a wind to go anywhere. Lucky things. Or unlucky. I can't decide which.
+A guest asked me what we do when we're tired of flying. I didn't understand the question. Do you get tired of breathing?
+From up here, a walker carrying planks looks like an ant with a dream. I mean that kindly. You're always building something.
+A guest made me eat a warm apple once, warmed over a fire on purpose. It was... interesting. I had two more.
+We always hear guests before we see them: footsteps on the bridges, thump, thump, like a drum announcing you. It's very friendly.
+A guest told me the walkers below mistake us for kites. I've no idea what a kite is, but I liked the sound of it.
+If the ground pulls everything, does it pull the trees too? Is that why they hold on so tight with their roots? Poor trees. They'd fly if they could.
+Gravity, a guest called the pull. It sounds like an illness. Is it catching? Don't laugh. Is it?
+Wet feet! Walkers are always going on about wet feet. Is it like a wet veil? Ours drag and go grey. Do your feet go grey?
+Your shadow follows you everywhere on the ground, stuck to your heels. Ours lands far below on the clouds, all on its own. Yours must be good company.
+Guests who come up the Wind Stone always look down first, then up, then at us, and then the questions start. You did exactly the same, you know.
+A walker on a skywood bridge stands as if they belong to something. We belong to the wind; you belong to the ground. Just different kinds of belonging.
+You've got ground on your feet. Where's it from? I always ask. Mud on a walker means they've been somewhere interesting.
+Do you have a favourite patch of ground, {player}? You must. You spend your whole lives on it. I'd love to hear about yours.
+You eat sitting down at a table, everyone round it at once? Like the Evensong, but for food? That I'd like to see.
+A walker child once drew squares on our court and hopped through them. Our children tried it in the air. Nobody could agree whose turn it was.
+I think the ground is shy. It lies under everything without a word, holding us all up. Somebody ought to talk to it.
+Walkers dig deep for shiny stones and then wear them. Doesn't that make you heavier? We'd sooner wear a Sky Scale. It weighs less than a thought.
+They say walkers sleep a whole night without moving and wake up exactly where they lay down. No drifting at all! I'd find that unnerving.
+One day of walking: that's what I'd ask for, if I could ask for anything. I'd spend it going up a hill, to find out whether getting higher by hard work feels better than our way.
+You have a word for coming down after a jump: landing. We have that word too. We use it very differently.
+Do walkers ever look up and wish? I think you do. I've seen it from up here, that little tilt of the head. We do the same thing, looking down.
+You stand still without even trying. I've never stood still in my life. I hover, and hovering takes concentration, whatever it looks like.
+
+## ground.dreamer
+Sometimes I imagine lying on the ground and looking up at us. What would we look like? Little rose flames drifting, or ribbons someone let go of... ribbons. I like that.
+The ground is so patient. It's waited under the sky forever and never once asked to come up. I wonder if it dreams of us the way we dream of... what was I saying?
+If I ever touched the ground, I think I'd hear it. A slow hum, like a whale's, too low for walkers to notice, because they've always been standing in it.
+Down there every footstep stays. Up here every song goes. One of us is writing a very long book, and the other is... hm. Sorry. I've lost it.
+Do you think the ground looks up at night too? At the stars? It must. It's been lying on its back for ever so long.
+I once followed a walker's lantern along a road at night, all the way to a little house. The door opened and swallowed it. I made up a whole life for them. I hope they're well.
+Is it true the ground goes down further than the sky goes up? I can't hold that in my head. It slips out like a koi.
+If I could walk, I'd walk very slowly, so it would last. I'd... oh, look, a hawk. What were we... walking. Slowly. Yes.
+
+## ground.merry
+Walkers do a little hop when they're happy. A tiny hop! As if to say: look, I nearly flew! I adore it. Do one for me. Go on.
+I've invented a game called Walker. You hover very low and plod. Clump, clump, clump. The children love it. Don't be offended, you're our favourite game.
+Race you to the Garden! Oh. Right. Bridges. Off you go, then, and I'll fly very slowly so you can pretend you're winning.
+What would I do on the ground? Roll down a hill! I've watched walker children do it, squealing all the way. It's a loop with extra grass.
+When a walker trips on our bridge, we say nothing. We're too busy laughing. Kindly! Kindly laughing. Mostly kindly.
+A guest taught me a ground game where you hide and the other one finds you. Up here there's nowhere to hide. We just hover behind each other and giggle.
+The ground is a very big, very slow friend who never wants to play. I keep inviting it. It keeps lying there.
+I'd trade a whole basket of peaches for one splash in a puddle. Big splash, both feet. Then I'd fly off before anyone saw.
+
+## ground.gentle
+You've carried yourself everywhere today, haven't you? Every single step. Rest on the bridge a while. The ground will wait for you.
+I don't think the ground is cruel. It holds you up. It only holds a little too tightly, sometimes.
+When I see a walker trip far below, my veils jump before I do. I always want to fly down and catch them. Silly, from this height. I wish them soft grass instead.
+You must miss the ground while you're up here. That's all right. You can miss it with me. I miss things too.
+Down there, when you fall, you're caught straight away. Up here, falling goes on and on. Maybe the ground is the kinder of the two. Don't tell the sky I said so.
+Is there someone waiting for you down there, {player}? I hope so. Everyone should have someone who listens for their footsteps.
+I'd like to plant something on the ground one day, with your help. You'd put it in, and I'd sing to it from up here. Between us, it would grow.
+If you're ever down there alone and frightened, hum. Just a little. The wind carries it, and someone up here will be humming back.
+
+## ground.shy
+The ground? I've... never been near it. Is it nice? You don't have to say... if it isn't.
+I'd be frightened down there. So many walkers, all at the same height... all looking straight at you. Sorry. That's silly.
+I like that walkers go quiet when they look at the clouds. It makes me feel... less strange. For looking at the ground.
+Do walkers ever feel shy? You stand so firmly. I always thought standing would make a person... braver.
+Sometimes I fly low over the meadows at dawn when nobody's about. Just to look. Please don't tell anyone... if that's all right.
+I watched a walker sleep in a meadow once, from very high up. Just lying there in the flowers. It looked so safe. I don't think I've ever felt that safe. Sorry. That was a lot.
+Is it... is it true the ground is warm? Like a nest? Only, I'd always wondered.
+Walking... I think I'd want to walk behind someone. You, maybe. If you wouldn't mind.
+
+## ground.proud
+The ground? Honest, solid and entirely without ambition. Still, someone must stay down there and hold things up. We're grateful, in a lofty sort of way.
+Walkers build in stone because they can afford the weight. We build in light because we're better at it. Both fine choices. One is more beautiful.
+Not one Cirri in all our history has set foot on the ground. Not one. That isn't luck, walker. That's tradition.
+I'll grant walkers this: your bells are fine. Heavy, but fine. You'd never get one airborne, of course.
+Your fields are tidy, I'll give you that. Neat rows, very respectable. Nearly as neat as a well-woven veil. Nearly.
+When I was young, I thought walkers were simply Cirri who'd failed at something. I know better now. You're your own sort of splendid. Heavier, but splendid.
+We never had to come up from anywhere: we were always here. You came up by the Wind Stone, which is quite all right. That's precisely what the Courtesy is for.
+If {village} ever needed help from below, I'd want it to be you who came. That's the highest compliment a Cirri can pay a walker. Don't let it go to your head. Well. A little.
+
+## ground.restless
+The ground goes on and on in every direction, and walkers only see a little of it at a time. I'd go mad. I'd want to see over the next hill, and the next, and the next.
+Have you been to the far edge of the land, where the sea begins? Tell me everything. How far? How many dawns? Which way does the wind blow there?
+Every road down there is a promise to go somewhere. I've followed a few from the air just to see where they end. Most of them end in another road.
+The ground has places the sky has never seen: inside the mountains, the bottom of the sea. That's the only thing about it I envy.
+I followed a river all the way to the sea once. Three days. My veils still taste of salt when Vell blows.
+If you're going far, take me with you. Not on the ground, of course. I'll fly above you the whole way. You won't even have to talk to me.
+Walkers can stay in one place for a whole day. I tried it once. I lasted until the bell, and then I had to fly round the islets twice to recover.
+Somewhere down there is a place no Cirri has ever flown over. I'm going to find it. Then I'll find the next one.
+
+## ground.busy
+The ground? Lovely, I'm sure. Hold this. No, the other end. Walkers are wonderful at holding things still, it's the feet. Steady. Thank you.
+I haven't time to wonder about the ground, walker. There's thread to wind, two baskets to fill and a nest that won't tidy itself. Ask me again at the Evensong.
+Walkers get things done, I'll say that. Plant a field, build a wall, finished by sundown. I could use a walker on my side today, if you're offering.
+You walk everywhere? Even when you're late? I'd never get anything done. Mind you, I never get anything done anyway. Pass me that basket.
+Mud? No time for mud. Wipe your feet on the bridge, there's a good walker, and mind the lanterns, they've only just been filled.
+Ground, sky, it's all work in the end. You have your fields and we have our clouds. Speaking of which, I've left a basket of peaches on the Loom House steps. Excuse me.
+A whole night's sleep, on purpose? Walkers do that? I'd love to. I'd have to fit it in somewhere, mind. Perhaps after the next storm.
+If you're going back down, keep an eye out for a spool of gold thread, would you? I dropped one through the clouds last spring. Still looking.
+
+## ground.wise
+The ground and the sky are two halves of one thing. Walkers keep the roots, we keep the blossoms. Neither is a tree on its own.
+My elders used to say: never look down on a walker, except from a great height. It was a joke. It was also not a joke.
+The ground remembers everything and the sky remembers nothing. That's why walkers keep their grudges and we lose ours by noon. There are worse ways to be.
+An old saying: "Heavy feet, steady heart." It's a compliment, walker. The steadiest hearts are the ones that stay where they're needed.
+Being grounded doesn't always mean falling. Some Cirri ground themselves with grudges, or with gold. Heaviness is heaviness, wherever you carry it.
+The ground taught us one lesson long ago: what's heavy sinks. We listened. That's why {village} still floats.
+You can learn a great deal about walkers from above. Watch where their paths wear deepest. That's where they love to go.
+The Courtesy says come up and be welcome. It never says stay. A walker belongs to the ground as we belong to the wind, and there's no shame in going home. Only in never visiting.
+
+## ground.curious
+What does the ground feel like under your feet? Hard? Soft? Does it change? Do you notice it at all, or is it like breathing?
+Do walkers have songs for walking? You must. Something to keep your feet in time? Would you sing me one? Just a verse. I'll hum the rest.
+When you sit, do your legs fold up? I've only seen it from far away. It looked like a bridge collapsing very politely.
+What do walkers call the winds? You must have names for them. Is Borre as cross down there as it is up here?
+What's the heaviest thing you've ever carried? And the lightest? And did the ground mind either one?
+If I dropped a sky peach from here, would it reach the ground whole? Would a walker find it? Would they eat it? I've always wondered and never dared.
+Who taught you to walk, {player}? Did someone show you, or did your feet just know? Did you fall a lot? Was it frightening? Tell me!
+Is it louder down there, or quieter? Do birds sound different from underneath? Can you hear us when we sing the Evensong? You can? How far down?
+
+## ground.villages
+On clear days you can see a bell-village from the Lift Dock: a little patch of roofs and fields with a bell in the middle, like a stone in a peach.
+Their bell rings at different times from ours. Ours rings at dawn and dusk. Theirs rings whenever somebody's had a fright, as far as I can tell.
+The bell-villagers keep the tidiest fields: little squares of green and gold, stitched together with paths. Seen from above, it's a quilt someone's still working on.
+The bell-villagers all have such splendid noses. You can see them from above the clouds. Do you suppose they can smell our peaches from down there?
+I watch the bell-villagers gather round their bell by day. They don't sing, but they hum a little. Hmm, hmm. We hum back from the clouds, and I like to think they hear.
+Their big grey walker never sleeps. It goes round and round the houses all night, and it gives flowers to the children. We think it's the kindest thing on the ground.
+At suppertime smoke rises thin and grey from the bell-village. We give it a wide berth. Fire's fire, even when it's only cooking.
+Gossip from on high: the farmer by the river has planted pumpkins in a perfect ring. We think it's a message. {neighbour} thinks they just like pumpkins.
+A bell-village at dawn: doors opening, a dog barking, someone chasing a chicken. From up here it looks like a koi pool when you drop the crumbs in.
+The bell-villagers love emeralds more than anything, the Skymerchant says. They'd trade almost anything for a handful. Our Skymerchant has started loving them too, which worries the rest of us.
+Last spring two walkers in the bell-village below were married, and the whole village gathered round. We flew over in a ring and dropped petals. They looked up astonished. I hope it was good luck.
+The bell-villagers don't know our names, but they know our shapes. A guest told me they call us the ribbons. I've decided I like it.
+Every bell-village has its own bell note. One rings bright as a koi's flicker, one clanks like a dropped bucket. We can tell which village is talking just by listening.
+Far to Vell-ward there's a bell-village of sandstone houses and sandy paths, and another to Borre-ward that's white with snow half the year. Walkers will live anywhere.
+Their children run round the well all afternoon, shrieking. Our children fly round the koi pool all afternoon, shrieking. Some things are the same everywhere.
+The bell-villagers go to bed at dusk, just as we start the Evensong. I think of it as their lullaby, coming down soft through the cloud.
+I once watched a bell-village mend itself after a bad night. Everyone came out with planks and stones, even the children. By the next dusk it was whole. Walkers are stubborn in the best way.
+If you're from a bell-village yourself, tell them hello from {village}. Tell them we wave. They never seem to look up.
+There's a walker in the bell-village below who reads all day by a window. {neighbour} swears they're writing a book about us. I do hope it's flattering.
+Now and then a walker in a blue robe comes to the bell-village leading two spitting animals on ropes, sells everything they have and vanishes again. We think they're a Skymerchant of the ground.
+
+## ground.wonders
+The ocean is the strangest thing I've ever seen: a second sky lying down the wrong way up, and you can't even fly in it. What's it for?
+The sea goes dark in the middle, as if the ground had a great hole and poured blue in to hide it. How deep does it go? Does anybody know?
+Forests from above are clouds made of leaves: thick and soft-looking and full of birds. I'd love to fly into one, but you'd snag your veils in a breath.
+Caves! Holes in the ground that go into the dark! Walkers go into them on purpose, a guest told me, carrying fire. Why go into the dark when there's all this sky?
+Deserts are the only ground that never seems to have clouds over it. Gold sand forever and not a scrap of shade. Who lives there? Are they very thirsty?
+Snow on the ground stays and stays. Up here snow just passes by. Down there it piles up soft and white, as if the ground were pretending to be a cloud.
+Rivers only ever go downhill. Even water can't escape the pull. It makes me sad, and it also makes me very fond of rivers.
+Cats look up. Every other walker-animal looks down at the grass, but cats sit on walls and stare straight at us. I think cats know something.
+Roads are thin lines from one village to the next, worn into the ground just by walkers going back and forth. That's a sort of song, isn't it? Sung with feet.
+Mountains are the ground trying to fly. You can tell. They lean up as far as they can and get snow on their heads for the trouble.
+Sheep look like small clouds that fell down and grew legs. The children won't believe me that they aren't. I'm not entirely sure myself.
+A lake on a still morning holds the whole sky in it: clouds, birds, us. Once I saw myself in one from high above, a little rose speck drifting on the water.
+What are the little lights walkers put on poles at night? They look like stars that came down to visit. A guest says they're fire. I'd rather they were stars.
+The cherry groves go a pink that makes our weavers jealous. If we could comb that colour, every veil would be rose to the root.
+Down there flowers grow in whole fields, every colour at once. Up here we keep ours in pots. Walkers are very generous with flowers.
+Swamps look like the ground couldn't decide between water and mud, so it gave up and grew trees in both. I rather admire that.
+Is it true there are mushrooms as big as houses? I saw something red and round from very far off. Either a mushroom or a very strange nest.
+Bees go from flower to flower all day without ever landing for long. They're the most Cirri thing on the ground.
+A walker on a horse is a walker being carried by another walker. It looks so grand. I'd never try it. But I'd love to watch you try.
+Footprints in snow are a whole story written on the ground: here a walker went, here they stopped, here they turned back. I could read snow all day.
+The jungle is so green it almost hurts: trees on trees on trees, with vines hanging down like veils. I think the jungle wants to be a sky village.
+Where does the rain go? It falls on the ground and disappears. Does the ground drink it? Is the ground thirsty all the time?
+Beaches are where the ground stops and the sea starts, and they argue about it all day, back and forth. The sea never wins. Neither does the beach.
+In winter the lakes go white and hard, and walkers walk across them. On water! That's very nearly flying, isn't it?
+Wheat in Sefa's wind ripples like the cloud floor under the village. The ground can make waves too. I never knew until I saw it.
+At night, from above, a walker village is a handful of warm windows in the dark. Every one of them is somebody's evening. I like guessing what they're all talking about.
+Ravines are cracks in the ground so deep the light never reaches the bottom. I flew over one once and felt it pulling. I didn't stay to look.
+Pumpkins! Big orange things that sit in fields doing nothing. The children want one for the Veil Court. The gardeners say it would sink the island.
+There's land to Sefa-ward striped red and orange and yellow, like a dawn that fell down and dried. Who painted it? Did it hurt?
+Glow berries grow in caves, the gardeners say, hanging in the dark like little lanterns. Sweet things in the dark. Maybe the dark isn't all bad.
+
+## ground.fears
+The worst dream a Cirri can have: your veils give out and you fall, and fall, and land. And then you're grounded, and you can never get up again.
+The pull frightens me. You can feel it even up here, when you fly too low: a heaviness at the ends of your veils, as if the ground were whispering "stay".
+Fire. Walkers make it everywhere: in hearths, on torches, under pots. At night the ground is speckled with little fires, and I can't stop counting them.
+Things walk the ground at night. Slow grey ones, rattling ones, ones with far too many legs. Night-walkers, we call them. How do you ever sleep?
+Don't take this the wrong way, but walkers frighten me a little at first. You're so solid. You could knock a Cirri out of the sky without even meaning to.
+The dark under the ground is the darkest dark there is. Holes that go down and down where no wind ever reaches. A Cirri would die of quiet in there.
+Falling isn't what frightens us. Landing is. Falling at least has sky in it.
+I've watched a forest burn. Smoke boiling up past the clouds, and birds going round and round, looking for somewhere to land. We sang for them all night. It didn't help.
+A guest told me about a green walker-thing that creeps up quietly and bursts. Bursts! I haven't slept properly since.
+Spiders climb. That's what frightens me about them. Everything else on the ground stays on the ground. Spiders go up walls. What else might they go up?
+Being grounded isn't only about veils. It's being stuck: one place, one height, one view, forever. That's what frightens us most. Walkers just call it home.
+Deep water pulls even harder than the ground, I'm told. Things sink into it and never come back. At least the ground gives things back now and then.
+Roofs make me nervous. Even ours, in the guest rooms. A Cirri likes to know there's always a way up.
+A thrown stone goes up a little, turns round and falls. That's what the pull does to everything, given time. What frightens me is how patient it is.
+Children are told that if they fly too low, the ground will reach up and grab their veil-tips. It isn't quite true. But nobody flies low after hearing it, and that's what it's for.
+Fireworks are the ground's worst idea: fire thrown at the sky on purpose, for fun. They're loud, they're dangerous and they're rude. Please don't, {player}.
+Lava. A guest told me there are rivers of fire under the ground, and sometimes they come up. Rivers! Of fire! I've decided not to believe it. It's easier.
+I watched a walker cut down a tree once. It leaned, and leaned, and then the ground took it all at once. I couldn't breathe until it landed.
+The rattling night-walkers carry bows, and arrows go up. That's the one thing on the ground that can reach the sky, and I hate it.
+The ground at noon is fine. It's the ground at dusk I don't like: the shadows getting longer, as if the dark were climbing up out of it toward us.
+Walkers wear iron. Whole suits of it! Doesn't it drag you down? I'd sink through the clouds in a breath.
+If a Cirri ever did fall all the way down, would the walkers be kind? I'd like to think so. The one who caught our falling child in a hay cart was.
+On dark nights the breeze carries up the noises from the ground: groans, rattles, the hiss of something green. I pull my veils over my ears and hum.
+Walkers dig holes everywhere: wells, mines, cellars. The ground is full of holes and you keep making more. Doesn't it worry you that one day you'll dig through to the dark?
+Night-moths come for walkers who haven't slept, I'm told, and they fly right up into our sky to do it. Do get some sleep, walker. For both our sakes.

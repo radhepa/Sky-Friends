@@ -268,15 +268,21 @@ public class CirriClientTest implements FabricClientGameTest {
             ServerPlayer p = player(srv);
             Vec3 to = p.position().subtract(k.position());
             float face = (float) (Mth.atan2(to.z, to.x) * Mth.RAD_TO_DEG) - 90.0F;
-            return new double[] {k.distanceTo(p), Math.abs(Mth.wrapDegrees(face - k.getYRot())), k.mode() == Cirri.Mode.WATCH ? 1 : 0};
+            return new double[] {k.distanceTo(p), Math.abs(Mth.wrapDegrees(face - k.getYRot())), k.mode() == Cirri.Mode.TALK ? 1 : 0,
+                    k.getY() - p.getY()};
         });
-        check(w[2] == 1, "right-clicked, it stops to watch the player");
-        check(w[0] > 3 && w[0] < 9, String.format("it keeps a respectful distance (%.1f blocks)", w[0]));
+        check(w[2] == 1, "right-clicked, it comes to talk with the player");
+        check(w[0] > 1.5 && w[0] < 5, String.format("it hovers in front of them (%.1f blocks)", w[0]));
         check(w[1] < 30, String.format("it faces the player (%.0f degrees off)", w[1]));
+        check(w[3] > 0.2, String.format("its feet stay off the ground (%.1f above the player's)", w[3]));
         server.runCommand("execute as @a at @s run tp @s ~ ~ ~ facing entity @e[type=skyfriends:cirri,limit=1,sort=nearest] eyes");
         ctx.waitTicks(10);
-        shoot(ctx, "watching-you");
-        report.add(String.format("watching: %.1f blocks off, %.0f degrees from facing", w[0], w[1]));
+        shoot(ctx, "talking-to-you");
+        ctx.runOnClient(client -> {
+            if (client.gui.screen() != null) client.gui.screen().onClose();
+        });
+        ctx.waitTicks(10);
+        report.add(String.format("talking: %.1f blocks off, %.0f degrees from facing", w[0], w[1]));
 
         // hit: up and away
         double[] before = server.computeOnServer(srv -> {

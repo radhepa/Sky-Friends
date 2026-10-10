@@ -1,0 +1,417 @@
+# "Tell me about your work": each trade's craft, plus work.none (no one trade), work.on (at their spot, working),
+# work.off (caught away from it) and work.weather.<weather> (how the weather changes the day's work).
+
+## work.harpist
+Every wind wants its own tuning. Aure likes the strings slack and sweet; Borre wants them tight as a held breath.
+Before the harps wake I hold up a wet finger, feel what {wind} is doing, and tell the pegs. They grumble. Pegs always grumble.
+Walkers say a wind harp plays itself. It doesn't. It plays what you let it, and the letting is my whole trade.
+Harp strings come up from the walkers as plain string. Three dawns soaked in dew and stretched across the Hall's rafters, and they've learned to sing.
+The Hall of Echoes has seven echoes. On a still evening you can hear all seven answer, one after another, like a family calling each other home.
+Leading the Evensong is mostly raising one hand at exactly the right moment and hoping the whole village is watching it.
+Sefa is the hardest wind to play under. Warm and lazy: the strings sag, the notes slur, and the whole Hall sounds half asleep by noon.
+Borre snapped four strings on me this morning. There's a red welt on my wrist from the last. Worth it: you should have heard the chord just before it went.
+My first season as an apprentice, I was only allowed to dust the harps. I learned more from dusting than I ever did from playing.
+Never tune in the noon sun. The frames swell, and by dusk you're a hair flat and the whole Evensong knows it.
+The bell says dusk is one note. My harps say it's another. The village sings somewhere in between and calls it harmony.
+A {job}'s fingertips go hard as skywood bark. Touch mine. Years of strings in there.
+Some days the wind plays a phrase I've never heard, and I scramble to catch it before it blows on. Half our songs were stolen from the sky like that.
+A cracked frame sings a little sour forever. We never throw one out. We give it to someone a bit sour themselves, with love, and it suits them.
+Don't pluck a wind harp, {player}. Stroke it, the way you'd stroke a sleeping koi. Walkers always pluck.
+The children fly into the Hall to shout their names and hear them come back seven times. I pretend to scold them. I did exactly the same.
+A Cloud Whale passed close by the Hall once and sang. Every harp answered at once and nobody touched a string. I'll never play anything that good.
+Before a storm the harps hum by themselves, low and nervous. I drape them in veilcloth, the way you'd cover a birdcage at night.
+My teacher could tune by smell. "Peaches on the wind: that's Sefa, loosen the fourth string." Never wrong, not once.
+The hardest part of leading the Evensong is stopping it. Everyone wants one more verse. The day's already down; let it rest.
+Every harp in the Hall has a name. The great harp at the back of the stage is Old Gust. The little one by the door is Hiccup, and you'll know why the moment you pass it.
+A sliver of amethyst set in a harp's bridge holds the tuning true for days. The skymerchant buys it off walkers for us, fair winds to them.
+Sometimes I take a small harp down to the Cloud Garden and play for the koi. The gardeners say it settles them. I suspect the koi are being polite.
+If you see me hovering by a harp with my eyes shut, I'm working. Truly. A harpist listens ten times for every note played.
+The stage in the Hall is left open to the sky on purpose. The wind has to fly straight through, or the harps go dumb.
+Vell is the harper's wind. A note on Vell carries clear across {village} and down through the clouds. Some nights I'm sure the bell-villages below can hear us.
+My tuning pegs are skywood, turned from fallen branches. I've worn them smooth as peach stones.
+Old harp strings never go to waste. The lamplighter twists them into wicks. I try not to think of my best notes burning.
+My apprentice once tuned every harp to Borre on an Aure morning. The dawn sounded like two neighbours quarrelling. We still tease about it.
+Truth be told, I can't hold a tune with my own voice. My hands do the singing for me.
+When someone goes up past the blue, we play the Long Unwinding: every string loosened, one by one, until the harp falls quiet. It's the hardest piece we know.
+Tune at dawn, play the morning in, mend strings by noon, teach the children, nap, lead the Evensong. The nap is the part I guard most fiercely.
+The weavers say my harps are too loud for combing. I say their looms clack off the beat. We've agreed to disagree, loudly.
+How does the wind know the tune? It doesn't. The wind brings the breath. We built the throat.
+I've led more Evensongs than I can count, and my chest still flutters when the whole village comes in on the first note.
+Wind a gold thread round the lowest string and it purrs. A trick from {village}'s first harpist. We don't share it with other villages. Well. Now I've shared it with you.
+When a walker plays a wind harp, every Cirri near comes to listen. That isn't only politeness. We're checking your tuning.
+A little tuning bar of gilded skystone hangs round my neck on a ribbon. Tap it on a knuckle and it gives the true note. I'd be lost without it.
+There's a chord we only play at a Lengthening, as the new long veils unfurl. It makes even the bellkeeper cry.
+After dark we play softly and leave the big harps covered. The old harpists said music draws phantoms, and nobody's brave enough to test it.
+Borre alone on the harps, no hands at all, sounds like something old and grieving. I let it play. Some winds need to be heard out.
+I don't play for praise. I play so the wind has somewhere to go. Praise is lovely, though. You may.
+
+## work.weaver
+We fly up before Aure is properly awake, while the high wisps are still damp, and draw the cirrus out in long strands with our combs. Dry cloud tears. Dewy cloud stretches.
+A veil comb has three hundred teeth of skywood, each split finer than a hair. My teacher's comb is older than the Loom House itself.
+Spinning cloud is mostly patience. You roll it between finger and thumb until it remembers it would like to be a thread.
+The blue at a veil's root isn't dye. It's the colour cirrus keeps when you take it from the very top of the sky. And the rose at the tips is dawn, caught in the fraying.
+Gold runs down each edge of a veil. Not for show, whatever the skymerchant tells walkers. Gold keeps the edges from unravelling in Borre.
+Most of my work is mending. A torn veil comes in, its owner trying hard not to cry, and I lay phantom membrane over the tear and stitch it down with string, small as I can.
+Phantom membrane is the only patch that takes to cloud. Slice it thin, soak it overnight in rainwater, and it turns as clear as a moth's wing.
+Weaving a child's long veils for the Lengthening takes a whole moon. I hum their name into every row. They never know. They fly straighter for it.
+Veilcloth for awnings and cushions is easy: wide combs, loose weave, done by noon. Veils are another thing. One slipped thread and someone flies lopsided for a year.
+The loom keeps a beat, clack and hush, clack and hush. My apprentice dozes off to it. So do I, some afternoons.
+A walker once tied my best sky veilcloth round their shoulders and jumped off the Lift Dock to see if it would fly them. The windkeeper caught them, and my veilcloth, in that order.
+The Cirrus Veil you walkers buy is a little cousin of ours: short, sturdy, forgiving. It won't fly you, but it will let you down gently.
+Rose veilcloth takes longest. You may only comb the clouds that blush at sunrise, and they blush for about as long as it takes to say so.
+My fingers are cold all year round. Cloud keeps the chill of the high air even indoors. Touch my hand if you don't believe me, {player}.
+Fire stays out of the Loom House. Not a candle, not a lantern, not the lamplighter on a festival night. Especially not on a festival night.
+There's a knot only weavers know, the Holdfast. Tie it right and the veil will tear before the knot gives. Tie it wrong and it slips in the first gust. No pressure.
+Old veils are never thrown away. We unpick them and comb their cloud in with the new. Every veil in {village} has a little of someone's grandparent in it.
+On a still day the cirrus droops and won't comb at all. "Never trust a still day." I'm certain a {job} said it first.
+I can tell whose veils are whose from across the Veil Court, just by how they move. Who's tired, who's in love, who skipped breakfast. Veils tell everything.
+My first veil had a pucker in it the size of a peach. My teacher flew on it for a whole year anyway, so I'd see that it could fly.
+Children's veils are short so they can't fly too far. We let them out a hand's width every season, and the children measure each other constantly.
+Never put a feather in a veil. Feathers belong in cushions. A veil with a feather woven in flies like a startled bird.
+The best cirrus grows where a Cloud Whale has just swum through. The Old Singers comb the sky for us, in their way.
+A gardener once begged a veilcloth net to shade the koi. I made it. By noon the koi had tangled themselves in it, all nine. We don't talk about it.
+Every weaver has a mark, worked in near the root. Mine is three little stitches like a bird's foot. Look closely at the veils in {village}; you'll find it on half of them.
+Sefa brings warm, loose cloud, good for cushions and little else. Borre's cloud is crisp as frost and makes the strongest veils in the sky, if your fingers survive the combing.
+I mended a veil yesterday that had snagged on a skywood branch. Its owner swears the tree reached out for it. I sighed and said nothing about gardeners.
+A loom for cloud is mostly empty space: a skywood frame, gold-wire heddles, and air. Cloud weaves best with room to breathe.
+When I finish a pair of veils I hang them in the window for a night, so they can learn the wind before anyone flies on them.
+Walkers buy veilcloth by the bolt and make carpets of it. Carpets. For walking on. I try very hard not to think about it.
+The Loom House windows are always open, and weaving is quiet work. I hear every bit of gossip that floats past. I'm the best-informed Cirri in {village}, I'm told. Mostly by me.
+My hands know the patterns so well I can weave and daydream together. Some of my best veils I don't remember making.
+Never cut a veil-thread with a blade. Break it with your teeth, gently, like biting into a peach. Metal makes a veil remember the ground.
+My apprentice has lovely hands and no patience whatsoever. I was the same. Patience grows. Hands don't.
+A walker once asked me to mend their elytra. Stiff, strange wings. I patched them with membrane and string, and they flew. I hummed for a week.
+The Lengthening is my favourite day and my most frightening. Every eye in the village is on the veils I made. If they flutter wrong, I'll feel it for a month.
+Walkers' string comes in every thickness. I sort it by feel: fine for mending, middling for hems, thick for the harpists, who'd take it all if you let them.
+Cloud gets tired. A veil worn every day for years needs fresh combing each spring, the way a cushion wants plumping.
+How do I know a morning's good for combing? The dew sits on my eyelashes. If it doesn't, I go back to sleep.
+"A Cirri is only as high as their veil is whole." Weavers hear it at every mending. It's flattering. It's also a great deal to carry.
+I wove the rose hangings in the Veil Court. When the evening light comes through them the whole court goes pink, and I pretend not to watch people noticing.
+Walkers' gold nuggets are beaten thin as breath and drawn through a pierced skystone to make veil-thread. My arms ache just telling you about it.
+
+## work.gardener
+Grafting is the heart of the work. Slip a twig from a good old peach into a young skywood's bark, bind it with string, and wait. If the tree agrees, you'll have peaches by next spring.
+The koi know my veils. When I fly over the pool they rise to meet me like little silver clouds. Anyone else, they scatter. I may be a touch smug about that.
+Now and then a Cloud Koi sheds a Sky Scale. I find them floating at the pool's edge in the mornings and keep a pouch of them for whoever looks like they need luck.
+A sky peach is ready when it smells like Sefa. Pick it a day early and it's hard as skystone; a day late and the bees have beaten you to it.
+The garden's roots hang down through the bottom of the island. Once a moon I fly underneath to check them. It's dark and drippy under there, and I love it.
+Peach blossom opens with Aure. If Borre takes the sky that week, I fly round wrapping every bud in veilcloth like a baby. Every one. Hundreds.
+Every handful of soil in the Cloud Garden was carried up from far below by the first Cirri, a pouch at a time. We guard it like gold. Better than gold.
+Koi are fussy eaters. Crumbs of peach, a pinch of pollen, a glow berry if they've been good. Never melon. They spit melon.
+I count the koi every morning. Nine yesterday, nine today. One hides under the lily pads and I count it twice for luck.
+Bees came up with the first gardeners, the story goes, in a hive lashed to someone's veils. Their great-great-grandchildren still work my peach trees.
+Skywood leaves go gold at the edges when they're thirsty. I catch rain in veilcloth funnels and carry it round in a gourd, tree by tree.
+Walkers think gardening is digging. I've never dug a thing in my life. I coax. There's a difference.
+The weavers would like every cloud in the sky for combing. I need a few left alone to shade the koi at noon. We have a gentle arrangement, mostly made of glaring.
+Any tree that grows too heavy at the island's edge gets pruned, however lovely. We all know what happened to the Belltowers.
+Flowers in the Cloud Garden are chosen for the bees, the koi and the Evensong, in that order. Bluets for the bees, lilies of the valley for the dusk, pink tulips because the children ask.
+Our saplings go down with walkers through the skymerchant. Somewhere below, a skywood is growing on the ground and wondering why it feels so heavy.
+My hands smell of peach and pond water, always. There are worse things to smell of.
+We split the bark for grafting with a sliver of amethyst, never a blade. It's cleaner, and the tree forgives it faster.
+A koi went missing last spring. I found it three islets over, swimming happily round the Lantern Spire in the rain. They follow the wet.
+Throwing peach stones off the edge is a crime in my garden. Somewhere down there a walker takes one on the head. I once heard the yelp all the way up.
+The children help with the peach harvest. One for the basket, one for the mouth. I've learned to plan for half.
+Koi sleep with their eyes open. My first season as a {job} I thought they were all ill, and sat up three nights singing to them.
+Glow berries grow on the undersides of the islands, among the hanging roots. I pick them upside down. It is not dignified.
+When an old skywood dies, we never burn it. We let it break down slowly and the garden drinks it back. The harpists get the best branches for pegs.
+A Cloud Koi outlives any of us. The oldest in our pool was here when my teacher's teacher was learning. It looks at me like I'm new.
+I plant peach stones along the islet edges. Their roots hold the soil when Borre comes looking to take it.
+Every dawn bell, every dusk bell, every storm peal: the koi dive. I've asked for a softer bell. I was told the bell is the bell.
+In a good peach year you can smell {village} from three islets off. Walkers come up the Wind Stone just following their noses.
+I'm grafting a tree with three peaches on one trunk: gold, rose, and a little white one nobody's named. Taste one when they ripen and I'll name it after you, {player}.
+Moss on the pool stones keeps the water sweet. Scrape it off and the koi go pale and sullen. Leave it, and they shine.
+Seeds blow up from the ground on Sefa's warm breath and land in my beds: thistle, dandelion, once a whole pumpkin vine. I pull them gently and send them home.
+Rot in a peach tree spreads like a rumour. One brown spot at dawn, a whole branch by the Evensong. So I check the bark every single morning.
+Stand on the bridge, not over the koi pool, if you don't mind. It isn't you. It's your feet. They've never seen feet.
+The trees all have names. The crooked old one by the pool is Patience. The young one that drops its fruit early is Fidget.
+Half of gardening up here is gardening. The other half is stopping it all blowing away. I've pinned whole flowerbeds down with skywood pegs before a Borre night.
+Walkers ask if peaches grow on the ground too. They do, I tell them. Very slowly. And very heavily.
+Sky Scales come off when the koi are happy, I tell the children. Maybe they come off when the koi are itchy. Either way, they're lucky.
+Pollen gets everywhere in spring: my hair, my veils, the creases of my eyelids. I sneeze gold for a month.
+The best hour in the garden is just after the Evensong. The koi glimmer, the peach leaves whisper, and nobody needs a thing from me.
+My apprentice once planted a sapling upside down. It grew anyway, crooked and stubborn, and it's the best tree in the garden now.
+Every morning I skim the pool with a veilcloth net to clear the fallen leaves. The koi try to swim into it. I'm fairly sure it's a game.
+Some walkers ask if the koi are for eating. I simply hover there and let the silence answer.
+
+## work.bellkeeper
+The bell rope is braided from forty strands of walkers' string and three of gold. It's longer than me with my veils out, and my hands know every knot in it.
+Dawn bell, dusk bell, storm peal. Three songs, that's all I play. The harpists find this hilarious. The village gets up all the same.
+Ringing at dawn means waking before dawn, and that means sleeping before the Evensong ends. I've never once heard its last verse.
+Our bell is as thin as we could make it and as light as we dared. The old belltowers hung iron bells as heavy as whales, and you know where those villages are now.
+A storm peal is long and uneven on purpose: ring, ring, pause, ring. It's not music. It's a warning, and everyone in {village} knows it in their bones.
+All day I watch for storms. Borre sharpens, the high wisps vanish, the koi dive early and the chimes go quiet. When all four happen, I ring.
+Ring the storm peal too early and they'll call you a worrier. Ring it too late and someone's caught over the edge in lightning. I'd rather be called a worrier.
+Every dawn gets a notch in the beam above the bell. This world has seen {day} dawns. I've rung in a fair few of them myself.
+The pagoda has three roofs and a chime under every eave. When all of them ring at once, the wind can't make up its mind.
+I've the strongest arms in {village}. Ask anyone. Actually, don't ask the weavers.
+Children sneak up the pagoda to touch the bell. I let them: one finger, very gently, and they feel the hum all the way to their elbows. Their faces!
+Dusk is the harder bell. You ring it gently, so the day knows it may go. Dawn you ring bright: up, up, the sky is waiting.
+Never ring the bell for fun. I did once, as an apprentice, and the whole village flew out to the Veil Court still sleep-curled, sure a storm was coming.
+Bell first, then lanterns: that's the dusk rule. The lamplighter has been early twice this moon. I have noticed.
+Every fifth dawn I polish the bell with a pad of veilcloth and a dab of beeswax. It keeps the note sweet. Please don't lick it.
+A bell's voice changes with the weather. In snow it rings higher and thinner; on Sefa's warm days it goes round and lazy. I change my pull to match.
+I'm told the bell-villages below let anyone pull their bells. Anyone! Up here only the {job} touches the rope.
+Keeping time is more than ringing. Is it noon yet? How many dawns to the Lengthening? When did the last whale pass? I'm the village's memory, with a rope attached.
+When someone goes up past the blue, the bell rings once, softly, at noon, and then not again till dusk. That silence is the loudest thing I do all year.
+A thread of gold runs across the pagoda floor. When the bell's shadow lies on it, it's noon, and I give a little tap for anyone listening.
+They say the rope chooses the next bellkeeper. It chose me by catching round my ankle when I was small and swinging me clear across the pagoda.
+There's only ever one bellkeeper. It's a little lonely. No one else wakes in the dark listening for the hour.
+A good dawn bell sets the koi rising, the harps humming and the peach blossoms opening. Or so I like to think. The gardeners say the blossoms manage on their own.
+I dropped the clapper off the edge once while I was oiling it. It's somewhere on the ground. I like to think a walker found it and is still wondering.
+There's a crack in the bell, hair-thin, near the lip. Older than me. It gives the dusk bell a little catch, like someone about to cry. I wouldn't mend it for anything.
+The most I've ever rung: three storm peals in three nights. My palms were raw for a week. Nobody was caught out. I'd do it again tomorrow.
+Before you ask, {player}: no, you may not ring it. Yes, I know you'd do it gently. Everyone says that.
+My favourite moment is the breath before the dawn bell. Everything still, all {village} asleep, and I'm holding the morning in my hands.
+Cloud Whales answer the bell sometimes. One long, low note from very far off, just after dusk. I hold the rope still and listen until it's done.
+When the bell is quiet I rest my forehead on it and hum. It hums back. We're not strange, bellkeepers. We just listen to something you can't hear.
+Does the noise bother me? The bell isn't noise. Noise is a walker in iron boots coming up onto the Lift Dock.
+My apprentice once rang the dusk bell in the middle of the Evensong, sure they were late. The whole village stopped singing and stared. They've never been early since.
+When a baby is born, the next dawn bell has three quick little rings before it. Listen for them. It's the happiest sound in the sky.
+The bell has to reach every nest, even on the far islets. I swing it toward the rim at dawn and toward the court at dusk. People swear they can hear the difference.
+My knees ache before a storm, and I've never knelt on anything in my life. The bell knows, my knees know, and then Borre arrives.
+Fireworks are my nightmare. A walker sets one off below, every Cirri thinks it's thunder, and every face turns to me. I had to invent an all-clear peal on the spot.
+I sleep in the open top tier, curled over a cushion right under the bell. If it so much as shivers in the night, I'm awake.
+Storms belong to me and the windkeeper both. I ring the peal; they fetch every walker in off the Lift Dock. We've never lost one.
+Every storm gets a knot in a long cord I keep: a big knot for thunder, a small one for rain, a bead for snow. The cord's three veils long now.
+The dawn bell has never once been late in my time. On the morning it is, come and check on me.
+People think my work is pulling a rope. It's mostly waiting: watching the light, feeling the wind, holding still for exactly the right moment. The pull is the easy bit.
+You ring from the shoulders, never the wrists, or your arms are ruined by spring. I teach the children with a peach on a string.
+
+## work.lamplighter
+I'm the only one in {village} who carries fire. Caged in gold, always, never once loose. People still fly a little wide of me at dusk. I don't mind.
+My pole is skywood, three times my own length, with a gold hook at one end and a snuffing cup at the other. I could find either in the dark. I usually do.
+Wick-trimming is the real craft. Too long and the flame climbs and blackens the gold. Too short and it drowns in its own wax. I trim each one to a fingernail.
+The great lantern is a cluster of cages under the spire's gilded cap, with one more on the very point. Lighting them all takes exactly the Evensong's first verse.
+From the top of the Lantern Spire at dusk I can see the bell-villages' lights coming on far below, little sparks in the dark. I always wave. Nobody ever waves back.
+Afraid of fire? Of course I am. Every Cirri is. That's what makes me good at this. A lamplighter who isn't afraid is a lamplighter who gets careless.
+Our wax comes from the gardeners' bees and our wicks from old harp strings. So every light in {village} is a little bit garden and a little bit song.
+A skin of rainwater on my belt, a wet veilcloth over one shoulder. I haven't needed either in years. I'll never go a night without them.
+The weavers won't let me past the Loom House door after dusk, not even with the lantern shuttered. I support this entirely.
+At dawn I fly the bridges and snuff every lantern with the cup on my pole. Click, click, click. It's the quietest work in the village, and the loveliest.
+Walkers cross our bridges by lantern light and never look up. If they did, they'd see me hovering under the rail with my pole, fixing their light.
+A lantern that gutters is telling me something: a draught from the wrong side, the wax gone soft, a moth in the cage. It's usually the moth.
+Phantoms hate the great lantern. They circle out past its light and won't come closer. That's why it burns all night, every night.
+The gold on a cage has to be polished every few dawns, or the light goes yellow and sad. A scrap of veilcloth and a great deal of breath.
+I make the sky lanterns the skymerchant sells you walkers: gold nuggets bent into a cage round a little flame. Keep it away from anything dry, please.
+My hands smell of wax and smoke. The children wrinkle their noses at me, then beg to see the flame. Every time, both.
+I set my own hem alight once, as an apprentice. I put it out in the koi pool. The koi have never forgiven me.
+The bellkeeper insists my lanterns have been early. My lanterns have not been early. My lanterns have been prompt.
+Lighting the great lantern in a strong Vell is like threading a needle in a sneeze. You shield the taper with your whole body and both veils, and you hold your breath.
+A lamplighter's veils go singed at the tips. Look at mine: little brown freckles. The weavers keep offering to mend them. I like them. They're my years.
+Every bridge in {village} has its lanterns spaced so a walker is never more than four steps from light. I paced it out myself, flying, with my feet pretending.
+On the longest night of the year we light every lantern in the village together, and the whole island glows like a peach held up to the sun.
+They say you can see our great lantern from the next village on a clear night. Some nights I swear theirs blinks back. Lamplighters keep each other company like that.
+Nobody cooks. I know that. But I once held a peach over a lantern to see what would happen. It went brown and smelled wonderful and I felt terribly guilty.
+Snuffing is better than blowing. Blow a lantern out and the smoke goes everywhere. Snuff it and it just sighs and stops, like a child falling asleep.
+My apprentice isn't allowed the taper yet. They carry the wax, the wicks, the snuffer. Maybe next spring. Fire can wait for a steady hand.
+A cracked pane is the worst thing I can find on my rounds. Wind gets in, the flame leans, the gold heats. I carry spare panes in a pouch and fit them with shaking fingers.
+Most Cirri fear fire loudly. Mine is a quiet fear, more like respect. Fire is a guest you never turn your back on.
+Lantern light makes the koi glow on the bottom of the pool. The gardeners say it unsettles them. I say they're showing off.
+Why not glow berries in every cage? I tried. A cage of glow berries is pretty and faint, and walkers fall off bridges in faint.
+There's a ladder inside the Lantern Spire, just for walkers. I've never used it, but I keep it polished. Want to come up and watch the great lantern lit, {player}?
+I measure the night in candle-stubs. Tall at dusk, a stub by dawn. When I change them I know to a breath how long the dark has been.
+The lantern stage wears a crust of old wax a hand thick, like old snow. Every spring I scrape it off and roll it into new candles between my palms.
+When someone goes up past the blue, I leave the lantern by their nest unlit for one night. The dark gap in the lights says it better than words.
+Fireworks? I'd ground anyone who brought one near my lanterns. Well. I'd want to.
+Court first, then the near bridges, then the islets one by one, and the great lantern last as the Evensong rises. I could do the rounds with my eyes shut. I don't.
+When the wind's wrong I light the great lantern from right in among the cages, curled under the gilded cap like a moth. Don't tell the weavers I fit.
+Walkers carry torches! Raw flame on a stick, no cage at all, waved about like nothing. I want to scold them, and also ask how they're so brave.
+A good {job} is never noticed. If nobody remembers the lanterns, they were lit right.
+I love the moment the great lantern catches. One cage, then the next, then the whole cluster, and the gold throws light on every veil in the Veil Court. Everyone looks up, just for a breath.
+Glowing candles stand in the nest windows too. I trim them for the old ones who can't fly the rounds any more, and they pay me in honey and stories.
+Wicks are twisted from three strands: one for dusk, one for midnight, one for dawn, my teacher said. It isn't true. I still say it while I twist.
+
+## work.skymerchant
+Phantom membrane is the dearest thing a walker can bring me. It's the only patch that takes to a torn veil. Every membrane you sell me keeps a Cirri flying.
+Feet planted, that's how walkers haggle. I haggle drifting slowly backwards. It works wonders. They always follow.
+Fresh stock every dawn: peaches from the garden, veilcloth from the Loom House, lanterns from the spire. By noon the best of it has gone down with the early walkers.
+Feathers go into nest cushions. A good cushion takes a hundred. We sleep curled in the air above them, so they must be soft enough to dream on.
+Amethyst goes to the harpists and the chime-makers. It rings true. A chime with a sliver of amethyst in it sings in the faintest breath.
+Truth be told, we've little use for emeralds up here. They're green and heavy, a little piece of the ground. But walkers trust them, so I keep a jar.
+The Windsong Flute is my favourite sale. Play it near any Cirri and they'll stop whatever they're doing to listen. Even me. Especially me.
+A walker once tried to buy the Wind Stone. The actual stone. I offered the Lift Dock and the windkeeper as well, and watched them slowly work out I was teasing.
+Wind harps don't fit in walkers' pockets, I've learned. They try. Oh, how they try.
+Down below, I'm told, walkers build whole walls of skystone bricks. So heavy you'd think they wanted to sink. Well, they're on the ground already. Nowhere further to sink.
+The weavers think I sell their veilcloth too cheap. I think they'd rather keep it all and sleep in it. We're both a little right.
+I can spot a walker's first visit by how they stand: arms out, knees bent, staring at the gaps between the planks. I always offer them a peach first.
+Haggling is a dance. You name a price, they name a smaller one, you both sigh, you both look at the clouds, and then somebody laughs. It's all in the laugh.
+A Cirrus Veil lets you down gently. It does not take you up. I tell every walker who buys one, and every one of them tries jumping upward anyway.
+Cloud blocks go faster than the weavers can spare them. Walkers stack them up in their gardens below. Imagine. Cloud, on the ground, sitting still.
+String! Walkers bring it by the armful and I can never get enough. Harp strings, veil mending, bell rope, lantern wicks. All of {village} is tied together with walkers' string.
+When a walker buys a sapling, I make them promise to plant it somewhere high. Next time they come up, I ask after the tree.
+Gilded skystone is our finest stone. Walkers buy it by the block to make their houses look as if the dawn landed on them.
+My stall has three rules: no fire in the pavilion, no fireworks anywhere, no haggling before you've said fair wind. The last one is the strictest.
+A walker came up once with a stack of phantom membranes taller than they were. I looped twice, paid double, and flew straight to the Loom House with them.
+Earth, smoke, iron: walkers smell of the ground. I've come to like it. It smells like somewhere very far away.
+The Market Pavilion looks straight at the Lift Dock. I see every walker before they see me, and I've a peach in hand by the time they reach the top.
+The windkeeper says they greet walkers first. I say I greet them better. The walkers say we both talk too much.
+Wind chimes sell best of all. Walkers hang them on their houses and swear the wind sounds different after. It doesn't. They've just started listening.
+A good {job} knows what a thing's worth to both sides. A peach is nothing much to a walker and a whole morning's care to a gardener. I never sell what I can't explain.
+Children love to help at the stall. They hide in the veilcloth and leap out at walkers. I've lost two good customers that way and gained a dozen stories.
+You'd not believe what walkers try to pay with. Once, a single boot. I asked what we'd do with one boot. They said they'd hoped I would know.
+Restocking means flying the rounds before the market opens: garden, Loom House, spire, Hall of Echoes. Everyone hands me their best and begs me not to sell it cheap.
+My secret for trade? Smile, be honest, and know where the nearest edge is. Some walkers back away from a good price and forget there's nothing behind them.
+I've never been to the ground, but I've traded with so many walkers I could tell you whose fields grow the fattest carrots and whose roads are muddiest.
+Now and then the walkers who borrowed wings come by, all swagger, elytra folded. I sell them membrane for their patches and pretend I'm not impressed.
+Feathers, amethyst, membrane, string. Bring me any of the four and you'll never leave my stall empty-handed.
+A good trade leaves both sides flying high. If one of us is low after, it wasn't a trade. It was a theft with manners.
+Up here we price things by how light they are. A feather is worth a great deal. A brick is worth very little. Walkers find this baffling, and excellent value on bricks.
+Every dawn I count the stock, every dusk I count the emeralds, and in between I count the walkers. Counting is half of trade. Smiling is the other half.
+Gossip comes free with every purchase. Walkers tell me the news below; I carry it to the Evensong. I'm the nearest thing {village} has to a window on the ground.
+Walkers eat their peaches right at the stall, standing up, juice down to their wrists. Nothing has ever looked so cheerful. I nearly gave the next one away.
+Trade goes slow when Borre has the sky. Walkers don't love the Lift Dock with a cold wind trying to push them off it.
+I keep a shelf of things walkers have left behind: a map, a compass that spins, a book in a hand I can't read. Someday someone will come back for them.
+The skymerchant before me could sell a cloud to a cloud. I'm still learning. I can sell a cloud to a walker, which is easier.
+Ground comes up on walkers' boots and settles all over the pavilion. Every evening I sweep the dust off the edge. Gently. It's only going home.
+Here's a secret: I haggle hardest over membrane and softest over string. Don't tell the walkers. Oh. You're a walker. Well, now you know.
+
+## work.windkeeper
+The Wind Stone stands far below in its ring of skystone. I've never touched it. Once a moon I fly down until I'm just above it, listen to it hum, and come home quick.
+The column has a voice. A true column hums low, like a whale a long way off. A thin one whistles. When it whistles, I go down and look.
+My first task every morning: drop a feather into the shaft and watch it come back up. If it comes back, the column's sound. If it doesn't, my day has started early.
+Walkers come up the column with their arms flailing, nearly all of them. I hover at the landing and catch an elbow just as they reach the dock. Some of them hug me.
+The Courtesy is the oldest promise we have. The first windkeepers set the stones so walkers could visit, and I keep the promise. That's the whole job. The rest is detail.
+A sheep wandered into the ring once and rode the wind all the way up, bleating. We kept it a week. The children named it Cloud and cried when it went down.
+Reading the winds: wet a finger, watch the wisps below, listen to the dock chimes. Today it's {wind}, and I knew it before the dawn bell.
+Going down is the hard part for walkers. Step into the shaft, hold yourself small, and the wind lets you down like a hand lowering a peach. Most of them shut their eyes.
+Those rails on the dock went up for walkers, the year one leaned out to admire the view and just kept leaning.
+I'm awake before anyone comes up and after the last one goes down. Some nights a walker turns up at midnight and finds me there with a lantern, yawning.
+Iron is the worst thing to carry up. Armour, anvils, a minecart once. Heavy things make the column groan. The Courtesy is for everyone, so I don't stop them. But I wince.
+Borre pushes the column sideways. On Borre days I fly alongside walkers on the way up and nudge them back to the middle. They think I'm being friendly. I am. Also.
+Every walker who comes up hears "fair wind" from me first. Even the rude ones. Especially the rude ones. It's hard to stay rude when someone's glad you came.
+I remember every walker who's come up: faces, names, what they carried. I'm the first friend {village} gives them, and I take that seriously.
+Old windkeepers could hear a walker step into the ring from up here, they say. I can't. I like to think the stones are quieter now, and not that I'm going deaf.
+Phantoms try the column at night, riding it up like a road. I chase them off with a lantern. We need their membrane, but not delivered like that.
+Anyone with borrowed wings skips the column entirely. They swoop in over the rail and land all wrong. I tell them about the Wind Stone anyway. Manners.
+I teach the children to read the wind from the dock: toss a petal, watch it go, name the wind. They always guess Sefa, because Sefa smells of peaches and they're always hungry.
+Every gust coming up the column tugs at my veils. I've got tangles in mine the weavers despair of.
+When a walker reaches the dock pale and shaking, I don't talk. I just hover beside them and point out the view until their knees stop trembling.
+Each wind lifts differently. Aure gently. Vell singing. Sefa lazily, and it might stop for a nap halfway. Borre like it's throwing you.
+Snow in the column is the prettiest thing I know. Flakes falling, flakes rising, and a walker in the middle of it all going up with their mouth open.
+My teacher called the Wind Stone a door with no walls. Keep it open, keep it kind, and never let a walker hold sneak halfway up by mistake.
+A calm walker comes up in about eleven breaths. A frightened one, about eleven shrieks.
+Down round the stone, walkers leave things: a flower in the ring, a name scratched in the dirt, a bowl of berries. I think they're thanking it. I think it knows.
+Open sky on three sides: the Lift Dock is the very edge of {village}. People ask how I can stand it. I'm a Cirri. Edges are where the sky begins.
+The skymerchant has a peach waiting for every walker I bring up. I've stopped minding. A walker with a peach is a happy walker, and a happy walker comes back.
+If the column ever failed, a walker halfway up would fall. So I check it at dawn, noon and dusk, and I sleep with one ear toward the shaft.
+Chimes hang round the dock, each tuned to a different wind. When the right one rings, I know who's coming before the clouds do.
+In my time I've caught a hat, a cake and one very confused chicken coming up the column. Most things that go up come down again. Not on my watch.
+How does a walker get down? Same way they came up, I tell them, only backwards and calmer.
+My wrists prickle an hour before Borre comes. My teacher's prickled a whole day ahead. It's the one part of the trade nobody can teach you.
+Some walkers come up once, look round, and go straight back down. That's all right. The sky is a lot. I hope they dream about it.
+I'm the first face anyone sees up here, so I comb my veils before every visitor. I try to. The column has other ideas.
+Every dusk I fly a slow circle round the shaft and sing the column a little of the Evensong. Nobody told me to. It just seems rude to leave it out.
+No one remembers how the stones were set. Every {job} has a theory. Mine is that the first ones asked the Old Singers, and the whales sang the wind into the ground.
+A stone with no keeper goes lazy. The column thins, the hum drops, the walkers stop coming. Ours won't go lazy. Not while I've breath.
+Pets come up too. Dogs go up barking and arrive silent. Cats go up silent and arrive furious.
+On busy days I've had three walkers in the column at once, stacked like peaches in a basket. I talk to each of them the whole way. Mostly I say "nearly there".
+Halfway up their first time, one walker this spring stopped screaming and started laughing. That's when I knew they'd be back.
+Rain pours past the dock into the shaft and comes back up as mist. Some mornings the column looks like a waterfall running the wrong way.
+Walkers think I'm a guard. I'm not. I'm a host. A guard keeps people out. I'm here so you can come in, {player}.
+
+## work.none
+No trade of my own. Today I've carried cloud for the weavers, held the lamplighter's pole and been splashed by three separate koi. A good day.
+What do I do? Whatever the wind needs. This morning that was chasing a runaway cushion across three islets.
+Every trade in {village} has called on me at least once. I can almost tune a harp, almost mend a veil and almost ring the bell. Almost is very useful.
+I never settled on one trade. My threads wandered at the loom, and the koi liked me too much to let me work. So now I go wherever I'm wanted.
+When the gardeners shake the peach trees, someone has to swoop about underneath with a basket. That's me. I only miss a few, and some walker down there has a lucky day.
+I mind the little ones while their parents work. Mostly I mind them loudly, because they're upside down in a skywood tree.
+When a walker gets lost on the bridges, I'm usually the one who finds them. I've no dock or stall to keep. I have time, and time is good for finding people.
+People think no trade means nothing to do. I've never been busier in my life. Everyone needs a hand, and they all pay in peaches.
+Before a storm I fly the rim and call everyone in. Nobody asked me to. Somebody had to. Now it's mine.
+My work is the space between everyone else's work. Carrying, fetching, holding, helping. I'm the string that ties the village together. Oh, I like that. I'll say it again.
+Some days the wind needs nothing from me, and I spend the afternoon drifting over the edge, keeping the clouds company. Someone has to.
+I used to feel low, having no trade. Then a weaver told me a veil isn't only its gold thread; it's mostly the cloud in between. That helped.
+I sing the low part in the Evensong. That's my one sure job. Everything else depends on the day.
+A koi got out of the pool this morning and I chased it twice round the Bell Pagoda. The gardener was busy. The koi was fast. I was faster, in the end.
+Who sweeps the walkers' dust off the bridges? Me. Who untangles the wind chimes after Borre? Me. Who's told me to stop being so modest? Nobody, yet.
+I carry messages, nest to nest, islet to islet. You'd be amazed what people would rather say across a bridge than to a face.
+Before a Lengthening the weavers need extra hands for combing, and I'm up before Aure for a week. Nobody combs faster than someone with nothing better to do.
+I hold things. The far end of a bolt of veilcloth. A harp steady while it's tuned. A nervous walker's hand at the top of the Lift Dock.
+My grandparents were bellkeepers and my parents were gardeners. I was meant to be something. I became a little of everything.
+There's no trade for me to pass on, so I've no apprentice. The children follow me round anyway. I think they're learning to be useful. Or to be late.
+The wind sends me where I'm needed. Today it sent me to the Loom House, then the Cloud Garden, then home for a nap. The wind is very wise.
+When a trade's short of hands, I step in. I rang the dusk bell once when the bellkeeper had a cold. Only half a beat late. I'm still very proud of it.
+You walkers must have a word for someone who does every job. We just say "the wind's hands". I'm one of those.
+If you need anything while you're up here, {player}, ask me. I'm always busy, but I'm never too busy. That's the whole trick of it.
+After the Evensong I tidy the Veil Court: fallen petals, lost ribbons, a child asleep in the air. I carry them home one at a time. The children, I mean. The petals stay.
+
+## work.on
+Talk to me while I work, I don't mind. Hands busy, ears free.
+One moment... there. Sorry, you caught me in the middle of something fiddly. Go on.
+Mind where you put your feet, walker. Everything here is either delicate or sharp, or both.
+Stay and watch if you like. Everyone thinks it looks easy. Everyone.
+You've found me at my spot, so I'll be talking with my back half turned. Don't take it to heart.
+A visitor at work! Nobody visits at work. Except the children, and they don't count; they borrow things and never bring them back.
+I can talk and work at once. I can't talk, work and answer questions about my work at once. Pick two.
+Hold this for me? No, the other end. There. You're a natural.
+You've come at a good time. The wind's steady and the work's going well. Don't say it out loud.
+Give me a light breeze to finish this bit, then I'm all yours.
+Watch my hands, not my face. My face is concentrating, and it looks fiercer than I mean it to.
+If I stop answering, it isn't rudeness. The work has taken the rest of me. Poke me gently.
+Everyone in {village} comes past my spot at least once a day. You're the first walker this week, though.
+Shh, just a breath... Lovely. Right. Where were we?
+Can't stop, but I can chat. Come round this side, the light's better.
+People say I hum while I work. I don't believe them. I'd notice. Wouldn't I?
+At it since the dawn bell. Arms tired, heart high. That's the right way round.
+Careful, {player}, you're exactly where I need to be in about three breaths. There. Thank you.
+Ask me anything. I've been working alone for hours and talking to myself has grown dull.
+Working with a walker watching makes me nervous. Good nervous. I'll do it beautifully, you'll see.
+
+## work.off
+No, I'm not working. My work's over there, missing me. Let it miss me a while.
+Ask me about my work tomorrow. Today I'm just a Cirri on a breeze.
+Even the wind rests between gusts. That's where you've found me.
+You've caught me playing truant. Don't tell anyone. Well. Everyone knows already.
+The work will still be there when I get back. It's very loyal like that.
+Away from my spot I forget I've got a trade at all. It's lovely. Then I see something that needs doing, and I remember.
+My hands keep making the motions even when I'm off. Look, they're doing it now. I can't stop them.
+I'm taking a light breeze. A long light breeze. A light gale, really.
+Work? I'm out here admiring the clouds below. That's work too, if you do it properly.
+Don't let me look at my spot. If I look at it, I'll go back. Talk to me instead. Good.
+I came out to stretch my veils. Nobody works well with crumpled veils.
+I left my work in good hands. Mine. They'll be back soon.
+I should be glad to be away, and I am. But I keep wondering if I left something half-done. I always have.
+Nobody needs me for a whole hour. Isn't that strange? I keep looking round for someone to help.
+My teacher said resting is part of the work. I'm being very thorough with that part today.
+Catch me at my spot if you want to talk shop. Out here I only talk wind and gossip.
+Out on the breeze I get my best ideas for work. By the time I'm back, I've forgotten them. A cruel arrangement.
+I flew a loop round the whole village before I could stop myself. Work makes you stiff. Looping fixes it.
+If anyone asks, I'm out here checking the wind for the work. Very professionally. Very important.
+Not on duty, not in a hurry, not wishing I were anywhere else. Fair wind, walker. It's a rare hour.
+
+## work.weather.rain
+Rain on the awnings, rain on the bridges, rain falling on past us into the clouds below. Work goes on. It just goes on damp.
+Wet veils are heavy veils. On rain days we work slowly and keep low over the islands, and nobody minds.
+The gardeners are glad, the weavers are grumbling, and the lamplighter's checking every pane twice. That's a rain day for you.
+Cold, slippery hands, and everything takes twice as long. Still, I'd rather work in the rain than sit and listen to it.
+Rain is good for one thing at work: nobody comes by to chat. Except you. Which is nice, actually.
+My tools are hung under the eaves to drip, and the rain plinks off them like a little harp. Better company than some.
+We say rain is the clouds going down to visit their cousins. It makes the work slow, but you can't hurry a visit.
+The walkers below need this rain more than we do. I remind myself of that every time a drop runs down my collar.
+Half the village has come indoors to work, so wherever you turn there's someone at your elbow. Cosy. Crowded. Both.
+In rain, every finished thing has to be wrapped in veilcloth and stowed dry. I spend more of the day wrapping than working.
+
+## work.weather.thunder
+No work in thunder. Tools down, everyone home, the children in the middle of the nest. The work will forgive us.
+When Borre throws lightning, nothing in {village} matters but getting everyone under a roof. Not the harps, not the peaches. People.
+I left everything half-done when the storm peal rang. My heart's still pounding. Work can wait. Hearts can't.
+A storm turns every trade into one trade: counting heads. Is everyone in? Is everyone in? Then we hum.
+Thunder rolls up through the whole island and into your chest. I couldn't hold anything steady in this if I tried.
+The bell has rung, the lanterns are shuttered, the koi have gone deep. Nothing left to do but wait it out.
+Every Cirri drops their work for thunder. Even the proud ones. Especially the proud ones; they just pretend they meant to stop.
+Why are you out in this, {player}? Come under the eaves. Your work can wait as well as mine.
+Lightning loves anything that sticks up: harp frames, the lantern's gold cap, the pagoda's point. We keep well clear of all of it till the storm moves on.
+Tomorrow will be all mending: torn awnings, scattered blossom, a chime blown off its hook. Today we hide. That's a storm day's work.
+
+## work.weather.snow
+Up here the snow is born right beside us. You can watch the first flakes form before they fall. Hard to keep your mind on work with that to look at.
+Cold fingers make clumsy work. I blow on mine and carry on. Snow days are slow days.
+Snow settles on every awning and bridge rail, and someone has to brush it off before the weight builds. Heavy is dangerous, even when it's pretty.
+In snow everything goes quiet, even the work. Between tasks I can hear my own breath.
+The children are no help at all today; all they want is to catch flakes on their tongues. I've caught three myself. Don't tell.
+Snow means short days and long nights, and the work has to fit in between. I start before the bell and finish in the dark.
+A Borre snow bites. A Vell snow drifts. You can work through the drifting kind, if you keep your hands moving.
+Everything I make on a snow day comes out a little crisper, standing a little straighter. Something in the cold gets into it.
+Snow on the veils! Shake, shake. Let it sit and it melts into the weave, and then you're flying damp all afternoon.
+On snow days half the village works in veilcloth mittens. Terrible for fine work. Wonderful for everything else.
